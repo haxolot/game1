@@ -9,9 +9,7 @@
 ---
 
 ## 2. Le Pitch (High Concept)
-Dans un monde antique en ruines devore par une corruption cyclique, le joueur incarne une entite dechue cherchant a briser une malediction scellee dans les profondeurs de temples oublies. 
-Le jeu combine l'exploration immersive d'un RPG d'aventure, des combats de haute precision ou chaque coup compte, et un monde qui raconte son passe tragique a travers ses vestiges, ses reliques et ses PNJ cryptiques.
-
+---
 ---
 
 ## 3. Les Trois Piliers Fondateurs
