@@ -19,16 +19,15 @@
 
 Pour gérer la double perspective (**Exploration Top-Down 3/4** et **Boss en vue latérale / Fighter Sekiro 2D**), on sépare strictement les responsabilités :
 
-### Organisation des Scripts dans `_Project/Scripts/Characters/Player/`
+### Organisation Épurée des Scripts (`_Project/Scripts/Characters/Player/`)
+On évite la sur-fragmentation en micro-scripts (pas de `PlayerStamina` ou `PlayerDodge` isolés). On ne garde que les **gros composants majeurs** :
+
 ```text
 Scripts/Characters/Player/
-├── PlayerController.cs            <-- Chef d'orchestre (gère l'état, bascule les modes)
-├── IPlayerMovement.cs             <-- Interface commune de déplacement
-├── PlayerMovementTopDown.cs       <-- Déplacement 8 directions (exploration, gravité = 0)
-├── PlayerMovementSideScroll.cs    <-- Déplacement latéral (Boss, gravité > 0, saut, ground check)
-├── PlayerDodge.cs                 <-- Dash / Roulade avec i-frames
-├── PlayerStamina.cs               <-- Jauge d'endurance & recharge
-└── PlayerCombat.cs                <-- Attaques, parade (Sekiro), jauge de posture
+├── PlayerController.cs            <-- Chef d'orchestre : Stats vitales (Vie, Stamina), événements et coordination
+├── PlayerMovementTopDown.cs       <-- Tout le mouvement d'exploration : Marche 8 directions + Dash intégré avec i-frames
+├── PlayerMovementSideScroll.cs    <-- (Sprint 4) Mouvement latéral Boss : Gravité, course, saut, contre-saut
+└── PlayerCombat.cs                <-- (Sprint 2) Combat pur : Combo 3 coups, parade Sekiro, posture
 ```
 
 ### Mécanisme de Bascule (Switch de Perspective)

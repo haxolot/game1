@@ -1,41 +1,75 @@
+using System;
+using System.Collections;
 using UnityEngine;
 
 namespace Haxolot.Characters.Player
 {
     /// <summary>
-    /// Contrôleur de déplacement 8 directions pour la phase d'exploration Top-Down.
-    /// Utilise la physique 2D Unity 6 (linearVelocity) avec accélération et décélération réactives.
+    /// Composant majeur : Gère tous les déplacements Top-Down (Marche 8 directions + Dash avec i-frames).
     /// </summary>
     [RequireComponent(typeof(Rigidbody2D))]
-    public class PlayerMovementTopDown : MonoBehaviour, IPlayerMovement
+    public class PlayerMovementTopDown : MonoBehaviour
     {
-        [Header("Réglages de Vitesse")]
-        [Tooltip("Vitesse maximale de déplacement")]
+        [Header("Course & Marche")]
         [SerializeField] private float moveSpeed = 6f;
-
-        [Tooltip("Vitesse pour atteindre la vitesse max")]
         [SerializeField] private float acceleration = 55f;
-
-        [Tooltip("Vitesse d'arrêt sans glissement")]
         [SerializeField] private float deceleration = 65f;
 
+        [Header("Dash (Esquive)")]
+        [SerializeField] private float dashSpeedMultiplier = 2.5f;
+        [SerializeField] private float dashDuration = 0.2f;
+        [SerializeField] private float dashCooldown = 0.35f;
+        [SerializeField] private float dashStaminaCost = 25f;
+
         private Rigidbody2D rb;
+        private PlayerController player;
+
         private Vector2 moveInput;
         private Vector2 facingDirection = Vector2.down;
+        private bool isDashing;
+        private bool isInvulnerable;
+        private float dashCooldownTimer;
 
         public Vector2 FacingDirection => facingDirection;
         public bool IsMoving => moveInput.sqrMagnitude > 0.01f;
-        public float MoveSpeed => moveSpeed;
+        public bool IsDashing => isDashing;
+        public bool IsInvulnerable => isInvulnerable;
+
+        public event Action OnDashStarted;
+        public event Action OnDashEnded;
 
         private void Awake()
         {
             rb = GetComponent<Rigidbody2D>();
+            player = GetComponent<PlayerController>();
+
             rb.gravityScale = 0f;
             rb.constraints = RigidbodyConstraints2D.FreezeRotation;
         }
 
+        private void Update()
+        {
+            if (dashCooldownTimer > 0f)
+            {
+                dashCooldownTimer -= Time.deltaTime;
+            }
+        }
+
+        private void FixedUpdate()
+        {
+            if (isDashing) return;
+
+            Vector2 targetVelocity = moveInput * moveSpeed;
+            float rate = moveInput.sqrMagnitude > 0.01f ? acceleration : deceleration;
+
+            // Unity 6 linearVelocity
+            rb.linearVelocity = Vector2.MoveTowards(rb.linearVelocity, targetVelocity, rate * Time.fixedDeltaTime);
+        }
+
         public void SetMoveInput(Vector2 input)
         {
+            if (isDashing) return;
+
             moveInput = input.sqrMagnitude > 1f ? input.normalized : input;
 
             if (moveInput.sqrMagnitude > 0.01f)
@@ -44,22 +78,47 @@ namespace Haxolot.Characters.Player
             }
         }
 
-        private void FixedUpdate()
+        public bool TryDash()
         {
-            Vector2 targetVelocity = moveInput * moveSpeed;
-            float rate = moveInput.sqrMagnitude > 0.01f ? acceleration : deceleration;
+            if (isDashing || dashCooldownTimer > 0f) return false;
 
-            // En Unity 6, linearVelocity remplace velocity pour le Rigidbody2D
-            rb.linearVelocity = Vector2.MoveTowards(rb.linearVelocity, targetVelocity, rate * Time.fixedDeltaTime);
+            // Vérifier et consommer la stamina via le contrôleur
+            if (player != null && !player.TryConsumeStamina(dashStaminaCost))
+            {
+                return false;
+            }
+
+            Vector2 dashDir = moveInput.sqrMagnitude > 0.01f ? moveInput.normalized : facingDirection;
+            StartCoroutine(DashRoutine(dashDir));
+            return true;
+        }
+
+        private IEnumerator DashRoutine(Vector2 direction)
+        {
+            isDashing = true;
+            isInvulnerable = true;
+            dashCooldownTimer = dashCooldown;
+            OnDashStarted?.Invoke();
+
+            Vector2 dashVelocity = direction * (moveSpeed * dashSpeedMultiplier);
+            float elapsed = 0f;
+
+            while (elapsed < dashDuration)
+            {
+                rb.linearVelocity = dashVelocity;
+                elapsed += Time.fixedDeltaTime;
+                yield return new WaitForFixedUpdate();
+            }
+
+            isInvulnerable = false;
+            isDashing = false;
+            OnDashEnded?.Invoke();
         }
 
         public void StopImmediately()
         {
             moveInput = Vector2.zero;
-            if (rb != null)
-            {
-                rb.linearVelocity = Vector2.zero;
-            }
+            rb.linearVelocity = Vector2.zero;
         }
     }
 }

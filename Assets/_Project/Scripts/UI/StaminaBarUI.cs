@@ -6,7 +6,7 @@ namespace Haxolot.UI
 {
     /// <summary>
     /// Contrôle l'affichage de la jauge d'endurance dans le Canvas UI.
-    /// S'abonne aux événements de PlayerStamina.
+    /// S'abonne aux événements de PlayerController.
     /// </summary>
     public class StaminaBarUI : MonoBehaviour
     {
@@ -15,27 +15,27 @@ namespace Haxolot.UI
         [SerializeField] private Image staminaFillImage;
 
         [Header("Référence")]
-        [SerializeField] private PlayerStamina playerStamina;
+        [SerializeField] private PlayerController player;
 
         private void Start()
         {
-            if (playerStamina == null)
+            if (player == null)
             {
-                playerStamina = FindAnyObjectByType<PlayerStamina>();
+                player = FindAnyObjectByType<PlayerController>();
             }
 
-            if (playerStamina != null)
+            if (player != null)
             {
-                playerStamina.OnStaminaChanged += UpdateStaminaBar;
-                UpdateStaminaBar(playerStamina.CurrentStamina, playerStamina.MaxStamina);
+                player.OnStaminaChanged += UpdateStaminaBar;
+                UpdateStaminaBar(player.CurrentStamina, player.MaxStamina);
             }
         }
 
         private void OnDestroy()
         {
-            if (playerStamina != null)
+            if (player != null)
             {
-                playerStamina.OnStaminaChanged -= UpdateStaminaBar;
+                player.OnStaminaChanged -= UpdateStaminaBar;
             }
         }
 

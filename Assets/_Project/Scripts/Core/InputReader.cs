@@ -5,8 +5,8 @@ using UnityEngine.InputSystem;
 namespace Haxolot.Core
 {
     /// <summary>
-    /// Passerelle découplée écoutant le New Input System et diffusant des événements C#.
-    /// Fonctionne avec PlayerInput ou en référence directe d'InputActionAsset.
+    /// Passerelle écoutant le New Input System et diffusant des événements C#.
+    /// Fonctionne avec PlayerInput ou directement avec les périphériques (Clavier / Souris / Manette).
     /// </summary>
     public class InputReader : MonoBehaviour
     {
@@ -41,9 +41,18 @@ namespace Haxolot.Core
                     moveAction = playerMap.FindAction("Move");
                     dashAction = playerMap.FindAction("Sprint") ?? playerMap.FindAction("Jump") ?? playerMap.FindAction("Dash");
                     attackAction = playerMap.FindAction("Attack");
-                    parryAction = playerMap.FindAction("Crouch") ?? playerMap.FindAction("Parry");
+                    parryAction = playerMap.FindAction("Parry") ?? playerMap.FindAction("Crouch");
                     interactAction = playerMap.FindAction("Interact");
                 }
+            }
+        }
+
+        private void Update()
+        {
+            // Raccourci direct de confort : Clic droit souris = Parade immédiate
+            if (Mouse.current != null && Mouse.current.rightButton.wasPressedThisFrame)
+            {
+                OnParryEvent?.Invoke();
             }
         }
 
@@ -120,6 +129,7 @@ namespace Haxolot.Core
         public void OnDash(InputValue value) => OnDashEvent?.Invoke();
         public void OnAttack(InputValue value) => OnAttackEvent?.Invoke();
         public void OnParry(InputValue value) => OnParryEvent?.Invoke();
+        public void OnCrouch(InputValue value) => OnParryEvent?.Invoke();
         public void OnInteract(InputValue value) => OnInteractEvent?.Invoke();
     }
 }

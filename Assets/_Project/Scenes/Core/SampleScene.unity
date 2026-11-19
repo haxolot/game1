@@ -233,7 +233,7 @@ Camera:
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
-  m_TargetEye: 0
+  m_TargetEye: 3
   m_HDR: 1
   m_AllowMSAA: 0
   m_AllowDynamicResolution: 0
@@ -273,6 +273,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc44e57ca384b4f488d01faba4919e3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Haxolot.Characters.Player.PlayerController
+  maxHealth: 100
+  maxStamina: 100
+  staminaRegenRate: 35
+  staminaRegenDelay: 0.5
 --- !u!114 &580499573
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -301,6 +305,10 @@ MonoBehaviour:
   moveSpeed: 6
   acceleration: 55
   deceleration: 65
+  dashSpeedMultiplier: 2.5
+  dashDuration: 0.2
+  dashCooldown: 0.35
+  dashStaminaCost: 25
 --- !u!114 &580499575
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -331,6 +339,43 @@ MonoBehaviour:
   m_DefaultActionMap: 
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
+--- !u!114 &580499576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 580499566}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48ef320810b847b408130e7e663c0a62, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Haxolot.Characters.Player.PlayerCombat
+  comboDamages:
+  - 15
+  - 22
+  - 35
+  comboPostureDamages:
+  - 10
+  - 15
+  - 30
+  comboStaminaCosts:
+  - 10
+  - 12
+  - 18
+  comboKnockbacks:
+  - 2
+  - 3
+  - 6
+  comboResetDelay: 0.8
+  attackOffset: 0.9
+  attackRadius: 0.7
+  targetLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  parryWindowDuration: 0.15
+  parryCooldown: 0.4
+  parryStaminaCost: 8
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -491,7 +536,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3463565660622238931, guid: 92266cad81ada7d46bdd108ce3303523, type: 3}
+    - {fileID: 3002398279324813389, guid: 92266cad81ada7d46bdd108ce3303523, type: 3}
+    - {fileID: 6429960499578568537, guid: 92266cad81ada7d46bdd108ce3303523, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
@@ -507,6 +555,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2571803003123996400, guid: 92266cad81ada7d46bdd108ce3303523, type: 3}
       insertIndex: -1
       addedObject: {fileID: 580499572}
+    - targetCorrespondingSourceObject: {fileID: 2571803003123996400, guid: 92266cad81ada7d46bdd108ce3303523, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 580499576}
   m_SourcePrefab: {fileID: 100100000, guid: 92266cad81ada7d46bdd108ce3303523, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

@@ -1,45 +1,63 @@
-# 02 - Gameplay et Systemes de Combat
+# 02 - Gameplay et Systèmes de Combat
 
-## 1. La Boucle de Gameplay Principale (Core Loop)
-1. Explorer une zone hostile, reperer des embranchements et des secrets de lore.
-2. Affronter des ennemis aux comportements distincts en gerant son endurance et son positionnement.
-3. Decouvrir des fragments de lore, amasser de la ressource vitale / d'amelioration.
-4. Trouver un point de repos / sanctuaire pour securiser les acquis et regenerer ses ressources.
-5. Vaincre le gardien de la zone (Boss) pour ouvrir l'acces aux regions suivantes.
+## 1. La Double Boucle de Gameplay (Formule Hybride)
 
----
+Le jeu sépare clairement le rythme de l'aventure en deux modes complémentaires :
 
-## 2. Le Systeme de Combat
-
-### A. Actions du Joueur
-* Attaque de base : Combo en 3 coups. Chaque coup a une portee, des degats et un cout d'endurance croissants.
-* Esquive / Roulade : Mouvement rapide accordant des frames d'invulnerabilite (i-frames). Cooldown court, couteuse en endurance.
-* Parade (Parry) : Fenetre de timing courte juste avant l'impact adverse. Une parade reussie etourdit l'adversaire et autorise un coup critique.
-* Soin / Relique de restauration : Utilisation limitee d'une ressource de soin, avec une animation qui immobilise brievement le joueur (necessite de trouver le bon timing).
-
-### B. Gestion de l'Endurance (Stamina)
-* Barre d'endurance visible sous les PV.
-* Actions consommatrices : Attaque, Dash/Roulade, Blocage.
-* Regles :
-  * Si la barre tombe a zero, le joueur entre en etat de recuperation (vitesse reduite, pas d'action pendant 1 seconde).
-  * La regeneration commence apres un delai fixe (0.4s sans action consommatrice).
-
-### C. Game Feel et Retours Sensoriels
-* Hit Stop : Gel du temps du jeu pendant 0.04s a 0.08s a chaque coup porte ou recu pour donner du poids a l'impact.
-* Flash blanc (Hit Flash) : Clignotement de la silhouette du sprite touche.
-* Particules d'impact : Eclats directionnels selon l'angle de coupe de l'arme.
-* Secousses de camera (Screen Shake) : Intensite proportionnelle a la violence du coup.
+```text
+┌────────────────────────────────────────────────────────┐
+│ MODE A : EXPLORATION & FAUNE (TOP-DOWN 3/4)            │
+│ • Déplacement multidirectionnel fluide (gravité = 0). │
+│ • Découverte de régions vivantes, cités, donjons.      │
+│ • Dialogues scénarisés avec les PNJ et quêtes.         │
+│ • Escarmouches dynamiques contre la faune locale.      │
+└──────────────────────────┬─────────────────────────────┘
+                           │ TRANSITION CINÉMATIQUE (Entrée de Boss)
+┌──────────────────────────▼─────────────────────────────┐
+│ MODE B : DUELS DE BOSS & SITUATIONS CLÉS (SIDE-SCROLL) │
+│ • Caméra latérale verrouillée façon jeu de combat.     │
+│ • Gravité active, mécanique de saut et de sol.         │
+│ • Système Sekiro 2D : Déviations, Posture, Clangs.    │
+│ • Coups de grâce spectaculaires (Deathblows).          │
+└────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 3. Conception des Ennemis
+## 2. Le Cœur du Combat : Système "Sekiro 2D" (Mode Boss / Vue Latérale)
 
-### Principes Fondamentaux
-1. Telegraphe obligatoire : Toute attaque dangereuse doit avoir une phase d'anticipation reconnaissable (lueur, bruitage, posture).
-2. Justesse : Les zones de collision (hitboxes) doivent matcher strictement le visuel de l'arme ou de l'impact.
-3. Punition equitable : Le joueur ne doit jamais mourir sans comprendre son erreur.
+C'est la priorité technique et de game design absolue du projet (inspiré de ***Nine Sols*** et ***Sekiro***).
 
-### Categories d'Ennemis
-* Fretin / Sentinelles : Faible vie, attaquent en groupe, apprennent les bases de l'esquive et du crowd control.
-* Chevaliers / Gardiens : Armures lourdes, boucliers, attaques lourdes. Requièrent de la parade ou du contournement.
-* Boss & Mini-Boss : Combats en plusieurs phases, attaques de zone (AoE), musique dediee, arènes scellees.
+### A. Jauge de Posture / Équilibre
+* Le Boss et le Joueur possèdent tous deux une **jauge de Posture** (en plus de leurs PV).
+* Bloquer une attaque adverse sans timing parfait absorbe les dégâts mais remplit la posture du joueur.
+* **La Déviation (Parade Parfaite)** :
+  * Timing strict (fenêtre active de 0.12s à 0.15s).
+  * Annule tout dégât pour le joueur et inflige d'énormes dégâts de posture à l'adversaire.
+* **Le Coup de Grâce (Deathblow)** :
+  * Lorsque la jauge de posture du boss est saturée, il entre en état d'étourdissement critique (*Posture Break*).
+  * Une invite visuelle permet au joueur de déclencher une exécution cinématique lourde qui retire une barre de vie entière au boss.
+
+### B. Lecture de Patterns & Attaques Périlleuses
+Le boss possède des attaques spéciales impossibles à bloquer simplement, annoncées par une alerte visuelle et sonore :
+1. **Le Balayage Bas** :
+   * Impossible à parer au sol.
+   * Contre requis : **Sauter par-dessus** l'arme et rebondir sur le boss pour lui infliger un choc de posture.
+2. **L'Estocade Perçante** :
+   * Transperce la garde normale.
+   * Contre requis : **Contre au Dash avant (Mikiri 2D)**, où le joueur dash dans la pointe pour stopper net le coup et punir l'ennemi.
+
+### C. Game Feel Viscéral (Priorité Feedback)
+* **Le CLANG Métallique** : Un bruit de choc de lames strident et sec qui valide auditivement chaque déviation réussie.
+* **Hit Stop** : Micro-gel de l'image (0.04s à 0.08s) à chaque impact de sabre ou parade pour donner du poids et du tranchant.
+* **Camera Shake & Flash** : Secousses d'écran directionnelles proportionnelles à la violence du coup et clignotement blanc des silhouettes touchées.
+* **Input Buffering & Animation Cancelling** : Le joueur peut annuler la fin d'un coup de base pour lever sa parade immédiatement si le boss riposte, assurant une réactivité totale.
+
+---
+
+## 3. Le Combat d'Exploration (Mode Top-Down 3/4)
+
+* Déplacement vif à 8 directions sans glissement.
+* Combo fluide de base à l'épée en 3 coups.
+* Dash multidirectionnel avec invulnérabilité (*i-frames*) pour traverser les projectiles et se repositionner.
+* Gestion d'endurance (*Stamina*) assurant que le joueur alterne intelligemment entre assauts et esquives.

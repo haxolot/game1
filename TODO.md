@@ -2,6 +2,7 @@
 
 > **Genre** : Action-RPG Aventure 2D Pixel Art  
 > **Hybride** : Exploration Top-Down 3/4 + Boss en duel latéral (Fighter / Sekiro 2D)  
+> **Narration** : Monde vivant, civilisations actives, dialogues scénarisés et cinématiques de mise en scène  
 > **Moteur** : Unity 6 (URP 2D, New Input System, Aseprite)  
 > **Dépôt UVC** : `/main@haxolot/haxolot@geryonhaitem@unity`
 
@@ -65,9 +66,8 @@ Player (Tag: "Player", Layer: "Entities")
 │   ├── Interpolate: Interpolate
 │   └── Constraints: Freeze Rotation Z (Coché !)
 ├── CapsuleCollider2D ou BoxCollider2D (taille adaptée au sprite, offset au niveau des pieds)
-├── PlayerMovementTopDown.cs
-├── PlayerDodge.cs
-└── PlayerStamina.cs
+├── PlayerController.cs (Stats vitales : Vie, Stamina auto-regen, gestion des événements)
+└── PlayerMovementTopDown.cs (Déplacement 8 directions + Dash intégré avec i-frames)
 ```
 *Une fois le GameObject monté, le glisser dans `_Project/Prefabs/Characters/` pour créer le `Player.prefab`.*
 
@@ -160,10 +160,17 @@ flowchart TD
 
 - [x] **Setup Dépôt & Structure** : Dossier `_Project/` configuré et pushé sur UVC (cs:2).
 - [x] **Sprint 1.1 (Noa)** : `InputReader.cs` codé et lié à l'Action Map.
-- [x] **Sprint 1.2 (Haitem)** : `PlayerMovementTopDown.cs` avec accélération/décélération (Unity 6 `linearVelocity`).
-- [x] **Sprint 1.3 (Haitem)** : `PlayerStamina.cs` avec délai de recharge.
-- [x] **Sprint 1.4 (Haitem)** : `PlayerDodge.cs` avec i-frames temporaires.
-- [x] **Sprint 1.5 (Haitem & Tous)** : `PlayerController.cs` (coordination) & `IPlayerMovement.cs`.
-- [x] **Sprint 1.6 (Ousmane)** : `StaminaBarUI.cs` & `ItemDataSO.cs` codés.
-- [ ] **Sprint 1.7 (Haitem)** : Assembler le GameObject et créer `Player.prefab` dans `_Project/Prefabs/Characters/`.
-- [ ] **Sprint 1.8 (Tous)** : Test dans la scène `Playground` (Validation manette/clavier).
+- [x] **Sprint 1.2 (Haitem)** : `PlayerMovementTopDown.cs` (Marche 8 directions + Dash intégré avec i-frames et accélération sans glissement).
+- [x] **Sprint 1.3 (Haitem)** : `PlayerController.cs` (Gestion centrale de la Vie, de la Stamina avec auto-recharge et coordination).
+- [x] **Sprint 1.4 (Ousmane)** : `StaminaBarUI.cs` & `ItemDataSO.cs` codés.
+- [x] **Sprint 1.5 (Haitem)** : Assembler le GameObject et créer `Player.prefab` dans `_Project/Prefabs/Characters/`.
+- [x] **Sprint 1.6 (Tous)** : Test dans la scène `Playground` (Validation manette/clavier).
+
+### Sprint 2 : Moteur de Combat & Game Feel (EN COURS)
+- [x] **Sprint 2.1 (Haitem)** : `IDamageable.cs` & `DamageData.cs` (Interface universelle de dégâts et de posture).
+- [x] **Sprint 2.2 (Haitem)** : `PlayerCombat.cs` (Combo 3 coups à l'épée, buffer d'input, coût stamina, Gizmos de hitbox).
+- [x] **Sprint 2.3 (Haitem)** : Système de Parade / Déviation *Sekiro* intégrée dans `PlayerCombat.cs` et `PlayerController.cs`.
+- [x] **Sprint 2.4 (Noa)** : `HitStopManager.cs` (Micro-gel de frames auto-instancié) & `CameraShake.cs` (Secousses d'écran directionnelles).
+- [x] **Sprint 2.5 (Ousmane)** : `TrainingDummy.cs` (Mannequin avec PV, jauge de posture Sekiro, clignotement et étourdissement *Posture Break*).
+- [x] **Sprint 2.6 (Noa & Haitem)** : `EnemyController.cs` (IA du premier ennemi test avec poursuite, télégraphie visuelle, riposte et contre-choc de posture sur parade réussie).
+- [ ] **Sprint 2.7 (Tous)** : Test en jeu dans `Playground` : Combo 3 coups + Déviation de l'attaque ennemie au Clic Droit !

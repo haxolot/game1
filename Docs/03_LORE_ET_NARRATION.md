@@ -1,39 +1,45 @@
-# 03 - Lore et Narration
+# 03 - Narration, Monde Vivant & Cinématiques
 
-## 1. Philosophie Narrative
-La narration est volontairement cryptique, fragmentee et environnementale. Le joueur n'est pas submerge de cinematiques passives. C'est a lui d'assembler les morceaux du puzzle historique a travers son exploration et l'observation minutieuse du monde.
+## 1. Philosophie Narrative : Un Monde Vivant et Incarné
 
----
-
-## 2. Piliers Mythologiques
-
-### A. Le Grand Cataclysme (L'Origine du Declin)
-* Un evenement fondateur qui a precipite l'empire ou le royaume dans la ruine.
-* Exemple de piste : Une rupture du pacte entre les anciens Rois et une Divinite de Lumiere/Ombre, liberant un fleau transformant les etres vivants en reliques de pierre ou en ames errantes.
-
-### B. Le Protagoniste
-* Identite : Une figure sans voix, rejetee par la mort ou rappelee par un serment brise.
-* Motivation : Purifier les Sanctuaires primordiaux ou briser le sceau qui retient l'humanite dans cette agonie cyclique.
-
-### C. Les Factions et Divinites Oubliees
-1. L'Ordre des Veilleurs : Anciens gardiens des cryptes, desormais devenus les geoliers fous des reliques qu'ils devaient proteger.
-2. Le Culte des Braises / de l'Ombre : Faction dissidente ayant embrasse la corruption pour acquerir l'immortalite.
-3. Les Pelerins Egares : Quelques survivants errent encore dans les ruines, offrant conseils, marchands cryptiques ou requetes tragiques.
+Contrairement aux jeux "post-apocalyptiques" où le monde n'est qu'un cimetière de ruines silencieuses déchiffré sur des cadavres, l'univers d'**Haxolot** est **profondément vivant, animé et réactif** :
+* **Des civilisations et des peuples actifs** : Des villages peuplés, des campements de mercenaires, des marchés bruyants et des bastions de factions en plein essor.
+* **Des PNJ avec une voix et une personnalité** : Les personnages ne sont pas de simples donneurs de quêtes cryptiques. Ils ont des motivations propres, des relations, des conflits d'intérêts et réagissent aux actions du joueur.
+* **Une dramaturgie mise en scène** : L'intrigue avance par le biais de **dialogues scénarisés**, d'échanges rythmés et de **cinématiques en jeu** soulignant la tension des rencontres majeures.
 
 ---
 
-## 3. Les Outils de Transmission du Lore
+## 2. Piliers Narratifs & Univers
 
-### A. Descriptions d'Objets (Systeme ScriptableObject)
-Chaque element inventorie possede trois niveaux de texte :
-1. Nom et categorie technique (Ex: *Dague du Senechal - Arme Tranchante*).
-2. Caracteristiques et utilite immediate (Ex: *Augmente la vitesse d'attaque au detriment de la portee*).
-3. Fragment narratif en italique :
-   > *"Portee par le dernier intendant de la citadelle au soir de la chute. On raconte qu'il s'en servit pour trancher la gorge de son souverain avant que la corruption ne lui arrache ses souvenirs."*
+### A. Le Conflit Central du Monde
+* L'équilibre du continent est menacé non pas par un passé déjà mort, mais par une crise **actuelle et imminente** (ex: guerre de ressources mystiques, soulèvement d'une entité ancestrale scellée, rupture d'un pacte entre factions).
+* Le monde subit les répercussions visibles de ce conflit : réfugiés, routes commerciales coupées, avant-postes assiégés et faune déstabilisée.
 
-### B. Narration Environnementale
-* Agencement des ruines (des barricades erigees contre un danger venu de l'interieur, des chaines brisees, des statues decapitees).
-* Cadavres situes a des endroits cles, temoignant de batailles passees ou de tentatives de fuite desesperees.
+### B. Les Grandes Factions en Présence
+1. **La Coalition Citadine / L'Ordre Régnant** : Tente de maintenir le contrôle politique et la stabilité par la loi et l'acier, quitte à réprimer les dissidences.
+2. **Les Érudits de la Faille / L'Alliance Mystique** : Cherchent à maîtriser la source d'énergie primordiale du monde pour faire progresser la société, bravant les tabous.
+3. **Les Tribus Sauvages / Marginaux** : Vivent en harmonie avec les forces brutes de la nature et rejettent la technologie et les dogmes des cités.
 
-### C. Steles et Fresques Incompletes
-* Pierres de savoir dispersées dans le monde, gravées dans une langue ancienne que le joueur peut dechiffrer au fur et a mesure de ses decouvertes.
+### C. Le Protagoniste et ses Relations
+* Le protagoniste n'est pas un spectateur passif : il possède une identité, un ancrage dans le monde et noue des alliances au fil de sa progression.
+* Des compagnons de route ou rivaux réguliers croisent son chemin, offrant un soutien moral, des dialogues piquants et des confrontations mémorables.
+
+---
+
+## 3. Les Systèmes Narratifs Techniques
+
+### A. Le Système de Dialogues Scénarisés
+* **Interface Dialogue (DialogueBox UI)** :
+  * Affichage des textes façon RPG moderne (effet machine à écrire personnalisable).
+  * Portraits expressifs des personnages en Pixel Art (visages animés, émotions : colère, doute, sourire).
+  * Choix de répliques permettant d'influencer la tournure des conversations ou de débloquer des quêtes secondaires.
+* **Architecture de Données** :
+  * Utilisation de fichiers ScriptableObjects ou d'un outil nodal pour séquencer les arbres de dialogues de manière fluide.
+
+### B. Mises en Scène & Cinématiques en Jeu (In-Engine Cutscenes)
+* **Transitions dynamiques vers les Boss** :
+  * Le joueur arrive dans la zone en vue Top-Down.
+  * La cinématique démarre : la caméra (Cinemachine) glisse, recadre la scène en vue latérale, le boss s'avance avec une réplique marquante et dégaine son arme.
+  * La cinématique se fond instantanément dans le combat sans temps de chargement ni écran noir.
+* **Cinématiques de fin de combat** :
+  * À la mort d'un boss majeur, un dialogue final ou une cinématique d'adieu scelle le destin du personnage avant le retour à l'exploration libre.
