@@ -1,6 +1,7 @@
 # 03 - Épopée, Lore & Narration Officielle — Haxolot
 
 > **Échelle du monde** : Le Monde Physique (Le Continent Scellé vs Les Terres Extérieures d'Exil) & Les Limbes (Le Plan Spirituel Intemporel).  
+> **Studio créateur** : Haxolot.  
 > **Genre & Tonalité** : Action-RPG Sekiro-like 2D, Tragédie Métaphysique, Boucle Temporelle et Rupture de Déterminisme.  
 > **Document de Référence Maître** : Rédigé selon la vision canonique intégrale (excluant toute proposition divergente).
 
@@ -73,11 +74,13 @@ L'orgueil consume les Cinq. Refusant de partager le pouvoir, ils détournent le 
 * **La Guerre d'Un An** : Une guerre acharnée éclate entre les Cinq pour le contrôle absolu de la barrière.
 * **Le Monopole Incantatoire** : Depuis les Limbes, les Cinq imposent des formules magiques rigides : chaque prière récitée par les fidèles nourrit directement leur double spirituel à travers leurs catalyseurs matériels.
 
-### 1.4 Les Statues de Pierre, L'Exil & L'Organisation de l'Ombre (-800 à -700)
-Pour colmater la brèche fragilisée par leur guerre sans sacrifier leurs propres vies, les Cinq et la secte appliquent une solution impitoyable :
+### 1.4 Les Statues de Pierre, L'Exil & L'Organisation des Gardiens (-800 à -700)
+Pour colmater la brèche fragilisée par leur guerre sans sacrifier leurs propres vies, les Cinq appliquent une solution impitoyable :
 1. **Les Statues de Pierre** : Les malades incurables et les faibles sont drainés jusqu'à la dernière goutte dans les sanctuaires pour alimenter le verrouillage d'urgence, pétrifiés à jamais en statues de pierre grise.
 2. **L'Exil des Terres Extérieures** : Les populations saines mais non nobles sont chassées du continent et déportées au-delà des océans vers les **Terres Extérieures**, abandonnées dans la boue, la pauvreté et les miasmes diffus de corruption.
-3. **Le Rôle de la Secte (L'Organisation)** : Protégeant le corps captif de Noah et surveillant les cryptes des cinq corps maudits, l'Organisation élimine discrètement tout curieux pour préserver le culte des Cinq et son hégémonie politique.
+3. **La Naissance de l'Organisation (La Secte)** : Née après la guerre des Cinq pour préserver jalousement les secrets d'antan (la dépouille captive de Noah, la vérité sur les Limbes et la supercherie des faux dieux).
+   * **L'Érosion Insidieuse des Sorts** : Au fil des siècles, la secte réduit petit à petit la puissance des incantations et des formules enseignées dans les académies des Cinq Écoles. En bridant méthodiquement le savoir magique transmis de génération en génération, elle s'assure qu'aucun mortel ne puisse jamais égaler les Cinq ni menacer l'hégémonie du continent.
+   * **L'Exploitation de la Dépouille de Noah** : Gardant le corps physique du Septième au cœur d'une crypte secrète inviolée, la secte en pompe l'énergie résiduelle pour asseoir sa domination occulte.
 
 ---
 
@@ -108,7 +111,8 @@ Arrêté, roué de coups, désarmé et traîné dans les cachots souterrains, il
 
 Dans l'obscurité de sa cellule, sans arme ni secours extérieur, le héros ne reçoit aucune illumination mystique. Par pure déduction, en recoupant le rituel de la fontaine et les cantiques des prêtres, il comprend le principe fondateur du monde : **les dieux ne sont que des noms servant d'adresses incantatoires vers un corps dans les Limbes.**  
 Rejetant tout panthéon, il prononce à mi-voix **son propre nom mortel**.  
-Dans les Limbes, son propre reflet spirituel s'agite : son **Double des Limbes** se matérialise et brise les barreaux de sa cellule. L'évasion commence.
+
+* **L'Écho Temporel du Double** : Les Limbes étant un plan intemporel défiant la chronologie physique, le reflet qui s'éveille dans l'ombre est l'écho de sa complétion future de la Voie du Guide. Dès l'instant où il nomme sa propre identité, la résonance traverse le miroir des Limbes : son **Double des Limbes** se matérialise et brise les barreaux de sa cellule. L'évasion commence.
 
 ### 2.3 Le Héros et la Voie du Guide : La Conscience Intacte
 Contrairement aux Cinq qui ont déserté leur corps terrestre, et contrairement à Noah mort dans les Limbes :
@@ -123,8 +127,10 @@ Les sanctuaires des Cinq sont les cinq premières stations de la chorégraphie a
 1. **Palier 1 : Le Corps Maudit (Mini-Boss Corrompu dans le Monde Physique)**  
    Le héros s'infiltre dans la crypte du sanctuaire et terrasse le corps charnel monstrueux du Précurseur qui servait de relais d'énergie.  
    *Conséquence* : L'École de magie correspondante s'éteint instantanément dans toute la province. Les armées théocratiques sont désarmées.
-2. **L'Usurpation de l'École** :  
-   Le héros grave son propre nom sur l'autel du sanctuaire. La population et les mages rebelles se mettent à invoquer son nom. L'énergie des formules et des prières dévie vers lui et nourrit son journal.
+2. **Le Choix de l'Autel : Usurpation vs Voie Solitaire** :  
+   À la chute du corps maudit, le joueur dispose d'un choix fondamental déterminant sa trajectoire morale et ses fins :
+   * **Branche A : L'Usurpation (L'Embrigadement)** : Le héros grave son propre nom sur l'autel du sanctuaire. La population et les mages rebelles se mettent à invoquer son nom. L'énergie des formules et des prières dévie vers lui, augmentant considérablement sa puissance martiale et affamant le dieu qui doit descendre.
+   * **Branche B : Le Refus du Culte (La Voie Pure / Sans Embrigadement)** : Le héros refuse de remplacer une idole par une autre. Il brise l'autel sans inscrire son nom, n'embrigadant personne. Il ne tire aucune force des prières des foules, affrontant les périls par sa seule virtuosité et ouvrant des fins inédites où il libère le monde sans jamais fonder de nouveau culte.
 3. **Palier 2 : Le Duel de Forme Prime (Sekiro-like Martial)**  
    Privé de son corps-catalyseur et affamé de culte, l'esprit de la fausse divinité est forcé de quitter sa stase dans les Limbes pour affronter le mortel sous sa forme martiale originelle. C'est un duel de sabre d'une exigence absolue : parades au millimètre, déviations de posture et bris de garde.
 4. **L'Écriture de la Voie dans le Journal** :  
