@@ -55,9 +55,67 @@ Le boss possède des attaques spéciales impossibles à bloquer simplement, anno
 
 ---
 
-## 3. Le Combat d'Exploration (Mode Top-Down 3/4)
+## 3. Le Cycle des 7 Voies en Combat : Switch Dynamique & Cooldowns
 
-* Déplacement vif à 8 directions sans glissement.
-* Combo fluide de base à l'épée en 3 coups.
-* Dash multidirectionnel avec invulnérabilité (*i-frames*) pour traverser les projectiles et se repositionner.
-* Gestion d'endurance (*Stamina*) assurant que le joueur alterne intelligemment entre assauts et esquives.
+Le système de magie ne repose pas sur des menus lents, mais sur un **cycle d'actions martiales rapides** que le joueur fait tourner manette en main.
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│                    LE CYCLE D'ACTION DES 7 VOIES                       │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. ASPIRER   : Capter l'énergie (drain d'endurance, recharge d'éther). │
+│ 2. ALTÉRER   : Changer la nature de la lame (déchirure, bris du ciel). │
+│ 3. CONDENSER : Coup lourd d'une densité colossale (allumage stellaire).│
+│ 4. ACCÉLÉRER : Déviation parfaite et vélocité sans friction (Sekiro). │
+│ 5. PROJETER  : Lames d'air et ondes de choc tranchantes à distance.   │
+│ 6. GUIDER    : Piloter et orienter l'énergie (L'art du Sixième qui     │
+│                synchronise le Double et guide le flux temporel).       │
+│ 7. SCELLER   : La 7ème Voie ultime (Le Sceau, verrouillage absolu).   │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+### A. Progression du Novice au Maître (Évolution des Actions de Base)
+* **Le Début de l'Aventure (L'Étranger vulnérable)** :
+  * Le héros arrive avec un équipement de fortune : son blocage est un coup de bouclier lourd à récupération lente, son esquive est une simple roulade au sol.
+* **L'Imprégnation des Voies (L'Ascension martiale)** :
+  * Au fil des découvertes et des blasphèmes, les actions de base mutent :
+    * La parade devient la **Déviation Parfaite** (Voie 4 : Accélérer).
+    * L'attaque chargée s'imprègne de **densité solaire écrasante** (Voie 3 : Condenser).
+    * Le coup prend une **onde déchirante** capable de fendre l'espace (Voie 2 : Altérer).
+
+### B. Schéma de Contrôles à la Manette (Zéro Menu en Combat)
+
+```text
+┌────────────────────────────────────────────────────────┐
+│ COMMANDES MARTIALES PERMANENTES                        │
+│ • X (Carré)       : Coup rapide au sabre (enchaînements)│
+│ • Y (Triangle)    : Attaque lourde / bris de garde     │
+│ • LT / L2         : Parade / Déviation (Timing Sekiro) │
+│ • RT / R2         : Dash d'esquive / Contre avant      │
+├────────────────────────────────────────────────────────┤
+│ LE SYSTÈME DE VOIES DYNAMIQUE                          │
+│ • LB / L1         : SWITCH DE VOIE INSTANTANÉ (Cycle)  │
+│ • RB / R1         : Compétence / Sort de la Voie active│
+│ • D-Pad (Croix)   : Raccourcis directs de Voies        │
+└────────────────────────────────────────────────────────┘
+```
+
+### C. La Règle des Cooldowns Croisés & Surchauffe
+Pour éviter que le joueur ne campe sur une seule Voie :
+1. **Dépense & Cooldown de Voie** :
+   * Lancer une compétence puissante d'une Voie (ex: *Condenser*) vide sa jauge d'énergie et la place en court cooldown.
+2. **Le Bonus de Switch (L'Incitation active)** :
+   * Switcher immédiatement sur une autre Voie (ex: *Accélérer*) permet de combattre sans temps mort.
+   * **Mécanique de Recharge Accélérée** : Frapper ou dévier avec la Voie active accélère drastiquement le rechargement de la Voie précédente en cooldown !
+   * Le joueur est ainsi naturellement poussé à faire tourner son cycle de combat.
+
+### D. La 6ème Voie (Guider) & L'Apparition du Double
+* La 6ème Voie (Guider) est débloquée lorsque le héros apprend à orienter l'énergie avec son propre esprit.
+* **En Combat** :
+  * Quand le joueur réussit à enchaîner plusieurs Voies du cycle en rythme, la 6ème Voie prend le relais : **le Double des Limbes jaillit automatiquement** pour guider et synchroniser une frappe en duo ou dévier une attaque fatale.
+* **Au Climax** :
+  * C'est cette Voie (Guider) qui permet au héros de diriger l'énergie vers le passé à travers les Limbes pour transmettre le Grimoire complet au Septième.
+
+### E. L'Ultime Étape : La 7ème Voie (Le Sceau)
+* Débloquée au climax une fois les 6 premières Voies portées à maturité dans le Grimoire du Sixième.
+* Permet d'activer des arts d'interdiction absolue : geler l'arène, briser la magie des faux dieux réincarnés, et poser le sceau définitif.

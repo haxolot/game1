@@ -1,82 +1,144 @@
 # 03 - Épopée & Histoire Officielle — Haxolot
 
-> **Échelle du monde** : La Terre.  
-> **Type de document** : Document de référence complet pour le développement.  
-> **Auteurs du lore** : Ousmane & Équipe Haxolot.
+> **Échelle du monde** : Le Monde Physique (Le Continent Scellé vs Les Terres Extérieures d'Exil) & Les Limbes (Le Plan Spirituel).  
+> **Type de document** : Document de référence complet pour le développement & la narration.  
+> **Auteurs du lore** : Équipe Haxolot.  
+> **Figures clés & La Grande Énigme Numérale** : 
+> * **Le Septième** : Figure légendaire ayant posé le sceau originel. Il possède un nom mortel (autrefois "Noah"), mais s'est toujours fait appeler "Le Septième". Les Cinq n'ont jamais compris pourquoi... car **Le Septième n'a jamais été le premier**. En réalité, dans le vide intemporel des Limbes, **le Septième a reçu le Grimoire guidé vers le passé par le Sixième** : c'est grâce au travail complet du héros qu'il a pu concevoir et activer la 7ème Voie (Le Sceau).
+> * **Les Cinq Précurseurs (Numéros 1 à 5)** : Les cinq génies historiques vénérés comme des divinités lointaines. Leurs corps primitifs maudits sont ancrés dans des sanctuaires oubliés, agissant comme des récepteurs captant le culte des mortels, tandis que leurs consciences veillent au sommet du monde.
+> * **Le Protagoniste (Le Sixième) & Son Double des Limbes** : Un jeune homme ordinaire venu des terres extérieures délaissées. Poussé par la volonté de sauver sa mère, son sacrilège déclenche la première manifestation de son Double des Limbes. Il entreprend de détruire les corps maudits des faux dieux pour usurper leurs Écoles et dévier leur énergie vers son Grimoire.
 
 ---
 
-## 1. Chronologie Complète & Historique des Événements
+## 1. Cosmologie & Fractures du Monde
 
-### Étape 1 : L'Apparition de la Faille & Le Sceau de Noah
-* **La Catastrophe Initiale** : Une gigantesque faille magique s'ouvre soudainement sur Terre, déclenchant des cataclysmes dévastateurs à l'échelle planétaire qui ravagent les écosystèmes et menacent l'humanité d'extinction.
-* **L'intervention de Noah** : Pendant deux années de chaos ininterrompu, l'humanité tente de survivre. Au bout de deux ans, un homme nommé **Noah** parvient à concevoir un sceau magique et réussit l'exploit de sceller la faille.
-* **La Disparition** : Noah ne cherche ni à régner, ni à dominer le monde. Dès l'instant où la faille est scellée, **Noah disparaît sans laisser la moindre trace**. Personne ne sait ce qui lui est arrivé ni où il est parti.
+### A. Le Continent Scellé (L'Éden Fortifié)
+* **La Terre Promise** : Le continent où le sceau a été ancré pour protéger le monde des débordements des Limbes. Il concentre l'écrasante majorité de la fertilité, des minerais et de l'énergie brute du globe.
+* **Voyager vers le Continent : Une Épreuve Rare** : Traverser les océans pour rejoindre le continent est extrêmement périlleux. C'est un privilège réservé aux **expéditions lourdes financées par de riches factions** ou à des téméraires désespérés dont la grande majorité périt en mer.
 
----
+### B. Les Terres Extérieures (Le Tiers-Monde d'Exil)
+* **L'Exil Oublié** : Les continents et archipels où les populations saines ont été refoulées lors de l'Ère du Voile Gris.
+* **Politique d'Abandon Cruelle** : Les Cinq et les puissances du continent se désintéressent totalement de ces terres, **les laissant croupir dans la pauvreté, la régression technique et les résidus diffus de corruption**.
+* **La Sérénité des Faux Dieux** : Ayant effacé toutes les preuves de la Première Génération et réécrit l'histoire, les Cinq sont installés dans une certitude absolue. Ils ne paniquent pas : pour eux, leur règne est éternel et le reste du monde n'a aucune importance.
 
-### Étape 2 : L'Énergie Résiduelle & La Première Génération
-* **La Fuite du Sceau** : Le sceau posé par Noah n'est pas totalement hermétique. Une énergie magique subtile et résiduelle continue de filtrer au compte-gouttes dans l'atmosphère terrestre sans provoquer de nouveaux cataclysmes.
-* **L'Adaptation Biologique** : Une très longue période s'écoule. Exposée continuellement à cette énergie filtrée, l'humanité s'adapte biologiquement et physiologiquement au fil du temps.
-* **Émergence de la Première Génération** : Cette lente adaptation donne naissance à la **Première Génération** d'humains. Ces derniers possèdent la capacité innée de ressentir, manipuler et canaliser cette force : **la Magie Originelle**.
-* **Essor des Royaumes** : Grâce à cette magie originelle, l'humanité prospère, bâtit de grandes civilisations et se structure en plusieurs grands royaumes indépendants.
-
----
-
-### Étape 3 : Les Cinq Génies & La Déviation du Sceau
-* **L'Élite Magique** : Au sein de chaque grand royaume émerge un individu d'exception. Ces **Cinq Génies** ne sont pas seulement des meneurs pour leur peuple : ils possèdent une compréhension intuitive et théorique de la magie infiniment plus profonde que le reste de la population.
-* **Les Vestiges de Noah** : En étudiant les traces historiques, ces cinq érudits parviennent à découvrir et déchiffrer les vestiges laissés par Noah. Bien que leur compréhension du sceau reste partielle et incomplète, ils réussissent à en localiser l'emplacement exact.
-* **L'Usage Égoïste** : Poussés par l'ambition personnelle et une soif inextinguible de puissance, les Cinq Génies commencent à manipuler et détourner le sceau de Noah pour siphonner directement la puissance brute de la faille à leurs propres fins.
-* **L'Altération Corporelle** : Ce contact direct et prolongé avec l'énergie brute de la faille transforme irréversiblement leur métabolisme : leur constitution physique, organique et magique mute, les élevant à un niveau de puissance hors du commun tout en les séparant de la condition humaine normale.
+### C. Les Limbes (Le Plan Spirituel Intemporel)
+* **Nature du plan** : Un monde spirituel de vide infini défiant l'espace et le temps, d'où provient l'énergie primordiale.
+* **Aspect visuel** : Miroir spectral inversé du monde physique, océan de brume et d'éther sans pesanteur où flottent des vestiges géométriques.
+* **Le Temps comme Direction** : Dans les Limbes, le passé et le futur ne sont pas une flèche irréversible mais des axes dans lesquels l'énergie peut être guidée.
 
 ---
 
-### Étape 4 : La Guerre du Territoire & La Surcharge Fatale
-* **Le Conflit des Nations** : L'accès au sceau et à sa source d'énergie colossale devient l'enjeu d'une guerre totale. Les Cinq Génies mènent les armées et les populations de leurs nations respectives sur le site du sceau pour en disputer le contrôle territorial.
-* **La Rupture du Sceau** : Entre la ponction excessive d'énergie par les Cinq et la violence des affrontements militaires sur le sanctuaire, le sceau de Noah ne résiste pas et se brise violemment.
-* **L'Hécatombe Instantanée** : La rupture libère une déferlante d'énergie magique originelle d'une violence inouïe. La surcharge est si massive et écrasante que **tous les humains présents sur les lieux sont tués sur le coup**.
-* **Extinction de la Première Génération** : L'onde de choc magique sature l'atmosphère d'une présence énergétique insoutenable. Même les membres de la Première Génération éloignés du conflit, pourtant capables de manipuler la magie originelle, meurent en masse car le corps humain ne peut supporter une telle concentration dans l'air.
-* **Le Retour du Chaos** : La faille grande ouverte réactive immédiatement les cataclysmes primitifs qui menacent de désintégrer toute forme de vie sur Terre.
+## 2. Le Cycle Fondamental des 7 Voies de la Magie
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│               LE CYCLE DES 7 VOIES (LE GRIMOIRE DU SIXIÈME)            │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. ASPIRER   : Capter l'énergie brute neutre (le carburant originel).  │
+│ 2. ALTÉRER   : Changer sa nature (tranchante au point de briser        │
+│                le ciel, corrosive, enflammée).                         │
+│ 3. CONDENSER : Tasser l'énergie en un point critique (densité          │
+│                infinie, capable d'engendrer un soleil incandescent).   │
+│ 4. ACCÉLÉRER : Donner la vitesse et le flux sans friction (parades,    │
+│                déviations au sabre, vélocité pure).                    │
+│ 5. PROJETER  : Détacher l'énergie du corps et la propager à distance. │
+│ 6. GUIDER    : Piloter et orienter l'énergie avec précision... y       │
+│                compris à travers l'espace-temps des Limbes pour        │
+│                délivrer le Grimoire au Septième dans le passé !        │
+│ 7. SCELLER   : La 7ème Voie ultime (Le Sceau), activée par le Septième │
+│                grâce au Guide complet des 6 voies.                     │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### Étape 5 : L'Alliance Forcée des Cinq Catalyseurs Vivants
-* **Les Seuls Survivants** : Seuls les **Cinq Génies** survivent à cette explosion dévastatrice. Leur survie n'est due qu'à une chose : l'altération préalable de leur constitution lorsqu'ils puisaient dans le sceau.
-* **Une Décision de Survie Pure** : Face à une Terre ravagée où absolument personne ne peut survivre (pas même eux à terme), les Cinq Génies mettent de côté leurs rivalités et décident de s'allier pour une seule et dernière fois. Il ne s'agit pas d'un sacrifice altruiste ou mortel, mais d'une mesure désespérée de préservation.
-* **Des Piliers Vivants** : Incapables de reproduire le sceau complexe de Noah, ils s'unissent et utilisent leurs propres corps mutés comme **catalyseurs vivants** pour contenir et brider la faille.
-* **État Actuel** : **Les Cinq sont toujours bien vivants**, condamnés à maintenir ce verrouillage permanent pour empêcher l'anéantissement du monde.
+## 3. La Fresque Géopolitique : La Guerre des Idoles
+
+Deux volontés irréconciliables s'affrontent sur le continent :
+
+### A. Les Protecteurs des Écoles
+* Les empires, les cours royales et l'Organisation de l'Ombre protègent les idoles et les sanctuaires à tout prix. Toute leur puissance militaire et économique dépend des Cinq Écoles officielles. Pour eux, bloquer la magie équivaut à la fin de leur civilisation.
+
+### B. La Volonté de Rupture & L'Usurpation des Cultes (Le Rôle du Héros)
+* Le héros ne se contente pas de détruire : il **prend le contrôle des Écoles** une par une en abattant les corps maudits des Cinq.
+* **La Mécanique d'Usurpation** :
+  1. **Annulation des Invocations Divines** : Quand le corps maudit d'un des Cinq est abattu dans son sanctuaire, son nom cesse de fonctionner comme canalisateur. Les armées de cette École sont instantanément désarmées.
+  2. **Être Invoqué à la Place** : Le héros grave son propre nom au centre de l'École. L'énergie des prières et des formules de toute la province dévie désormais vers lui et son Grimoire.
+  3. **Montée en Puissance & Ralliement** : Le héros gagne en force de frappe colossale, s'approprie la Voie de cette École, et les populations de la région le reconnaissent comme leur nouveau protecteur vivant.
+  4. **L'Affamement des Faux Dieux** : Privée de son tribut d'énergie dans sa province, la divinité correspondante est acculée, contrainte de descendre ou d'être invoquée par ses derniers fidèles pour affronter l'usurpateur !
 
 ---
 
-### Étape 6 : La Seconde Humanité, Réécriture de l'Histoire & Magie Artificielle
-* **Monopole Absolu des Cinq** : Les Cinq Génies sont les seuls êtres vivants au monde à posséder encore la magie originelle, qu'ils canalisent en continu pour maintenir la faille fermée.
-* **Réécriture de l'Histoire (Propagande des Cinq)** :
-  * Pour asseoir une autorité incontestable et s'assurer que personne ne remette jamais en cause leur légitimité, **les Cinq se sont placés du bon côté de l'histoire**.
-  * Ils ont effacé toute trace de leur cupidité, de la guerre du sceau et de leur responsabilité directe dans l'anéantissement de la Première Génération.
-  * Dans le récit officiel qu'ils ont inculqué à la Seconde Génération, ils se présentent comme les sauveurs absolus, des divinités qui ont protégé les hommes d'un "fléau monstrueux".
-* **L'Inconscience Totale des PNJ (La Croyance Absolue)** :
-  * Pour les habitants, les érudits et les PNJ, **le mot "artificielle" n'existe pas**.
-  * Ils ignorent tout de la magie originelle : ils croient sincèrement que la magie codifiée par les Cinq est leur magie propre, naturelle et sacrée, offerte par les Dieux.
-* **Noms de la Période du Cataclysme de la 1ère Génération** :
-  * *Version officielle enseignée au peuple* : **Le Grand Fléau** ou **La Nuit Céleste** (présenté comme une colère naturelle ou un mal mystérieux vaincu par les Cinq).
-  * *Vérité historique secrète (Dev & Ruines)* : **La Grande Rupture** (ou **L'Âge de la Cendre**, **Le Fléau des Premiers-Nés**).
+## 4. Chronologie Complète & Historique des Événements
+
+### Étape 1 : L'Énergie Primordiale & Le Sceau du Septième
+* Une énergie primordiale circule dans le monde et provoque des cataclysmes.
+* Une figure s'étant toujours fait appeler **Le Septième** reçoit à travers les Limbes le Grimoire complet des 6 Voies guidé depuis le futur.
+* Grâce à cette formule intégrale, il conçoit la 7ème Voie (**Le Sceau**), ancre le confinement sur le continent et s'isole dans les Limbes.
+
+### Étape 2 : Le Premier Âge d'Abondance & Les Précurseurs
+* Le goutte-à-goutte de la fissure nourrit le continent qui entre en abondance. Les royaumes accourent pour coloniser.
+* Cinq individus d'exception (1 à 5) percent indépendamment le fonctionnement des premières voies de l'énergie par l'étude acharnée et deviennent des monstres de puissance (l'un créant un soleil, l'autre brisant le ciel).
+
+### Étape 3 : L'Usurpation, La Guerre d'Un An & Le Voile Gris
+* Les Cinq abusent du sceau, enseignent une sous-magie à leurs disciples et provoquent la rupture.
+* **La Guerre d'Un An** : Au lieu de sauver le monde, les Cinq se disputent le monopole absolu pendant un an de guerre sanglante.
+* **Immunité Spirituelle & Lucidité des Cinq** : Leurs esprits restent froids, méthodiques et intacts, tandis que leurs corps de chair mutent sous la charge d'énergie brute.
+
+### Étape 4 : Le Sacrifice des Malades & Les Corps Maudits
+* **L'Exil des Sains** : Les populations saines sont déportées au-delà des mers, condamnées à survivre dans des terres délaissées.
+* **Les Statues de Pierre** : Les malades incurables sont siphonnés au sanctuaire pour alimenter le verrouillage d'urgence, figés à jamais en statues de pierre.
+* **Les Corps Maudits comme Décharges** : Leurs corps primitifs hypertrophiés restent enchaînés au fond des cryptes, servant de relais passifs captant le culte humain. Les Cinq se retirent au-delà du plan matériel, vénérés comme des dieux intouchables.
+
+### Étape 5 : Le Second Âge d'Abondance & La Surveillance de l'Ombre
+* Le continent renaît sous l'œil de l'Organisation de l'Ombre qui élimine discrètement les érudits trop curieux pour maintenir le mensonge.
+
+### Étape 6 : Présent du Jeu — L'Éveil du Sixième & La Conquête des Écoles
+
+* **Le Prologue : L'Expédition Brisée** :
+  * Le héros s'engage dans une expédition maritime pour trouver la cure de sa mère malade. Naufrage sur les récifs, il se retrouve seul et démuni.
+* **Le Piège de l'Organisation** :
+  * Le marchand local le manipule en lui promettant l'accès à la fontaine sacrée en échange de contrats d'élimination sur des érudits dissidents.
+* **La Scène de la Fontaine & L'Émeute du Temple** :
+  * Le héros atteint la fontaine sacrée de la cathédrale. Dès qu'il tente de franchir le parvis avec sa fiole, **l'eau s'évapore instantanément**.
+  * De rage, il dégaine et **fracasse la statue du faux dieu**.
+  * Submergé par les gardes, blessé et désarmé, **il est traîné dans les geôles en attente d'exécution**.
+* **Le Silence de la Cellule & La Première Auto-Invocation (L'Éveil Intime)** :
+  * Dans le noir complet de son cachot, le héros rassemble les pièces : les notes des dissidents, le fonctionnement de la fontaine et la formule scandée par les prêtres.
+  * Il comprend que les dieux ne sont que des noms au centre d'un circuit.
+  * **Il récite l'incantation et murmure son propre nom**.
+  * Son Double des Limbes se matérialise pour la première fois dans l'ombre et brise les barreaux : l'évasion commence.
+* **La Conquête des Écoles & L'Affamement des Dieux** :
+  * Le joueur parcourt le continent, traque les corps maudits des sanctuaires, et **usurpe les 5 Écoles une par une**.
+  * À chaque École conquise, les armées ennemies sont désarmées, la région bascule du côté du héros, et la divinité associée est privée de son culte.
+* **L'Accomplissement du Sixième & La Livraison Temporelle** :
+  * Ayant assimilé les 5 premières Voies, le héros débloque la **6ème Voie (Guider)**.
+  * Dans le vide des Limbes, il guide l'énergie vers le passé pour **délivrer son Grimoire au Septième**, scellant l'éternité et lui permettant de sauver sa mère au-delà des mers.
 
 ---
 
-## 2. Structure Narrative du Jeu (Point de Vue du Joueur)
+## 5. Boss Design Narratif : Les Deux Paliers de Combat
 
-| Phase de Jeu | Perception du Joueur (Histoire Officielle) | Réalité Développeur (Vérité Cachée) |
-| :--- | :--- | :--- |
-| **Début de l'Aventure** | Le monde est protégé par Cinq Dieux vénérés. La magie utilisée est sacrée, naturelle et normale. | Le joueur utilise sans le savoir une magie artificielle bridée. Les "Dieux" sont des humains mutants piégés par leur propre cupidité. |
-| **Milieu de l'Aventure** | Des anomalies et failles apparaissent. Le joueur croit combattre des monstres qui attaquent l'ordre divin. | Le verrouillage des Cinq Catalyseurs commence à fatiguer après des siècles. La faille pousse et l'énergie originelle fuit à nouveau. |
-| **Fin de l'Aventure / Révélation** | Le joueur découvre d'anciens vestiges oubliés et comprend que l'histoire racontée par les royaumes est un mensonge. | Révélation complète : extinction de la Première Génération, rôle de Noah, et nécessité d'affronter les Cinq Catalyseurs pour régler définitivement le destin de la Terre. |
-
----
-
-## 3. Directives pour Ousmane (UI, Data & Objets)
-
-1. **Gabarit ScriptableObject (`ItemDataSO`)** :
-   - Les objets courants de la population porteront des textes louant les Cinq Divinités et les vertus de leur magie.
-   - Les reliques rares et anciennes trouvées dans les ruines contiendront des fragments de texte de la Première Génération décrivant la panique lors de la rupture du sceau ou mentionnant le nom oublié de **Noah**.
-2. **Textes d'Ambiance & Quêtes** :
-   - Ne jamais employer le terme "Magie Artificielle" dans les dialogues du début : pour les PNJ, c'est simplement "la magie". Le terme d'artifice ne sera introduit que lors du grand basculement narratif final.
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│ PALIER 1 (Monde Physique) : LES CORPS MAUDITS DES SANCTUAIRES          │
+├────────────────────────────────────────────────────────────────────────┤
+│ • Lieu : Sanctuaires secrets oubliés du Continent Scellé.              │
+│ • État : Les corps physiques primitifs des Cinq, décharges monstrueuses│
+│   captant les prières de leurs fidèles depuis des siècles.             │
+│ • VICTOIRE DU JOUEUR :                                                 │
+│   Le héros détruit le corps maudit, prend le contrôle de l'École,      │
+│   s'approprie la Voie magique et se fait invoquer à la place du dieu ! │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │ Affamement de la Divinité
+┌───────────────────────────────────▼────────────────────────────────────┐
+│ PALIER 2 (Climax Régional / Final) : LA CONFRONTATION AVEC LA DIVINITÉ │
+├────────────────────────────────────────────────────────────────────────┤
+│ • Contexte : Privé de son École et de son culte, le Dieu est forcé de  │
+│   se manifester (soit par descente directe, soit par invocation        │
+│   désespérée de ses derniers fanatiques acculés).                      │
+│ • Combat : Duel d'escrime et de magie pure au sommet (esprit Sekiro),  │
+│   où le héros affronte la divinité dans toute sa splendeur martiale    │
+│   originelle (Forme PRIME) et brise son trône pour toujours.           │
+└────────────────────────────────────────────────────────────────────────┘
+```
