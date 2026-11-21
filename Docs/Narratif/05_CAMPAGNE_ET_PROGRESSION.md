@@ -71,30 +71,37 @@
   * **Son conseil** : L'Académie bride volontairement le savoir martiale des élèves. S'il s'infiltre, le héros peut voler **l'exemplaire complet et non censuré de sa Voie**, lui permettant de s'entraîner sans limite et sans maître hors de l'École.
 * **L'Infiltration des Archives & Le Document Secret** :
   * Le héros mène une mission d'infiltration nocturne dans le cœur des archives de l'Académie.
-  * Il met la main sur le grimoire complet de sa Voie (débloquant son arbre martial avancé).
-  * **Le Coup de Théâtre (Ce que même le Rival ignorait)** : Dans le coffre scellé, le héros découvre un dossier confidentiel compromettant :
-    * L'Académie mandate discrètement **une équipe interne d'inquisiteurs affiliée à l'École** pour acheminer des **sacrifices humains** vers un sanctuaire secret caché dans la province.
-    * Ce tribut de sang sert à **« stabiliser le Corps »** qui y réside.
-    * À ce stade, le héros ne comprend absolument pas que ce « Corps » est le dieu qu'il priait : il découvre simplement que l'Académie entretient une abomination secrète et sanguinaire sous terre.
-  * Le héros s'évade définitivement des murailles, déterminé à traquer cette équipe d'inquisiteurs pour découvrir ce que cache ce sanctuaire et trouver une issue pour sa mère.
+  * Il met la main sur le grimoire complet de sa Voie (débloquant l'arbre avancé combinant sabre, sorts actifs et passifs).
+  * **Le Coup de Théâtre (Ce que même le Rival ignorait)** : Dans un coffre scellé, le héros découvre un ordre de mission interne au vocabulaire liturgique hypocrite :
+    * L'Académie mandate discrètement une équipe d'inquisiteurs affiliée pour **« conduire un groupe de fidèles dévots en pèlerinage secret au Sanctuaire Originel, auprès de leur Idole, pour la Cérémonie de Communion afin d'apaiser et stabiliser le Corps Saint »**.
+    * Le document ne mentionne jamais le mot « sacrifice », mais l'escorte armée lourde et la mention de spasmes physiques rendent le convoi extrêmement suspect.
+    * À ce stade, le héros ne comprend absolument pas que ce « Corps » est la divinité qu'il priait : il découvre simplement que l'Académie entretient une machination occulte dans une crypte secrète.
+  * Le héros s'évade définitivement des murailles, déterminé à traquer ce convoi pour découvrir ce que cache ce sanctuaire et trouver une issue pour sa mère.
 
 ---
 
-### Acte II : Le Mercenaire Solitaire & L'Éveil de la 6ᵉ Voie (*Guider*)
-* **La Vie de Renégat & Les Contrats de Survie** :
-  * Désormais banni, recherché par les bannières de l'École, le héros refuse de prononcer à nouveau le nom du faux dieu. Privé de magie, il ne peut compter que sur son acier.
-  * Pour survivre, acheter des vivres et financer des pistes pour sa mère, **il loue son sabre comme mercenaire indépendant**.
-  * Missions de mercenariat : escorter des convois de marchands sans foi, protéger des hameaux isolés contre les patrouilles zélées de la théocratie, guider des clandestins à travers les défilés rocheux saturés de brumes d'éther toxique.
-* **L'Ancrage du Symbole Quotidien** :
-  * La règle fondamentale de la magie exige qu'une Voie s'enracine dans une discipline ou un verbe appliqué sans faille au quotidien.
-  * Dans cette vie d'errance, l'obsession du héros devient littéralement **GUIDER** : ouvrir le chemin, dévier les dangers, ramener les âmes perdues à bon port et veiller sur les faibles sans jamais faiblir.
-* **La Traque de l'Inquisition (Mini-Boss de Poursuite)** :
-  * La Secte dépêche des Traqueurs d'élite (inquisiteurs au sabre rapide, chasseurs de primes) pour abattre le renégat. Le joueur subit plusieurs embuscades intenses sur les routes.
-* **L'Épreuve du Seuil (Climax de l'Acte II — La Naissance de la 6ᵉ Voie)** :
-  * Au fond d'une gorge sauvage saturée d'énergie brute non filtrée, le héros et un convoi de fuyards sont cernés par un bataillon de la Secte.
-  * Acculé face à la mort, au contact direct du flux primordial, le héros refuse d'abandonner ceux qui comptent sur lui.
-  * Il associe son obsession quotidienne (**GUIDER**), son geste martial d'escrime et ose l'impensable : au lieu d'appeler un dieu mort, il murmure **son propre nom mortel**.
-  * **Création Historique** : Pour la première fois depuis mille ans, un humain crée une Voie ex nihilo : **la 6ᵉ Voie : GUIDER**. Son sabre s'illumine d'un éclat d'éther pur capable de dévier les sorts et d'ouvrir des trajectoires invisibles. Il disperse l'armée ennemie et devient une légende vivante.
+### Acte II : La Cavale sous Nom d'Emprunt, La Filature du Convoi & Le Premier Sanctuaire
+* **Le Mercenaire au Nom d'Emprunt & L'Entraînement Libre** :
+  * Désormais banni et traqué par l'Académie, le héros adopte un **nom d'emprunt** (choisi par le joueur) pour opérer sous les radars et négocier ses contrats.
+  * Pour financer sa traque et survivre sur les routes, il loue ses services de mercenaire. 
+  * **Gameplay Hybride (Sabre, Sorts & Passifs)** : Grâce au grimoire complet volé, le joueur ne se bat pas seulement au sabre : il débloque et combine de puissants **sorts actifs** et des **passifs magiques** propres à sa branche (déviations amplifiées, projectiles d'éther, altérations élémentaires, ondes telluriques).
+* **La Filature du Convoi de « Pèlerins »** :
+  * Grâce à des informateurs du milieu criminel et des contrebandiers, le héros localise l'équipe d'inquisiteurs escortant les fidèles choisis.
+  * **Infiltration & Pistage** : Au lieu d'une attaque frontale suicidaire, le héros prend discrètement le convoi en filature à travers les défilés rocheux et les terres sauvages.
+  * Sans le savoir, l'escorte le mène directement à l'emplacement le mieux gardé de la région : **la porte scellée du Premier Sanctuaire Caché**, dissimulée dans les entrailles de la terre.
+* **L'Infiltration du Sanctuaire & Le Rituel de la Fausse Grâce** :
+  * Le héros s'infiltre dans la nef souterraine dans le sillage du convoi.
+  * **La Scène du Rituel** : Les fidèles sont sincères, en larmes, agenouillés et chantant des cantiques, persuadés de recevoir une bénédiction suprême.
+  * Les inquisiteurs ouvrent les vannes de flux : la fosse centrale s'illumine. Au fond, une masse de chair titanesque, difforme et en décomposition — **le Corps Maudit** — s'agite dans des râles d'agonie.
+  * Des racines d'éther s'abattent sur les pèlerins pour siphonner leur force vitale et leur sang, les desséchant vivants pour apaiser la carcasse.
+* **L'Intervention & Le Choc Théologique (La Naissance de la Haine)** :
+  * Écœuré par cette abjection, le héros bondit sabre au clair et déchaîne ses sorts pour massacrer l'équipe d'inquisiteurs et sauver les derniers survivants.
+  * En contemplant les bannières sacrées, les runes d'or et les autels autour de la fosse, la vérité lui éclate aux yeux : **cette monstruosité nourrie de sang humain EST la divinité qu'il priait à l'Académie**.
+  * Les dieux ne sont pas des esprits célestes bienveillants : ce sont des cadavres sous perfusion de sang qui pourrissent pour maintenir le monopole magique de l'institution.
+* **Les 4 Règles & La Naissance de la 6ᵉ Voie** :
+  * Sur les parois mégalithiques antiques qui emprisonnent le corps, il découvre les gravures originelles oubliées détaillant les 4 conditions pour créer une Voie.
+  * Acculé face au réveil violent de la fosse saturée de flux brut non filtré, refusant d'invoquer ce cadavre, le héros murmure **son véritable nom mortel**.
+  * **L'Éveil** : Il force le flux et crée sa propre Voie. Il terrasse le Corps Maudit, éteignant d'un coup le premier filtre et la magie divine de toute la province.
 
 ---
 
