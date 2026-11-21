@@ -4,39 +4,55 @@
 
 ---
 
-## 1. La Géographie Fracturée du Monde
+## 1. La Géographie du Monde
 
-### A. Le Continent Scellé (L'Éden Fortifié)
-* **La Terre des Sanctuaires** : C'est le continent où reposent les stations géographiques de l'ancien Sceau de Noah et les cryptes des Cinq Précurseurs.
-* **Le Goutte-à-Goutte Magique** : L'énergie résiduelle qui filtre du Sceau fertilise la terre, décuple la pousse des récoltes et engendre des filons de métaux arcaniques. C'est une terre d'opulence jalousement gardée par la noblesse et les clergés des Cinq Écoles.
-* **Accès Interdit** : Traverser les océans pour atteindre ce continent est un privilège d'État ou une folie de naufragé.
+### E. Le Sceau
+* **Origine** : En -2000 de la frise, l'energie et les creatures sont omniprésente sur Terre. Dans des conditions de vie instable, les humains tentent de porsperer. C'est dans ces terres sans soleil que le premier sorcier voit le jour en créant son sort le plus puissant, une danse qui à enfermé toute l'energie dans les Limbes derriere un Sceau.
+* **Rituel** : Le rituel derriere cette prouesse est d'une complexité telle que plus tard, il ne sera jamais entièrement compris par quiquonque. il s'agit de 7 mouvements du corps et de l'ame qui s'étale sur un pèlerinnage autour de la Terre Entiere et se répète sur le lieu d'accumulation de toute l'énergie choisit par le septième, Le continent du jeu. 
+* **Fuites** : ce sceau n'était pas hermetique, il laissait une petite quantité d'énergie se libérer
+ 
 
-### B. Les Terres Extérieures (L'Exil Oublié)
-* **Le Tiers-Monde d'Abandon** : Continents et archipels où les populations non-nobles ont été déportées lors de l'Ère du Voile Gris.
-* **Les Miasmes de Corruption** : Loin des stations de régulation, les résidus de flux magique stagnent et pourrissent l'air et l'eau. Les habitants y meurent de maladies respiratoires et de dégénérescences physiques incurables (le mal qui ronge la mère du héros).
+### A. Le Continent Scellé
+* **Le Continent** : C'est le continent où reposent les stations géographiques de l'ancien Sceau de Noah et les cryptes des Cinq Précurseurs.
+* **Abondance** : L'énergie filtre du Sceau fertilise la terre, décuple la pousse des récoltes et engendre des filons de métaux arcaniques. C'est une terre d'opulence jalousement convoitée différent royaumes et engendrera **la Course de jouisance**, une colonisation rapide de ce continent par plusieurs pays et groupuscule dès que ses ressources et son emplacement seront connu du monde, des siècles après la pose du **sceau**.
+* **Accès Difficile** : Traverser les océans pour atteindre ce continent est un privilège des plus riches voyageurs, des expedition d'État ou une folie d'aventurier ou de criminels.
 
-### C. Les Limbes (Le Miroir Intemporel)
-* **Nature du Plan** : Un océan de vide et d'énergie primordiale brute défiant l'espace et le temps. 
-* **Lois Temporelles** : Dans les Limbes, le passé, le présent et le futur coexistent comme des directions dans l'espace. L'énergie et l'information peuvent y être guidées d'un siècle à l'autre.
-* **Le Miroir de l'Âme** : Les Limbes agissent comme un miroir spectral du monde physique.
+### B. Les Terres Extérieures
+* **Le Tiers-Monde** : Terre d'origine des Royaumes présent sur le continent pendant et après la course de jouisance, ces terres sont peu a peu delaissé d'interet, et les ecart de classes augmentent. un bourgeois y vivra toujours confortablement mais les plus pauvres y souffrent réellement car les finances vont en majorité à l'interet de ce continent.
+* **Les restes de Corruption** : Après la fin de la premiere ère des sorciers, pour purifier le continent, les malades les moins grave ont été exilé sur les terrs exterieurs, donnant naissances à de très rares maladies incurable en dehors du continent. Ces maladies se propage rarement chez certaines personne et les soins sont exclusivement sur le continent, cependant les allers retours sont très couteux car très riqué.
+
+### C. Les Limbes
+* **Nature du Plan** : Un océan de vide et d'énergie primordiale brute défiant l'espace et le temps. Il se trouve de l'autre coté du **sceau** et est l'origine de l'énergie 
+* **Propriété** : Dans les Limbes, le passé, le présent et le futur coexistent comme des directions dans l'espace. L'énergie et l'information peuvent y être guidées d'un siècle à l'autre.
+* **Monde mirroir** : Les Limbes agissent comme un miroir spirituel du monde physique.
+
+
 
 ---
 
 ## 2. Les 4 Piliers Universels de Création d'une Voie
 
-Une Voie n'est pas une incantation magique artificielle : c'est **une loi physique et martiale imposée au chaos des Limbes par un être humain**. Pour qu'une nouvelle Voie prenne vie ex nihilo, quatre conditions absolues doivent être réunies :
+Une Voie est comparable a une dicipline d'art martiale. C'est le developpement d'un principe ajouté à l'utilisation de l'**énergie** des **Limbes**. On peut le voir comme **une loi imposée aux** Limbes par un être humain. Pour qu'une nouvelle Voie prenne vie, quatre conditions absolues doivent être réunies :
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
 │                   LES 4 PILIERS DE CRÉATION D'UNE VOIE                 │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 1. LE CARBURANT BRUT   : Être en contact direct avec l'Énergie Brute   │
-│                          des Limbes (au cœur de la faille).            │
-│ 2. L'ABSOLU INTÉRIEUR  : Un point de rupture psychologique ou une     │
-│                          obsession existentielle qui contraint le flux.│
-│ 3. LE GESTE MARTIAL    : Une chorégraphie physique incarnée au sabre.  │
-│ 4. L'ANCRAGE & LE NOM  : L'âme engendre son Double dans les Limbes et  │
-│                          scelle la Voie par son propre nom mortel.     │
+│ 1. L'ENERGIE           : Être en contact direct avec l'Énergie Brute   │
+│                          des Limbes (au cœur de la faille).            |
+|                                                                        │
+│ 2. LE SYMBOLE          : Un verbe, une action, une philosophie         |
+|                          caractérisitque du sorcier qu'il se doit      |
+|                          d'appliquer au quotidien sous peine de se     |
+|                          faire engloutir par sa propre voie            |
+|                                                                        |
+│ 3. LE GESTE            : Une image physique de cette symbolique.       |  
+|                                                                        │
+│ 4. L'Incantation       : Enfin l'énergie ne répond que par appel à un  |
+|                          être présent dans les limbes, des incantation |
+|                          a soi même et l'acces aux limbes permettent   |
+|                          de creer son double  |des limbes qui          |
+|                          repondra a son appel.                         |
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -59,5 +75,4 @@ Si le Sceau laissait fuiter de l'énergie, pourquoi le monde n'a-t-il pas vu na�
 
 * **L'Antenne dans les Limbes** : Quand un sorcier réussit les 4 Piliers, son âme se dédouble. Son **Double des Limbes** prend vie de l'autre côté du miroir.
 * **Le Circuit de Résonance** : Le corps physique reste dans le monde réel, et les incantations sont des adresses résonantes vers son Double pour puiser de la puissance sans dégénérescence.
-* **Règle Martiale Fondatrice pour le Joueur** :  
-  En combat, le héros se bat **100% seul au sabre**. Le Double des Limbes est une ancre métaphysique (justifiant son éveil en cellule, sa résistance à la corruption et la transmission du journal vers le passé), mais **il n'est en aucun cas une invocation, un familier ou un combo-buddy sur le champ de bataille**.
+* **L'incantation à une autre figure** : Incanter une figure non présente dans les Limbes résultent en des conséquences énorme et dangereuse. Cependant, pour se servir de la magie d'une figure présente il suffit d'entrainer son corps, son esprit, intégrer l'aspect technique de la voie et du sort, et enfin d'appeler la figure existante. C'est comme ça que les 5 ont inventé et popularisé la Magie

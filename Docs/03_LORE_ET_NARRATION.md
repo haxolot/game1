@@ -22,28 +22,28 @@ Le jeu propose une aventure d'escrime au sabre exigeante et nerveuse (esprit *Se
 ## 2. Les Âges Anciens : Le Péché Originel (-2000 ans à aujourd'hui)
 
 ### A. Le Sceau de Noah et la Fuite Intentionnelle (-2000 ans)
-À l'origine, la Terre ne connaît pas la magie. Une brèche colossale s'ouvre vers les Limbes, déversant une énergie brute cataclysmique. Au bord de l'extinction, un érudit nommé **Noah** parvient à forger un verrouillage monumental : **Le Sceau**. Il disparaît dans les Limbes et ne laisse qu'une signature énigmatique : *« Le Septième »*.
-
-**Le secret tragique de Noah** :  
-Noah n'a pas scellé la faille par hasard. Il a reçu à travers les Limbes un journal intime jauni venu du futur, contenant les techniques physiques pour dompter l'énergie. Comprenant la boucle causale, **Noah a volontairement laissé fuiter un filet résiduel d'énergie**. Il savait que si le Sceau était hermétique à 100%, la magie ne naîtrait jamais sur Terre, personne n'inventerait ces techniques, et le héros ne pourrait jamais le sauver depuis le futur.  
-*C'est cette fuite intentionnelle laissée par Noah il y a 2000 ans qui engendre les miasmes toxiques et la maladie mortelle de la mère du héros.*
-
+À l'origine, la Terre ne connaît pas la magie. Une brèche colossale s'ouvre vers les Limbes, déversant une énergie brute cataclysmique et des créatures monstrueuses sur des terres sans soleil. Au bord de l'extinction, un érudit nommé **Noah** parvient à forger un verrouillage monumental : **Le Sceau**. 
+* **Le Pèlerinage Planétaire** : Ce rituel aux 7 mouvements s'étale sur un pèlerinage autour du globe, avant de se répéter sur le lieu d'accumulation de toute l'énergie mondiale choisi par Noah : **le Continent Scellé**.
+* **Le Secret Tragique de Noah** : Noah n'a pas scellé la faille par hasard. Il a reçu à travers les Limbes un journal intime jauni venu du futur, contenant les techniques physiques pour dompter l'énergie. Comprenant la boucle causale, **Noah a volontairement laissé fuiter un filet résiduel d'énergie**. Il savait que si le Sceau était hermétique à 100%, la magie ne naîtrait jamais sur Terre, personne n'inventerait ces techniques, et le héros ne pourrait jamais le sauver depuis le futur.  
+*C'est cette fuite intentionnelle laissée par Noah il y a 2000 ans qui engendre les miasmes et la maladie mortelle de la mère du héros.*  
 Son esprit s'éteint dans les Limbes après un transfert prolongé, tandis que sa dépouille matérielle demeure sur Terre.
 
-### B. L'Ascension des Cinq Génies & La Guerre d'Un An (-1500 à -800 ans)
-Au fil des siècles, la fuite d'énergie baigne la terre. Mais seul un éther très dilué circule dans l'air, insuffisant pour créer de nouveaux arts magiques. 
+### B. « La Course de Jouissance » & L'Ascension des Cinq (-1500 à -800 ans)
+Des siècles après Noah, la découverte des ressources inouïes du Continent Scellé (terres ultra-fertilisées par l'éther résiduel, minerais arcaniques) déclenche **la Course de Jouissance** : une ruée coloniale frénétique où les différents royaumes des Terres Extérieures convergent pour piller et s'approprier le continent.
 
-Cinq pionniers d'exception découvrent l'emplacement secret du Sceau de Noah et bravent le seuil mortel du flux brut. Par leur génie martial et scientifique, **ils forgent de leurs propres mains les Voies 1 à 5** (*Aspirer, Altérer, Condenser, Accélérer, Projeter*). 
+Au milieu de cette ruée, **cinq pionniers d'exception** découvrent l'emplacement secret du Sceau de Noah et bravent le seuil mortel du flux brut. En appliquant un Symbole philosophique absolu à leur quotidien sous peine d'être engloutis, **ils forgent de leurs propres mains les Voies 1 à 5** (*Aspirer, Altérer, Condenser, Accélérer, Projeter*). 
 
-Rongés par l'orgueil, ils barricadent le sanctuaire, s'autoproclament dieux et fondent leurs Cinq Écoles. Une guerre totale d'un an éclate entre eux pour le contrôle exclusif de la barrière, menaçant de faire exploser la Terre. Pour survivre, ils commettent l'irréversible :
-1. **Ils transmutent leur conscience dans les Limbes**, devenant des fausses divinités immortelles mais désincarnées.
+Pour populariser leur magie, ils fondent leurs Cinq Écoles et enseignent aux fidèles la technique martiale couplée à **l'incantation de leurs propres noms**, permettant aux mortels de puiser la force de leurs Doubles dans les Limbes.
+
+Rongés par l'orgueil, ils s'affrontent lors de la **Guerre d'Un An** pour le monopole absolu, menaçant de faire exploser la barrière. Pour survivre, ils commettent l'irréversible :
+1. **Ils transmutent leur conscience dans leur Double des Limbes**, devenant des fausses divinités immortelles mais désincarnées.
 2. **Ils offrent leurs corps de chair au Sceau**, les ancrant dans les cryptes comme filtres d'urgence. Saturés de flux brut et de prières fanatiques pendant des siècles, ces corps sont devenus des monstres grotesques : **les Corps Maudits**.
 
-### C. L'Ère du Voile Gris & La Secte des Gardiens (-800 ans à nos jours)
+### C. L'Ère du Voile Gris & La Réalité Économique (-800 ans à nos jours)
 Pour stabiliser le continent :
-* Les malades incurables sont drainés jusqu'à la dernière goutte dans les sanctuaires, pétrifiés à jamais en **statues de pierre grise**.
-* Les populations saines non nobles sont déportées au-delà des mers vers les **Terres Extérieures**, abandonnées dans la boue et les vapeurs toxiques.
-* **L'Organisation (la Secte)** naît dans l'ombre : elle veille sur les cryptes, exploite en secret la dépouille captive de Noah, et **bride méthodiquement les formules enseignées aux disciples** de génération en génération pour s'assurer que personne n'atteigne jamais le niveau des Cinq.
+* **La Purification Sanitaire** : Les malades incurables graves sont pétrifiés en statues de pierre grise pour alimenter le Sceau. Les malades les moins graves sont **exilés vers les Terres Extérieures**, donnant naissance à de très rares maladies incurables en dehors du continent (dont celle qui frappera la mère du héros).
+* **Le Tiers-Monde Délaissé** : Terres d'origine des royaumes colonisateurs, les Terres Extérieures voient tous leurs capitaux siphonnés vers le Continent Scellé. Les bourgeois y vivent confortablement, mais les classes populaires souffrent d'un abandon total et ne peuvent s'offrir les allers-retours maritimes exorbitants pour accéder aux soins.
+* **L'Organisation (la Secte)** : Née dans l'ombre, elle veille sur les cryptes, exploite en secret la dépouille captive de Noah, et **bride méthodiquement les formules enseignées aux disciples** de génération en génération pour s'assurer que personne n'atteigne jamais le niveau des Cinq.
 
 ---
 

@@ -6,10 +6,10 @@
 
 ## 1. Le Protagoniste (Le Sixième)
 
-* **Statut** : Un jeune homme strictement ordinaire issu des Terres Extérieures. Zéro sang royal, zéro prophétie.
-* **Moteur Intime** : Sauver sa mère agonisante rongée par les miasmes du Sceau. Il porte un marteau de travail et un carnet de bord vierge écrit sous forme de lettres pour elle.
+* **Statut** : Un jeune homme strictement ordinaire issu des classes populaires délaissées des Terres Extérieures. Zéro sang royal, zéro prophétie.
+* **Moteur Intime** : Sa mère agonise, frappée par l'une des rares maladies incurables issues de l'exil historique des malades de la Première Ère. Les soins n'existent que sur le Continent, mais sa famille n'a pas les finances colossales pour s'offrir le voyage officiel réservé aux bourgeois et nobles. Il prend la mer clandestinement avec son marteau de travail et son carnet de bord vierge rédigé sous forme de lettres pour elle.
 * **Style de Combat** : 100% escrime solo (sabre, déviations millimétrées, postures, hit-stops violents). Son Double des Limbes est son ancre métaphysique, mais **n'apparaît jamais pour combattre en duo**.
-* **Éveil** : Déduit par la logique le fonctionnement des adresses incantatoires en cellule et récite son propre nom mortel.
+* **Éveil en Cellule** : Selon la règle magique, incanter un nom absent des Limbes est létal. Mais quand le héros murmure son propre nom au cachot, cela fonctionne miraculeusement car son Double est déjà présent dans les Limbes intemporelles (écho temporel de sa complétion future de la Voie du Guide).
 
 ---
 

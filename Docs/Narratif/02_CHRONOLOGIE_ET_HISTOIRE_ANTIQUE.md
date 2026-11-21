@@ -8,13 +8,16 @@
 
 ```text
 -2000 ans : Cataclysmes de l'Énergie Primordiale ──> Arrivée du Journal du Futur ──> Noah forge le Sceau (Le Septième)
+            Pèlerinage planétaire en 7 mouvements ──> Focalisation sur le Continent Scellé
             Noah laisse fuiter le Sceau par nécessité causale ──> Mort de son esprit dans les Limbes
--1500 ans : Éther résiduel dilué ──> Les Cinq découvrent la source brute et forgent les Voies 1 à 5
-            Les Cinq barricadent l'accès au Sceau et fondent leurs 5 Écoles (Monopole d'État)
+-1500 ans : Éther résiduel dilué ──> Découverte du Continent ──> La « Course de Jouissance » (Colonisation)
+            Les Cinq découvrent la source brute et forgent les Voies 1 à 5 (Le Symbole au quotidien)
+            Les Cinq popularisent la magie par l'incantation de leurs noms et fondent les Cinq Écoles
  -800 ans : Guerre d'Un An entre les Cinq ──> Menace d'ouverture totale de la faille
             Transmutation des Cinq dans leurs Doubles ──> Leurs corps deviennent des filtres (Corps Maudits)
- -700 ans : Déportation des sains vers les Terres Extérieures ──> Domination de l'Organisation (la Secte)
-            La Secte bride méthodiquement les incantations populaires et exploite la dépouille de Noah
+ -700 ans : Purification sanitaire : exil des malades légers vers les Terres Extérieures (origine de la maladie rare)
+            Paupérisation des classes populaires des Terres Extérieures (capitaux détournés vers le Continent)
+            Domination de l'Organisation (la Secte) qui bride les incantations et exploite la dépouille de Noah
     0 an  : Présent du jeu (Arrivée du Héros, Journal Vierge en main, Voie du Guide)
 ```
 
@@ -22,38 +25,40 @@
 
 ## 2. Les Grandes Époques Antiques
 
-### Étape 1 : Le Chaos Primitif & Le Sceau de Noah (-2000 ans)
-* La Terre primitive ne possède pas de magie. Une fracture colossale déchire le monde et laisse déferler l'énergie des Limbes, menant l'humanité au bord de l'extinction.
-* Un chercheur anonyme nommé **Noah** tente de comprendre le flux. 
-* Guidé à travers le vide des Limbes, **le journal intime d'un homme du futur** atterrit entre ses mains. Noah y découvre la décomposition de 6 mouvements physiques purs et des lettres poignantes d'un fils pour sa mère.
-* Bouleversé par cette humanité, Noah assimile les 6 Voies et conçoit le geste manquant : **Le Sceau**. Il sauve le monde et signe son œuvre « Le Septième » en hommage à ce recueil venu de demain.
+### Étape 1 : Le Chaos Primitif, Le Pèlerinage & Le Sceau de Noah (-2000 ans)
+* La Terre primitive ne possède pas de magie. L'énergie brute et les créatures des Limbes déferlent sur une humanité précaire luttant pour sa survie sur des terres sans soleil.
+* Un chercheur nommé **Noah** émerge du chaos. Guidé à travers le vide des Limbes, **le journal intime d'un homme du futur** lui parvient, détaillant 6 mouvements physiques purs et des lettres émouvantes pour sa mère.
+* Comprenant la chorégraphie universelle, Noah invente le geste manquant : **Le Sceau**.
+* **Le Pèlerinage des 7 Mouvements** : Cette danse rituelle monumentale s'étale sur un pèlerinage autour de la Terre entière, et se répète au point de convergence choisi par Noah pour sceller toute l'énergie du monde : **Le Continent Scellé (le lieu du jeu)**.
+* Il signe « Le Septième » en hommage au carnet reçu du futur.
 
-### Étape 2 : La Fuite Intentionnelle (La Tragédie Liée à la Mère)
-* Noah comprend l'effroyable équation causale : *s'il verrouille la faille à 100%, toute magie disparaît de la Terre*. Les Cinq Génies ne naîtront jamais, n'inventeront jamais leurs Voies, et le héros ne pourra jamais lui envoyer ce carnet de sauvetage.
+### Étape 2 : La Fuite Intentionnelle (La Causalité Liée à la Mère)
+* Noah comprend l'équation temporelle : *s'il verrouille la faille à 100%, toute magie disparaît de la Terre*. Les futurs sorciers ne naîtront jamais, n'inventeront jamais leurs Voies, et le héros ne pourra jamais lui envoyer ce carnet de sauvetage.
 * **Pour que le futur existe, Noah laisse volontairement fuiter un filet résiduel d'énergie**.
-* C'est cette fuite nécessaire qui fertilisera le Continent Scellé, mais qui causera 2000 ans plus tard les miasmes toxiques des Terres Extérieures et **la maladie mortelle de la mère du héros**.
-* L'esprit de Noah meurt dans les Limbes après un transfert trop long. Son corps matériel reste sur Terre, capturé par une cabale secrète.
+* L'esprit de Noah meurt dans les Limbes après un transfert prolongé pour ancrer le Sceau. Son corps physique matériel demeure sur Terre, capturé par une cabale secrète.
 
-### Étape 3 : L'Ascension des Cinq Génies (-1500 à -1000 ans)
-* Des siècles plus tard, cinq pionniers d'une trempe physique et intellectuelle monstrueuse découvrent l'emplacement secret du Sceau de Noah.
-* Ils survivent au contact du flux brut et **forgent de leurs propres mains les Voies 1 à 5** :
-  1. **Vaelen** : La Voie de l'Absorption (*Aspirer*).
-  2. **Kaelis** : La Voie de la Transmutation tranchante (*Altérer*).
-  3. **Gorath** : La Voie de la Gravité et de la Densité (*Condenser*).
-  4. **Lyra** : La Voie de la Vélocité sans friction (*Accélérer*).
-  5. **Malakor** : La Voie de la Projection à distance (*Projeter*).
-* Ils vivent dans leur corps de chair et s'auto-invoquent via leur Double. Ils barricadent la faille et fondent leurs Cinq Écoles pour asseoir leur monopole.
+### Étape 3 : « La Course de Jouissance » & L'Ascension des Cinq (-1500 à -1000 ans)
+* Des siècles après la pose du Sceau, l'emplacement et les richesses du Continent Scellé (terres ultra-fertilisées par l'éther, filons de métaux arcaniques) sont révélés au monde.
+* **La Course de Jouissance** : Les différents royaumes des Terres Extérieures se lancent dans une colonisation frénétique du Continent, y déplaçant leurs armées, leurs cours et leurs élites.
+* Au milieu de cette ruée, **cinq pionniers d'exception** découvrent l'emplacement secret du Sceau et bravent le seuil mortel du flux pur.
+* **La Création des Voies 1 à 5** : Chacun d'eux choisit un Symbole philosophique qu'il applique au quotidien sous peine d'être englouti, forgeant son art martial propre :
+  1. **Vaelen** : *Aspirer* (obsession du manque).
+  2. **Kaelis** : *Altérer* (recherche de la perfection du tranchant).
+  3. **Gorath** : *Condenser* (volonté de stabiliser et d'écraser le chaos).
+  4. **Lyra** : *Accélérer* (fuite en avant perpétuelle).
+  5. **Malakor** : *Projeter* (ambition de domination à distance).
+* **Comment ils ont popularisé la Magie** : En créant leur Voie, les Cinq ont engendré leur Double dans les Limbes. Ils ont fondé les **Cinq Écoles** et enseigné aux mortels la technique du geste, couplée à **l'incantation de leurs propres noms** pour que les fidèles puissent puiser la magie à travers leurs Doubles.
 
 ### Étape 4 : La Guerre d'Un An & Le Sacrifice des Cinq (-800 ans)
-* Rongés par l'orgueil, les Cinq s'affrontent pendant un an pour le contrôle exclusif de la faille. Leurs ponctions démesurées font craquer le Sceau qui menace de s'ouvrir totalement.
-* Pour ne pas périr avec la planète, les Cinq posent un geste irréversible :
-  1. **Transmutation dans le Double** : Ils transfèrent définitivement leur conscience dans leur Double des Limbes, devenant des faux dieux immortels.
+* L'orgueil des Cinq embrase le continent dans une guerre totale d'un an pour le monopole de la barrière. La ponction menace de faire sauter le Sceau.
+* Devant l'anéantissement de la Terre, les Cinq posent un geste désespéré :
+  1. **Transmutation dans le Double** : Ils transfèrent définitivement leur esprit dans leur Double des Limbes, devenant des faux dieux immortels mais désincarnés.
   2. **Leurs Corps comme Filtres d'Urgence** : Ils offrent leurs corps charnels terrestres au Sceau. Ancrés dans les sanctuaires, ces corps deviennent des filtres de matière. Au fil des siècles de filtrage et de prières fanatiques, ils dégénèrent en **monstruosités corrompues (les Corps Maudits / mini-boss)**.
 
-### Étape 5 : L'Ère du Voile Gris & La Secte des Gardiens (-700 ans à nos jours)
-* **Les Statues de Pierre** : Pour stabiliser l'édifice, les faibles et les incurables sont drainés de leur essence vitale, pétrifiés en statues grises dans les cryptes.
-* **L'Exil** : Les populations saines non nobles sont refoulées vers les Terres Extérieures.
-* **La Naissance de la Secte (L'Organisation)** :
-  * Elle veille sur les sanctuaires des cinq Corps Maudits et élimine les érudits dissidents.
-  * **Elle bride méthodiquement les incantations populaires** de siècle en siècle pour qu'aucun mortel n'égale jamais les Cinq.
-  * En secret absolu, **elle garde et exploite la dépouille matérielle de Noah**, siphonnant son énergie pour asseoir sa domination occulte.
+### Étape 5 : L'Ère du Voile Gris & La Réalité Économique (-700 ans à nos jours)
+* **La Purification Sanitaire & L'Origine de la Maladie** : Pour assainir le continent après la guerre, les malades incurables graves sont pétrifiés en statues de pierre dans les cryptes pour alimenter le verrouillage. Les malades les moins graves, eux, sont **exilés vers les Terres Extérieures**. Ces séquelles de corruption donnent naissance à de très rares maladies incurables dans les terres d'exil (dont celle qui frappera la mère du héros des siècles plus tard). Les soins n'existent que sur le continent, mais le voyage est hors de prix.
+* **Le Tiers-Monde Économique** : Terres d'origine des royaumes colonisateurs, les Terres Extérieures sont délaissées. Les budgets et capitaux sont tous siphonnés vers le Continent Scellé. Les riches marchands y vivent bien, mais les classes populaires et paysannes croupissent dans la misère.
+* **L'Organisation des Gardiens (La Secte)** :
+  * Elle veille sur les sanctuaires des cinq Corps Maudits et élimine les dissidents.
+  * **Elle bride méthodiquement les incantations populaires** de siècle en siècle pour qu'aucun sorcier n'égale jamais les Cinq.
+  * En secret absolu, **elle garde et exploite la dépouille matérielle de Noah**, siphonnant son énergie pour asseoir son autorité politique occulte.

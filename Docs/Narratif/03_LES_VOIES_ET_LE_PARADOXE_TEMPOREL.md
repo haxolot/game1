@@ -27,9 +27,9 @@
 
 Contrairement aux boucles temporelles creuses où "personne n'a rien inventé", chaque acteur a ici un rôle créateur historique légitime :
 
-1. **Les Cinq Génies** : Ont inventé de toutes pièces les **Voies 1 à 5** par recherche expérimentale au contact du Sceau.
-2. **Le Héros (Le Sixième)** : Affronte les Cinq, décortique leurs arts au sabre dans son carnet, et forge la **Voie 6 (Le Guide)** : l'art de donner et de transmettre sans rien garder pour soi (ce dont les Cinq, purement égocentriques, étaient incapables).
-3. **Noah (Le Septième)** : Reçoit ce recueil depuis le futur, apprend les 6 mouvements décrits par le héros et les Cinq, et forge la **Voie 7 (Le Sceau)** pour sauver le monde antique.
+1. **Les Cinq Génies** : Ont inventé de toutes pièces les **Voies 1 à 5** en atteignant la source brute au sanctuaire originel et en incarnant un Symbole philosophique absolu au quotidien (Aspirer, Altérer, Condenser, Accélérer, Projeter).
+2. **Le Héros (Le Sixième)** : Affronte les Cinq, décortique leurs arts au sabre dans son carnet, et forge la **Voie 6 (Le Guide)** : il applique son propre Symbole (transmettre et donner pour sa mère sans rien garder pour soi), ce qui lui permet de créer son Double sans être dévoré par la corruption.
+3. **Noah (Le Septième)** : Reçoit ce recueil depuis le futur, apprend les 6 mouvements décrits par le héros et les Cinq, accomplit le pèlerinage planétaire et forge la **Voie 7 (Le Sceau)** pour enfermer toute l'énergie dans les Limbes.
 
 ---
 
