@@ -26,11 +26,27 @@
 ## 2. Les Grandes Époques Antiques
 
 ### Étape 1 : Le Chaos Primitif, Le Pèlerinage & Le Sceau de Noah (-2000 ans)
-* La Terre primitive ne possède pas de magie. L'énergie brute et les créatures des Limbes déferlent sur une humanité précaire luttant pour sa survie sur des terres sans soleil.
-* Un chercheur nommé **Noah** émerge du chaos. Guidé à travers le vide des Limbes, **le carnet intime d'un homme du futur** (le héros) lui parvient, détaillant 6 mouvements physiques purs, des lettres émouvantes pour sa mère, et une consigne secrète sur l'endroit où ériger son sanctuaire.
-* Comprenant la chorégraphie universelle, Noah invente le geste manquant : **Le Sceau**.
+**La Terre primitive ne possède pas de magie. L'énergie brute et les créatures des Limbes déferlent sur une humanité précaire luttant pour sa survie.**
+
+L'énergie prend la forme de tempêtes et de cataclysmes imprévisibles : la densité varie, la masse change sans règle. Parfois des terres sont épargnées durant des décennies, puis d'un jour à l'autre, elles deviennent inhabitables et mortelles.
+
+En ces temps primitifs, Noah n'était qu'un simple voyageur en quête d'une terre sécurisée pour son village, égaré sur des terres sans soleil. Pris au piège d'un cyclone d'énergie brute qui déchirait le ciel, il survécut quarante jours terré sous un abri de fortune, au seuil même de la folie et de la dissolution.
+
+Durant ces six semaines d'agonie, chaque matin, une silhouette venait s'asseoir près de lui dans ses songes. Une voix d'homme, calme et familière, lui parlait pour couvrir le fracas du tonnerre et l'empêcher de sombrer.
+
+La dernière nuit, la voix s'adoucit une ultime fois : elle le remercia d'avoir tenu bon, d'avoir été si résilient pour le monde à venir. L'homme lui laissa un carnet noirci d'écriture et murmura une promesse avant de s'effacer :
+
+> *« Retrouve-moi par-delà les mers et par-delà les cieux. Tu m'as appelé, donc j'ai répondu. Et tu m'as répondu car je vais t'appeler. J'ai toujours placé ma confiance en toi, alors crois en moi mon ami. »*  
+> — *Signé : Le Guide, 6.*
+
+Quand Noah s'éveilla, la tempête s'était tue. Entre ses mains brûlées reposait le carnet.
+
+**Douze ans.** Douze ans qu'il cherche à rejoindre le Guide. Douze ans qu'il étudie ce livre. Sa famille est saine et sauve et vit désormais sur le Continent ; son ancien village a été annihilé par le flux peu après leur départ. Douze ans qu'il vit grâce à cet homme. Il étudie un livre d'une complexité inimaginable pour quiconque à son époque, rédigé en plus dans une langue qui n'existe pas... pas encore.
+
+Décryptant peu à peu les 6 mouvements physiques purs et les lettres poignantes destinées à la mère du Guide, Noah comprend la chorégraphie universelle et forge le geste manquant pour sauver la Terre : **Le Sceau**.
+
 * **Le Pèlerinage des 7 Mouvements** : Cette danse rituelle monumentale s'étale sur des années autour de la Terre entière, et se répète au point de convergence choisi par Noah pour sceller toute l'énergie du monde : **Le Continent Scellé (le lieu du jeu)**.
-* Il signe « Le Septième » en hommage au carnet reçu du futur.
+* Il signe « Le Septième » en hommage au carnet reçu du Guide.
 
 ### Étape 2 : La Fuite Intentionnelle & Le Secret des Témoins Primitifs
 * **La Causalité Liée à la Mère** : Noah comprend l'équation temporelle : *s'il verrouille la faille à 100%, toute magie disparaît de la Terre*. Les futurs sorciers ne naîtront jamais, n'inventeront jamais leurs Voies, et le héros ne pourra jamais lui envoyer ce carnet de sauvetage. Pour que le futur existe, **Noah laisse volontairement fuiter un filet résiduel d'énergie**.

@@ -15,9 +15,10 @@
 
 ## 2. Noah (Le Septième)
 
-* **Statut** : Le premier mortel à avoir manipulé la magie en -2000 ans.
-* **Rôle** : Sauvé par le journal intime envoyé du futur par le héros, il a inventé la 7ème Voie (*Sceller*) et sauvé la Terre primitive.
-* **Le Sixième Sanctuaire** : Suivant les instructions écrites du héros, il a bâti son propre sanctuaire dans les profondeurs souterraines sous la future ville natale du héros dans les Terres Extérieures, y dissimulant son carnet usé et une fresque intacte immortalisant les Voies futures.
+* **Statut** : Le premier mortel à avoir manipulé l'énergie en -2000 ans. À l'origine, un simple voyageur nomade cherchant une terre d'accueil sécurisée pour son village menacé.
+* **L'Épreuve du Cyclone & Le Don du Guide** : Piégé quarante jours dans un cyclone d'énergie brute, il survit grâce aux visites oniriques d'un homme du futur (le héros) qui veille sur son agonie pendant 6 semaines. À son réveil, il découvre le carnet du héros avec la dédicace : *« Retrouve-moi par-delà les mers et par-delà les cieux. Tu m'as appelé, donc j'ai répondu. Et tu m'as répondu car je vais t'appeler. J'ai toujours placé ma confiance en toi, alors crois en moi mon ami. Signé : Le Guide, 6. »*
+* **Douze Ans d'Étude Clandestine** : Noah met sa famille à l'abri sur le Continent (son ancien village étant annihilé peu après). Pendant 12 ans, il étudie ce livre d'une complexité vertigineuse, rédigé dans une langue qui n'existe pas encore. Il décrypte les 6 mouvements et forge la 7ème Voie (*Sceller*).
+* **Le Sixième Sanctuaire** : Suivant les instructions écrites du Guide, il a bâti son propre sanctuaire dans les profondeurs souterraines sous la future ville natale du héros dans les Terres Extérieures, y dissimulant son carnet usé et une fresque intacte immortalisant les Voies futures.
 * **Destin Tragique** : A sciemment laissé une fuite au Sceau pour que la magie naisse et que la causalité existe. Mort d'un transfert trop prolongé dans les Limbes. Son corps physique matériel est exploité en secret par la Secte sur le Continent.
 
 ---

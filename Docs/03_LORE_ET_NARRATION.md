@@ -22,14 +22,22 @@ Le jeu propose une aventure d'escrime au sabre exigeante et nerveuse (esprit *Se
 ## 2. Les Âges Anciens : Le Péché Originel (-2000 ans à aujourd'hui)
 
 ### A. Le Sceau de Noah, les Témoins Primitifs et le Sanctuaire Oublié (-2000 ans)
-À l'origine, la Terre ne connaît pas la magie. Une brèche colossale s'ouvre vers les Limbes, déversant une énergie brute cataclysmique et des créatures monstrueuses sur des terres sans soleil. Au bord de l'extinction, un érudit nommé **Noah** parvient à forger un verrouillage monumental : **Le Sceau**. 
+À l'origine, la Terre ne connaît pas la magie. Une brèche colossale s'ouvre vers les Limbes, déversant une énergie brute cataclysmique et des créatures monstrueuses sur des terres sans soleil. L'énergie frappe par cyclones et tempêtes imprévisibles, rendant les contrées inhabitables du jour au lendemain.
+
+Au bord de l'extinction, un simple voyageur nomade nommé **Noah** cherche désespérément une terre sécurisée pour sauver son village. Pris au piège d'un cyclone d'énergie brute qui déchire le ciel, il survit 40 jours terré sous un abri de fortune. Durant ces six semaines d'agonie, une silhouette vient s'asseoir à son chevet chaque matin dans ses songes : une voix d'homme, calme et familière, lui parle pour couvrir le tonnerre et lui donner la force de tenir. La dernière nuit, l'homme lui laisse un carnet noirci d'écriture et murmure :
+> *« Retrouve-moi par-delà les mers et par-delà les cieux. Tu m'as appelé, donc j'ai répondu. Et tu m'as répondu car je vais t'appeler. J'ai toujours placé ma confiance en toi, alors crois en moi mon ami. Signé : Le Guide, 6. »*
+
+À son réveil, la tempête s'est tue et le carnet repose entre ses mains brûlées.
+
+Pendant **douze ans**, Noah étudie ce livre d'une complexité inouïe, rédigé dans une langue qui n'existe pas encore. Sa famille est sauvée et installée sur le Continent (son village ayant été rayé de la carte peu après). Comprenant la chorégraphie universelle des 6 mouvements et des lettres poignantes destinées à la mère du Guide, Noah forge le geste manquant : **Le Sceau** (signant « Le Septième »).
+
 * **Le Pèlerinage Planétaire** : Ce rituel aux 7 mouvements s'étale sur des années autour du globe, avant de se répéter sur le lieu de convergence choisi par Noah pour sceller toute l'énergie mondiale : **le Continent Scellé**.
-* **Le Secret Tragique de Noah** : Noah a reçu à travers les Limbes le carnet intime venu du futur du héros. Comprenant la boucle temporelle, **Noah a volontairement laissé fuiter un filet résiduel d'énergie**. Il savait que si le Sceau était étanche à 100%, la magie disparaîtrait, personne n'inventerait les Voies, et le héros ne pourrait jamais lui envoyer ce carnet de sauvetage. *C'est cette fuite intentionnelle qui engendre les miasmes et la maladie rare de la mère.*
+* **Le Secret Tragique de Noah** : Comprenant la boucle temporelle, **Noah a volontairement laissé fuiter un filet résiduel d'énergie**. Il savait que si le Sceau était étanche à 100%, la magie disparaîtrait, personne n'inventerait les Voies, et le Guide ne pourrait jamais lui envoyer ce carnet de sauvetage. *C'est cette fuite intentionnelle qui engendre les miasmes et la maladie rare de la mère.*
 * **Les Témoins Primitifs & L'Érosion Archéologique** :
   * Durant le pèlerinage de Noah, les autochtones primitifs ont immortalisé ses danses rituelles dans des sculptures et mégalithes sans comprendre la magie.
   * Avec les siècles, la langue ancienne a disparu. Les ruines n'indiquaient plus que **la méthode** (associer un Symbole de vie quotidien à l'énergie brute), mais **jamais quelles Voies avaient été créées**, les gestes s'étant érodés.
 * **Le Sixième Sanctuaire Enfoui sous la Ville Natale** :
-  * Conformément à la consigne secrète laissée par le héros dans son carnet, Noah a érigé son sanctuaire ultime (le Sixième) **hors du continent, dans les Terres Extérieures, en souterrain sous la ville natale du héros**.
+  * Conformément à la consigne secrète laissée par le Guide dans son carnet, Noah a érigé son sanctuaire ultime (le Sixième) **hors du continent, dans les Terres Extérieures, en souterrain sous la ville natale du héros**.
   * C'est là que Noah a caché son **Journal Ancien contenant la 7ème Voie (*Le Sceau*)**.
   * Sous la roche urbaine, **une fresque monumentale est restée intacte**, immortalisant d'avance les Voies des Cinq et la silhouette du Sixième. Les Cinq et la Secte, focalisés sur le Continent Scellé, n'ont jamais découvert ce lieu.
 * L'esprit de Noah s'éteint dans les Limbes après un transfert prolongé, tandis que sa dépouille matérielle demeure sur Terre.
