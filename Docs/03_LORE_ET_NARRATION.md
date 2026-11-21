@@ -3,7 +3,7 @@
 > **Échelle du monde** : Le Monde Physique (Le Continent Scellé vs Les Terres Extérieures d'Exil) & Les Limbes (Le Plan Spirituel Intemporel).  
 > **Studio créateur** : Haxolot.  
 > **Genre & Tonalité** : Action-RPG Sekiro-like 2D, Tragédie Métaphysique, Boucle Temporelle et Rupture de Déterminisme.  
-> **Document de Référence Maître** : Rédigé selon la vision canonique intégrale (excluant toute proposition divergente).
+> **Document de Référence Maître** : Rédigé selon la vision canonique intégrale.
 
 ---
 
@@ -13,28 +13,37 @@
 ┌────────────────────────────────────────────────────────────────────────┐
 │                      L'ÉPOPÉE DU SIXIÈME ET DU SEPTIÈME                │
 ├────────────────────────────────────────────────────────────────────────┤
-│ • LA LOI DES VOIES & DU DÉDOUBLEMENT : Créer une Voie projette l'esprit│
-│   dans les Limbes. Les incantations sont des formules de résonance     │
-│   avec son propre double spirituel pour puiser l'énergie.              │
+│ • LES 4 PILIERS DE CRÉATION D'UNE VOIE :                               │
+│   1. Le Carburant : Contact direct avec l'Énergie Brute des Limbes     │
+│      (seuil mortel à 99,9% ; la brume diluée ambiante ne suffit pas). │
+│   2. L'Absolu Intérieur : Une obsession ou rupture existentielle pure  │
+│      qui plie le chaos (peur du manque, perfection, transmission...). │
+│   3. Le Geste Martiale : Une chorégraphie physique incarnée au sabre.  │
+│   4. L'Ancrage : Naissance du Double dans les Limbes et baptême par le │
+│      nom propre de son créateur.                                       │
 │                                                                        │
 │ • LE SEPTIÈME (Noah - 1er Chronologique) : Le pionnier de la magie     │
-│   ayant forgé le Sceau. Transféré dans les Limbes, son esprit y est    │
-│   resté si longtemps qu'il y est mort. Son corps physique matériel,    │
-│   toujours intact, est exploité et siphonné par l'Organisation (la     │
-│   secte qui gouverne le continent dans l'ombre).                       │
+│   ayant forgé le Sceau. Il a LAISSÉ VOLONTAIREMENT FUIR LE SCEAU :     │
+│   sans fuite, la magie n'aurait jamais existé sur Terre, les Cinq      │
+│   n'auraient rien inventé, et le héros n'aurait pas pu le sauver du    │
+│   futur. Cette fuite intentionnelle est la cause des miasmes et de la  │
+│   maladie de la mère du héros. Son esprit est mort dans les Limbes ;   │
+│   son corps matériel est exploité en secret par la Secte.              │
 │                                                                        │
-│ • LES CINQ PRÉCURSEURS (1 à 5 - Arrivés après le Septième) : Cinq      │
-│   génies ayant créé chacun leur Voie. Leurs esprits ont été transférés │
-│   dans les Limbes pour régner en fausses divinités, tandis que leurs   │
-│   corps matériels abandonnés dans les cryptes sont devenus des         │
-│   catalyseurs / mini-boss corrompus (les Corps Maudits).              │
+│ • LES CINQ PRÉCURSEURS (1 à 5 - Véritables Créateurs) : Cinq génies    │
+│   ayant découvert la source du Sceau et forgé les Voies 1 à 5. Ils ont │
+│   vécu dans leur chair avec leur Double. Ce n'est qu'à la fin de la    │
+│   Guerre d'Un An qu'ils ont transmuté leur esprit dans les Limbes et   │
+│   offert leurs corps comme filtres au Sceau (les Corps Maudits).       │
 │                                                                        │
-│ • LE SIXIÈME (Le Protagoniste) : Un homme ordinaire portant un nom de  │
-│   mortel canonique (à définir), parti pour sauver sa mère mourante. Il │
-│   tient un simple journal de voyage rédigé sous forme de lettres pour  │
-│   elle. En créant la 6ème Voie (Le Guide), il maintient un lien        │
-│   conscient et bidirectionnel avec son Double des Limbes. Ses visions  │
-│   et son éveil en cellule proviennent de cette communication intime.   │
+│ • LE SIXIÈME (Le Protagoniste) : Un homme ordinaire parti pour sauver  │
+│   sa mère avec son journal intime. Il combat 100% seul au sabre (le    │
+│   Double est une ancre métaphysique, zéro invocation en combat). Il    │
+│   crée la 6ème Voie (Le Guide) pour transmettre le journal à Noah.     │
+│                                                                        │
+│ • LE RIVAL (La Voie Hérétique : ROMPRE) : Ami du héros qui, dans la    │
+│   Run Égoïste où le héros refuse de sceller pour sauver sa mère, forge │
+│   sa propre Voie inédite hors du destin pour sauver l'humanité.        │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -45,44 +54,46 @@
 ```text
 Chronométrie Antique :
 -2000 ans : Cataclysmes de l'Énergie Primordiale ──> Arrivée du Journal du Futur ──> Noah forge le Sceau (Le Septième)
-            Noah meurt dans les Limbes après un transfert prolongé ──> Son corps est capturé par la secte
--1500 ans : Premier Âge d'Abondance (Fuite résiduelle du Sceau, fertilité du continent)
--1000 ans : Les Cinq créent chacun leur Voie ──> Transfert de leurs esprits dans les Limbes (Fausses Divinités)
- -800 ans : Guerre d'Un An entre les Cinq ──> Leurs corps abandonnés deviennent des Catalyseurs Corrompus
- -700 ans : Déportation des sains vers les Terres Extérieures ──> Domination de l'Organisation de l'Ombre
+            Noah laisse fuiter le Sceau par nécessité causale ──> Mort de son esprit dans les Limbes
+-1500 ans : Éther résiduel dilué ──> Les Cinq découvrent la source brute et forgent les Voies 1 à 5
+            Les Cinq barricadent l'accès au Sceau et fondent leurs 5 Écoles (Monopole d'État)
+ -800 ans : Guerre d'Un An entre les Cinq ──> Menace d'ouverture totale de la faille
+            Transmutation des Cinq dans leurs Doubles ──> Leurs corps deviennent des filtres (Corps Maudits)
+ -700 ans : Déportation des sains vers les Terres Extérieures ──> Domination de l'Organisation (la Secte)
+            La Secte bride méthodiquement les incantations populaires et exploite la dépouille de Noah
     0 an  : Présent du jeu (Arrivée du Héros, Journal Vierge en main, Voie du Guide)
 ```
 
-### 1.1 L'Énergie Primordiale, Le Sceau et le Destin Tragique de Noah (-2000)
-À l'origine, une énergie primordiale brute venue des **Limbes** (le plan spirituel intemporel) circule dans le monde physique, déclenchant des cataclysmes incessants.
+### 1.1 L'Énergie Primordiale, Le Sceau et le Choix Tragique de Noah (-2000)
+À l'origine, une énergie brute colossale issue des **Limbes** ravage la planète.
 
-Au cœur de la crise, un chercheur nommé **Noah** tente désespérément de comprendre le flux. C'est alors qu'à travers le vide des Limbes, guidé par une force venue du futur, un artefact matériel surgit : **le journal intime d'un homme ordinaire**, jauni par le temps, consignant le récit d'un voyage et la décomposition de 6 mouvements physiques purs.
+Au milieu de l'apocalypse, un chercheur nommé **Noah** tente de comprendre le flux. À travers le vide intemporel des Limbes surgit un livre jauni : **le journal intime d'un homme du futur**, détaillant 6 mouvements physiques purs et des lettres poignantes adressées à une mère mourante.
 
-En étudiant ce journal venu de demain, Noah comprend le rituel complet. Il y ajoute son propre génie : il conçoit le 7ème geste, **Le Sceau**, et exécute la première **chorégraphie rituelle en 7 mouvements** pour verrouiller l'énergie. Sauvé par les écrits de cet anonyme du futur, Noah signe son œuvre « Le Septième » (ayant posé la 7ème Voie au sommet des 6 reçues).
+Touché par cette sincérité humaine, Noah assimile les 6 Voies physiques et invente le 7ème geste : **Le Sceau**. Il signe son œuvre « Le Septième » (ayant posé la 7ème Voie sur les 6 reçues).
 
-* **La Mort dans les Limbes et la Dépouille Exploitée** :  
-  Pour maintenir le verrouillage, l'esprit de Noah est transféré en profondeur dans les Limbes. Mais ce transfert spirituel dure si longtemps que **l'esprit de Noah finit par s'éteindre et mourir dans le vide**.  
-  Son corps physique matériel, privé de conscience mais gorgé d'énergie primordiale, demeure dans le monde réel. Une cabale d'érudits opportunistes — **l'Organisation (la secte)** — s'empare de ce corps sacré pour en exploiter la puissance et régenter le continent en coulisses.
+* **La Fuite Intentionnelle (La Causalité Liée à la Mère)** :  
+  Noah comprend une vérité effroyable : *s'il scelle la faille à 100%, toute magie disparaît de la Terre*. Les Cinq ne naîtront jamais, n'inventeront jamais leurs Voies, et le héros du futur ne pourra jamais lui envoyer ce carnet de sauvetage.  
+  Pour que le futur existe, **Noah choisit délibérément de laisser fuiter un filet résiduel d'énergie**. C'est cette fuite salvatrice mais toxique qui, 2000 ans plus tard, engendrera les miasmes des Terres Extérieures et **la maladie mortelle de la mère du héros**.
+* **La Mort dans les Limbes & La Dépouille Captive** :  
+  Pour maintenir l'ancrage, l'esprit de Noah s'enfonce dans les Limbes et finit par s'éteindre dans le vide. Son corps physique, gorgé d'énergie primordiale, demeure sur Terre et tombe sous la coupe d'une cabale occulte : **l'Organisation (la Secte)**.
 
-### 1.2 L'Ascension des Cinq Précurseurs & Le Dédoublement dans les Limbes (-1500 à -1000)
-Le Sceau de Noah stabilise le monde, mais un goutte-à-goutte résiduel continue d'irriguer le **Continent Scellé**. Cette terre devient un Éden fertile et riche en minerai, attirant les royaumes et les pionniers.
+### 1.2 Les Cinq Précurseurs : Le Génie et le Verrouillage du Savoir (-1500 à -1000)
+Pourquoi aucun autre sorcier n'a-t-il créé de Voie durant cette ère ?
+1. **La Brume Diluée vs L'Énergie Brute** : La fuite du Sceau n'irrigue le monde que d'un éther dilué. Il permet de petits sorts, mais n'a pas la densité critique pour forger une Voie.
+2. **Le Seuil Mortel** : Pour créer une Voie, il faut puiser à la source même du Sceau. 99,9% de ceux qui s'y sont risqués ont eu le corps calciné ou l'âme pulvérisée.
+3. **Le Génie Réel des Cinq** : Cinq pionniers d'exception découvrent l'emplacement secret du Sceau, survivent au contact du flux brut et **forgent de leurs mains les Voies 1 à 5** (*Aspirer, Altérer, Condenser, Accélérer, Projeter*).
+4. **Le Monopole Absolu** : Comprenant le danger de rivaux, les Cinq barricadent le sanctuaire, s'autoproclament dieux et fondent les **Cinq Écoles**, n'enseignant que des formules fermées et pré-mâchées pour formater les esprits.
 
-Chronologiquement arrivés bien après le Septième, **cinq individus d'exception** découvrent des fragments de la chorégraphie antique de Noah et créent chacun leur propre Voie magique (Voies 1 à 5).
-* **La Loi Métaphysique des Voies** : Créer une Voie impose un dédoublement. Leurs esprits sont transférés dans les Limbes, d'où ils contemplent le monde et régnent comme des **fausses divinités lointaines**.
-* **Les Corps Maudits (Mini-Boss Corrompus)** : Leurs enveloppes charnelles matérielles, abandonnées dans les sanctuaires du monde réel, continuent de servir de catalyseurs physiques. Saturés d'énergie brute et corrompus au fil des siècles, ces corps se métamorphosent en abominations martiales enchaînées dans les cryptes : les **Corps Maudits**.
+### 1.3 La Guerre d'Un An & Le Sacrifice des Cinq (-800)
+Les Cinq se déchirent pour le contrôle exclusif de la faille lors de la **Guerre d'Un An**. La ponction est si violente que le Sceau menace de s'ouvrir complètement.
+Devant la fin imminente du monde, les Cinq posent un geste désespéré :
+* **Ils transmutent définitivement leur conscience dans leur Double des Limbes**, devenant des esprits immortels régnant depuis le plan spirituel.
+* **Ils offrent leurs corps physiques terrestres au Sceau**, les ancrant dans les cryptes comme réceptacles d'incantations et filtres d'urgence. Saturés de flux brut et de prières fanatiques au fil des siècles, ces corps sont devenus les **Corps Maudits (mini-boss corrompus)**.
 
-### 1.3 L'Usurpation, La Guerre d'Un An & Le Voile Gris (-800)
-L'orgueil consume les Cinq. Refusant de partager le pouvoir, ils détournent le Sceau, accaparent le flux et fondent leurs Cinq Écoles officielles pour régner sur les peuples.
-* **La Guerre d'Un An** : Une guerre acharnée éclate entre les Cinq pour le contrôle absolu de la barrière.
-* **Le Monopole Incantatoire** : Depuis les Limbes, les Cinq imposent des formules magiques rigides : chaque prière récitée par les fidèles nourrit directement leur double spirituel à travers leurs catalyseurs matériels.
-
-### 1.4 Les Statues de Pierre, L'Exil & L'Organisation des Gardiens (-800 à -700)
-Pour colmater la brèche fragilisée par leur guerre sans sacrifier leurs propres vies, les Cinq appliquent une solution impitoyable :
-1. **Les Statues de Pierre** : Les malades incurables et les faibles sont drainés jusqu'à la dernière goutte dans les sanctuaires pour alimenter le verrouillage d'urgence, pétrifiés à jamais en statues de pierre grise.
-2. **L'Exil des Terres Extérieures** : Les populations saines mais non nobles sont chassées du continent et déportées au-delà des océans vers les **Terres Extérieures**, abandonnées dans la boue, la pauvreté et les miasmes diffus de corruption.
-3. **La Naissance de l'Organisation (La Secte)** : Née après la guerre des Cinq pour préserver jalousement les secrets d'antan (la dépouille captive de Noah, la vérité sur les Limbes et la supercherie des faux dieux).
-   * **L'Érosion Insidieuse des Sorts** : Au fil des siècles, la secte réduit petit à petit la puissance des incantations et des formules enseignées dans les académies des Cinq Écoles. En bridant méthodiquement le savoir magique transmis de génération en génération, elle s'assure qu'aucun mortel ne puisse jamais égaler les Cinq ni menacer l'hégémonie du continent.
-   * **L'Exploitation de la Dépouille de Noah** : Gardant le corps physique du Septième au cœur d'une crypte secrète inviolée, la secte en pompe l'énergie résiduelle pour asseoir sa domination occulte.
+### 1.4 L'Ère du Voile Gris & L'Organisation des Gardiens (-800 à -700)
+1. **Les Statues de Pierre** : Les malades incurables sont drainés dans les sanctuaires pour maintenir la barrière, figés à jamais en statues de pierre grise.
+2. **L'Exil des Terres Extérieures** : Les populations saines sont déportées au-delà des mers, abandonnées dans la boue et la corruption.
+3. **Le Travail de Sape de la Secte** : Née après la guerre des Cinq, la Secte protège la dépouille de Noah et bride méthodiquement, génération après génération, les sorts enseignés dans les académies pour qu'aucun mortel ne s'élève jamais.
 
 ---
 
@@ -90,117 +101,87 @@ Pour colmater la brèche fragilisée par leur guerre sans sacrifier leurs propre
 
 ```text
 Structure Narrativo-Gameplay :
-[Prologue] Naufrage sur les récifs ──> Traversée du Continent ──> Fontaine Captive ──> Fracas de la Statue
+[Prologue] Naufrage sur les récifs ──> Fontaine Captive ──> Fracas de la Statue
   │
-[Acte I] Cachot ──> Déduction Intellectuelle ──> Auto-invocation du Nom ──> Éveil du Double des Limbes
+[Acte I] Cachot ──> Déduction Intellectuelle ──> Nom Propre ──> Écho du Double des Limbes
   │
-[Actes II & III] La Marche des 5 Stations (Gameplay Sekiro 2D) :
-  ├── Palier 1 : Abattre le Corps Maudit (Mini-Boss Corrompu) ──> L'École s'éteint dans la province
-  ├── Usurpation : Graver son propre nom ──> Le culte est dévié vers le héros
+[Actes II & III] Marche des 5 Stations (Gameplay Sekiro 2D Solo au Sabre) :
+  ├── Palier 1 : Abattre le Corps Maudit (Mini-Boss Corrompu) ──> L'École s'éteint
+  ├── Choix d'Autel : Usurpation (Embrigadement) vs Voie Pure (Sans culte)
   └── Palier 2 : Duel Martial au Sabre contre l'Esprit Divin affamé descendu des Limbes
   │
-[Climax] Découverte du Vieux Journal de 2000 ans (Voie 7 : SCELLER) ──> Éveil de la Voie 6 (LE GUIDE)
+[Climax] Découverte du Vieux Journal de 2000 ans (Voie 7 : SCELLER) ──> Voie 6 (LE GUIDE)
 ```
 
 ### 2.1 Prologue : Le Naufrage d'un Homme Ordinaire
-Le protagoniste est un jeune homme issu de la misère des Terres Extérieures, portant un nom mortel simple (à définir). Sa mère est mourante, rongée par la corruption qui suinte de la mer. Refusant la fatalité, il embarque au péril de sa vie pour traverser l'océan interdit vers le Continent Scellé. Le navire se brise sur les récifs ; seul survivant, il s'échoue sur les côtes sans armes, avec pour unique possession un marteau de travail et son **journal de bord vierge**, conçu comme un recueil de lettres intimes et de croquis adressés à sa mère, lui promettant de consigner chaque pas de son périple.
+Le héros est un jeune homme ordinaire des Terres Extérieures, portant un nom mortel simple. Sa mère agonise, les poumons rongés par la corruption. Refusant sa mort, il prend la mer avec son marteau de mineur et son **journal de bord vierge**, recueil de lettres et de croquis adressés à sa mère. Naufrage sur les récifs ; seul survivant, il s'échoue sur le Continent Scellé.
 
 ### 2.2 Le Premier Blasphème & L'Éveil en Cellule (Acte I)
-Parvenu devant la cathédrale de la Première École, il découvre la Fontaine sacrée dont les eaux sont réputées guérir tout mal. Il remplit sa fiole, mais dès qu'il franchit le parvis, **l'eau s'évapore instantanément**. La grâce n'est pas divine : elle est un circuit artificiel réservé aux seuls nobles du clergé.
+À la cathédrale de la Première École, il remplit sa fiole à la Fontaine sacrée. Dès qu'il franchit le seuil, **l'eau s'évapore** : la bénédiction est un circuit fermé réservé aux nobles.
+Fou de rage, il brise la statue du faux dieu avec son marteau. Arrêté et jeté au cachot sans armes, il déduit que les dieux ne sont que des noms dans un circuit d'énergie.  
+Il prononce **son propre nom mortel**.  
+Dans les Limbes intemporelles, l'écho de sa Voie 6 future résonne : son **Double des Limbes** se matérialise dans l'ombre et pulvérise les barreaux. Il s'évade.
 
-Pris d'une fureur sourde, il dégaine son marteau et **pulvérise la statue du faux dieu**.  
-Arrêté, roué de coups, désarmé et traîné dans les cachots souterrains, il est condamné à mort.
+* **Règle Martiale Fondatrice** : Le Double reste une ancre spirituelle. En combat, le joueur se bat **100% seul avec son sabre**, ses déviations et ses postures, sans aucun clone ou invocation.
 
-Dans l'obscurité de sa cellule, sans arme ni secours extérieur, le héros ne reçoit aucune illumination mystique. Par pure déduction, en recoupant le rituel de la fontaine et les cantiques des prêtres, il comprend le principe fondateur du monde : **les dieux ne sont que des noms servant d'adresses incantatoires vers un corps dans les Limbes.**  
-Rejetant tout panthéon, il prononce à mi-voix **son propre nom mortel**.  
-
-* **L'Écho Temporel du Double** : Les Limbes étant un plan intemporel défiant la chronologie physique, le reflet qui s'éveille dans l'ombre est l'écho de sa complétion future de la Voie du Guide. Dès l'instant où il nomme sa propre identité, la résonance traverse le miroir des Limbes : son **Double des Limbes** se matérialise et brise les barreaux de sa cellule. L'évasion commence.
-
-### 2.3 Le Héros et la Voie du Guide : La Conscience Intacte
-Contrairement aux Cinq qui ont déserté leur corps terrestre, et contrairement à Noah mort dans les Limbes :
-* En concevant la **6ème Voie (Le Guide)**, le héros établit un **lien conscient, lucide et permanent avec son Double des Limbes**.
-* Quand le héros a des visions ou accomplit des incantations en lui-même, c'est directement avec son double des Limbes qu'il communique.
-* Cette résonance parfaite fait de lui une anomalie vivante, capable de manipuler l'énergie sans dégénérescence charnelle.
-
-### 2.4 La Reconquête des Cinq Stations (Actes II & III)
-Les sanctuaires des Cinq sont les cinq premières stations de la chorégraphie antique de Noah. Pour démanteler le règne des faux dieux, le héros entame sa marche :
-
-#### La Dynamique à Deux Paliers par Sanctuaire :
-1. **Palier 1 : Le Corps Maudit (Mini-Boss Corrompu dans le Monde Physique)**  
-   Le héros s'infiltre dans la crypte du sanctuaire et terrasse le corps charnel monstrueux du Précurseur qui servait de relais d'énergie.  
-   *Conséquence* : L'École de magie correspondante s'éteint instantanément dans toute la province. Les armées théocratiques sont désarmées.
-2. **Le Choix de l'Autel : Usurpation vs Voie Solitaire (Modulable par Sanctuaire)** :  
-   À la chute de chaque corps maudit, le joueur fait face à un dilemme moral et mécanique :
-   * **Branche A : L'Usurpation (L'Embrigadement)** : Le héros grave son propre nom sur l'autel du sanctuaire. La population et les mages rebelles se mettent à invoquer son nom. L'énergie des formules et des prières dévie vers lui, augmentant considérablement sa puissance martiale et affamant le dieu qui doit descendre.
-   * **Branche B : Le Refus du Culte (La Voie Pure / Sans Embrigadement)** : Le héros refuse de remplacer une idole par une autre. Il brise l'autel sans inscrire son nom, n'embrigadant personne. La province doit réapprendre à vivre sans béquille magique, tandis que le héros compense l'absence de foi par une virtuosité martiale pure (parades décuplées, gameplay 100% dextérité), ouvrant des fins où le monde est libéré de tout culte divin.
-3. **Palier 2 : Le Duel de Forme Prime (Sekiro-like Martial)**  
-   Privé de son corps-catalyseur et affamé de culte, l'esprit de la fausse divinité est forcé de quitter sa stase dans les Limbes pour affronter le mortel sous sa forme martiale originelle. C'est un duel de sabre d'une exigence absolue : parades au millimètre, déviations de posture et bris de garde.
-4. **L'Écriture de la Voie dans le Journal** :  
-   En terrassant la Forme Prime, le héros décortique le mouvement et l'écrit de sa propre main dans son journal :
-   * Station 1 : **1. ASPIRER** (Capter l'énergie brute, régénération de posture).
-   * Station 2 : **2. ALTÉRER** (Changer la nature du flux, frappes tranchantes brisant les gardes).
-   * Station 3 : **3. CONDENSER** (Densification critique, contre-attaques telluriques dévastatrices).
-   * Station 4 : **4. ACCÉLÉRER** (Vélocité sans friction, esquives parfaites, déviations éclairs).
-   * Station 5 : **5. PROJETER** (Détachement du corps, lames d'éther à distance).
+### 2.3 La Reconquête des Cinq Stations (Actes II & III)
+* **Palier 1 : Le Corps Maudit (Crypte Physique)** : Le héros terrasse le corps charnel monstrueux du Précurseur servant de filtre. L'École de la région s'éteint.
+* **Le Choix d'Autel (Modulable par Sanctuaire)** :
+  * *Branche A : L'Usurpation* : Il grave son nom, dévie les prières vers lui pour gagner en puissance martiale.
+  * *Branche B : La Voie Pure (Sans Culte)* : Il brise l'autel sans inscrire son nom. La région réapprend à vivre sans magie ; le héros compense par une dextérité pure (gameplay 100% sabre).
+* **Palier 2 : Le Duel de Forme Prime (Sekiro Martial)** : Privé de corps, l'esprit du Précurseur descend des Limbes pour un duel de sabre d'une intensité absolue.
+* **L'Écriture dans le Journal** : À chaque victoire, le héros décortique la Voie :
+  * Station 1 : **1. ASPIRER** (Capter l'énergie brute, régénération de posture).
+  * Station 2 : **2. ALTÉRER** (Changer la nature du flux, frappes tranchantes perforantes).
+  * Station 3 : **3. CONDENSER** (Densification critique, contre-attaques telluriques).
+  * Station 4 : **4. ACCÉLÉRER** (Vélocité sans friction, esquives parfaites, déviations éclairs).
+  * Station 5 : **5. PROJETER** (Lames d'éther à distance).
 
 ---
 
-# PARTIE III : LE PARADOXE DU VIEUX JOURNAL & LA 6ème VOIE
+# PARTIE III : LE CLIMAX, LE PARADOXE & LE CHOIX FINAL
+
+### 3.1 La Crypte de Noah & Le Paradoxe des Deux Journaux
+Au cœur du sanctuaire secret gardé par la Secte, le héros trouve la dépouille préservée de Noah et **l'exemplaire vieux de 2000 ans de son propre journal**.
+* Ses propres lettres à sa mère sont là, jaunies par le temps.
+* Noah y a consigné ses annotations, expliquant que l'humanité de ce journal lui a appris les 6 Voies pour sauver la Terre en -2000.
+* Sur la dernière page, Noah a calligraphié la clé : **la 7ème Voie (*Sceller*)**.
+* En achevant son carnet, le héros forge la 6ème Voie : **LE GUIDE** (transmettre sans garder pour soi) et projette son journal dans le passé vers Noah.
+
+---
+
+# PARTIE IV : LA DUALITÉ DES RUNS & LE DUEL DU RIVAL (« ONE TRY »)
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
-│                   LE PARADOXE DES DEUX JOURNAUX                        │
+│                      LES DEUX GRANDES ROUTES FINALES                   │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 1. LE JOURNAL NEUF (Le Présent) : Rédigé par le héros au fil du jeu,   │
-│    contenant sa vie, ses doutes, sa mère, et les Voies 1 à 5.          │
+│ 1. LA RUN ALTRUISTE (Le Martyr) :                                      │
+│    Le héros accepte le sacrifice (se sceller lui-même ou fermer la     │
+│    faille à 100%). Le monde est sauvé, le rival est son frère d'armes  │
+│    qui honore sa mémoire.                                              │
 │                                                                        │
-│ 2. LE VIEUX JOURNAL (Le Passé de -2000) : Ce même journal, ayant passé │
-│    deux millénaires dans le monde physique après avoir été reçu par    │
-│    Noah. Il contient les annotations de Noah et la Voie 7 (SCELLER).   │
+│ 2. LA RUN ÉGOÏSTE (L'Amour d'un Fils contre le Monde) :                │
+│    Le héros découvre que sceller la magie tue sa mère (la fuite de     │
+│    Noah étant nécessaire à sa survie). Il REFUSE D'ACTIVER LE SCEAU.   │
+│    Prêt à laisser le monde périr pour sa mère, le héros devient la     │
+│    menace divine. Le Rival s'interpose pour sauver l'humanité.         │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 3.1 La Découverte du Vieux Journal et le Sanctuaire de Noah
-Au cœur du sanctuaire originel gardé par la secte, le héros pénètre dans la crypte où repose le corps préservé et exploité de Noah. Près de sa dépouille repose un livre aux pages jaunies : **l'exemplaire ancien de son propre journal**.
-* L'écriture est la sienne.
-* Le récit décrit exactement ce qu'il a vécu depuis son naufrage : ses peurs, ses croquis, et ses lettres bouleversantes adressées à sa mère.
-* En marge, **Noah a consigné ses annotations**, expliquant comment ce journal venu du futur l'a touché par sa pureté humaine — loin de l'arrogance des futurs faux dieux — et lui a appris les 6 gestes pour stabiliser la planète en -2000, avant que son esprit ne sombre définitivement dans les Limbes.
-* Et sur la dernière page, Noah a calligraphié la clé manquante : **la 7ème Voie (*Sceller*)**.
+### 4.1 La Création de la Voie Hérétique : « ROMPRE »
+Face à un héros devenu demi-dieu ayant abattu 5 divinités, aucun humain normal ne peut lutter. 
+Acculé devant la faille, porté par la terreur sacrée de voir son ami condamner le monde, **le Rival réunit les 4 Piliers** :
+1. *Carburant* : Énergie brute de la faille ouverte.
+2. *Absolu* : Devoir sacré envers l'humanité contre son propre ami.
+3. *Geste* : Style martial instinctif brisant toute forme académique.
+4. *Ancrage* : Éveil de son Double dans les Limbes.
 
-### 3.2 L'Éveil de la 6ème Voie : "LE GUIDE" (L'Acte de Transmission)
-Le héros comprend enfin pourquoi la 6ème station du rituel était restée vierge. Les Cinq n'étaient capables que d'accaparer (*Aspirer, Condenser, Projeter*).
-* La 6ème Voie est **LE GUIDE / TRANSMETTRE** : le geste désintéressé d'orienter l'énergie sans la retenir, et de projeter la mémoire à travers les Limbes vers autrui grâce à la connexion avec son double.
-* C'est l'acte même que le héros accomplit depuis le début : **écrire son journal pour quelqu'un d'autre**.
-* En canalisant l'énergie des 5 provinces libérées, il utilise la Voie du Guide pour **projeter son journal neuf vers le passé (-2000)**, le remettant à Noah avant sa mort et bouclant la causalité temporelle.
+Il arrache au néant une Voie imprévue par le destin : **ROMPRE** (avec pour essence de *Consumer* l'énergie adverse).
 
----
-
-# PARTIE IV : LA MATRICE DES FINS (Les Chemins du Sceau)
-
-Détenteur de son journal (Voies 1 à 6) et du vieux journal de Noah (Voie 7 : *Sceller*), libérant la dépouille du Septième de l'emprise de la secte, le joueur fait face au choix ultime devant la faille :
-
-| Fin | Action du Joueur | Conséquences sur le Monde & Prix Personnel |
-| :--- | :--- | :--- |
-| **1. Le Cycle (Canonique)** | Renvoie son journal tel quel dans le passé sans modifier une seule ligne. | Le statu quo temporel est maintenu. Le monde survit, le Sceau fuit toujours, la mère reste malade, mais l'humanité a un avenir. |
-| **2. Se Sceller** | Utilise la 7ème Voie pour devenir lui-même l'ancre spirituelle du Sceau à la place de Noah. | Le Sceau est purifié sans sacrifice de malades. Les faux dieux et la secte sont anéantis, mais le héros abandonne sa vie mortelle pour l'éternité. |
-| **3. Sceller la Faille** | Utilise la 7ème Voie pour colmater hermétiquement la fissure à 100%. | Plus aucune fuite de corruption : les Terres Extérieures sont purifiées, sa mère est guérie. En contrepartie, **toute magie disparaît à jamais de la Terre**. |
-| **4. S'Effacer** | Scelle son propre nom et l'accès aux formules dans les Limbes. | Aucune idole ne pourra plus jamais naître. L'humanité est libre de tout culte magique, mais le héros s'efface totalement de la mémoire universelle. |
-| **5. Régner (Sans Sceller)** | Refuse la 7ème Voie et maintient les Écoles à son propre nom. | Le héros devient le nouveau Dieu Suprême adoré par tout le continent. Le cycle est brisé, mais une nouvelle tyrannie éternelle commence. |
-
----
-
-# PARTIE V : FICHE DESIGN DES CINQ PRÉCURSEURS & LEURS ÉCOLES
-
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                        LES CINQ PRÉCURSEURS (BOSS DU JEU)                              │
-├─────┬───────────┬───────────────┬───────────────────────────┬──────────────────────────┤
-│ N°  │ NOM       │ VOIE & ÉCOLE  │ LIEU DU SANCTUAIRE        │ STYLE MARTIAL (SEKIRO)   │
-├─────┼───────────┼───────────────┼───────────────────────────┼──────────────────────────┤
-│ 1   │ Vaelen    │ 1. ASPIRER    │ Abbaye de Givreciel       │ Draine l'endurance/postur│
-│ 2   │ Kaelis    │ 2. ALTÉRER    │ Fonderie des Âmes         │ Katana brise-ciel rapide │
-│ 3   │ Gorath    │ 3. CONDENSER  │ Bastion Tellurique        │ Masse lourde & gravité   │
-│ 4   │ Lyra      │ 4. ACCÉLÉRER  │ Flèche d'Azur             │ Rafales d'éclairs & télé │
-│ 5   │ Malakor   │ 5. PROJETER   │ Trône d'Obsidienne        │ Ondes de choc & clones   │
-└─────┴───────────┴───────────────┴───────────────────────────┴──────────────────────────┘
-```
+### 4.2 Le Combat Final : Une Danse Martiale en « ONE TRY »
+* **Pas d'écran Game Over** : Le duel est un combat unique, long, stylé et équilibré (5-7 min de chorégraphie Sekiro pure).
+* **Le Mind-Game de ROMPRE** : Les sorts du joueur fonctionnent, mais le rival possède des charges de contre actif (1, 2 ou 3 annulations d'affilée) forçant le joueur à feinter et observer ses fenêtres de récupération.
+* **Les Deux Issues Directes** :
+  * **Issue A : Le Joueur Meurt (Victoire du Rival — Fin Tragique)** : Le rival tue le héros en larmes, ramasse le Sceau et scelle la faille pour sauver le monde. Dans les Terres Extérieures, la mère s'éteint paisiblement sans savoir que son fils s'est sacrifié pour elle.
+  * **Issue B : Le Joueur Triomphe (Victoire du Héros — Fin Sombre)** : Le héros abat son meilleur ami, refuse le Sceau, et repart vers sa mère avec le remède dans un monde laissé à la dérive.
