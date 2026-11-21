@@ -93,4 +93,47 @@ Nous avons deux visions contrastées pour l'ouverture du jeu, chacune apportant 
 
 ---
 
-> **Note de Suivi** : Ces pistes restent ouvertes au débat avant toute réécriture des documents officiels de lore.
+---
+
+## 5. Débat & Recadrage : La Cache sous la Ville Natale (Ex-« Sixième Sanctuaire »)
+
+### A. Rectification Cosmologique (Pas de Brèche Hors Continent)
+* **La Faille est Unique** : La brèche de flux pur et le Sceau se situent **à 100 % sur le Continent Scellé**, nulle part ailleurs sur Terre.
+* **Pas un « Sanctuaire Magique »** : Les 5 sanctuaires du Continent sont de véritables temples bâtis par la Secte autour des corps-filtres des Cinq. Le lieu sous la ville natale dans les Terres Extérieures n'a rien de religieux ni de magique : c'est une **cache souterraine scellée / un coffre-fort temporel** creusé par Noah pendant son pèlerinage en -2000.
+* **Aucun accès aux Limbes** : Pas de portail, pas de faille naturelle, pas de flux actif. Juste une pièce de pierre obscure et hermétique.
+
+### B. Débunquage de la « Fresque des 7 Voies »
+* **Inutilité pour le Héros** : À l'Acte IV, le héros a déjà terrassé les 5 Écoles, assimilé leurs arts et forgé sa 6ᵉ Voie (*Guider*). Découvrir une fresque expliquant les Voies 1 à 6 est 100 % inutile pour lui.
+* **Ce qu'il vient chercher** : Une seule et unique chose : **la 7ᵉ Voie (*Sceller*)**, consignée par Noah dans son Vieux Journal pour sauver sa mère et refermer la brèche.
+* **Options en débat pour la fresque** :
+  1. *Épuration totale (Recommandée)* : Pas de fresque des Voies. Noah est venu déposer son journal dans un coffre de pierre scellé.
+  2. *L'Ex-Voto de Gratitude* : Si inscriptions il y a, ce n'est pas un cours magistral, mais un hommage personnel gravé par Noah pour son sauveur inconnu (*« Tu m'as sauvé dans la tempête sans me connaître. J'espère que ceci sauvera ta mère »*).
+
+### C. Pistes de Game Design pour la Crypte (Acte IV)
+* **La « Serrure Martiale »** : Pour empêcher les pillards ou les mineurs d'ouvrir la cache en 2000 ans, Noah a conçu un mécanisme archéologique qui ne se déverrouille qu'en frappant au sabre avec les différentes Voies (prouvant par le gameplay que le joueur est le Guide).
+* **Le « Dojo du Sceau »** : En ouvrant le coffre et en lisant le journal, le joueur ne reçoit pas un simple déblocage passif : il dégaine son sabre et répète physiquement la danse des 7 mouvements de Noah dans la crypte (séquence de rythme et de parade *Sekiro-like* pour calibrer la 7ᵉ Voie).
+* **Level Design & Raccord Émotionnel** : La crypte communique directement avec les fondations du quartier d'enfance du héros. En poussant une trappe de mineur, il émerge directement dans la chambre de sa mère malade.
+
+---
+
+## 6. Débat & Éclaircissement : Où Était le Corps de Noah pendant 2000 Ans ?
+
+### A. Le Statut du Corps
+* Le corps de Noah est **vivant** (stase biologique/énergétique par saturation du Sceau).
+* Son âme/conscience s'est éteinte dans les Limbes après l'effort titanesque de l'ancrage.
+* Le corps physique n'a **JAMAIS** été dans les Terres Extérieures : il est resté sur le Continent Scellé.
+
+### B. Comment a-t-il échappé aux Fouilles pendant des Siècles ?
+* **L'Épicentre Infranchissable (La Zone Zéro)** :
+  * Le Continent est vaste et a été fouillé de fond en comble pour ses terres fertiles et ses filons arcaniques lors de la Course de Jouissance (-1500).
+  * Cependant, le point d'impact où Noah a scellé l'énergie en -2000 était un gouffre de radiation pure (effet « Tchernobyl de l'Éther »). Quiconque tentait de descendre au fond se faisait calciner les organes ou dissoudre l'esprit.
+  * Noah s'est scellé au cœur même du monolithe primordial : son corps physique **était l'ancre matérielle** du Sceau.
+* **Pourquoi les Cinq ne l'ont pas pris ?**
+  * Les Cinq ne pouvaient s'approcher que de la périphérie du cratère (le seuil mortel) pour siphonner un filet de flux et créer leurs arts. Aucun d'eux n'avait la puissance pour pénétrer la chambre centrale sans mourir.
+* **L'Arrivée de la Secte (-700)** :
+  * Ce n'est qu'en -800, quand les Cinq ont sacrifié leurs propres corps charnels pour servir de filtres d'urgence, que la violence de la tempête d'éther a diminué.
+  * L'Organisation/Secte, fondée pour administrer ces filtres, a pu des siècles plus tard creuser jusqu'au point zéro enfin accessible. C'est là qu'elle a extrait le corps intact de Noah pour l'exploiter en secret comme arme/relique d'État.
+
+---
+
+> **Note de Suivi** : Ces points résument les échanges vocaux du 21/11/2026. Ils restent isolés dans ce fichier de débat et ne seront intégrés aux documents officiels (02, 03, 05, etc.) qu'après validation explicite.
