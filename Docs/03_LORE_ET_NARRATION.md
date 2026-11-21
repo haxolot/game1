@@ -75,28 +75,26 @@ Pour stabiliser le continent :
 [Climax] Reprise de la mer vers le Continent Scellé ──> Face à la Faille ──> Duel One-Try contre le Rival
 ```
 
-### A. Le Navire Fantôme, le Naufrage & L'Éveil en Cellule
-Le héros s'échoue sur le Continent Scellé après une traversée clandestine cauchemardesque. À l'approche des côtes, une vieille légende prend vie : dans la brume des Limbes, un grand trois-mâts noir navigue **à contre-sens**, avec un capitaine imposant et menaçant à la proue. Aussitôt, la tempête hurle, brise la chaloupe sur les récifs et noie tout l'équipage. Seul survivant, le héros s'infiltre dans la cathédrale de la Première École pour puiser l'eau de la Fontaine sacrée réputée tout guérir. Mais dès qu'il franchit le seuil du parvis, **l'eau s'évapore instantanément** : la grâce divine est un monopole d'État réservé aux nobles.
+### A. Prologue & Acte I : L'Arrivée, L'École et la Rupture Brutale
+* **Prologue (Tuto 100% Escrime Solo)** : Le héros débarque clandestinement sur le Continent Scellé avec une simple lame ordinaire et son carnet vierge dédié à sa mère. Aucun pouvoir magique au début : premiers affrontements au sabre contre brigands et bêtes sauvages (apprentissage des déviations, parades et postures de base).
+* **Le Choix des Cinq Écoles (Structure Horizontale)** : Les cinq provinces et leurs Écoles sont d'un niveau égal. Le joueur choisit librement par quelle École commencer son périple.
+* **Acte I (L'Apprenti & La Rupture)** :
+  * Le héros rejoint l'Ordre choisi, apprend à canaliser le flux et lance ses premiers sorts mineurs en invoquant le nom du dieu de l'École.
+  * Rapidement envoyé en mission, il monte en compétence.
+  * **La Rupture Brutale** : En demandant le remède pour sa mère mourante, il se heurte au refus méprisant des Grands Prêtres (la grâce est un monopole d'État réservé aux oligarques continentaux). L'Ordre exige un serment d'asservissement spirituel et la purge de clandestins de sa propre région natale. Refusant de trahir sa mère et les siens, le héros tire sa lame, se rebelle et s'enfuit en renégat pour abattre le système des faux dieux.
 
-Fou de rage et de douleur pour sa mère, il brise la statue du dieu au marteau. Jeté dans les cachots souterrains, condamné à mort, il ne reçoit aucune aide mystique. Par pure déduction intellectuelle, il comprend que les dieux ne sont que des noms servant d'adresses incantatoires.  
-Il ferme les yeux et récite l'incantation en prononçant **son propre nom mortel**.  
-Dans les Limbes intemporelles, l'écho de sa complétion future résonne : son **Double des Limbes** s'éveille et pulvérise les barreaux. Le héros s'évade.
-
-*(Note de gameplay : Le Double est une ancre métaphysique narrative. En combat, le héros se bat **100% seul au sabre**, sans clone ni familier).*
-
-### B. La Marche des Stations & Le Choix de l'Autel
-Le héros traque les cinq sanctuaires pour démanteler l'édifice théocratique. Chaque station propose une épreuve en deux paliers :
-1. **Palier 1 : Le Corps Maudit (Monde Physique)** : Il détruit l'abomination de chair du Précurseur qui servait de filtre d'énergie. L'École de magie correspondante s'éteint dans toute la province.
+### B. Actes II & III : La Chute des 5 Sanctuaires & La 6ᵉ Voie
+Les Écoles (villes/académies) sont séparées des **Sanctuaires** (complexes souterrains secrets tenus par la Secte aux 5 branches périphériques du Sceau) :
+1. **Palier 1 : Le Corps Maudit (Monde Physique)** : Il détruit l'abomination charnelle du Précurseur qui servait de filtre d'énergie. L'École de magie correspondante perd ses pouvoirs dans toute la province.
 2. **Le Choix Moral d'Autel (Modulable par Sanctuaire)** :
    * *Option Usurpation* : Le héros grave son propre nom sur l'autel. Les mages et la population l'invoquent à la place du dieu. Il dévie la foi vers lui et gagne une puissance martiale décuplée.
    * *Option Voie Pure (Sans Culte)* : Il refuse de devenir une idole et brise l'autel sans inscrire son nom. La région réapprend à vivre sans béquille magique. Le héros compense par une dextérité martiale pure (100% parade au sabre).
-3. **Palier 2 : Le Duel de Forme Prime (Sekiro-like Martial)** : Privée de son corps-relais et affamée de prières, la divinité est contrainte de descendre des Limbes dans son avatar d'escrime originel. En la battant, le héros assimile la Voie dans son carnet.
+3. **Palier 2 : Le Duel de Forme Prime (Sekiro-like Martial)** : Privée de son corps-relais et affamée de prières, la divinité descend des Limbes dans son avatar d'escrime originel. En la battant, le héros assimile la Voie dans son carnet.
+4. **La Création de la 6ᵉ Voie (*Guider*) & La Déduction Autonome** : Ayant assimilé les 5 arts sans succomber, le héros forge la 6ᵉ Voie (*Guider*). Comprenant la boucle temporelle et sachant qu'il dictera à Noah où cacher son legs, le héros déduit avec certitude que la cache se trouve sous sa propre ville natale dans les Terres Extérieures.
 
 ---
 
-## 4. L'Acte IV : Le Sixième Sanctuaire Souterrain & Le Dernier Regard à la Mère
-
-Après avoir vaincu le Cinquième et complété la **Voie 6 (*Le Guide*)**, le héros découvre dans les archives de la Secte (qui garde la dépouille captive de Noah sur le continent) une vérité impensable : le Sixième Sanctuaire de Noah n'est **pas sur le continent**. Le héros avait lui-même consigné dans son carnet l'ordre à Noah de l'ériger **sur sa terre natale, dissimulé sous les fondations de sa propre ville** !
+## 4. L'Acte IV : La Cache Souterraine sous la Ville Natale & La Mère
 
 Le héros reprend clandestinement la mer en sens inverse vers les Terres Extérieures :
 1. **La Traversée Retour & La QTE « Guider la Tempête »** :
@@ -104,9 +102,9 @@ Le héros reprend clandestinement la mer en sens inverse vers les Terres Extéri
    * Il reconnaît l'équipage terrifié du prologue qui le pointe du doigt en hurlant à la malédiction, et son jeune lui au fond de la cale.
    * **Le héros comprend qu'il a toujours été ce capitaine maudit**. Pour que son épopée ait lieu et que sa mère ait une chance d'être sauvée, il n'a pas le choix : il doit provoquer son propre naufrage.
    * **QTE Narrative** : Le joueur active la Voie 6 via l'invite **`[GUIDER LA TEMPÊTE]`**. D'un geste de la main, il canalise les vents et précipite l'ouragan sur la chaloupe, orchestrant son propre passé.
-2. **L'Infiltration sous la Ville Natale** : Sous les pavés et les taudis de sa ville d'enfance, il pénètre dans le Sixième Sanctuaire oublié depuis 2000 ans.
-   * **La Fresque Intacte** : Protégée des siècles et de la guerre sous la roche urbaine, une fresque monumentale est restée miraculeusement préservée, immortalisant d'avance les Voies créées par les Cinq et la silhouette du Sixième. Les Cinq ne l'ont jamais vue, ce qui a garanti leur véritable génie créatif.
-   * **Le Vieux Journal de 2000 ans** : Posé sur l'autel, le carnet usé par le temps contient l'écriture du héros, ses lettres à sa mère, et les annotations émues de Noah qui le remercie pour son amour filial qui lui a donné la force d'agir. Sur la dernière page, Noah a tracé la clé manquante : **la 7ème Voie (*Sceller*)**.
+2. **La Cache Scellée sous la Ville Natale** : Sous les pavés et les taudis de sa ville d'enfance, il pénètre dans la crypte obscure (dépourvue de toute brèche magique).
+   * **La Serrure Martiale** : Un mécanisme mécanique vieux de 2000 ans ne s'ouvrant qu'en frappant au sabre avec les différentes Voies maîtrisées.
+   * **Le Vieux Journal de Noah** : Posé au centre, le carnet usé contient ses remerciements intimes et la clé manquante : **la 7ème Voie (*Sceller*)**, qu'il s'entraîne à répéter physiquement au sabre (*Dojo du Sceau*).
 3. **Le Moment Intime avec la Mère** :
    * Avant de sceller son avenir, le héros remonte à la surface et revoit sa mère alitée :
      * *Scénario du Devoir / Sceller la Faille* : Le héros accomplit un rituel qui apaise définitivement ses atroces souffrances, lui offrant un sommeil paisible avant de partir se sacrifier pour sauver le monde.
