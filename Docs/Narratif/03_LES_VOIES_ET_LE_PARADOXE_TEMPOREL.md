@@ -23,39 +23,7 @@
 
 ---
 
-## 2. La Règle Ontologique : La Boucle des Règles vs L'Invention Réelle des Voies
-
-Il existe une distinction capitale et absolue entre **la Recette (les Règles)** et **le Gâteau (les Voies)** :
-
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│      1. LES RÈGLES (LA RECETTE) : UNE BOUCLE CAUSALE D'INFORMATION      │
-├────────────────────────────────────────────────────────────────────────┤
-│ Les 4 Piliers circulent dans une boucle temporelle sans auteur unique: │
-│   • Les Cinq comprennent COMMENT faire via les ruines antiques (-1500).│
-│   • Le Héros (6) déduit la recette en observant les Cinq Écoles (An 0).│
-│   • Noah (7) lit la recette dans le carnet reçu du futur (-2000).      │
-│   • Les témoins primitifs gravent Noah, créant les ruines futures.     │
-├────────────────────────────────────────────────────────────────────────┤
-│      2. LES VOIES (LE GÂTEAU) : DES CRÉATIONS RÉELLES HORS BOUCLE       │
-├────────────────────────────────────────────────────────────────────────┤
-│ Les Voies elles-mêmes ne sont JAMAIS copiées sur le futur :            │
-│   • Les Cinq n'ont JAMAIS vu ni entendu parler de Voies. Ils ont la    │
-│     méthode, mais inventent de zéro leurs 5 arts martiaux (1 à 5).     │
-│   • Le Héros (6) hérite des Voies 1-5, et forge sa propre Voie (6).    │
-│   • Noah (7) hérite des Voies 1-6, et forge sa propre Voie (7).        │
-│   • La Voie 7 (Le Sceau) permet au monde d'exister pour que les Cinq   │
-│     puissent un jour naître et inventer les Voies 1 à 5 !              │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-### Pourquoi le Sanctuaire VI devait être Exilé Hors du Continent ?
-* **Le Danger du Paradoxe Ontologique** : Si les Cinq avaient découvert sur le Continent une fresque montrant leurs propres postures martiales, ils ne les auraient pas créées : ils les auraient copiées sur leur propre futur. Les Voies se seraient retrouvées sans créateur, piégées dans un déterminisme absolu où rien de nouveau ne peut naître.
-* **Le Choix Conscient du Héros** : En ordonnant à Noah de dissimuler son sanctuaire et sa fresque sous sa ville natale dans les Terres Extérieures, le Héros sanctuarise le génie des Cinq. Il garantit que **les Règles circulent dans la boucle**, mais que **chaque Voie reste un acte de volonté et d'invention humaine authentique**.
-
----
-
-## 3. Le Vrai Mérite Créatif de Chaque Acteur & L'Érosion Archéologique
+## 2. Le Vrai Mérite Créatif de Chaque Acteur & L'Érosion Archéologique
 
 Contrairement aux boucles temporelles creuses où "personne n'a rien inventé", chaque acteur a ici un rôle créateur historique légitime et préservé :
 
@@ -66,7 +34,7 @@ Contrairement aux boucles temporelles creuses où "personne n'a rien inventé", 
 
 ---
 
-## 4. Le Paradoxe des Deux Journaux & Le Sixième Sanctuaire Souterrain
+## 3. Le Paradoxe des Deux Journaux & Le Sixième Sanctuaire Souterrain
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐

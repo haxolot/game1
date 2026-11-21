@@ -63,4 +63,34 @@ Nous avons deux visions contrastées pour l'ouverture du jeu, chacune apportant 
 
 ---
 
-> **Note de Suivi** : Ces deux pistes restent ouvertes au débat avant toute réécriture des documents officiels de lore.
+## 4. Débat Ontologique : La Boucle des Règles vs L'Invention Réelle des Voies
+
+> **Idée en débat** : Distinguer formellement ce qui relève de la boucle causale (les règles / la recette) de ce qui relève de l'invention humaine authentique (les Voies / le gâteau).
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│      1. LES RÈGLES (LA RECETTE) : UNE BOUCLE CAUSALE D'INFORMATION      │
+├────────────────────────────────────────────────────────────────────────┤
+│ Les 4 Piliers circuleraient dans une boucle temporelle fermée :        │
+│   • Les Cinq comprennent COMMENT faire via les ruines antiques (-1500).│
+│   • Le Héros (6) déduit la recette en observant les Cinq Écoles (An 0).│
+│   • Noah (7) lit la recette dans le carnet reçu du futur (-2000).      │
+│   • Les témoins primitifs gravent Noah, créant les ruines futures.     │
+├────────────────────────────────────────────────────────────────────────┤
+│      2. LES VOIES (LE GÂTEAU) : DES CRÉATIONS RÉELLES HORS BOUCLE       │
+├────────────────────────────────────────────────────────────────────────┤
+│ Les Voies elles-mêmes ne sont JAMAIS copiées sur le futur :            │
+│   • Les Cinq n'ont JAMAIS vu ni entendu parler de Voies. Ils ont la    │
+│     méthode, mais inventent de zéro leurs 5 arts martiaux (1 à 5).     │
+│   • Le Héros (6) hérite des Voies 1-5, et forge sa propre Voie (6).    │
+│   • Noah (7) hérite des Voies 1-6, et forge sa propre Voie (7).        │
+│   • La Voie 7 (Le Sceau) permet au monde d'exister pour que les Cinq   │
+│     puissent un jour naître et inventer les Voies 1 à 5 !              │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+* **Raison d'exiler le Sanctuaire VI hors du Continent** : Empêcher les Cinq de voir la fresque de leurs propres mouvements. S'ils l'avaient vue, ils l'auraient copiée, annulant le fait qu'ils en soient les créateurs originels.
+
+---
+
+> **Note de Suivi** : Ces pistes restent ouvertes au débat avant toute réécriture des documents officiels de lore.
