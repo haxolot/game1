@@ -43,7 +43,20 @@ Quand Noah s'éveilla, la tempête s'était tue. Entre ses mains brûlées repos
 
 **Douze ans.** Douze ans qu'il cherche à rejoindre le Guide. Douze ans qu'il étudie ce livre. Sa famille est saine et sauve et vit désormais sur le Continent ; son ancien village a été annihilé par le flux peu après leur départ. Douze ans qu'il vit grâce à cet homme. Il étudie un livre d'une complexité inimaginable pour quiconque à son époque, rédigé en plus dans une langue qui n'existe pas... pas encore.
 
-Décryptant peu à peu les 6 mouvements physiques purs et les lettres poignantes destinées à la mère du Guide, Noah comprend la chorégraphie universelle et forge le geste manquant pour sauver la Terre : **Le Sceau**.
+#### L'Apprentissage de Noah : Du Survivant à l'Architecte du Sceau
+1. **Le Décryptage par l'Amour Filial** : Le carnet n'était pas un traité arcanique abstrait, mais le journal d'un fils pour sa mère. Entre deux schémas d'escrime, le héros avait tracé de petits croquis de leur quotidien (un lit, une fiole d'eau, du pain, une fleur sauvage, un sourire). C'est grâce à cet imagier d'affection humaine que Noah déchiffre la langue inconnue, mot après mot.
+2. **La Révélation des 4 Piliers** : En lisant les récits des duels du héros contre les Cinq, Noah isole la formule récurrente : l'énergie brute n'obéit qu'à celui qui réunit *Carburant, Symbole quotidien, Geste martial* et *Incantation résonante*. Le flux n'est pas une colère divine, mais une argile informe attendant une volonté d'acier.
+3. **L'Entraînement des 6 Voies** : Pour survivre et protéger sa famille sur le Continent, Noah pratique les 6 mouvements décrits par le Guide (*Aspirer, Altérer, Condenser, Accélérer, Projeter, Guider*), les intégrant à sa chair comme une discipline de vie.
+4. **L'Impasse & L'Invention de la 7ème Voie (*Le Sceau*)** :
+   * Noah constate l'insuffisance des 6 Voies : *Guider* permet de canaliser l'énergie vers un être ou à travers le temps, mais **ne referme pas la brèche**. Le monde continue de mourir.
+   * Poussé par son obsession viscérale de mettre les siens à l'abri, Noah trouve son propre Symbole : **SCELLER**.
+   * Il forge la 7ème Voie : un art martial où le corps et l'esprit se font serrure et verrou pour refouler le flux dans les Limbes.
+5. **La Géolocalisation & Le Sanctuaire Souterrain sous la Ville Natale** :
+   * Relisant les lettres du Guide décrivant sa terre d'origine (*« par-delà les mers, sous les montagnes de cobalt qui cachent le soleil levant, près du grand lac immobile »*), Noah comprend l'impératif de causalité.
+   * Le Continent Scellé deviendra un brasier de guerres dès que le Sceau sera posé : y laisser le livre serait le condamner au pillage.
+   * Noah traverse la mer vers la péninsule australe des Terres Extérieures. Dans les profondeurs sous la terre où naîtra des siècles plus tard la ville du héros, **il creuse le Sixième Sanctuaire**.
+   * Il y peint sur la roche une fresque monumentale immortalisant les 7 Voies pour défier l'oubli, et dépose sur l'autel le carnet usé contenant ses annotations et la 7ème Voie (*Sceller*).
+   * Puis il retourne au Continent Scellé pour accomplir le pèlerinage final.
 
 * **Le Pèlerinage des 7 Mouvements** : Cette danse rituelle monumentale s'étale sur des années autour de la Terre entière, et se répète au point de convergence choisi par Noah pour sceller toute l'énergie du monde : **Le Continent Scellé (le lieu du jeu)**.
 * Il signe « Le Septième » en hommage au carnet reçu du Guide.
@@ -53,13 +66,11 @@ Décryptant peu à peu les 6 mouvements physiques purs et les lettres poignantes
 * **Les Témoins Primitifs & L'Érosion Archéologique** :
   * Pendant les longues années de son pèlerinage planétaire et continental, les populations autochtones primitives ont observé Noah. Effrayées et fascinées, elles ont témoigné de ses gestes dans des sculptures, des mégalithes et des fresques rupestres sans rien comprendre à la magie.
   * Au fil des siècles, chaque génération tenta d'interpréter les récits de la précédente, jusqu'à ce que la langue ancienne s'efface totalement dans l'oubli.
-  * **La Clé Archéologique** : Les ruines antiques ne montraient que **la méthode** pour forger une Voie (l'alignement des 4 piliers et la discipline d'un Symbole quotidien), mais **jamais quelles Voies avaient été créées**, les détails des danses rituelles s'étant érodés sous les intempéries.
-* **Le Sixième Sanctuaire Enfoui sous la Ville Natale** :
-  * Conformément aux instructions laissées dans le carnet par le héros, Noah a érigé son sanctuaire ultime (le Sixième) **hors du Continent, sur la terre natale du héros dans les Terres Extérieures**.
-  * Ce complexe sacré a été creusé dans le secret le plus absolu, **en souterrain sous la ville entière** (qui grandira au-dessus sans se douter de ce qui dort sous ses fondations).
-  * C'est là que Noah a scellé son **Journal Ancien contenant la 7ème Voie (Le Sceau)**.
-  * À l'abri des séismes et des hommes sous la roche, **une fresque monumentale est restée miraculeusement intacte** : elle immortalisait d'avance les mouvements des Cinq et la silhouette du Sixième. Les Cinq et la Secte, obnubilés par le Continent Scellé, n'ont jamais posé les yeux sur ce sanctuaire.
-* L'esprit de Noah meurt dans les Limbes après un transfert prolongé pour ancrer le Sceau. Son corps physique matériel demeure sur Terre, capturé par une cabale secrète.
+  * **La Clé Archéologique** : Les ruines du Continent ne montraient que **la méthode** pour forger une Voie (l'alignement des 4 piliers et la discipline d'un Symbole quotidien), mais **jamais quelles Voies avaient été créées**, les détails des danses rituelles s'étant érodés sous les intempéries.
+* **L'Inviolabilité du Sixième Sanctuaire** :
+  * Protégé sous la ville natale du Guide dans les Terres Extérieures, le Sixième Sanctuaire a complètement échappé à la convoitise des sorciers du Continent.
+  * Sa fresque intacte et le Vieux Journal de Noah y dorment dans le noir absolu, attendant le retour du héros deux mille ans plus tard.
+* **Le Sacrifice de Noah** : L'esprit de Noah s'éteint dans les Limbes après un transfert prolongé pour ancrer le Sceau. Son corps physique matériel demeure sur Terre, capturé par une cabale secrète.
 
 ### Étape 3 : « La Course de Jouissance » & L'Invention Réelle des Cinq (-1500 à -1000 ans)
 * Des siècles après la pose du Sceau, l'emplacement et les richesses du Continent Scellé (terres ultra-fertilisées par l'éther, filons de métaux arcaniques) sont révélés au monde.

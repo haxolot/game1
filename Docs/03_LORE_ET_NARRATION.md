@@ -29,17 +29,12 @@ Au bord de l'extinction, un simple voyageur nomade nommé **Noah** cherche dése
 
 À son réveil, la tempête s'est tue et le carnet repose entre ses mains brûlées.
 
-Pendant **douze ans**, Noah étudie ce livre d'une complexité inouïe, rédigé dans une langue qui n'existe pas encore. Sa famille est sauvée et installée sur le Continent (son village ayant été rayé de la carte peu après). Comprenant la chorégraphie universelle des 6 mouvements et des lettres poignantes destinées à la mère du Guide, Noah forge le geste manquant : **Le Sceau** (signant « Le Septième »).
-
-* **Le Pèlerinage Planétaire** : Ce rituel aux 7 mouvements s'étale sur des années autour du globe, avant de se répéter sur le lieu de convergence choisi par Noah pour sceller toute l'énergie mondiale : **le Continent Scellé**.
-* **Le Secret Tragique de Noah** : Comprenant la boucle temporelle, **Noah a volontairement laissé fuiter un filet résiduel d'énergie**. Il savait que si le Sceau était étanche à 100%, la magie disparaîtrait, personne n'inventerait les Voies, et le Guide ne pourrait jamais lui envoyer ce carnet de sauvetage. *C'est cette fuite intentionnelle qui engendre les miasmes et la maladie rare de la mère.*
-* **Les Témoins Primitifs & L'Érosion Archéologique** :
-  * Durant le pèlerinage de Noah, les autochtones primitifs ont immortalisé ses danses rituelles dans des sculptures et mégalithes sans comprendre la magie.
-  * Avec les siècles, la langue ancienne a disparu. Les ruines n'indiquaient plus que **la méthode** (associer un Symbole de vie quotidien à l'énergie brute), mais **jamais quelles Voies avaient été créées**, les gestes s'étant érodés.
-* **Le Sixième Sanctuaire Enfoui sous la Ville Natale** :
-  * Conformément à la consigne secrète laissée par le Guide dans son carnet, Noah a érigé son sanctuaire ultime (le Sixième) **hors du continent, dans les Terres Extérieures, en souterrain sous la ville natale du héros**.
-  * C'est là que Noah a caché son **Journal Ancien contenant la 7ème Voie (*Le Sceau*)**.
-  * Sous la roche urbaine, **une fresque monumentale est restée intacte**, immortalisant d'avance les Voies des Cinq et la silhouette du Sixième. Les Cinq et la Secte, focalisés sur le Continent Scellé, n'ont jamais découvert ce lieu.
+Pendant **douze ans**, Noah étudie ce livre d'une complexité inouïe. Sa famille est sauvée et installée sur le Continent (son village ayant été rayé de la carte peu après). 
+* **L'Apprentissage par l'Amour Filial** : Noah déchiffre la langue inconnue grâce aux croquis du quotidien dessinés par le Guide pour sa mère malade (un lit, une fleur, une fiole d'eau, du pain).
+* **La Compréhension des 4 Piliers** : En lisant les récits des duels du futur contre les Cinq, Noah comprend que le flux s'apprivoise en combinant *Carburant, Symbole quotidien, Geste* et *Incantation*. Il s'exerce au quotidien et assimile les 6 Voies physiques.
+* **L'Invention du Sceau (La 7ème Voie)** : Constatant que la 6ème Voie (*Guider*) canalise le flux sans jamais fermer la brèche, Noah forge son propre Symbole pour protéger l'humanité : **SCELLER**. Il signe « Le Septième ».
+* **La Cachette sous la Ville Natale** : Reconstituant l'origine géographique du Guide d'après ses lettres (montagnes de cobalt, grand lac immobile), Noah traverse la mer pour bâtir le Sixième Sanctuaire **sous la future ville natale du héros** dans les Terres Extérieures. Il y laisse le carnet usé annoté de la 7ème Voie et y peint la fresque intacte des 7 mouvements, à l'abri du temps et de la convoitise.
+* **Le Pèlerinage Planétaire & La Fuite Intentionnelle** : Noah retourne sur le Continent Scellé pour ancrer le Sceau au terme d'une immense danse rituelle planétaire. Comprenant la boucle causale, **il laisse volontairement fuiter un filet d'énergie** pour que les Voies naissent dans le futur et que le Guide puisse un jour le sauver.
 * L'esprit de Noah s'éteint dans les Limbes après un transfert prolongé, tandis que sa dépouille matérielle demeure sur Terre.
 
 ### B. « La Course de Jouissance » & L'Invention Réelle des Cinq (-1500 à -800 ans)
