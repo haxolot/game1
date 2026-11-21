@@ -29,8 +29,10 @@
 │   corps matériels abandonnés dans les cryptes sont devenus des         │
 │   catalyseurs / mini-boss corrompus (les Corps Maudits).              │
 │                                                                        │
-│ • LE SIXIÈME (Le Protagoniste) : Un homme ordinaire parti sauver sa    │
-│   mère. En créant la 6ème Voie (Le Guide), il maintient un lien        │
+│ • LE SIXIÈME (Le Protagoniste) : Un homme ordinaire portant un nom de  │
+│   mortel canonique (à définir), parti pour sauver sa mère mourante. Il │
+│   tient un simple journal de voyage rédigé sous forme de lettres pour  │
+│   elle. En créant la 6ème Voie (Le Guide), il maintient un lien        │
 │   conscient et bidirectionnel avec son Double des Limbes. Ses visions  │
 │   et son éveil en cellule proviennent de cette communication intime.   │
 └────────────────────────────────────────────────────────────────────────┘
@@ -101,7 +103,7 @@ Structure Narrativo-Gameplay :
 ```
 
 ### 2.1 Prologue : Le Naufrage d'un Homme Ordinaire
-Le protagoniste est un jeune homme issu de la misère des Terres Extérieures. Sa mère est mourante, rongée par la corruption qui suinte de la mer. Refusant la fatalité, il embarque au péril de sa vie pour traverser l'océan interdit vers le Continent Scellé. Le navire se brise sur les récifs ; seul survivant, il s'échoue sur les côtes sans armes, avec pour unique possession un marteau de travail et son **journal de bord vierge** où il s'est promis de tout raconter à sa mère.
+Le protagoniste est un jeune homme issu de la misère des Terres Extérieures, portant un nom mortel simple (à définir). Sa mère est mourante, rongée par la corruption qui suinte de la mer. Refusant la fatalité, il embarque au péril de sa vie pour traverser l'océan interdit vers le Continent Scellé. Le navire se brise sur les récifs ; seul survivant, il s'échoue sur les côtes sans armes, avec pour unique possession un marteau de travail et son **journal de bord vierge**, conçu comme un recueil de lettres intimes et de croquis adressés à sa mère, lui promettant de consigner chaque pas de son périple.
 
 ### 2.2 Le Premier Blasphème & L'Éveil en Cellule (Acte I)
 Parvenu devant la cathédrale de la Première École, il découvre la Fontaine sacrée dont les eaux sont réputées guérir tout mal. Il remplit sa fiole, mais dès qu'il franchit le parvis, **l'eau s'évapore instantanément**. La grâce n'est pas divine : elle est un circuit artificiel réservé aux seuls nobles du clergé.
@@ -127,10 +129,10 @@ Les sanctuaires des Cinq sont les cinq premières stations de la chorégraphie a
 1. **Palier 1 : Le Corps Maudit (Mini-Boss Corrompu dans le Monde Physique)**  
    Le héros s'infiltre dans la crypte du sanctuaire et terrasse le corps charnel monstrueux du Précurseur qui servait de relais d'énergie.  
    *Conséquence* : L'École de magie correspondante s'éteint instantanément dans toute la province. Les armées théocratiques sont désarmées.
-2. **Le Choix de l'Autel : Usurpation vs Voie Solitaire** :  
-   À la chute du corps maudit, le joueur dispose d'un choix fondamental déterminant sa trajectoire morale et ses fins :
+2. **Le Choix de l'Autel : Usurpation vs Voie Solitaire (Modulable par Sanctuaire)** :  
+   À la chute de chaque corps maudit, le joueur fait face à un dilemme moral et mécanique :
    * **Branche A : L'Usurpation (L'Embrigadement)** : Le héros grave son propre nom sur l'autel du sanctuaire. La population et les mages rebelles se mettent à invoquer son nom. L'énergie des formules et des prières dévie vers lui, augmentant considérablement sa puissance martiale et affamant le dieu qui doit descendre.
-   * **Branche B : Le Refus du Culte (La Voie Pure / Sans Embrigadement)** : Le héros refuse de remplacer une idole par une autre. Il brise l'autel sans inscrire son nom, n'embrigadant personne. Il ne tire aucune force des prières des foules, affrontant les périls par sa seule virtuosité et ouvrant des fins inédites où il libère le monde sans jamais fonder de nouveau culte.
+   * **Branche B : Le Refus du Culte (La Voie Pure / Sans Embrigadement)** : Le héros refuse de remplacer une idole par une autre. Il brise l'autel sans inscrire son nom, n'embrigadant personne. La province doit réapprendre à vivre sans béquille magique, tandis que le héros compense l'absence de foi par une virtuosité martiale pure (parades décuplées, gameplay 100% dextérité), ouvrant des fins où le monde est libéré de tout culte divin.
 3. **Palier 2 : Le Duel de Forme Prime (Sekiro-like Martial)**  
    Privé de son corps-catalyseur et affamé de culte, l'esprit de la fausse divinité est forcé de quitter sa stase dans les Limbes pour affronter le mortel sous sa forme martiale originelle. C'est un duel de sabre d'une exigence absolue : parades au millimètre, déviations de posture et bris de garde.
 4. **L'Écriture de la Voie dans le Journal** :  
@@ -161,8 +163,8 @@ Les sanctuaires des Cinq sont les cinq premières stations de la chorégraphie a
 ### 3.1 La Découverte du Vieux Journal et le Sanctuaire de Noah
 Au cœur du sanctuaire originel gardé par la secte, le héros pénètre dans la crypte où repose le corps préservé et exploité de Noah. Près de sa dépouille repose un livre aux pages jaunies : **l'exemplaire ancien de son propre journal**.
 * L'écriture est la sienne.
-* Le récit décrit exactement ce qu'il a vécu depuis son naufrage.
-* En marge, **Noah a consigné ses annotations**, expliquant comment ce journal venu du futur lui a appris les 6 gestes pour stabiliser la planète en -2000, avant que son esprit ne sombre définitivement dans les Limbes.
+* Le récit décrit exactement ce qu'il a vécu depuis son naufrage : ses peurs, ses croquis, et ses lettres bouleversantes adressées à sa mère.
+* En marge, **Noah a consigné ses annotations**, expliquant comment ce journal venu du futur l'a touché par sa pureté humaine — loin de l'arrogance des futurs faux dieux — et lui a appris les 6 gestes pour stabiliser la planète en -2000, avant que son esprit ne sombre définitivement dans les Limbes.
 * Et sur la dernière page, Noah a calligraphié la clé manquante : **la 7ème Voie (*Sceller*)**.
 
 ### 3.2 L'Éveil de la 6ème Voie : "LE GUIDE" (L'Acte de Transmission)
