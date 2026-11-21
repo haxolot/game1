@@ -72,6 +72,13 @@ Si le Sceau laissait fuiter de l'énergie, pourquoi le monde n'a-t-il pas vu na�
 ## 4. La Métaphysique du Dédoublement
 
 * **L'Antenne dans les Limbes** : Quand un sorcier réussit les 4 Piliers, son âme se dédouble. Son **Double des Limbes** prend vie de l'autre côté du miroir.
+* **Le Miroir des Flots & L'Effet Schrödinger** :
+  * Les eaux entourant le Continent Scellé constituent la zone tampon où les Limbes bavent sur le monde physique. Tout mortel qui s'en approche aperçoit au moins une fois une silhouette éthérée dans la brume ou à la surface des flots.
+  * Pour un être ordinaire, ce Double n'est qu'une ombre passive, un état potentiel non fixé qui disparaît dès qu'on détourne les yeux.
+  * **Seule la création d'une Voie (les 4 Piliers) effondre cette superposition** : elle émancipe le Double, lui confère une existence autonome et le projette hors du temps dans les Limbes.
+* **La Légende Maritime du Navire Fantôme à Contre-Sens** :
+  * Les marins des Terres Extérieures connaissent la terreur des brumes côtières : *si un navire fantôme croise ta route dans la même direction, le voyage est sauf. Mais s'il avance à contre-sens, nul à bord ne reverra l'aube.*
+  * Cette légende n'est pas un mythe : c'est la manifestation physique du temps non linéaire des Limbes, où le navire du retour croise le navire de l'aller.
 * **Le Circuit de Résonance** : Le corps physique reste dans le monde réel, et les incantations sont des adresses résonantes vers son Double pour puiser de la puissance sans dégénérescence.
 * **L'Incantation à une Autre Figure (Le Secret des Cinq Écoles)** :  
   Incanter une figure non présente dans les Limbes résulte en des conséquences énormes et dangereuses. Cependant, pour se servir de la magie d'une figure déjà présente, il suffit d'entraîner son corps, son esprit, d'intégrer l'aspect technique de la Voie et du sort, et enfin d'appeler la figure existante. C'est ainsi que les Cinq ont inventé et popularisé la magie auprès de leurs disciples.

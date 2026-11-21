@@ -72,8 +72,8 @@ Pour stabiliser le continent :
 [Climax] Reprise de la mer vers le Continent Scellé ──> Face à la Faille ──> Duel One-Try contre le Rival
 ```
 
-### A. Le Premier Blasphème & L'Éveil en Cellule
-Le héros s'échoue seul sur le Continent Scellé. Il s'infiltre dans la cathédrale de la Première École pour puiser l'eau de la Fontaine sacrée réputée tout guérir. Mais dès qu'il franchit le seuil du parvis, **l'eau s'évapore instantanément** : la grâce divine est un monopole d'État réservé aux nobles.
+### A. Le Navire Fantôme, le Naufrage & L'Éveil en Cellule
+Le héros s'échoue sur le Continent Scellé après une traversée clandestine cauchemardesque. À l'approche des côtes, une vieille légende prend vie : dans la brume des Limbes, un grand trois-mâts noir navigue **à contre-sens**, avec un capitaine imposant et menaçant à la proue. Aussitôt, la tempête hurle, brise la chaloupe sur les récifs et noie tout l'équipage. Seul survivant, le héros s'infiltre dans la cathédrale de la Première École pour puiser l'eau de la Fontaine sacrée réputée tout guérir. Mais dès qu'il franchit le seuil du parvis, **l'eau s'évapore instantanément** : la grâce divine est un monopole d'État réservé aux nobles.
 
 Fou de rage et de douleur pour sa mère, il brise la statue du dieu au marteau. Jeté dans les cachots souterrains, condamné à mort, il ne reçoit aucune aide mystique. Par pure déduction intellectuelle, il comprend que les dieux ne sont que des noms servant d'adresses incantatoires.  
 Il ferme les yeux et récite l'incantation en prononçant **son propre nom mortel**.  
@@ -96,14 +96,19 @@ Le héros traque les cinq sanctuaires pour démanteler l'édifice théocratique.
 Après avoir vaincu le Cinquième et complété la **Voie 6 (*Le Guide*)**, le héros découvre dans les archives de la Secte (qui garde la dépouille captive de Noah sur le continent) une vérité impensable : le Sixième Sanctuaire de Noah n'est **pas sur le continent**. Le héros avait lui-même consigné dans son carnet l'ordre à Noah de l'ériger **sur sa terre natale, dissimulé sous les fondations de sa propre ville** !
 
 Le héros reprend clandestinement la mer en sens inverse vers les Terres Extérieures :
-1. **L'Infiltration sous la Ville Natale** : Sous les pavés et les taudis de sa ville d'enfance, il pénètre dans le Sixième Sanctuaire oublié depuis 2000 ans.
+1. **La Traversée Retour & La QTE « Guider la Tempête »** :
+   * Au milieu de l'océan enveloppé par la brume des Limbes, le héros aperçoit une fragile barque clandestine filant droit vers les falaises du Continent.
+   * Il reconnaît l'équipage terrifié du prologue qui le pointe du doigt en hurlant à la malédiction, et son jeune lui au fond de la cale.
+   * **Le héros comprend qu'il a toujours été ce capitaine maudit**. Pour que son épopée ait lieu et que sa mère ait une chance d'être sauvée, il n'a pas le choix : il doit provoquer son propre naufrage.
+   * **QTE Narrative** : Le joueur active la Voie 6 via l'invite **`[GUIDER LA TEMPÊTE]`**. D'un geste de la main, il canalise les vents et précipite l'ouragan sur la chaloupe, orchestrant son propre passé.
+2. **L'Infiltration sous la Ville Natale** : Sous les pavés et les taudis de sa ville d'enfance, il pénètre dans le Sixième Sanctuaire oublié depuis 2000 ans.
    * **La Fresque Intacte** : Protégée des siècles et de la guerre sous la roche urbaine, une fresque monumentale est restée miraculeusement préservée, immortalisant d'avance les Voies créées par les Cinq et la silhouette du Sixième. Les Cinq ne l'ont jamais vue, ce qui a garanti leur véritable génie créatif.
    * **Le Vieux Journal de 2000 ans** : Posé sur l'autel, le carnet usé par le temps contient l'écriture du héros, ses lettres à sa mère, et les annotations émues de Noah qui le remercie pour son amour filial qui lui a donné la force d'agir. Sur la dernière page, Noah a tracé la clé manquante : **la 7ème Voie (*Sceller*)**.
-2. **Le Moment Intime avec la Mère** :
+3. **Le Moment Intime avec la Mère** :
    * Avant de sceller son avenir, le héros remonte à la surface et revoit sa mère alitée :
      * *Scénario du Devoir / Sceller la Faille* : Le héros accomplit un rituel qui apaise définitivement ses atroces souffrances, lui offrant un sommeil paisible avant de partir se sacrifier pour sauver le monde.
      * *Scénario Égoïste / Sauver sa Mère* : Le héros utilise l'énergie concentrée pour la soigner et la guérir sur place, acceptant de condamner l'ordre mondial pour préserver sa vie.
-3. **La Reprise de la Mer** : Armé de la 7ème Voie (*Le Sceau*), le héros reprend la mer vers le Continent Scellé pour l'ultime confrontation. Il utilise la Voie du Guide pour projeter son journal neuf dans les Limbes vers l'an -2000, refermant éternellement la boucle temporelle.
+4. **La Reprise de la Mer** : Armé de la 7ème Voie (*Le Sceau*), le héros reprend la mer vers le Continent Scellé pour l'ultime confrontation. Il utilise la Voie du Guide pour projeter son journal neuf dans les Limbes vers l'an -2000, refermant éternellement la boucle temporelle.
 
 ---
 
