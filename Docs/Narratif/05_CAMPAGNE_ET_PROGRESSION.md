@@ -7,15 +7,15 @@
 ## 1. Structure Globale de la Campagne
 
 ```text
-[Prologue] Débarquement Clandestin ──> Tuto Sabre Solo (Brigands) ──> Choix Horizontal de l'École de Départ
+[Prologue] Débarquement Clandestin ──> Tuto Sabre Solo (Brigands) ──> Entrée à la Grande Académie des Cinq Voies
   │
-[Acte I] L'Apprenti de l'Ordre ──> Fraternité avec le Rival ──> Missions de Fief ──> Refus des Soins & Fuite au Sabre
+[Acte I] L'Apprenti de l'Académie ──> Fraternité avec le Rival ──> Le Crime de Guerre ──> Trahison & Infiltration Secrète
   │
 [Acte II] Le Mercenaire Solitaire (La Cavale) ──> Contrats sur les Routes ──> Épreuve du Seuil ──> ÉVEIL DE LA 6ᵉ VOIE (GUIDER)
   │
-[Acte III] La Chute des 5 Sanctuaires Périphériques (Séparés des Écoles) :
-  ├── Exploration Régionale & Élimination des Capitaines de la Secte
-  ├── Palier 1 : Abattre le Corps Maudit en crypte ──> Fin du monopole magique
+[Acte III] La Chute des 5 Sanctuaires Périphériques (Séparés de l'Académie) :
+  ├── Traque des Équipes de Sacrifices & Élimination des Capitaines de la Secte
+  ├── Palier 1 : Découverte & Mise à mort du Corps Maudit (Le Choc du faux dieu) ──> Fin du flux
   ├── Choix d'Autel : Usurpation (Embrigadement) vs Voie Pure (Dextérité martiale)
   └── Palier 2 : Duel au Sabre dans les Limbes contre la Forme Prime du Précurseur
   │
@@ -35,36 +35,48 @@
 ## 2. Déroulé Détaillé par Acte
 
 ### Prologue : L'Arrivée Clandestine & Les Premiers Pas au Sabre
-* **Le Convoi de Fortune** : Fuyant la misère des Terres Extérieures pour sauver sa mère mourante, le héros traverse l'océan sur une barque de contrebande. Il ne possède qu'un sabre ordinaire hérité de son père ouvrier et son carnet de notes vierge dédié à sa mère.
+* **Le Convoi de Fortune** : Fuyant l'indifférence économique des Terres Extérieures pour tenter de sauver sa mère mourante, le héros traverse l'océan sur une barque de contrebande. Il ne possède qu'un sabre ordinaire et son carnet de notes vierge dédié à sa mère.
 * **Tutoriel Organique (100% Escrime Solo)** :
   * Le joueur débarque sur les côtes rocheuses du Continent Scellé. Aucun sortilège, aucun pouvoir divin : le héros est un novice absolu en manipulation de flux.
   * Premiers affrontements contre des coupe-jarrets et des bêtes corrompues sur les sentiers côtiers. Le joueur apprend les mécaniques viscérales du gameplay *Sekiro-like* : déviations parfaites, gestion de la posture, contre-attaques d'estoc et esquives au millimètre.
-* **Le Carrefour des Cinq Provinces (Structure Horizontale)** :
-  * Le héros atteint un relais marchand animé où se croisent caravanes et recruteurs.
-  * **Liberté de Choix** : Les cinq provinces et leurs Écoles sont d'un niveau de difficulté équivalent. Le joueur choisit librement vers quelle académie se diriger en premier selon son affinité martiale :
-    1. *Givreciel (Nord)* : Maîtrise de l'endurance et drainage de flux (*Aspirer*).
-    2. *La Fonderie (Est)* : Tranchant absolu et vitesse de coupe (*Altérer*).
-    3. *Le Bastion (Sud)* : Dévastation tellurique et stabilité lourde (*Condenser*).
-    4. *Flèche d'Azur (Ouest)* : Mobilité foudroyante et esquives aériennes (*Accélérer*).
-    5. *Trône d'Obsidienne (Centre)* : Ondes de choc et portées étendues (*Projeter*).
+* **L'Entrée à la Grande Académie des Cinq Voies** :
+  * Le héros atteint la grande métropole continentale où siège **l'Académie des Cinq Voies**, l'institution suprême unifiée qui centralise l'enseignement magique du Continent.
+  * **Choix de la Branche Initiale** : L'Académie regroupe les 5 disciplines sous le même toit. Le joueur choisit librement sa première spécialité martiale selon son affinité de gameplay :
+    1. *Branche Vaelen* : Maîtrise de l'endurance et absorption de flux (*Aspirer*).
+    2. *Branche Kaelis* : Tranchant absolu et vitesse d'exécution (*Altérer*).
+    3. *Branche Gorath* : Dévastation tellurique et stabilité lourde (*Condenser*).
+    4. *Branche Lyra* : Mobilité foudroyante et esquives réflexes (*Accélérer*).
+    5. *Branche Malakor* : Ondes de choc et projections à distance (*Projeter*).
 
 ---
 
-### Acte I : L'Apprenti de l'Ordre, La Fraternité & La Rupture Sanglante
-* **L'Entrée dans l'École & La Camaraderie du Rival** :
-  * Le héros intègre l'académie choisie en tant que disciple. C'est là qu'il se lie d'amitié avec un autre aspirant talentueux : **le futur Rival**.
-  * Séances d'entraînement dans la cour de l'École : duels amicaux au sabre contre le Rival, apprentissage de la posture et premières canalisations de la brume d'éther ambiante.
-* **L'Initiation Magique (L'Insolence du Nom Divin)** :
-  * L'Ordre enseigne aux novices la formule sacrée : pour déchaîner un sort, il faut répéter le geste martial et **incanter le nom de la divinité tutélaire**.
-  * Le héros débloque ses toutes premières techniques magiques mineures en prêtant allégeance verbale au dieu de son École.
-* **Les Missions de Fief (Crescendo Dramatique)** :
-  * *Mission 1 (L'Épreuve du Fer)* : Nettoyer des galeries de mines arcaniques infestées de bêtes difformes saturées d'énergie.
-  * *Mission 2 (Le Doute Moral)* : Escorter un convoi de collecteurs de tribut. Le héros et le Rival assistent à la brutalité des templiers qui pressurent les villageois au nom de leur dieu.
-  * *Mission 3 (La Mission de Trop)* : L'Ordre ordonne aux novices d'intercepter et de purifier par le fer un campement de réfugiés clandestins malades arrivés des Terres Extérieures... des gens issus du même milieu que le héros.
-* **Le Drame de la Rupture (Le Duel contre l'Instructeur)** :
-  * En récompense de son service, le héros réclame audience pour obtenir la panacée sacrée pour sa mère. Les Grands Prêtres lui crachent leur mépris : la grâce divine est un monopole d'État réservé aux oligarques continentaux ; les malades des Terres Extérieures sont une tare méritant la mort.
-  * Refusant de massacrer les réfugiés et d'asservir son âme au dieu, le héros s'interpose sabre au clair.
-  * **Boss de Fin d'Acte I** : **L'Instructeur / Capitaine de l'École**, un maître d'escrime redoutable qui bloque la porte de sortie de la cité. En le terrassant dans un duel technique tendu, le héros ouvre la voie aux réfugiés et prend la fuite dans la nature. Le Rival, déchiré, choisit de rester en retrait pour couvrir sa fuite.
+### Acte I : L'Académie, Le Crime de Guerre & L'Infiltration Secrète
+* **La Vie d'Initié & La Fraternité du Rival** :
+  * Le héros fait ses classes au sein de l'Académie aux côtés d'un autre aspirant d'exception : **le futur Rival**.
+  * **Variété martiale dès l'entraînement** : Dans les cours de l'Académie, le joueur n'affronte pas des clones : il croise le fer avec des disciples des quatre autres branches (bretteurs véloces, colosses telluriques, tireurs de flux). Le Rival choisit une branche différente, créant une saine émulation martiale.
+* **L'Apprentissage des Sous-Sorts** :
+  * L'Ordre n'enseigne aucune création magique : les disciples apprennent des techniques standardisées et déclenchent leurs sous-sorts en **incantant le nom de la divinité tutélaire** de leur branche.
+* **La Mission Noire (Le Crime de Guerre)** :
+  * L'Académie mobilise ses aspirants pour écraser un campement retranché d'insurgés anti-magie (officiellement désignés comme des « brigands »). Ces rebelles cherchaient en réalité à détruire les infrastructures des mages pour stopper la corruption qui ronge les campagnes.
+  * **Le Franchissement de la Ligne Rouge** : Aveuglé par la promesse formelle des Grands Prêtres d'accorder le remède sacré à sa mère, **le héros commet l'irréparable**. Il massacre le camp, abattant des fuyards désarmés et des blessés. Le sang d'innocents souille sa lame.
+  * Le Rival participe à l'assaut avec lui, guidé par sa propre logique de soldat : le maintien de l'ordre et le devoir militaire envers l'Académie.
+* **La Trahison & Le Choix de Réaction** :
+  * Au retour, le héros réclame son dû pour sa mère. L'Académie lui oppose un refus bureaucratique glacial : la grâce divine est un monopole d'État réservé aux oligarques du Continent ; les provinciaux d'outre-mer ne sont pas prioritaires.
+  * **L'horreur absolue** : Le héros comprend qu'il a commis un crime de guerre **pour rien**. Face à cette injustice, le joueur a le choix de son attitude :
+    * *Branche A (L'Explosion de Rage)* : Le héros tire sa lame en pleine audience. Bagarre générale spectaculaire contre les gardes d'élite. Submergé par les hauts gradés, il est désarmé et jeté ensanglanté aux cachots souterrains.
+    * *Branche B (La Dissimulation Froide)* : Le héros encaisse l'affront en silence et fait mine de plier. Mais la nuit venue, il boycotte la cérémonie solennelle d'adoration où chaque initié doit jurer fidélité éternelle à la divinité et lui offrir un sacrifice rituel. Il bascule dans la clandestinité.
+* **L'Aide Secrète du Rival & Le Tuyau des Archives** :
+  * Le Rival retrouve le héros en secret (aux barreaux de sa geôle ou dans un recoin sombre). Fraternel mais réaliste, le Rival refuse de fuir avec lui : il choisit de rester dans l'Académie pour y faire carrière et réformer le système de l'intérieur.
+  * Ayant rapidement monté en grade grâce au succès de la mission, le Rival refuse de laisser son ami croupir : il lui donne les horaires des rondes et l'accès dérobé à la Salle des Reliques.
+  * **Son conseil** : L'Académie bride volontairement le savoir martiale des élèves. S'il s'infiltre, le héros peut voler **l'exemplaire complet et non censuré de sa Voie**, lui permettant de s'entraîner sans limite et sans maître hors de l'École.
+* **L'Infiltration des Archives & Le Document Secret** :
+  * Le héros mène une mission d'infiltration nocturne dans le cœur des archives de l'Académie.
+  * Il met la main sur le grimoire complet de sa Voie (débloquant son arbre martial avancé).
+  * **Le Coup de Théâtre (Ce que même le Rival ignorait)** : Dans le coffre scellé, le héros découvre un dossier confidentiel compromettant :
+    * L'Académie mandate discrètement **une équipe interne d'inquisiteurs affiliée à l'École** pour acheminer des **sacrifices humains** vers un sanctuaire secret caché dans la province.
+    * Ce tribut de sang sert à **« stabiliser le Corps »** qui y réside.
+    * À ce stade, le héros ne comprend absolument pas que ce « Corps » est le dieu qu'il priait : il découvre simplement que l'Académie entretient une abomination secrète et sanguinaire sous terre.
+  * Le héros s'évade définitivement des murailles, déterminé à traquer cette équipe d'inquisiteurs pour découvrir ce que cache ce sanctuaire et trouver une issue pour sa mère.
 
 ---
 

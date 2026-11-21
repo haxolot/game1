@@ -82,13 +82,14 @@ Pour stabiliser le continent :
   └── Confrontation Décisive : Duel au Sabre en ONE TRY contre le Rival (Voie ROMPRE)
 ```
 
-### A. Prologue & Acte I : L'Arrivée, L'École et la Rupture Brutale
-* **Prologue (Tuto 100% Escrime Solo)** : Le héros débarque clandestinement sur le Continent Scellé avec une simple lame ordinaire et son carnet vierge dédié à sa mère. Aucun pouvoir magique au début : premiers affrontements au sabre contre brigands et bêtes sauvages (apprentissage des déviations, parades et postures de base).
-* **Le Choix des Cinq Écoles (Structure Horizontale)** : Les cinq provinces et leurs Écoles sont d'un niveau égal. Le joueur choisit librement par quelle École commencer son périple.
-* **Acte I (L'Apprenti & La Rupture)** :
-  * Le héros rejoint l'Ordre choisi, apprend à canaliser le flux et lance ses premiers sorts mineurs en invoquant le nom du dieu de l'École.
-  * Rapidement envoyé en mission, il monte en compétence.
-  * **La Rupture Brutale** : En demandant le remède pour sa mère mourante, il se heurte au refus méprisant des Grands Prêtres (la grâce est un monopole d'État réservé aux oligarques continentaux). L'Ordre exige un serment d'asservissement spirituel et la purge de clandestins de sa propre région natale. Refusant de trahir sa mère et les siens, le héros tire sa lame, se rebelle et s'enfuit en renégat pour abattre le système des faux dieux.
+### A. Prologue & Acte I : L'Académie des Cinq Voies, Le Crime de Guerre & L'Infiltration
+* **Prologue (Tuto 100% Escrime Solo)** : Le héros débarque clandestinement sur le Continent avec un sabre ordinaire et son carnet vierge dédié à sa mère. Premiers combats au sabre contre brigands et bêtes sauvages (apprentissage des déviations et postures). Il rejoint **la Grande Académie des Cinq Voies**, l'institution suprême unifiée qui rassemble les cinq branches martiales sous le même toit.
+* **Acte I (L'Académie & Le Crime de Guerre)** :
+  * Le héros s'entraîne aux côtés de son ami (le futur Rival) au milieu des autres styles. Il apprend les premiers sous-sorts en incantant le nom du dieu tutélaire de sa branche.
+  * **La Mission Noire** : Aveuglé par la promesse de soins pour sa mère mourante, le héros commet l'irréparable : il participe à la purge d'un campement d'insurgés anti-magie (officiellement des « brigands »), massacrant des fuyards désarmés et des blessés. Le Rival participe guidé par le devoir militaire.
+  * **La Trahison & Le Choix de Réaction** : L'Académie refuse froidement les soins promis. Le héros comprend qu'il a commis un crime de guerre pour rien. Le joueur choisit sa réaction : *Explosion de rage* (bagarre générale contre les hauts gradés, défaite et cachot) ou *Dissimulation froide* (boycott nocturne du rituel d'adoration et de sacrifice au dieu).
+  * **Le Tuyau du Rival & L'Infiltration** : Monté en grade, le Rival retrouve le héros en secret : il reste dans l'Académie mais donne à son ami les plans pour s'infiltrer et voler **l'exemplaire complet et non censuré de sa Voie**.
+  * **La Révélation du Document Secret** : En volant son grimoire martial, le héros découvre un ordre confidentiel : l'Académie mandate une équipe interne pour convoyer des **sacrifices humains** afin de « stabiliser le Corps » caché dans le sanctuaire secret de la province. Sans comprendre encore que ce "Corps" est le dieu qu'il priait, le héros s'évade définitivement pour traquer cette équipe.
 
 ### B. Acte II : Le Mercenaire Solitaire & L'Éveil de la 6ᵉ Voie (*Guider*)
 * Traqué par la Secte, le héros refuse d'invoquer les faux dieux et loue son sabre comme mercenaire indépendant pour survivre sur les routes du Continent.
