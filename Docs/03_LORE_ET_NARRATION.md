@@ -59,20 +59,27 @@ Pour stabiliser le continent :
 ## 3. L'Épopée du Héros : De la Cellule au Climax
 
 ```text
-[Prologue] Naufrage sur les récifs ──> La Cité du Nord ──> Fontaine Captive ──> Fracas de la Statue
+[Prologue] Débarquement Clandestin ──> Tuto Sabre Solo (Brigands) ──> Choix Horizontal de l'École de Départ
   │
-[Acte I] Cachots Souterrains ──> Déduction Logique ──> Auto-Invocation ──> Évasion
+[Acte I] L'Apprenti de l'Ordre ──> Fraternité avec le Rival ──> Missions de Fief ──> Refus des Soins & Fuite au Sabre
   │
-[Actes II & III] La Marche des 5 Stations (Gameplay Sekiro 2D Solo au Sabre) :
-  ├── Palier 1 : Abattre le Corps Maudit en crypte ──> L'École s'éteint dans la région
-  ├── Choix d'Autel : Usurpation (Embrigadement) vs Voie Pure (Sans culte)
-  └── Palier 2 : Duel Martial au Sabre contre l'Esprit Divin affamé descendu des Limbes
+[Acte II] Le Mercenaire Solitaire (La Cavale) ──> Contrats sur les Routes ──> Épreuve du Seuil ──> ÉVEIL DE LA 6ᵉ VOIE (GUIDER)
   │
-[Acte IV] Voie du Guide (Voie 6) ──> Retour aux Terres Extérieures ──> Le 6e Sanctuaire Souterrain sous la Ville
-  ├── Fresque Intacte de 2000 ans & Vieux Journal de Noah (Voie 7 : SCELLER)
-  └── Face-à-Face avec la Mère (Rituel d'apaisement des douleurs OU Guérison sur place)
+[Acte III] La Chute des 5 Sanctuaires Périphériques (Séparés des Écoles) :
+  ├── Exploration Régionale & Élimination des Capitaines de la Secte
+  ├── Palier 1 : Abattre le Corps Maudit en crypte ──> Fin du monopole magique
+  ├── Choix d'Autel : Usurpation (Embrigadement) vs Voie Pure (Dextérité martiale)
+  └── Palier 2 : Duel au Sabre dans les Limbes contre la Forme Prime du Précurseur
   │
-[Climax] Reprise de la mer vers le Continent Scellé ──> Face à la Faille ──> Duel One-Try contre le Rival
+[Acte IV] Le Retour d'Outre-Mer (Terres Extérieures) :
+  ├── Traversée des Limbes & QTE « GUIDER LA TEMPÊTE » sur la chaloupe du passé
+  ├── La Cache Scellée sous la Ville Natale : Serrure Martiale des 6 Voies & Récupération de la 7ᵉ Voie (SCELLER)
+  ├── Le Dojo du Sceau : Entraînement physique aux 7 mouvements de Noah
+  └── Scène Clé : Retrouvailles au chevet de la Mère (Apaisement altruiste OU Guérison égoïste)
+  │
+[Acte V - Climax] L'Épicentre du Continent (Le Sanctuaire du Sceau Primordial) :
+  ├── Découverte de la Dépouille en stase de Noah au point zéro
+  └── Confrontation Décisive : Duel au Sabre en ONE TRY contre le Rival (Voie ROMPRE)
 ```
 
 ### A. Prologue & Acte I : L'Arrivée, L'École et la Rupture Brutale
@@ -83,14 +90,19 @@ Pour stabiliser le continent :
   * Rapidement envoyé en mission, il monte en compétence.
   * **La Rupture Brutale** : En demandant le remède pour sa mère mourante, il se heurte au refus méprisant des Grands Prêtres (la grâce est un monopole d'État réservé aux oligarques continentaux). L'Ordre exige un serment d'asservissement spirituel et la purge de clandestins de sa propre région natale. Refusant de trahir sa mère et les siens, le héros tire sa lame, se rebelle et s'enfuit en renégat pour abattre le système des faux dieux.
 
-### B. Actes II & III : La Chute des 5 Sanctuaires & La 6ᵉ Voie
+### B. Acte II : Le Mercenaire Solitaire & L'Éveil de la 6ᵉ Voie (*Guider*)
+* Traqué par la Secte, le héros refuse d'invoquer les faux dieux et loue son sabre comme mercenaire indépendant pour survivre sur les routes du Continent.
+* Son quotidien devient littéralement **GUIDER** (protéger des convois de réfugiés, ouvrir des sentiers à travers les tempêtes de flux).
+* **L'Épreuve du Seuil (Climax de l'Acte II)** : Acculé avec des fuyards au contact d'une faille de flux brut, ses anciens sorts ne répondent plus. Il associe son obsession quotidienne (**GUIDER**), son geste au sabre et récite **son propre nom mortel** : il crée la **6ᵉ Voie : GUIDER**, devenant le premier créateur d'une Voie depuis un millénaire.
+
+### C. Acte III : La Chute des 5 Sanctuaires & Le Grand Tour
 Les Écoles (villes/académies) sont séparées des **Sanctuaires** (complexes souterrains secrets tenus par la Secte aux 5 branches périphériques du Sceau) :
 1. **Palier 1 : Le Corps Maudit (Monde Physique)** : Il détruit l'abomination charnelle du Précurseur qui servait de filtre d'énergie. L'École de magie correspondante perd ses pouvoirs dans toute la province.
 2. **Le Choix Moral d'Autel (Modulable par Sanctuaire)** :
    * *Option Usurpation* : Le héros grave son propre nom sur l'autel. Les mages et la population l'invoquent à la place du dieu. Il dévie la foi vers lui et gagne une puissance martiale décuplée.
    * *Option Voie Pure (Sans Culte)* : Il refuse de devenir une idole et brise l'autel sans inscrire son nom. La région réapprend à vivre sans béquille magique. Le héros compense par une dextérité martiale pure (100% parade au sabre).
 3. **Palier 2 : Le Duel de Forme Prime (Sekiro-like Martial)** : Privée de son corps-relais et affamée de prières, la divinité descend des Limbes dans son avatar d'escrime originel. En la battant, le héros assimile la Voie dans son carnet.
-4. **La Création de la 6ᵉ Voie (*Guider*) & La Déduction Autonome** : Ayant assimilé les 5 arts sans succomber, le héros forge la 6ᵉ Voie (*Guider*). Comprenant la boucle temporelle et sachant qu'il dictera à Noah où cacher son legs, le héros déduit avec certitude que la cache se trouve sous sa propre ville natale dans les Terres Extérieures.
+4. **Le Déclic Autonome** : Ayant vaincu les 5 arts, il comprend qu'il doit envoyer son carnet à Noah en -2000 en lui ordonnant de cacher son legs loin des rois du Continent : il déduit immédiatement que la cache se trouve sous sa propre ville natale dans les Terres Extérieures.
 
 ---
 
