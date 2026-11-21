@@ -16,7 +16,11 @@
   ├── Choix d'Autel : Usurpation (Embrigadement) vs Voie Pure (Sans culte)
   └── Palier 2 : Duel Martial au Sabre contre l'Esprit Divin affamé descendu des Limbes
   │
-[Climax] Découverte de la Crypte de Noah ──> Lecture du Vieux Journal ──> Voie 6 (LE GUIDE)
+[Acte IV] La Voie du Guide (Voie 6) ──> Retour aux Terres Extérieures ──> Le Sanctuaire Souterrain sous la Ville Natale
+  ├── Révélation de la Fresque Intacte & Lecture du Vieux Journal de Noah (Voie 7 : SCELLER)
+  └── Scène Clé : Revoir la Mère (Rituel d'apaisement des douleurs OU Guérison sur place)
+  │
+[Climax] Reprise de la mer vers le Continent Scellé ──> Face au Sceau Primordial ──> Duel One-Try contre le Rival
 ```
 
 ---
@@ -41,7 +45,18 @@ Le héros traque les cinq sanctuaires sur le continent. Chaque station propose u
    * *Branche B : La Voie Pure (Sans Culte)* : Il brise l'autel sans inscrire son nom. La province apprend à vivre sans béquille magique. Le héros compense par une virtuosité martiale 100% dextérité.
 3. **Palier 2 (Le Duel de Forme Prime)** : Privé de son récepteur physique et affamé de prières, l'esprit de la divinité descend des Limbes pour un duel de sabre au sommet (esprit Sekiro). En le battant, le héros consigne la Voie dans son carnet.
 
-### Climax : Le Sanctuaire Secret de Noah
-* Le héros pénètre dans la crypte de la Secte, trouve le corps préservé de Noah et le **Vieux Journal de 2000 ans**.
-* Il découvre sa propre écriture, les annotations émues de Noah et la **7ème Voie (*Sceller*)**.
-* Il achève son carnet en forgeant la **6ème Voie (*Guider*)** et projette son carnet dans le passé vers l'an -2000, fermant la causalité de l'univers.
+### Acte IV : Le Sanctuaire Enfoui sous la Ville Natale & La Mère
+* **La Découverte de la Voie 6 (*Guider*)** : Ayant assimilé les 5 Voies sans se laisser corrompre, le héros forge la 6ème Voie (*Guider*). En fouillant les archives secrètes de la Secte (qui garde la dépouille matérielle de Noah sur le continent), il comprend la vérité : le dernier sanctuaire de Noah (le Sixième) n'est **pas sur le continent**. Le héros avait lui-même consigné dans son carnet l'ordre à Noah de l'enfouir **sur sa terre natale, dans les profondeurs sous sa propre ville** !
+* **L'Infiltration Souterraine sous la Ville** : Le héros traverse la mer en sens inverse vers les Terres Extérieures. Sous les pavés et les taudis de sa ville natale, il découvre les galeries secrètes du Sixième Sanctuaire.
+  * **La Fresque Intacte** : Par miracle archéologique, la roche a protégé une fresque gigantesque gravée par Noah il y a 2000 ans, représentant les Voies des Cinq et la silhouette du Sixième. Les Cinq ne l'ont jamais vue, ce qui leur a permis de créer leurs Voies sans les copier.
+  * **Le Vieux Journal de Noah** : Posé sur l'autel, le carnet usé par deux millénaires contient les annotations de Noah, ses remerciements pour l'amour filial qui a inspiré son œuvre, et le tracé de la **7ème Voie (*Sceller*)**.
+* **Le Moment avec la Mère** :
+  * Avant le départ final, le héros revoit sa mère alitée :
+    * *Scénario du Devoir (Sceller le Sceau)* : Il accomplit un rituel qui apaise définitivement ses atroces souffrances, lui offrant un sommeil serein avant de partir sauver le monde.
+    * *Scénario Égoïste (Sauver la Mère)* : Il utilise l'énergie concentrée pour la soigner et la guérir sur place, acceptant de condamner l'équilibre magique de la Terre.
+* **Reprise de la Mer** : Armé de la 7ème Voie (*Le Sceau*), le héros reprend la mer vers le Continent Scellé pour la confrontation finale.
+
+### Climax : L'Ultime Traversée & Le Duel One-Try
+* De retour sur le Continent Scellé au cœur du Sceau Primordial, le dénouement s'engage.
+* Si le héros refuse de sceller la brèche pour préserver les Terres Extérieures ou sauver sa mère, le Rival se dresse avec la Voie anormale *ROMPRE* dans un duel décisif en **ONE TRY**.
+* Le héros utilise la Voie du Guide pour projeter son journal neuf dans les Limbes vers l'an -2000, refermant la boucle temporelle.

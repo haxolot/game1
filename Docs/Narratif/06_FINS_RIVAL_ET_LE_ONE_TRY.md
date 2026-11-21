@@ -6,22 +6,24 @@
 
 ## 1. La Dualité des Deux Grandes Routes Finales
 
-Détenteur des 7 Voies et du destin de la faille, le héros se trouve devant un dilemme déchirant :
+Après avoir découvert le Sixième Sanctuaire caché sous sa ville natale et récupéré le Vieux Journal de Noah (Voie 7 : *Le Sceau*), le héros revoit sa mère alitée avant de reprendre la mer vers le Continent Scellé :
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
 │                      LES DEUX GRANDES ROUTES FINALES                   │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 1. LA RUN ALTRUISTE (Le Martyr) :                                      │
-│    Le héros accepte le sacrifice pour sauver le monde. Il applique le  │
-│    Sceau pour purifier la faille ou s'y sceller lui-même. Le monde est │
-│    sauvé, le Rival est son allié qui honore sa mémoire.                │
+│ 1. LA RUN ALTRUISTE (Le Devoir & L'Apaisement) :                       │
+│    Avant de reprendre la mer, le héros accomplit un rituel qui apaise  │
+│    définitivement les atroces douleurs de sa mère alitée. Conscient du │
+│    poids de son destin, il repart vers le Continent pour sceller le    │
+│    Sceau et sauver la Terre. Le Rival est son allié jusqu'au bout.     │
 │                                                                        │
 │ 2. LA RUN ÉGOÏSTE (L'Amour d'un Fils contre le Monde) :                │
-│    Le héros découvre que sceller la faille supprime l'énergie vitale   │
-│    qui maintient sa mère en vie. Il REFUSE D'ACTIVER LE SCEAU.         │
-│    Prêt à laisser le monde périr pour sa mère, le héros devient la     │
-│    menace divine. Le Rival s'interpose pour sauver l'humanité.         │
+│    Le héros refuse de voir sa mère condamnée. Il utilise l'énergie pour│
+│    la soigner sur place, ou refuse d'activer le Sceau qui anéantirait  │
+│    le flux qui la maintient en vie. Prêt à laisser le monde s'effondrer│
+│    pour préserver sa mère, le héros devient la menace divine.          │
+│    Le Rival s'interpose sur le Continent pour sauver l'humanité.       │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 

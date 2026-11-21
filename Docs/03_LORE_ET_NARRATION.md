@@ -21,19 +21,25 @@ Le jeu propose une aventure d'escrime au sabre exigeante et nerveuse (esprit *Se
 
 ## 2. Les Âges Anciens : Le Péché Originel (-2000 ans à aujourd'hui)
 
-### A. Le Sceau de Noah et la Fuite Intentionnelle (-2000 ans)
+### A. Le Sceau de Noah, les Témoins Primitifs et le Sanctuaire Oublié (-2000 ans)
 À l'origine, la Terre ne connaît pas la magie. Une brèche colossale s'ouvre vers les Limbes, déversant une énergie brute cataclysmique et des créatures monstrueuses sur des terres sans soleil. Au bord de l'extinction, un érudit nommé **Noah** parvient à forger un verrouillage monumental : **Le Sceau**. 
-* **Le Pèlerinage Planétaire** : Ce rituel aux 7 mouvements s'étale sur un pèlerinage autour du globe, avant de se répéter sur le lieu d'accumulation de toute l'énergie mondiale choisi par Noah : **le Continent Scellé**.
-* **Le Secret Tragique de Noah** : Noah n'a pas scellé la faille par hasard. Il a reçu à travers les Limbes un journal intime jauni venu du futur, contenant les techniques physiques pour dompter l'énergie. Comprenant la boucle causale, **Noah a volontairement laissé fuiter un filet résiduel d'énergie**. Il savait que si le Sceau était hermétique à 100%, la magie ne naîtrait jamais sur Terre, personne n'inventerait ces techniques, et le héros ne pourrait jamais le sauver depuis le futur.  
-*C'est cette fuite intentionnelle laissée par Noah il y a 2000 ans qui engendre les miasmes et la maladie mortelle de la mère du héros.*  
-Son esprit s'éteint dans les Limbes après un transfert prolongé, tandis que sa dépouille matérielle demeure sur Terre.
+* **Le Pèlerinage Planétaire** : Ce rituel aux 7 mouvements s'étale sur des années autour du globe, avant de se répéter sur le lieu de convergence choisi par Noah pour sceller toute l'énergie mondiale : **le Continent Scellé**.
+* **Le Secret Tragique de Noah** : Noah a reçu à travers les Limbes le carnet intime venu du futur du héros. Comprenant la boucle temporelle, **Noah a volontairement laissé fuiter un filet résiduel d'énergie**. Il savait que si le Sceau était étanche à 100%, la magie disparaîtrait, personne n'inventerait les Voies, et le héros ne pourrait jamais lui envoyer ce carnet de sauvetage. *C'est cette fuite intentionnelle qui engendre les miasmes et la maladie rare de la mère.*
+* **Les Témoins Primitifs & L'Érosion Archéologique** :
+  * Durant le pèlerinage de Noah, les autochtones primitifs ont immortalisé ses danses rituelles dans des sculptures et mégalithes sans comprendre la magie.
+  * Avec les siècles, la langue ancienne a disparu. Les ruines n'indiquaient plus que **la méthode** (associer un Symbole de vie quotidien à l'énergie brute), mais **jamais quelles Voies avaient été créées**, les gestes s'étant érodés.
+* **Le Sixième Sanctuaire Enfoui sous la Ville Natale** :
+  * Conformément à la consigne secrète laissée par le héros dans son carnet, Noah a érigé son sanctuaire ultime (le Sixième) **hors du continent, dans les Terres Extérieures, en souterrain sous la ville natale du héros**.
+  * C'est là que Noah a caché son **Journal Ancien contenant la 7ème Voie (*Le Sceau*)**.
+  * Sous la roche urbaine, **une fresque monumentale est restée intacte**, immortalisant d'avance les Voies des Cinq et la silhouette du Sixième. Les Cinq et la Secte, focalisés sur le Continent Scellé, n'ont jamais découvert ce lieu.
+* L'esprit de Noah s'éteint dans les Limbes après un transfert prolongé, tandis que sa dépouille matérielle demeure sur Terre.
 
-### B. « La Course de Jouissance » & L'Ascension des Cinq (-1500 à -800 ans)
-Des siècles après Noah, la découverte des ressources inouïes du Continent Scellé (terres ultra-fertilisées par l'éther résiduel, minerais arcaniques) déclenche **la Course de Jouissance** : une ruée coloniale frénétique où les différents royaumes des Terres Extérieures convergent pour piller et s'approprier le continent.
+### B. « La Course de Jouissance » & L'Invention Réelle des Cinq (-1500 à -800 ans)
+Des siècles après Noah, la découverte des richesses inouïes du Continent Scellé déclenche **la Course de Jouissance** : une ruée coloniale frénétique des Terres Extérieures pour piller le continent.
 
-Au milieu de cette ruée, **cinq pionniers d'exception** découvrent l'emplacement secret du Sceau de Noah et bravent le seuil mortel du flux brut. En appliquant un Symbole philosophique absolu à leur quotidien sous peine d'être engloutis, **ils forgent de leurs propres mains les Voies 1 à 5** (*Aspirer, Altérer, Condenser, Accélérer, Projeter*). 
+Au milieu de cette ruée, **cinq pionniers d'exception** découvrent l'emplacement du Sceau. En étudiant les ruines érodées, ils n'ont rien copié : n'ayant jamais vu la trace de leurs propres gestes, **ils ont réellement inventé les Voies 1 à 5 de leur propre génie** (*Aspirer, Altérer, Condenser, Accélérer, Projeter*). S'ils avaient vu la fresque du Sixième Sanctuaire, ils l'auraient copiée sans l'inventer ; l'oubli a préservé leur rôle de créateurs.
 
-Pour populariser leur magie, ils fondent leurs Cinq Écoles et enseignent aux fidèles la technique martiale couplée à **l'incantation de leurs propres noms**, permettant aux mortels de puiser la force de leurs Doubles dans les Limbes.
+Pour populariser leur magie, ils fondent leurs Cinq Écoles et enseignent la technique martiale couplée à **l'incantation de leurs propres noms**, permettant aux mortels de puiser la force de leurs Doubles dans les Limbes.
 
 Rongés par l'orgueil, ils s'affrontent lors de la **Guerre d'Un An** pour le monopole absolu, menaçant de faire exploser la barrière. Pour survivre, ils commettent l'irréversible :
 1. **Ils transmutent leur conscience dans leur Double des Limbes**, devenant des fausses divinités immortelles mais désincarnées.
@@ -59,7 +65,11 @@ Pour stabiliser le continent :
   ├── Choix d'Autel : Usurpation (Embrigadement) vs Voie Pure (Sans culte)
   └── Palier 2 : Duel Martial au Sabre contre l'Esprit Divin affamé descendu des Limbes
   │
-[Climax] Crypte de Noah ──> Découverte du Vieux Journal ──> Voie 6 (LE GUIDE) ──> Choix du Sceau
+[Acte IV] Voie du Guide (Voie 6) ──> Retour aux Terres Extérieures ──> Le 6e Sanctuaire Souterrain sous la Ville
+  ├── Fresque Intacte de 2000 ans & Vieux Journal de Noah (Voie 7 : SCELLER)
+  └── Face-à-Face avec la Mère (Rituel d'apaisement des douleurs OU Guérison sur place)
+  │
+[Climax] Reprise de la mer vers le Continent Scellé ──> Face à la Faille ──> Duel One-Try contre le Rival
 ```
 
 ### A. Le Premier Blasphème & L'Éveil en Cellule
@@ -81,17 +91,19 @@ Le héros traque les cinq sanctuaires pour démanteler l'édifice théocratique.
 
 ---
 
-## 4. Le Climax & Le Paradoxe des Deux Journaux
+## 4. L'Acte IV : Le Sixième Sanctuaire Souterrain & Le Dernier Regard à la Mère
 
-Après avoir vaincu le Cinquième, le héros pénètre dans la crypte secrète gardée par la Secte. Il y découvre le corps embaumé de Noah... et à ses côtés, un livre jauni mangé par 2000 ans d'histoire : **Le Vieux Journal**.
+Après avoir vaincu le Cinquième et complété la **Voie 6 (*Le Guide*)**, le héros découvre dans les archives de la Secte (qui garde la dépouille captive de Noah sur le continent) une vérité impensable : le Sixième Sanctuaire de Noah n'est **pas sur le continent**. Le héros avait lui-même consigné dans son carnet l'ordre à Noah de l'ériger **sur sa terre natale, dissimulé sous les fondations de sa propre ville** !
 
-En l'ouvrant, il subit le vertige absolu :
-* **L'écriture est la sienne**. Les croquis de monstres, les doutes, et les lettres d'amour déchirantes adressées à sa mère sont mot pour mot ce qu'il a rédigé depuis son naufrage.
-* En marge, **Noah a calligraphié ses remerciements** : ce sont ces mots humains et humbles qui ont ému Noah en -2000 et lui ont appris les mouvements pour sauver la planète.
-* Et sur la dernière page, Noah a tracé la clé manquante : **la 7ème Voie (*Sceller*)**.
-* **Noah n'a jamais été le premier** : il s'est appelé "Le Septième" car il n'a fait que poser la 7ème Voie au sommet des 6 reçues du futur !
-
-Le héros comprend alors la 6ème Voie : **LE GUIDE** (transmettre et donner sans rien retenir). En canalisant l'énergie des provinces libérées, il projette son journal neuf dans les Limbes vers l'an -2000, fermant la causalité de l'univers.
+Le héros reprend clandestinement la mer en sens inverse vers les Terres Extérieures :
+1. **L'Infiltration sous la Ville Natale** : Sous les pavés et les taudis de sa ville d'enfance, il pénètre dans le Sixième Sanctuaire oublié depuis 2000 ans.
+   * **La Fresque Intacte** : Protégée des siècles et de la guerre sous la roche urbaine, une fresque monumentale est restée miraculeusement préservée, immortalisant d'avance les Voies créées par les Cinq et la silhouette du Sixième. Les Cinq ne l'ont jamais vue, ce qui a garanti leur véritable génie créatif.
+   * **Le Vieux Journal de 2000 ans** : Posé sur l'autel, le carnet usé par le temps contient l'écriture du héros, ses lettres à sa mère, et les annotations émues de Noah qui le remercie pour son amour filial qui lui a donné la force d'agir. Sur la dernière page, Noah a tracé la clé manquante : **la 7ème Voie (*Sceller*)**.
+2. **Le Moment Intime avec la Mère** :
+   * Avant de sceller son avenir, le héros remonte à la surface et revoit sa mère alitée :
+     * *Scénario du Devoir / Sceller la Faille* : Le héros accomplit un rituel qui apaise définitivement ses atroces souffrances, lui offrant un sommeil paisible avant de partir se sacrifier pour sauver le monde.
+     * *Scénario Égoïste / Sauver sa Mère* : Le héros utilise l'énergie concentrée pour la soigner et la guérir sur place, acceptant de condamner l'ordre mondial pour préserver sa vie.
+3. **La Reprise de la Mer** : Armé de la 7ème Voie (*Le Sceau*), le héros reprend la mer vers le Continent Scellé pour l'ultime confrontation. Il utilise la Voie du Guide pour projeter son journal neuf dans les Limbes vers l'an -2000, refermant éternellement la boucle temporelle.
 
 ---
 
@@ -103,16 +115,16 @@ Possédant désormais la 7ème Voie (*Sceller*), le joueur fait face au cœur de
 ┌────────────────────────────────────────────────────────────────────────┐
 │                      LES DEUX GRANDES ROUTES FINALES                   │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 1. LA ROUTE ALTRUISTE (Le Martyr du Monde) :                           │
-│    Le héros accepte le sacrifice. Il utilise le Sceau pour fermer la   │
-│    faille ou s'y sceller lui-même. Le monde est sauvé des monstres,    │
-│    le Rival est son frère d'armes qui porte sa mémoire.                │
+│ 1. LA ROUTE ALTRUISTE (Le Devoir & L'Apaisement) :                     │
+│    Le héros a apaisé les douleurs de sa mère et accepte le sacrifice.  │
+│    Il utilise le Sceau pour refermer la faille ou s'y sceller lui-même.│
+│    Le monde est sauvé, le Rival est son allié qui honore sa mémoire.   │
 │                                                                        │
 │ 2. LA ROUTE ÉGOÏSTE (L'Amour d'un Fils contre l'Humanité) :            │
-│    Le héros découvre que sceller la magie supprime le flux vital qui   │
-│    maintient sa mère en vie. Il REFUSE D'ACTIVER LE SCEAU.             │
-│    Prêt à laisser le monde périr pour sa mère, le héros devient la     │
-│    menace. Le Rival s'interpose pour sauver l'humanité.                │
+│    Le héros a guéri sa mère ou refuse d'activer le Sceau qui détruirait│
+│    le flux vital la maintenant en vie. Prêt à laisser le monde périr   │
+│    pour sa mère, le héros devient la menace divine. Le Rival s'inter-  │
+│    pose sur le Continent pour sauver l'humanité.                       │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 

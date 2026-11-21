@@ -17,11 +17,22 @@
 
 * **Statut** : Le premier mortel à avoir manipulé la magie en -2000 ans.
 * **Rôle** : Sauvé par le journal intime envoyé du futur par le héros, il a inventé la 7ème Voie (*Sceller*) et sauvé la Terre primitive.
-* **Destin Tragique** : A sciemment laissé une fuite au Sceau pour que la magie naisse. Mort d'un transfert trop prolongé dans les Limbes. Son corps physique matériel est exploité en secret par la Secte.
+* **Le Sixième Sanctuaire** : Suivant les instructions écrites du héros, il a bâti son propre sanctuaire dans les profondeurs souterraines sous la future ville natale du héros dans les Terres Extérieures, y dissimulant son carnet usé et une fresque intacte immortalisant les Voies futures.
+* **Destin Tragique** : A sciemment laissé une fuite au Sceau pour que la magie naisse et que la causalité existe. Mort d'un transfert trop prolongé dans les Limbes. Son corps physique matériel est exploité en secret par la Secte sur le Continent.
 
 ---
 
-## 3. Les Cinq Précurseurs (Les Faux Dieux)
+## 3. Le Rival (Frère d'Armes & Sauveur Inattendu)
+
+* **Statut** : Compagnon de route du héros, embarqué sur la même traversée clandestine depuis les Terres Extérieures. Épéiste brillant et loyal.
+* **Évolution** : Soutient le héros dans sa lutte contre l'oppression théocratique des Cinq Écoles et l'aide à briser les autels corrompus.
+* **Point de Rupture** : Lorsque le héros refuse de refermer le Sceau pour sauver sa mère (Run Égoïste), le Rival réalise avec horreur que son ami condamne toute l'humanité.
+* **L'Exploit Martial** : Acculé face à un héros devenu quasi-divin, le Rival forge sa propre Voie inédite hors de la boucle temporelle : **ROMPRE**.
+* **Le Duel One-Try** : Affronte le héros au sabre dans un combat unique sans retour. S'il l'emporte, il scelle la faille en pleurant son ami et sauve le monde dans l'anonymat.
+
+---
+
+## 4. Les Cinq Précurseurs (Les Faux Dieux)
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -66,7 +77,7 @@
 
 ---
 
-## 4. L'Organisation des Gardiens (La Secte)
+## 5. L'Organisation des Gardiens (La Secte)
 
 * **Origine** : Née après la Guerre d'Un An pour protéger les secrets d'antan.
 * **Méthode** : Érode sournoisement les sorts enseignés dans les écoles pour éviter l'émergence d'un rival.
