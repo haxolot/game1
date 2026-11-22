@@ -24,7 +24,7 @@
   ├── Traversée des Limbes & QTE « GUIDER LA TEMPÊTE » sur la chaloupe du passé
   ├── La Cache Scellée sous la Ville Natale : Serrure Martiale & Récupération de la 7ᵉ Voie (SCELLER)
   ├── Le Sanctuaire Natal : Rassemblement des fidèles ralliés
-  └── Scène Clé : Retrouvailles au chevet de la Mère (Apaisement altruiste OU Guérison égoïste)
+  └── Scène Clé : Dialogue intime au chevet de la Mère & Choix du Sceau Unique (Poser le Sceau [Fin Précoce] OU Réserver le Sceau pour l'Épicentre)
   │
 [Acte V - Climax] Le Sanctuaire Caché & L'Apocalypse de l'Épicentre :
   ├── Assaut du Sanctuaire Caché : Destruction du corps de Noah & Assimilation de SCELLER
@@ -259,11 +259,18 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
   * **La Règle Métaphysique du Sceau Unique** :
     * La 7ᵉ Voie (*SCELLER*) n'est pas un sortilège éphémère : c'est un verrouillage absolu de la réalité qui **engage la totalité de la connexion énergétique de son utilisateur**.
     * Poser un Sceau revient à lier sa propre âme pour maintenir l'ancrage. Un être vivant n'ayant qu'une seule âme, **on ne peut sceller qu'une seule fois dans son existence**.
-  * **La Décision Interactive au Chevet (Le Sceau n'est pas encore posé)** :
-    * En arrivant au chevet de sa mère, le héros n'a pas encore posé le Sceau. Elle respire péniblement, maintenue en vie uniquement par le sursis temporaire de l'étincelle de flux pur accordée par Kaelys.
-    * Le héros s'assoit à ses côtés et prend sa main fragile. La caméra se pose, fixe. L'interface propose deux choix au joueur :
+  * **La Décision Interactive au Chevet (Le Dialogue Fondateur)** :
+    * En arrivant au chevet de sa mère, le héros n'a pas encore posé le Sceau. Elle respire péniblement, maintenue en sursis par l'étincelle de flux de Kaelys.
+    * Le héros s'assoit au bord du lit et prend sa main fragile. La mère ouvre lentement les yeux, le reconnaît, et effleure son visage marqué par les cicatrices et la poussière des sanctuaires.
+    * **Le Dialogue entre le Fils et la Mère** :
+      > **La Mère** : *« Tu es revenu... Regarde-toi, mon grand. Qu'est-ce que tu as dû traverser ? Tu as les mains noircies par le fer et les yeux de ceux qui ont marché en enfer... »*  
+      > **Le Héros** : *« J'ai trouvé le secret, maman. J'ai le pouvoir d'arrêter la maladie dans ton corps pour toujours. Si je trace ce Sceau sur toi, la douleur s'éteindra. Tu vivras. »*  
+      > **La Mère** *(le regardant avec une lucidité poignante)* : *« Mais à quel prix ? Je t'ai entendu arriver dans la roche... et j'entends les prières en bas. Des centaines de gens se sont rassemblés sous la ville. Ils t'appellent leur Guide. Tu n'es plus seulement mon fils qui est parti avec un sabre d'apprenti... Tu portes la vie d'un monde entier. »*  
+      > **Le Héros** *(la voix tremblante)* : *« Un homme ne peut sceller qu'une seule fois dans son existence. Si je pose mon Sceau sur toi... je ne pourrai plus jamais sceller la Faille là-bas. Le Continent brûlera, les fidèles périront, mais toi, tu seras sauve. »*  
+      > **La Mère** *(lui serrant doucement la main)* : *« Alors choisis, mon enfant. Pas par devoir, mais avec ton cœur. Si tu choisis de sceller ma chair et de rester ici, je m'endormirai heureuse de t'avoir auprès de moi. Mais si tu dois te lever pour ceux qui t'attendent dehors... ne me laisse pas être le tombeau de ce monde. »*
+    * **Le Choix Manette en Main** :
     * **Choix 1 : `[POSER LE SCEAU SUR SA MÈRE]` (Fin Précoce — Le Silence du Fils)** :
-      * Le héros craque devant la souffrance de sa mère. Il dégaine son sabre, trace les 7 glyphes dans l'air et appose sa paume sur sa poitrine. Le Sceau d'or pâle s'imprime dans sa chair : la gangrène d'éther est figée net, ses douleurs disparaissent, sa respiration devient douce et régulière. Sa mère est sauvée de l'agonie.
+      * Le héros craque : il refuse de la perdre. Il dégaine son sabre, trace les 7 glyphes dans l'air et appose sa paume sur sa poitrine. Le Sceau d'or pâle s'imprime dans sa chair : la gangrène d'éther est figée net, ses douleurs disparaissent, sa respiration devient douce et régulière. Sa mère est sauvée de l'agonie.
       * Mais le héros a consommé son unique Sceau. Sa connexion à l'énergie est désormais irrévocablement verrouillée sur elle.
       * **L'Ellipse Temporelle Cinématographique** : La caméra cadre la modeste fenêtre de la chambre. On voit le temps s'accélérer : le cycle des soleils, la lune, les saisons qui changent... **un mois ou deux s'écoulent**.
       * Le héros a vaqué à ses tâches quotidiennes d'ouvrier ou de veilleur, mais chaque soir, **il revient inlassablement s'asseoir dans la même position à ce même chevet**, tenant la main de sa mère endormie.
@@ -274,9 +281,9 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
         > *« Tu es resté... ? Tu es là, mon fils... »*  
         Preuve déchirante qu'elle est bel et bien en vie et sauvée, seule avec lui au milieu d'un univers en cendres.
     * **Choix 2 : `[S'EN ALLER / RÉSERVER LE SCEAU]` (Continuer vers l'Acte V)** :
-      * Le héros résiste à l'envie immédiate de sceller sa mère. Il sait que consommer son Sceau ici abandonnerait ses disciples et condamnerait la planète entière sous peu.
+      * Le héros écoute les paroles de sa mère et le cri des hommes : il résiste à l'envie immédiate de la sceller ici. Il sait que consommer son Sceau abandonnerait ses disciples et condamnerait la Terre entière sous peu.
       * Sa mère reste sous la protection temporaire de la marque de Kaelys (un sursis dont le sablier s'écoule rapidement).
-      * Il lui promet doucement de trouver une issue pour sauver le monde sans la condamner, lâche sa main, replace son sabre au fourreau et s'arrache à la pièce pour reprendre la mer.
+      * Il embrasse son front, promettant de trouver une issue pour sauver le monde sans la condamner, lâche sa main, replace son sabre au fourreau et s'arrache à la pièce pour reprendre la mer.
       * **Le Terrible Enjeu de l'Acte V** : Le héros conserve son unique Sceau en réserve pour l'affrontement final à l'Épicentre... mais sa mère pourrait mourir en fonction de la Fin qu'il choisira d'exécuter là-bas !
 
 ---
