@@ -101,21 +101,20 @@ Le système de combat ne repose pas sur des menus lents, mais sur un **cycle d'a
 
 ---
 
-## 4. Boss Design Spécial : Le Duel du Rival & La Voie « ROMPRE »
+## 4. Boss Design Spécial : Le Duel Ultime contre Kaelys Prime (Le Vrai Rival)
 
-Dans la **Run Égoïste**, le boss final est le Rival du héros, armé de sa Voie unique et anormale : **ROMPRE**.
+Au Climax de l'Acte V, après le Boss Rush des 4 autres Précurseurs (Gorath, Vaelen, Lyra, Malakor), le boss final absolu est le véritable rival du héros : **Kaelys Prime**, le maître originel de la Voie de l'Altération.
 
-### A. La Mécanique du « ONE TRY » (Pas de Game Over)
-* Ce combat ne se recharge pas à la mort du joueur : **c'est un ONE TRY narratif absolu**.
-* Équilibré pour être « plus stylé qu'impossible » (une danse martiale de 5 à 7 minutes au sabre, sans one-shot punitif, avec des dialogues organiques au fil des déviations).
-* **Issue A (Défaite du Joueur)** : Déclenche directement la cinématique où le Rival abat le héros en larmes, prend le Sceau et sauve le monde (Fin Tragique du Rival).
-* **Issue B (Victoire du Joueur)** : Déclenche la cinématique où le héros terrasse son ami, refuse le Sceau et repart avec le remède pour sa mère dans un monde condamné (Fin Sombre du Héros).
+### A. La Philosophie du Duel : L'Élève face au Maître
+* Ce duel au sabre de 5 à 7 minutes au cœur des cyclones de l'Épicentre est le sommet de la tension *Sekiro-like*.
+* Ce n'est pas un monstre géant ni une masse informe : c'est un duel d'escrimeurs de taille humaine, d'une élégance et d'une rapidité foudroyantes.
+* Kaelys met à l'épreuve tout ce qu'il a enseigné, provoqué et observé chez le héros : chaque coup porté est accompagné de dialogues organiques au fil des déviations.
 
-### B. Le Mind-Game de « ROMPRE » (Annulations Actives à Charges)
-Pour éviter la frustration d'une immunité passive, les sorts du joueur fonctionnent normalement, mais le Rival gère une **jauge de contre actif** :
-1. **Les Salves d'Annulation** :
-   * Quand sa jauge de Rupture est pleine, le Rival peut annuler les sorts du joueur en plein vol d'un coup de garde sec (*CLANG de Rupture*).
-   * Il peut enchaîner 1, 2 ou 3 annulations d'affilée en mode furie, forçant le joueur à rengainer sa magie pour passer en 100% parade au sabre.
-2. **La Fenêtre de Vulnérabilité (Le Bait)** :
-   * Après avoir dépensé ses charges de rupture, le Rival entre en cooldown de réarmement.
-   * C'est le moment pour le joueur de le feinter, de forcer une annulation dans le vide, puis de lui asséner ses grosses Voies chargées (*Condenser*, *Altérer*) pendant sa récupération.
+### B. Le Mind-Game de Kaelys Prime (Altération Suprême)
+Kaelys maîtrise l'art de changer la nature du flux et le tranchant de sa lame :
+1. **Les Tranchants Brise-Ciel** :
+   * Des estocs et taillades d'une vélocité inouïe qui tranchent à travers la garde passive si le joueur ne réussit pas une déviation parfaite (*Perfect Parry*).
+2. **Le Changement de Rythme (Feintes d'Altération)** :
+   * Kaelys altère la vitesse de ses propres coups en plein élan (ralentissement visuel puis accélération brutale), forçant le joueur à observer attentivement ses bras et ses épaules pour caler le timing de parade.
+3. **Le Test du Guide (Assimilation)** :
+   * Le joueur doit utiliser ses passifs de **GUIDER** (Voie 6) pour dévier les lames d'éther de Kaelys et recharger sa propre posture, avant de placer les mouvements de la 7ᵉ Voie (*Sceller*) pour briser la garde divine de Kaelys.

@@ -1,55 +1,68 @@
 # PITCH OFFICIEL — HAXOLOT
 
-> Ce document contient les deux versions du pitch du jeu :  
+> Ce document contient les deux versions du pitch officiel du jeu :  
 > 1. **Version Publique (Sans Spoil)** : Destinée aux joueurs, éditeurs, trailers, Steam et presse.  
-> 2. **Version Complète / Développeur (Avec Spoilers)** : Destinée à l'équipe interne, aux scénaristes et aux game designers.
+> 2. **Version Développeur (Avec Spoilers & Lore Canonique)** : Destinée à l'équipe interne, aux scénaristes et aux game designers.
 
 ---
 
 ## 📜 1. Pitch Public : "L'Appel du Continent Scellé" (Sans Spoil)
 
 ### Fiche d'Identité
+* **Titre** : *Haxolot*
 * **Genre** : Action-RPG Aventure 2D en Pixel Art (Formule Hybride)
 * **Inspirations de Combat** : *Sekiro: Shadows Die Twice*, *Nine Sols*, *Furi*.
-* **Perspective** : Exploration en vue du dessus (Top-Down) / Duels de Boss au sabre en vue latérale (Side-Scroller).
+* **Perspective** : Exploration en vue du dessus (Top-Down) / Duels de Boss intenses au sabre en vue latérale (Side-Scroller).
 
 ### Le Pitch
-Dans un monde ravagé par des cataclysmes primitifs, une seule terre a été épargnée : **Le Continent Scellé**. Protégé par une barrière colossale dressée à l'aube des temps par un maître anonyme surnommé **Le Septième**, ce continent concentre l'écrasante majorité de la fertilité et de la magie du monde, tandis que les terres d'exil au-delà des mers ont été abandonnées à la pauvreté et à la corruption.
+Dans un monde ravagé par des cataclysmes primitifs, une seule terre a été épargnée : **Le Continent Scellé**. Protégé par une barrière colossale dressée à l'aube des temps par un maître anonyme surnommé **Le Septième**, ce continent concentre l'écrasante majorité de la fertilité et de la magie du monde, tandis que les terres d'exil au-delà des mers ont été abandonnées à la pauvreté et à des maladies incurables.
 
-Vous incarnez un jeune étranger venu de ces terres maudites. Vous n'êtes ni un noble, ni un héros de guerre : vous êtes un fils prêt à tout qui s'est engagé comme simple matelot dans une expédition maritime périlleuse pour trouver sur le continent l'unique remède capable de sauver sa mère mourante.
+Vous incarnez un jeune provincial venu de ces terres maudites. Vous n'êtes ni un noble, ni un élu prophétique : vous êtes un fils prêt à tout qui débarque clandestinement avec un sabre ordinaire et son carnet de notes vierge, déterminé à trouver sur le continent l'unique remède capable de sauver sa mère mourante.
 
-Mais à l'approche des côtes, l'expédition est décimée. Seul rescapé dans ce continent inconnu, vous êtes recueilli par un marchand chaleureux qui vous promet de vous ouvrir les portes des sanctuaires en échange de contrats d'élimination sur des sorciers renégats.
+Pour accéder aux soins monopolisés par l'élite, vous intégrez **la Grande Académie des Cinq Voies**, l'institution martiale suprême du continent. Mais le prix exigé par l'ordre est monstrueux : envoyé pour exécuter une mission noire — un massacre d'insurgés maquillé en devoir civique —, vous comprenez que vous avez commis un crime de guerre pour rien lorsque l'Académie vous refuse froidement les soins promis.
 
-Alors que les Cinq Dieux vénérés par les empires semblent veiller sur la paix, le continent est une poudrière : l'énergie magique déborde à nouveau, les rois préparent la guerre et des créatures monstrueuses s'éveillent sous les temples.
+Trahison. Cachot. Clandestinité. Avec l'aide secrète de votre compagnon d'armes resté dans l'ordre, vous volez le grimoire originel non censuré de votre Voie et découvrez un ordre de mission classé secret d'État : un pèlerinage forcé de fidèles vers les sous-sols interdits d'un sanctuaire reculé.
+
+Désormais mercenaire traqué sous un nom d'emprunt, vous vous lancez sur les routes pour percer le mystère de ce sanctuaire et arracher le salut de votre mère... sans savoir que vous vous apprêtez à ébranler les fondations divines du monde.
 
 ### Piliers de Gameplay
 1. **Duels de Boss au Sabre (Sekiro 2D)** : Lorsque la tension monte, la caméra glisse de profil. Les combats majeurs reposent sur des déviations parfaites millimétrées (*Clangs* métalliques), la lecture d'attaques périlleuses (sauts, contres au dash) et la saturation de la jauge de posture pour déclencher des exécutions dévastatrices.
-2. **Le Cycle des Voies Magiques** : Progressez d'un novice au bouclier rudimentaire à un maître d'escrime magique. Switchez instantanément entre différentes Voies en plein combat pour créer des enchaînements fluides et contourner les défenses ennemies.
-3. **Un Monde Vivant & Fracturé** : Traversez des cités-forteresses opulentes, marchandez avec des ligues corrompues et déchiffrez les ruines oubliées d'un continent qui cache une vérité terrifiante.
+2. **Gameplay Hybride (Sabre, Sorts Actifs & Passifs)** : Progressez d'un novice à l'escrime pure à un bretteur d'élite combinant frappes au sabre, déviations amplifiées, sorts d'éther actifs et passifs magiques profonds.
+3. **Un Monde Vivant, Fracturé & Évolutif** : Traversez des provinces en crise, marchandez avec des ligues corrompues, acceptez des contrats de mercenaire et découvrez les secrets sordides cachés sous la foi des sanctuaires.
 
 ---
 
 ## 🧠 2. Pitch Développeur : "La Vérité du Sixième" (Avec Spoilers & Plottwists)
 
 ### Le Postulat Caché
-Le Continent Scellé n'est pas une terre sainte : c'est un paradis volé. Les Cinq Dieux Sauveurs sont d'anciens humains qui ont percé une partie du sceau par l'étude acharnée, massacré des malades pour alimenter un verrouillage d'urgence (les figeant en statues de pierre), et exilé les survivants. Leurs corps primitifs pourrissent comme des décharges dans des cryptes, tandis que **leurs âmes lucides se réincarnent de siècle en siècle dans les élites des cités via l'Organisation de l'Ombre pour surveiller les érudits**.
+Le Continent Scellé n'est pas une terre sainte : c'est un paradis volé bâti sur un mensonge millénaire. Les Cinq Dieux Sauveurs sont d'anciens pionniers humains d'il y a 800 ans qui ont réellement inventé les Voies 1 à 5 (*Aspirer, Altérer, Condenser, Accélérer, Projeter*). Lors de leur guerre fratricide, ils ont transféré leur esprit dans les Limbes, laissant **leurs corps de chair vivants et pourrissants sous les 5 sanctuaires** pour servir de relais biologiques ("Condensateurs") perfusés en secret du sang des pèlerins.
 
-### La Trame Narrative & Les Grands Twists :
+### La Trame Narrative & Les 5 Actes :
 
-1. **La Rupture de la Fontaine & Le Sacrilège** :
-   * Le remède de la mère est l'eau sacrée d'une cathédrale divine.
-   * Dès que le héros tente de l'emporter dans sa fiole hors du temple, **l'eau s'évapore instantanément** : la bénédiction est captive pour asservir les fidèles locaux et refuse de sauver qui que ce soit au-delà des mers.
-   * Ivre de douleur et de rage, le héros dégaine sa lame et **fracasse la statue du faux dieu en plein temple**.
-2. **Le Cachot & La Première Auto-Invocation (L'Éveil Intime)** :
-   * Submergé par les gardes, blessé et désarmé, le héros est jeté dans les geôles du sanctuaire en attente de son exécution.
-   * Dans le silence du cachot, confronté au désespoir, il réfléchit aux formules des prêtres et aux théories des dissidents qu'il a combattus. Il comprend que les dieux ne sont que des récepteurs d'énergie alimentés par un nom.
-   * Seul dans l'obscurité, il récite la structure de la prière... **et murmure son propre nom**.
-   * Son Double des Limbes se matérialise pour la première fois dans l'ombre et brise la cellule : son évasion et son statut d'hérésie absolue commencent.
-3. **La Campagne : Une Voie par Boss & Le Blasphème des Incantations** :
-   * La montée en puissance ne se fait pas d'un coup. Le joueur traverse le continent et conquiert/blasphème une des Voies fondamentales (Aspirer, Altérer, Condenser, Accélérer, Projeter) à chaque acte, en rayant le nom des faux dieux pour y graver le sien.
-4. **La 6ème Voie & La Boucle Temporelle (Le Climax Cosmique)** :
-   * Les Cinq n'ont jamais pu fermer le Sceau originel car il leur manquait la 6ème voie : **GUIDER l'énergie**.
-   * Dans le vide des Limbes où le temps est une direction, le Sixième (le héros) apprend à **guider l'énergie vers le passé**.
-   * **Le Paradoxe Fondateur** : Le héros envoie son Grimoire complet à travers le temps... **directement dans les mains de l'homme du passé qui allait devenir "Le Septième"** !
-   * C'est grâce au Grimoire du Sixième que le Septième a pu, à l'origine du monde, comprendre les 6 voies et activer la **7ème Voie : Le Sceau**.
-   * Le Septième ne s'est jamais appelé ainsi par hasard : il savait qu'il n'était que le septième et dernier maillon d'une chaîne initiée par le héros venu du futur.
+1. **Prologue & Acte I : L'Académie & Le Crime de Guerre** :
+   * Débarquement clandestin au sabre. Intégration à l'Académie des Cinq Voies. Amitié avec son camarade de chambrée (le Pote).
+   * La Mission Noire : le héros commet l'irréparable pour sauver sa mère (massacre d'un campement d'insurgés). Trahison bureaucratique de l'Académie qui refuse les soins.
+   * Réaction du héros (Rage ou Dissimulation). Le Pote monte en grade et lui donne les accès secrets. Le héros vole le grimoire originel et découvre l'ordre de mission secret vers la crypte du "Condensateur de Kaelys".
+2. **Acte II : La Cavale & Le Pacte avec le Spectre de Kaelys** :
+   * Mercenariat sous nom d'emprunt, filature discrète du convoi de fidèles jusqu'aux sous-sols du Premier Sanctuaire.
+   * Révélation de l'horreur : les fidèles sont siphonnés pour nourrir une masse de chair difforme et pourrissante : le corps de Kaelys.
+   * Le héros abat le corps. À la stèle du Sceau, l'esprit noble de Kaelys apparaît dans les Limbes. Méprisant les fidèles morts par les radiations, Kaelys propose un pacte faustien : il imprime une étincelle de flux pur dans la paume du héros (stabilisant temporairement la mère) et maintient sa ligne de sorts active, en échange de la mort des 4 autres corps rivaux.
+3. **Acte III : La Traque des 4 Sanctuaires & La Naissance du Guide** :
+   * Le héros traque les 4 sanctuaires avec Kaelys comme copilote cynique (contact établi en posant la paume marquée sur n'importe quel accès au Sceau).
+   * À Gorath : le héros abat la carcasse. Face au risque d'effondrement de la province, il prend au pied de la lettre le sarcasme de Kaelys : **il se poignarde le flanc et plante sa lame ensanglantée dans le Sceau**, devenant le relais vivant que les fidèles ralliés de la nef invoquent par son propre nom.
+   * Enquête archéologique dans les ruines : le héros décortique les registres intimes des Cinq et fait le lien entre leurs 5 verbes et leurs névroses humaines.
+   * La chute du 5ᵉ corps (Malakor) : Kaelys remet le remède complet et intime au héros de fuir (*« T'as fini, maintenant sauve-toi »*).
+   * **Le Monologue du Héros** : Face à ses morts et aux égarés, le héros refuse la fuite égoïste (*« Je dois les guider »*) et forge la **6ᵉ Voie : GUIDER** (arbre de passifs majeurs et haute guidance, zéro art martial de combat offensif). Kaelys rit et s'incline avec respect, soulagé d'avoir enfin trouvé le Sixième cherché depuis 800 ans.
+4. **Acte IV : Le Retour d'Outre-Mer & La Cache sous la Ville Natale** :
+   * Traversée maritime des Limbes : QTE narrative **`[GUIDER LA TEMPÊTE]`** où le héros provoque son propre naufrage passé pour déclencher la boucle.
+   * Infiltration sous sa ville ouvrière natale : ouverture de la **Serrure Martiale de Noah** grâce aux 6 Voies combinées au sabre.
+   * Découverte du Sixième Sanctuaire et du **Vieux Journal de Noah** contenant ses remerciements intimes et la **7ᵉ Voie (*Sceller*)**. Dojo du Sceau.
+   * Rassemblement des fidèles ralliés dans son sanctuaire natal. Retrouvailles déchirantes au chevet de sa mère alitée (choix moral d'apaisement altruiste ou de guérison égoïste).
+5. **Acte V (Climax) : L'Apocalypse de l'Épicentre & Le Panthéon Prime** :
+   * **Le Sanctuaire Caché** : La Secte tente de s'emparer du corps de Noah pour monopoliser la 7ᵉ Voie (*Sceller*). Le héros prend la crypte d'assaut, détruit le corps de Noah et s'accapare l'art de Sceller.
+   * **L'Épicentre en Ruine** : Les dissidents font sauter leurs explosifs d'éther contre la Secte : **LE SCEAU S'OUVRE EN GRAND**. Cyclones d'éther brut et tempêtes arcaniques dévastent le monde.
+   * **La Libération des Cinq Dieux à leur PRIME** : Les Cinq esprits s'échappent des Limbes sous leur corps glorieux d'escrimeurs d'il y a 800 ans.
+   * **Le Boss Rush du Panthéon** : Gorath Prime, Vaelen Prime, Lyra Prime, Malakor Prime.
+   * **LE CLIMAX ULTIME — LE DUEL DES RIVAUX : KAELYS PRIME VS LE GUIDE** : Kaelys s'avance seul au centre des cyclones pour l'ultime duel maître contre élève au sabre. Terrassé avec honneur, Kaelys s'incline devant son successeur.
+   * Le Pote de l'Académie couvre ses arrières avec des survivants.
+   * Le héros utilise la 7ᵉ Voie (*Sceller*) pour fermer la brèche, et la 6ᵉ Voie (*Guider*) pour projeter son carnet neuf vers Noah en -2000, refermant éternellement la destinée de l'humanité.

@@ -59,9 +59,7 @@ Pour stabiliser le continent :
 ## 3. L'Épopée du Héros : De la Cellule au Climax
 
 ```text
-[Prologue] Débarquement Clandestin ──> Tuto Sabre Solo (Brigands) ──> Choix Horizontal de l'École de Départ
-  │
-[Acte I] L'Apprenti de l'Ordre ──> Fraternité avec le Rival ──> Missions de Fief ──> Refus des Soins & Fuite au Sabre
+[Prologue] Débarquement Clandestin ──> Tuto Sabre Solo (Brigands) ──> Entrée à la Grande Académie des Cinq Voies
   │
 [Acte I] L'Apprenti de l'Académie ──> Amitié avec son camarade (Le Pote) ──> Le Crime de Guerre ──> Infiltration Secrète
   │
@@ -87,10 +85,10 @@ Pour stabiliser le continent :
 ### A. Prologue & Acte I : L'Académie des Cinq Voies, Le Crime de Guerre & L'Infiltration
 * **Prologue (Tuto 100% Escrime Solo)** : Le héros débarque clandestinement sur le Continent avec un sabre ordinaire et son carnet vierge dédié à sa mère. Premiers combats au sabre contre brigands et bêtes sauvages (apprentissage des déviations et postures). Il rejoint **la Grande Académie des Cinq Voies**, l'institution suprême unifiée qui rassemble les cinq branches martiales sous le même toit.
 * **Acte I (L'Académie & Le Crime de Guerre)** :
-  * Le héros s'entraîne aux côtés de son ami (le futur Rival) au milieu des autres styles. Il apprend les premiers sous-sorts en incantant le nom du dieu tutélaire de sa branche.
-  * **La Mission Noire** : Aveuglé par la promesse de soins pour sa mère mourante, le héros commet l'irréparable : il participe à la purge d'un campement d'insurgés anti-magie (officiellement des « brigands »), massacrant des fuyards désarmés et des blessés. Le Rival participe guidé par le devoir militaire.
+  * Le héros s'entraîne aux côtés de son camarade de chambrée (le Pote) au milieu des autres styles. Il apprend les premiers sous-sorts en incantant le nom du dieu tutélaire de sa branche.
+  * **La Mission Noire** : Aveuglé par la promesse de soins pour sa mère mourante, le héros commet l'irréparable : il participe à la purge d'un campement d'insurgés anti-magie (officiellement des « brigands »), massacrant des fuyards désarmés et des blessés. Son camarade participe guidé par le devoir militaire.
   * **La Trahison & Le Choix de Réaction** : L'Académie refuse froidement les soins promis. Le héros comprend qu'il a commis un crime de guerre pour rien. Le joueur choisit sa réaction : *Explosion de rage* (bagarre générale contre les hauts gradés, défaite et cachot) ou *Dissimulation froide* (boycott nocturne du rituel d'adoration et de sacrifice au dieu).
-  * **Le Tuyau du Rival & L'Infiltration** : Monté en grade, le Rival retrouve le héros en secret : il reste dans l'Académie mais donne à son ami les plans pour s'infiltrer et voler **l'exemplaire complet et non censuré de sa Voie**.
+  * **Le Tuyau du Camarade & L'Infiltration** : Monté en grade, son ami le retrouve en secret : il reste dans l'Académie pour la réformer de l'intérieur, mais donne au héros les plans pour s'infiltrer et voler **l'exemplaire complet et non censuré de sa Voie**.
   * **La Révélation du Document Secret (Le Secret des Sanctuaires)** : En volant son grimoire martial (sabre, sorts et passifs), le héros découvre un ordre interne classé secret d'État. Pour la population et les disciples, les Sanctuaires sont de purs lieux sacrés de dévotion recevant les prières pour les élever aux dieux qui accordent leur force en retour. Or, le document secret mandate une escorte d'inquisiteurs pour conduire des fidèles pèlerins dans **les sous-sols interdits** du Sanctuaire de Kaelys afin d'« apaiser les spasmes du Condensateur ». Sans comprendre que ce terme désigne une créature séquestrée sous terre — et encore moins le corps physique du dieu qu'il priait —, le héros s'évade pour traquer ce convoi.
 
 ### B. Acte II : La Cavale, Le Premier Sanctuaire & Le Pacte avec Kaelys
@@ -183,4 +181,4 @@ Le véritable rival du héros n'a jamais été un apprenti d'école : **son vrai
 Si vous lisez ce document pour donner votre avis sur l'univers, voici les points sur lesquels vos retours sont particulièrement précieux :
 1. **La Puissance Dramatique du Choix Final** : L'opposition entre le devoir universel (sauver le monde) et l'amour filial intime (sauver sa mère au détriment de l'humanité) résonne-t-elle avec force ?
 2. **Le Paradoxe Temporel du Journal** : La révélation du Vieux Journal et l'explication de la signature de Noah ("Le Septième") sont-elles limpides et satisfaisantes ?
-3. **Le Concept du One-Try** : L'absence d'écran Game Over sur le boss final du Rival renforce-t-elle la tension émotionnelle selon vous ?
+3. **Le Duel Final contre Kaelys Prime** : La confrontation ultime maître contre élève au cœur des cyclones conclut-elle avec force la vraie rivalité du jeu ?
