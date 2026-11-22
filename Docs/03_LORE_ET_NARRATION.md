@@ -176,13 +176,13 @@ Le véritable rival du héros n'a jamais été un apprenti d'école : **son vrai
 
 ### F. Le Rôle du Pote de l'Académie & Les Fins Multiples
 * **Le Pote de l'Académie (L'Ancre Humaine)** : Resté à l'Académie, le camarade du héros a utilisé son grade pour saboter la Secte de l'intérieur et protéger les civils. Il rejoint le héros à l'épicentre avec des survivants pour repousser les derniers fanatiques, prouvant la force de leur amitié.
-* **La Règle du Sceau Unique & Le Sort de la Mère** : En Acte IV, le héros pose son Sceau unique sur sa mère pour figer la corruption. S'il reste assis au chevet, le jeu se termine sur **Fin 0 (Le Silence du Fils)** : sa mère vit, le héros écoute les voix de ses fidèles souffrir et mourir au loin, et le continent s'effondre. S'il se lève pour aller à l'Épicentre, le sort de sa mère est lié à la Fin choisie :
-  1. *Le Cycle Parfait (Canonique)* : Le Sceau est transféré à la Faille ; le Sceau de la mère se dissipe et elle s'éteint paisiblement dans son sommeil, fière de son fils. Le carnet est renvoyé vers Noah en -2000.
-  2. *Le Sceau Absolu (Ère Humaine)* : Extinction de 100% de la magie ; l'éther disparaissant, la maladie est éradiquée et la mère guérit naturellement.
-  3. *Le Sacrifice du Guide (L'Âme Sentinelle)* : Le héros prend la place du Sceau dans les Limbes et maintient la protection sur sa mère depuis l'au-delà.
-  4. *Le Règne du Sixième (Le Sanctuaire Outre-Mer)* : Refus de sceller la Faille pour garder le Sceau intact sur sa mère ; le héros rentre régner avec ses fidèles.
-  5. *L'Effacement (Le Silence des Limbes)* : Oubli total et amnésie collective des dieux et des Voies ; la mère vit en paix mais a oublié son fils.
-*(Voir le détail complet dans [06_FINS_RIVAL_ET_LE_ONE_TRY.md](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/06_FINS_RIVAL_ET_LE_ONE_TRY.md))*
+* **La Règle du Sceau Unique & Le Sort de la Mère** : En Acte IV, le héros est confronté au choix du Sceau unique : s'il pose le Sceau sur sa mère au chevet, le jeu bascule dans la **Fin 0 (Le Silence du Fils)** où le monde périt tandis qu'elle survit. S'il réserve son Sceau et part à l'Épicentre, son choix final scelle le destin du héros, de la mère, du continent et de la boucle temporelle :
+  1. *Le Cycle Parfait (Canonique)* : Le carnet est renvoyé vers -2000, le Sceau posé sur la Faille. Le héros survit comme mortel, la mère s'éteint en paix, le Continent est pacifié, la magie continue sans dieux. **Passé et Futur préservés à 100%.**
+  2. *Le Sceau Absolu (Ère Humaine)* : Le héros purge et éteint 100% de la magie. La mère guérit (plus d'éther toxique), le Continent affronte un rude hiver sans miracles, le héros redevient ordinaire. **Passé préservé (carnet envoyé), Futur émancipé de la magie.**
+  3. *Le Sacrifice du Guide (L'Âme Sentinelle)* : Le héros meurt physiquement et s'incorpore dans les Limbes pour remplacer la barrière. La mère est protégée à distance, le Continent et la magie sont purifiés. **Passé et Futur préservés.**
+  4. *Le Règne du Sixième (Le Sanctuaire Outre-Mer)* : Refus de sceller la Faille pour maintenir le Sceau sur la mère. La mère vit auprès de lui, le héros règne sur son refuge outre-mer, le Continent sombre dans le chaos. **Condamne le Passé et l'Ordre mondial (pas de boucle fermée).**
+  5. *L'Effacement (Le Silence des Limbes)* : Amnésie totale de la magie et des dieux. Le héros est dissous dans le néant, la mère vit en paix sans se souvenir de lui, l'éther devient inerte. **Passé et Futur purgés.**
+*(Voir la matrice complète et détaillée dans [06_FINS_RIVAL_ET_LE_ONE_TRY.md](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/06_FINS_RIVAL_ET_LE_ONE_TRY.md))*
 
 ---
 

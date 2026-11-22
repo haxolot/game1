@@ -178,28 +178,13 @@ Aucun mot n'est échangé. Leurs regards se croisent dans un silence absolu : la
 
 ---
 
-## 6. Synthèse Matricielle Complète
+## 6. Synthèse Matricielle Complète des Fins
 
-```text
-┌────────────────────────┬─────────────────────┬───────────────────────┬──────────────────────────┐
-│ Fin                    │ Déclencheur Clé     │ Destin de la Mère     │ Posture Kaelys Finale    │
-├────────────────────────┼─────────────────────┼───────────────────────┼──────────────────────────┤
-│ 0. Le Silence          │ Reste assis au      │ Sauvée (Sceau actif)  │ Non affronté             │
-│    du Fils (Précoce)   │ chevet (Acte IV)    │ (Le monde brûle)      │ (Le monde périt)         │
-├────────────────────────┼─────────────────────┼───────────────────────┼──────────────────────────┤
-│ 1. Le Cycle Parfait    │ Carnet vers -2000   │ S'éteint en paix      │ Rival : Fierté fraternelle│
-│    (Canonique)         │ Sceau sur la Faille │ (Sceau transféré)     │ Ennemi : Rage d'impuissance│
-├────────────────────────┼─────────────────────┼───────────────────────┼──────────────────────────┤
-│ 2. Le Sceau Absolu     │ Scellage hermétique │ Sauvée et guérie      │ Rival : Salut d'honneur   │
-│    (Ère Sans Magie)    │ total de la faille  │ (Fin de l'éther)      │ Ennemi : Malédiction amère│
-├────────────────────────┼─────────────────────┼───────────────────────┼──────────────────────────┤
-│ 3. Le Sacrifice        │ Héros s'incorpore   │ Sauvée à distance     │ Rival : Duo éternel Limbes│
-│    du Guide            │ dans le Sceau       │ (Héros dans Limbes)   │ Ennemi : Haine éternelle  │
-├────────────────────────┼─────────────────────┼───────────────────────┼──────────────────────────┤
-│ 4. Le Règne            │ Refus de sceller,   │ Vivante & protégée    │ Rival : Respect de l'audace│
-│    du Sixième          │ sanctuaire outre-mer│ (Sceau maintenu)      │ Ennemi : Mépris filial    │
-├────────────────────────┼─────────────────────┼───────────────────────┼──────────────────────────┤
-│ 5. L'Effacement        │ Amnésie totale      │ Sauvée mais amnésique │ Rival : Paix du guerrier  │
-│    (Le Silence)        │ de toutes les Voies │ (Oublie son fils)     │ Ennemi : Cris dans le noir│
-└────────────────────────┴─────────────────────┴───────────────────────┴──────────────────────────┘
-```
+| Fin | Sort du Héros | Sort de la Mère | Sort du Continent | Sort de la Magie | Pérennité de la Boucle (Passé vs Futur) | Posture Finale de Kaelys |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **0. Le Silence du Fils** *(Précoce)* | **Vivant mais cloîtré.** Reste un simple ouvrier hanté par la culpabilité. | **Sauvée et protégée** sous le Sceau intact. | **Dévasté à 100%.** Les cyclones d'éther massacrent la population et les fidèles. | **Chaos primitif incontrôlable** sur tout le Continent. | **Condamne le Passé et le Futur.** Le carnet n'est pas envoyé ; rupture lente de la causalité. | **Non affronté.** Kaelys se libère dans le cataclysme en méprisant les mortels. |
+| **1. Le Cycle Parfait** *(Canonique)* | **Vivant parmi les hommes.** Dépose son sabre, porte le deuil et rebâtit avec le Pote. | **S'éteint paisiblement** dans son sommeil (Sceau transféré à la Faille). | **Pacifié et libéré** de la tyrannie de la Secte et des faux dieux. | **Active et préservée.** L'humanité conserve le don des Voies sous une ère libre. | **Passé et Futur préservés à 100%.** Boucle parfaite, causalité close et éternelle. | **Rival** : Fierté fraternelle (*« Dors en paix, mon meilleur élève »*)<br>**Ennemi** : Rage d'impuissance face au cycle. |
+| **2. Le Sceau Absolu** *(Ère Humaine)* | **Vivant mais affaibli.** Dépourvu de tout flux, redevient un homme ordinaire. | **Sauvée et guérie.** L'éther disparaissant, la gangrène d'éther est éradiquée. | **Protégé des monstres**, mais subit l'hiver arcanique, la famine et le rude labeur manuel. | **ÉTEINTE À JAMAIS.** Disparition absolue de toute magie sur Terre. | **Passé préservé, Futur émancipé.** Noah a reçu le livre, mais l'humanité coupe la magie pour son avenir. | **Rival** : Salut d'honneur (trancher le concept des dieux)<br>**Ennemi** : Malédiction amère (condamnés à la boue). |
+| **3. Le Sacrifice du Guide** *(L'Âme Sentinelle)* | **Mort physique.** Devient l'esprit immortel de la barrière dans les Limbes. | **Sauvée à distance.** Le héros maintient une veille protectrice sur elle depuis l'au-delà. | **Sanctuaire mondial purifié.** Fin définitive des sacrifices de sang et des mutations. | **Purifiée et stabilisée.** L'éther circule sans toxicité sous la garde du Guide. | **Passé et Futur préservés.** La sentinelle éternelle maintient l'ancrage hors du temps. | **Rival** : Fraternité éternelle dans les Limbes<br>**Ennemi** : Haine éternelle partagée dans le vide. |
+| **4. Le Règne du Sixième** *(Le Refuge)* | **Vivant et souverain.** Règne en protecteur armé de son sanctuaire outre-mer. | **Vivante et en sécurité** à ses côtés sous son Sceau maintenu. | **Abandonné au chaos.** Ravagé par les tempêtes et les guerres de factions sans fin. | **Sauvage sur le Continent**, canalisée localement pour protéger les fidèles du refuge. | **Condamne le Passé et l'Ordre mondial.** Pas de carnet renvoyé ; réalité fracturée sur un sursis instable. | **Rival** : Rire d'admiration devant cette liberté brute<br>**Ennemi** : Dégoût suprême pour l'égoïsme filial. |
+| **5. L'Effacement** *(Le Silence)* | **Dissous dans le néant.** Son corps, ses actes et son nom sont effacés de la réalité. | **Sauvée mais amnésique.** Vit en paix mais a tout oublié, jusqu'au nom de son fils. | **Réinitialisé.** Pierres et ruines redeviennent muettes, amnésie collective totale. | **Inerte et oubliée.** L'éther redevient passif, plus personne ne sait incanter. | **Passé et Futur purgés.** La boucle est gommée de l'histoire ; l'humanité repart de zéro. | **Rival** : Paix du guerrier (*« La plus propre des esquives »*)<br>**Ennemi** : Cris d'effroi d'être condamné au silence. |
