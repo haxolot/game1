@@ -74,11 +74,12 @@
 * **L'Infiltration des Archives & Le Document Secret** :
   * Le héros mène une mission d'infiltration nocturne dans le cœur des archives de l'Académie.
   * Il met la main sur le grimoire complet de sa Voie (débloquant l'arbre avancé combinant sabre, sorts actifs et passifs).
-  * **Le Coup de Théâtre (Ce que même le Rival ignorait)** : Dans un coffre scellé, le héros découvre un ordre de mission interne au vocabulaire liturgique hypocrite :
-    * L'Académie mandate discrètement une équipe d'inquisiteurs affiliée pour **« conduire un groupe de fidèles dévots en pèlerinage secret au Sanctuaire Originel, auprès de leur Idole, pour la Cérémonie de Communion afin d'apaiser et stabiliser le Corps Saint »**.
-    * Le document ne mentionne jamais le mot « sacrifice », mais l'escorte armée lourde et la mention de spasmes physiques rendent le convoi extrêmement suspect.
-    * À ce stade, le héros ne comprend absolument pas que ce « Corps » est la divinité qu'il priait : il découvre simplement que l'Académie entretient une machination occulte dans une crypte secrète.
-  * Le héros s'évade définitivement des murailles, déterminé à traquer ce convoi pour découvrir ce que cache ce sanctuaire et trouver une issue pour sa mère.
+  * **Le Coup de Théâtre (Ce que même le Rival ignorait)** : Dans un coffre scellé, le héros découvre un ordre de mission interne classé secret d'État :
+    * **Le Mythe Public du « Condensateur »** : L'Académie et les citoyens connaissent tous l'existence des *Condensateurs d'Éther* : la doctrine officielle les présente comme d'anciennes infrastructures géologiques sacrées, des machines de pierre et de métal érigées pour stabiliser le flux et alimenter les cités en magie.
+    * **La Réalité de la Lettre** : Le document mandate une escorte d'inquisiteurs pour convoyer un groupe de fidèles dévots vers la chambre souterraine du *« Condensateur de Kaelys »* afin de « communier avec l'Idole et apaiser les spasmes du Noyau ».
+    * Le document use d'un vernis pieux et technique, mais la présence d'une escorte lourdement armée et la mention de spasmes physiques rendent l'infrastructure suspecte.
+    * À ce stade, le héros croit simplement qu'il s'agit d'une machinerie en panne ou d'un secret d'ingénierie occulte. Il ignore totalement que le « Condensateur » abrite un être vivant, et encore moins qu'il s'agit du corps physique du dieu qu'il priait.
+  * Le héros s'évade définitivement des murailles, déterminé à traquer ce convoi pour percer le secret de ce condensateur et trouver une issue pour sa mère.
 
 ---
 
@@ -91,13 +92,15 @@
   * Grâce à des informateurs du milieu criminel et des contrebandiers, le héros localise l'équipe d'inquisiteurs escortant les fidèles choisis.
   * **Infiltration & Pistage** : Au lieu d'une attaque frontale suicidaire, le héros prend discrètement le convoi en filature à travers les défilés rocheux et les terres sauvages.
   * Sans le savoir, l'escorte le mène directement à l'emplacement le mieux gardé de la région : **la porte scellée du Premier Sanctuaire Caché**, dissimulée dans les entrailles de la terre.
-* **L'Infiltration du Sanctuaire & Le Rituel de la Fausse Grâce** :
-  * Le héros s'infiltre dans la nef souterraine dans le sillage du convoi.
-  * **La Scène du Rituel** : Les fidèles sont sincères, en larmes, agenouillés et chantant des cantiques, persuadés de recevoir une bénédiction suprême.
-  * Les inquisiteurs ouvrent les vannes de flux : la fosse centrale s'illumine. Au fond, une masse de chair titanesque, difforme et en décomposition — **le Corps Maudit** — s'agite dans des râles d'agonie.
-  * Des racines d'éther s'abattent sur les pèlerins pour siphonner leur force vitale et leur sang, les desséchant vivants pour apaiser la carcasse.
-* **L'Intervention & Le Choc Théologique (La Naissance de la Haine)** :
-  * Écœuré par cette abjection, le héros bondit sabre au clair et déchaîne ses sorts pour massacrer l'équipe d'inquisiteurs et sauver les derniers survivants.
+* **L'Infiltration du Sanctuaire & La Vérité sur le « Condensateur »** :
+  * Le héros s'infiltre dans la nef souterraine dans le sillage du convoi, s'attendant à trouver une merveille d'ingénierie sacrée.
+  * **La Scène du Rituel** : Les fidèles sont sincères, en larmes, agenouillés et chantant des cantiques, persuadés de communier avec l'Idole pour alimenter la sainte machine.
+  * Les inquisiteurs ouvrent les vannes : la fosse centrale s'illumine. Le héros découvre l'horreur organique : le « Condensateur » n'est pas une machine de cristal ou de fer. Au fond du gouffre, branché sur des conduites de flux qui suintent, repose une masse de chair titanesque, difforme et en décomposition — **le Corps Maudit** — qui s'agite dans des râles d'agonie.
+  * Des racines d'éther s'abattent sur les pèlerins pour siphonner leur force vitale et leur sang, les desséchant vivants pour apaiser la carcasse et empêcher le système d'exploser.
+* **L'Intervention & La Révélation du Relais Biologique** :
+  * Écœuré par cette abjection, le héros bondit sabre au clair et déchaîne ses sorts pour massacrer l'équipe d'inquisiteurs et abattre l'abomination charnelle.
+  * En tuant la carcasse et en posant la main sur la stèle du Sceau au fond de la fosse, le voile s'illumine : la silhouette de Kaelys apparaît dans les Limbes.
+  * **Le Choc Absolu** : Le héros comprend que ce « Condensateur » de chair vivante n'était pas juste un générateur... **c'était le corps physique de Kaelys lui-même**, le relais biologique indispensable qui permettait aux disciples du Continent d'accéder à l'esprit du dieu dans les Limbes ! En détruisant le corps, le pont est rompu pour toute la province.
   
   Le héros vient d'abattre la monstruosité de chair au sabre et aux sorts. Haletant, couvert de sueur et de sang, il s'approche de la stèle du Sceau et pose la main dessus.
 
@@ -147,7 +150,7 @@
   > « Si tu mens... Je te jure que tu verras ma lame te transpercer de bout en bout. Quel est ton gage, Kaelys ? »
 
   Kaelys lève deux doigts spectraux. L'air se comprime contre le verre de la stèle, et une étincelle de flux pur traverse la matière pour venir s'imprimer comme une brûlure au creux de la paume du héros.
-  > « Une fraction de flux pur non filtré. Fais-la parvenir à ta mère ou garde-la pour son chevet : cela stabilisera ses poumons et ralentira son agonie de plusieurs semaines. Tu as ton sursis, chien errant. De plus, tant que tu me sers, je maintiens notre ligne ouverte : tu seras le seul mortel sur Terre à pouvoir déchaîner mon art sans que l'Académie ne puisse rien y faire.  
+  > « Une fraction de flux pur non filtré. Fais-la parvenir à ta mère, cela stabilisera ses poumons et ralentira son agonie de plusieurs semaines. Tu as ton sursis, chien errant. De plus, tant que tu me sers, je maintiens notre ligne ouverte : tu seras le seul mortel sur Terre à pouvoir déchaîner mon art sans que l'Académie ne puisse rien y faire.  
   > Maintenant, écoute bien : dans les montagnes du Sud, sous le Bastion Tellurique, dort **Gorath**. Sa carcasse est plus lourde et plus épaisse que la mienne. Va lui rendre visite. Brise son corps. Et reviens me parler à la prochaine stèle. »
 
 * **La Fin d'Acte II : L'Alliance Vacharde sur les Routes** :
