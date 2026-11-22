@@ -259,15 +259,10 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
   * **La Règle Métaphysique du Sceau Unique** :
     * La 7ᵉ Voie (*SCELLER*) n'est pas un sortilège éphémère : c'est un verrouillage absolu de la réalité qui **engage la totalité de la connexion énergétique de son utilisateur**.
     * Poser un Sceau revient à lier sa propre âme pour maintenir l'ancrage. Un être vivant n'ayant qu'une seule âme, **on ne peut sceller qu'une seule fois dans son existence**.
-  * **La Décision Interactive au Chevet (Le Dialogue Fondateur)** :
+  * **La Décision Interactive au Chevet (Une Scène Muette & Pesante)** :
     * En arrivant au chevet de sa mère, le héros n'a pas encore posé le Sceau. Elle respire péniblement, maintenue en sursis par l'étincelle de flux de Kaelys.
-    * Le héros s'assoit au bord du lit et prend sa main fragile. La mère ouvre lentement les yeux, le reconnaît, et effleure son visage marqué par les cicatrices et la poussière des sanctuaires.
-    * **Le Dialogue entre le Fils et la Mère** :
-      > **La Mère** : *« Tu es revenu... Regarde-toi, mon grand. Qu'est-ce que tu as dû traverser ? Tu as les mains noircies par le fer et les yeux de ceux qui ont marché en enfer... »*  
-      > **Le Héros** : *« J'ai trouvé le secret, maman. J'ai le pouvoir d'arrêter la maladie dans ton corps pour toujours. Si je trace ce Sceau sur toi, la douleur s'éteindra. Tu vivras. »*  
-      > **La Mère** *(le regardant avec une lucidité poignante)* : *« Mais à quel prix ? Je t'ai entendu arriver dans la roche... et j'entends les prières en bas. Des centaines de gens se sont rassemblés sous la ville. Ils t'appellent leur Guide. Tu n'es plus seulement mon fils qui est parti avec un sabre d'apprenti... Tu portes la vie d'un monde entier. »*  
-      > **Le Héros** *(la voix tremblante)* : *« Un homme ne peut sceller qu'une seule fois dans son existence. Si je pose mon Sceau sur toi... je ne pourrai plus jamais sceller la Faille là-bas. Le Continent brûlera, les fidèles périront, mais toi, tu seras sauve. »*  
-      > **La Mère** *(lui serrant doucement la main)* : *« Alors choisis, mon enfant. Pas par devoir, mais avec ton cœur. Si tu choisis de sceller ma chair et de rester ici, je m'endormirai heureuse de t'avoir auprès de moi. Mais si tu dois te lever pour ceux qui t'attendent dehors... ne me laisse pas être le tombeau de ce monde. »*
+    * Le héros s'assoit au bord du lit et prend sa main fragile. La mère ouvre lentement les yeux, le reconnaît, et effleure silencieusement son visage marqué par la poussière et les cicatrices.
+    * **Zéro dialogue, un silence absolu** : Aucun mot n'est échangé. Leurs regards se croisent dans une pudeur poignante. Le héros regarde sa main marquée par le Sceau, puis le visage épuisé de sa mère, tiraillé entre son devoir de fils et les prières des centaines de fidèles rassemblés sous la ville.
     * **Le Choix Manette en Main** :
     * **Choix 1 : `[POSER LE SCEAU SUR SA MÈRE]` (Fin Précoce — Le Silence du Fils)** :
       * Le héros craque : il refuse de la perdre. Il dégaine son sabre, trace les 7 glyphes dans l'air et appose sa paume sur sa poitrine. Le Sceau d'or pâle s'imprime dans sa chair : la gangrène d'éther est figée net, ses douleurs disparaissent, sa respiration devient douce et régulière. Sa mère est sauvée de l'agonie.
@@ -281,9 +276,9 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
         > *« Tu es resté... ? Tu es là, mon fils... »*  
         Preuve déchirante qu'elle est bel et bien en vie et sauvée, seule avec lui au milieu d'un univers en cendres.
     * **Choix 2 : `[S'EN ALLER / RÉSERVER LE SCEAU]` (Continuer vers l'Acte V)** :
-      * Le héros écoute les paroles de sa mère et le cri des hommes : il résiste à l'envie immédiate de la sceller ici. Il sait que consommer son Sceau abandonnerait ses disciples et condamnerait la Terre entière sous peu.
+      * Le héros résiste à l'envie immédiate de la sceller ici. Il sait que consommer son Sceau abandonnerait ses disciples et condamnerait la Terre entière sous peu.
       * Sa mère reste sous la protection temporaire de la marque de Kaelys (un sursis dont le sablier s'écoule rapidement).
-      * Il embrasse son front, promettant de trouver une issue pour sauver le monde sans la condamner, lâche sa main, replace son sabre au fourreau et s'arrache à la pièce pour reprendre la mer.
+      * D'un geste silencieux, il serre sa main une dernière fois, replace son sabre au fourreau et s'arrache à la pièce pour reprendre la mer.
       * **Le Terrible Enjeu de l'Acte V** : Le héros conserve son unique Sceau en réserve pour l'affrontement final à l'Épicentre... mais sa mère pourrait mourir en fonction de la Fin qu'il choisira d'exécuter là-bas !
 
 ---

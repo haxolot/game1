@@ -45,11 +45,8 @@ La 7ᵉ Voie (*SCELLER*) n'est pas un sortilège classique : c'est un ancrage ir
 * **L'Unicité** : Un être vivant ne possède qu'une seule âme. Par conséquent, **un individu ne peut maintenir qu'un seul Sceau actif dans l'univers**.
 * Quand le héros arrive au chevet de sa mère, **il n'a pas encore posé le Sceau**. Sa mère est maintenue en vie par le sursis temporaire de l'étincelle de Kaelys, dont le temps est compté.
 
-### B. Le Dialogue Fondateur au Chevet & La Décision
-Avant le choix, une discussion intime s'engage entre la mère mourante et son fils :
-* La mère voit ses mains calcinées et ses cicatrices : *« Tu portes la vie d'un monde entier sur tes épaules... Ne me laisse pas être le tombeau de ce monde. »*
-* Le héros lui avoue la règle du Sceau unique : sceller sa mère le sauvera elle, mais condamnera le continent et ses disciples sans retour.
-* La mère lui demande de choisir non par culpabilité, mais avec son cœur. Deux choix s'offrent alors au joueur :
+### B. La Décision Interactive au Chevet (Scène Muette & Pesante)
+Aucun mot n'est échangé. Leurs regards se croisent dans un silence absolu : la mère effleure les cicatrices de son fils, tandis que le héros contemple sa paume marquée, conscient qu'il ne peut sceller qu'une seule fois dans son existence. Deux choix s'offrent au joueur :
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
