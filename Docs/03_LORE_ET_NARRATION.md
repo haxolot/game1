@@ -95,7 +95,7 @@ Pour stabiliser le continent :
 * **Le Mercenaire au Nom d'Emprunt** : Banni, le héros prend un faux nom (choisi par le joueur) et loue ses services de mercenaire. Il s'entraîne avec le grimoire volé, combinant coups de sabre, sorts actifs et passifs magiques.
 * **La Filature du Convoi** : Il repère l'escorte des pèlerins et la suit discrètement à travers les terres sauvages jusqu'aux accès dérobés menant aux sous-sols du Premier Sanctuaire.
 * **Le Rituel & La Vérité Organique** : Infiltré dans la crypte souterraine, il voit les fidèles chanter des cantiques avant que des racines d'éther ne les siphonnent vivants pour nourrir une masse titanesque difforme et pourrissante : le **Corps Maudit**, que l'Académie nomme en interne son « condensateur ». Le héros l'abat au sabre et aux sorts pour abréger l'horreur.
-* **Le Pacte avec Kaelys (Le Duo Mortel)** : Devant la stèle du Sceau, la silhouette spectrale de Kaelys apparaît dans les Limbes. Kaelys révèle avec cynisme que les pèlerins étaient déjà condamnés par les radiations et que ce monstre agonisant était sa propre enveloppe charnelle — le relais biologique caché sous le sanctuaire permettant aux prières et sorts de franchir le voile. Kaelys propose un pacte faustien : il imprime une marque de flux pur dans la paume du héros pour stabiliser temporairement sa mère et maintenir sa ligne de sorts active. En échange, le héros doit détruire les 4 autres corps rivaux. Pour contacter Kaelys, pas de voix permanente dans la tête : le héros doit poser sa paume marquée sur un **accès au Sceau** (n'importe quelle stèle sacrée) pour l'appeler à travers le voile.
+* **Le Pacte avec Kaelys (Le Duo Mortel)** : Devant la stèle du Sceau, la silhouette spectrale de Kaelys apparaît dans les Limbes. Kaelys révèle avec cynisme que les pèlerins étaient déjà condamnés par les radiations et que ce monstre agonisant était sa propre enveloppe charnelle — le relais biologique caché sous le sanctuaire permettant aux prières et sorts de franchir le voile. Il brise l'illusion du héros : **il n'existe aucun remède sur Terre** pour la maladie de sa mère. La seule issue est d'apprendre la 7ᵉ Voie (*SCELLER*) pour figer la corruption dans sa chair. Kaelys propose un pacte : il imprime une marque de flux pur dans la paume du héros pour ralentir l'agonie de sa mère de quelques semaines, maintient sa ligne de sorts active, et promet de lui révéler la cache du savoir de Noah. En échange, le héros doit détruire les 4 autres corps rivaux. Pour contacter Kaelys, pas de voix permanente dans la tête : le héros doit poser sa paume marquée sur un **accès au Sceau** (n'importe quelle stèle sacrée) pour l'appeler à travers le voile.
 
 ### C. Acte III : La Traque des Quatre Sanctuaires, Le Sang dans le Sceau & La 6ᵉ Voie
 * **La Liaison aux Stèles du Sceau** : Pendant tout l'Acte III, le héros contacte Kaelys à chaque stèle de sanctuaire en y appliquant sa paume marquée. Kaelys agit comme un informateur cynique, lui livrant les secrets et faiblesses intimes de ses 4 rivaux (Gorath, Vaelen, Lyra, Malakor).
@@ -110,11 +110,11 @@ Pour stabiliser le continent :
   * **En Lore** : Elle lui permet de dévier les tempêtes côtières, d'expédier son carnet à Noah en -2000, et d'amasser en fin de jeu des fidèles dans son sanctuaire natal hors du Continent.
 * **Le Climax de l'Acte III : Le 5ᵉ Corps Abattu, L'Injonction de Kaelys & La Naissance du Guide** :
   * Le héros abat le cinquième et dernier corps des Précurseurs (Malakor). Les cinq relais millénaires sont détruits.
-  * Kaelys remet le remède complet pour la mère et intime l'ordre au héros de fuir : le contrat est rempli, la guerre va embraser le Continent (l'Organisation voulant ressusciter le Septième et les dissidents voulant faire sauter le Sceau). Il lui dit : *« T'as fini, maintenant prends ton remède et sauve-toi. »*
-  * **Le Monologue du Héros** : Face au remède et au souvenir de ses morts, le héros refuse la fuite égoïste :  
-    > *« Je peux moi aussi être à votre niveau. Si je rentre maintenant, je ne soignerai que ma mère. Mais d'autres attendent. Combien de compagnons j'ai perdus jusque-là ? Combien d'âmes j'ai emmenées au cimetière ? Combien de fidèles me suivent ? C'est ça ce qu'il me manquait, Kaelys ? J'ai levé mon doigt vers des centaines de directions, j'ai touché l'énergie la plus pure, et je me chante des louanges... C'est tout ce qu'il me manquait. Je dois les guider. Car sinon, combien s'égareront après nos affrontements ? »*
+  * Kaelys tient parole : il lui révèle que la crypte secrète de Noah est dissimulée sous sa propre ville natale outre-mer. Il intime l'ordre au héros de fuir : le contrat est rempli, la guerre va embraser le Continent (l'Organisation voulant ressusciter le Septième et les dissidents voulant faire sauter le Sceau). Il lui dit : *« T'as fini, maintenant va apprendre à Sceller pour ta mère et sauve-toi. »*
+  * **Le Monologue du Héros** : Face à sa paume marquée et au souvenir de ses morts, le héros refuse la fuite égoïste :  
+    > *« Je peux moi aussi être à votre niveau. Si je rentre maintenant, je ne sauverai que ma mère. Mais d'autres attendent. Combien de compagnons j'ai perdus jusque-là ? Combien d'âmes j'ai emmenées au cimetière ? Combien de fidèles me suivent ? C'est ça ce qu'il me manquait, Kaelys ? J'ai levé mon doigt vers des centaines de directions, j'ai touché l'énergie la plus pure, et je me chante des louanges... C'est tout ce qu'il me manquait. Je dois les guider. Car sinon, combien s'égareront après nos affrontements ? »*
   * **La Réaction de Kaelys** : Kaelys rit, acquiesce et relève de son regard un profond respect pour le héros. Il se sent bête d'avoir cherché le Sixième pendant huit siècles dans les Limbes, et l'avoir enfin trouvé devant lui le soulage d'un poids immense.
-  * **La Décision** : Les 5 corps sont morts, mais pour renverser l'Organisation retranchée au Sceau Primordial, le héros sait qu'il n'est pas encore de taille : il doit devenir plus fort en trouvant **son sanctuaire** (la crypte sous sa ville natale laissée par Noah) pour assimiler le savoir antique avant l'assaut final.
+  * **La Décision** : Les 5 corps sont morts, mais pour renverser l'Organisation retranchée au Sceau Primordial, le héros sait qu'il n'est pas encore de taille : il doit d'abord traverser la mer pour trouver **son sanctuaire** (la crypte sous sa ville natale laissée par Noah), apprendre la 7ᵉ Voie (*Sceller*), sauver sa mère et rassembler ses fidèles ralliés avant l'assaut final.
 
 ---
 
@@ -130,10 +130,12 @@ Le héros reprend clandestinement la mer en sens inverse vers les Terres Extéri
    * Le héros résout la **Serrure Martiale de Noah** grâce aux 6 Voies combinées au sabre.
    * Il établit son propre sanctuaire secret dans la nef oubliée sous la ville : des fidèles des Terres Extérieures commencent à s'y rassembler pour l'invoquer et trouver refuge, et le joueur peut directement interagir avec eux.
    * Il découvre le Vieux Journal de Noah (annoté de la 7ᵉ Voie *Sceller*) et s'entraîne dans le Dojo du Sceau.
-3. **Le Choix au Chevet de la Mère Alitée** :
-   * Une trappe de mineur permet au héros d'émerger directement dans la chambre de sa mère mourante.
-   * *Choix Altruiste* : Sommeil paisible offert à la mère, sacrifice consenti pour sauver le monde.
-   * *Choix Égoïste* : Guérison totale de la mère par le flux pur, quitte à risquer l'effondrement du Continent.
+3. **Le Face-à-Face au Chevet de la Mère & La Règle du Sceau Unique** :
+   * Une trappe de mineur permet au héros d'émerger dans la chambre de sa mère mourante. Il pose son Sceau sur elle : la maladie est figée net, ses douleurs s'éteignent.
+   * **La Règle Métaphysique** : Un individu ne peut sceller qu'une seule fois dans sa vie (lier son âme/sa connexion énergétique).
+   * **Séquence Interactive** : Le joueur est assis au chevet.
+     * *Rester assis (Fin Précoce — Le Silence du Fils)* : Le héros ne bouge pas. La chambre s'assombrit. Au loin, les voix de ses fidèles souffrent et l'appellent à l'aide en vain. Il choisit sa mère et laisse le monde brûler.
+     * *Se lever et repartir* : Le héros part affronter la Faille à l'Épicentre. Comme il devra y réinvoquer le Sceau pour sauver le monde, le Sceau posé sur sa mère sera disputé : sa survie finale dépendra de la Fin choisie là-bas !
 ---
 
 ## 5. L'Acte V (Climax) : Le Sanctuaire Caché, L'Apocalypse de l'Épicentre & Le Panthéon Prime
@@ -172,14 +174,14 @@ Le véritable rival du héros n'a jamais été un apprenti d'école : **son vrai
   * *Ennemi Détesté* : Dégoût et mépris pur, Kaelys affronte un usurpateur qu'il maudit (*« Tu n'es qu'un parasite opportuniste qui a souillé notre sang ! »*).
 * **Le Duel Final de Légende** : Le combat au sabre le plus intense, rapide et viscéral du jeu (*Sekiro-like* 2D pur).
 
-### F. Le Rôle du Pote de l'Académie & Les 5 Fins Multiples
+### F. Le Rôle du Pote de l'Académie & Les Fins Multiples
 * **Le Pote de l'Académie (L'Ancre Humaine)** : Resté à l'Académie, le camarade du héros a utilisé son grade pour saboter la Secte de l'intérieur et protéger les civils. Il rejoint le héros à l'épicentre avec des survivants pour repousser les derniers fanatiques, prouvant la force de leur amitié.
-* **La Matrice des 5 Fins Multiples** : L'utilisation de la 7ᵉ Voie (*SCELLER*) et le destin de la mère débloquent 5 fins distinctes, chacune colorée par le jugement final de Kaelys (Digne Rival vs Ennemi) :
-  1. *Le Cycle Parfait (Canonique)* : Renvoi du carnet vers Noah en -2000, pérennité de l'histoire.
-  2. *Le Sceau Absolu (Ère Humaine)* : Extinction totale de la magie, société laïque et scientifique.
-  3. *Le Sacrifice du Guide (L'Âme Sentinelle)* : Le héros prend la place du Sceau dans les Limbes pour épargner le monde.
-  4. *Le Règne du Sixième (Le Sanctuaire Outre-Mer)* : Amour filial absolu, protection de la mère et des fidèles dans un monde chaotique.
-  5. *L'Effacement (Le Silence des Limbes)* : Oubli total et amnésie collective des dieux et des Voies.
+* **La Règle du Sceau Unique & Le Sort de la Mère** : En Acte IV, le héros pose son Sceau unique sur sa mère pour figer la corruption. S'il reste assis au chevet, le jeu se termine sur **Fin 0 (Le Silence du Fils)** : sa mère vit, le héros écoute les voix de ses fidèles souffrir et mourir au loin, et le continent s'effondre. S'il se lève pour aller à l'Épicentre, le sort de sa mère est lié à la Fin choisie :
+  1. *Le Cycle Parfait (Canonique)* : Le Sceau est transféré à la Faille ; le Sceau de la mère se dissipe et elle s'éteint paisiblement dans son sommeil, fière de son fils. Le carnet est renvoyé vers Noah en -2000.
+  2. *Le Sceau Absolu (Ère Humaine)* : Extinction de 100% de la magie ; l'éther disparaissant, la maladie est éradiquée et la mère guérit naturellement.
+  3. *Le Sacrifice du Guide (L'Âme Sentinelle)* : Le héros prend la place du Sceau dans les Limbes et maintient la protection sur sa mère depuis l'au-delà.
+  4. *Le Règne du Sixième (Le Sanctuaire Outre-Mer)* : Refus de sceller la Faille pour garder le Sceau intact sur sa mère ; le héros rentre régner avec ses fidèles.
+  5. *L'Effacement (Le Silence des Limbes)* : Oubli total et amnésie collective des dieux et des Voies ; la mère vit en paix mais a oublié son fils.
 *(Voir le détail complet dans [06_FINS_RIVAL_ET_LE_ONE_TRY.md](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/06_FINS_RIVAL_ET_LE_ONE_TRY.md))*
 
 ---

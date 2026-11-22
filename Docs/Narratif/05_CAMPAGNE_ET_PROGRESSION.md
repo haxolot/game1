@@ -147,14 +147,16 @@
   L'insolence du mortel amuse la divinité qui esquisse un sourire supérieur.
   > Prends garde à tes paroles, je ne vois qu'un seul chien halétant de son premier combat de coq. Tu ne semble pas comprendre que je suis bloqué ici.
 
-  S'approchant du visage du héro, les yeux de la divinité s'aligne a ceux du héros.
-  > Ne te méprend pas, cette carcasse n'est qu'une entrée. Ne joue pas avec plus fort que toi. Je te solicite car tu es un chien errant sans maitre, ta mère va mourir, ton pays te délaisse, ton école te traque mais tu semble tout de même avoir la force de me servir. En 800 ans c'est bien la première fois que les choses bougent et deviennent intéressante, je te propose de te fournir de quoi soigner ta mère en échange de tes services.
+  S'approchant du visage du héros, les yeux de la divinité s'alignent avec les siens.
+  > Ne te méprends pas, cette carcasse n'est qu'une entrée. Ne joue pas avec plus fort que toi. Je te sollicite car tu es un chien errant sans maître : ta mère va mourir, ton pays te délaisse, ton école te traque mais tu as la rage de vaincre.  
+  > Tu cherches un remède ? Il n'y a **aucun remède d'apothicaire sur cette Terre** pour la gangrène d'éther qui lui ronge les poumons. L'Académie t'a menti : ils ne guérissent personne, ils pétrifient ou masquent les plaies.  
+  > La seule chose capable d'arrêter ce mal, c'est **l'Art de Sceller**, le pouvoir que maniait le Septième il y a deux mille ans pour figer le monde. Abats mes frères, assimile leurs arts pour devenir assez fort, et je t'indiquerai où trouver le secret du Sceau pour la sauver.
 
   D'abord provoqué, le héros se calme et esquisse un sourire approbateur des piques de la divinité :
   > « Si tu mens... Je te jure que tu verras ma lame te transpercer de bout en bout. Quel est ton gage, Kaelys ? »
 
   Kaelys lève deux doigts spectraux. L'air se comprime contre le verre de la stèle, et une étincelle de flux pur traverse la matière pour venir s'imprimer comme une brûlure au creux de la paume du héros.
-  > « Une fraction de flux pur non filtré. Fais-la parvenir à ta mère, cela stabilisera ses poumons et ralentira son agonie de plusieurs semaines. Tu as ton sursis, chien errant. De plus, tant que tu me sers, je maintiens notre ligne ouverte : tu seras le seul mortel sur Terre à pouvoir déchaîner mon art sans que l'Académie ne puisse rien y faire.  
+  > « Une fraction de flux pur non filtré. Cette marque ralentira sa dégénérescence et lui offrira un sursis de quelques semaines, le temps que tu fasses le travail. De plus, tant que tu me sers, je maintiens notre ligne ouverte : tu seras le seul mortel sur Terre à pouvoir déchaîner mon art sans que l'Académie ne puisse rien y faire.  
   > Mais ne t'attends pas à ce que je babille dans ton crâne à chaque foulée sur la route. De l'autre côté du voile, nous sommes tous prisonniers du même Sceau. Cette marque gravée dans ta chair est ta clé : dès que tu te trouves devant un accès au Sceau — n'importe quelle stèle sacrée —, plaque ta paume contre la pierre et appelle-moi. C'est le seul moyen d'établir le contact entre nos deux mondes.  
   > Maintenant, écoute bien : dans les montagnes du Sud, sous le Bastion Tellurique, dort **Gorath**. Sa carcasse est plus lourde et plus épaisse que la mienne. Va lui rendre visite. Brise son corps. Puis pose ta marque sur sa stèle et appelle-moi : je viendrai savourer le spectacle et te donner ta prochaine part. »
 
@@ -216,17 +218,17 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
     * Elle lui permet de projeter son carnet de notes à travers la faille intemporelle des Limbes pour qu'il parvienne à Noah en -2000.
     * **Late Game (Le Sanctuaire Natal)** : Elle lui permet d'amasser des fidèles dans son propre sanctuaire secret sous sa ville natale, hors du Continent. Ces disciples l'invoquent pour être protégés, et le joueur peut directement interagir avec eux.
 
-* **Le Climax de l'Acte III : Le 5ᵉ Corps Abattu, L'Offre de Kaelys & La Naissance du Guide** :
+* **Le Climax de l'Acte III : Le 5ᵉ Corps Abattu, La Vérité de Kaelys & La Naissance du Guide** :
   * Le héros vient d'abattre le cinquième et **dernier corps physique des Précurseurs** (Malakor). Les cinq relais biologiques millénaires sont désormais anéantis : le réseau théocratique du Continent est à genoux.
-  * À la stèle, Kaelys tient intégralement parole et remet au héros le **remède complet** capable de guérir définitivement sa mère.
+  * À la stèle, Kaelys tient intégralement parole : le héros maîtrise désormais les 5 Voies des Précurseurs. Kaelys lui dévoile le secret final : le sanctuaire secret de Noah se trouve sous sa propre ville natale outre-mer, dissimulé dans les galeries minières oubliées.
   * **L'Injonction Pressante de Kaelys (« T'as fini, maintenant sauve-toi »)** :
-    > *« Notre contrat est rempli, chien errant. Tu as fait ta part, voici ton remède. Maintenant, prends-le et **sauve-toi**. Barre-toi d'ici avant que tout ne s'effondre sur ta tête. Tous les dieux te haïssent, l'Académie te traque comme la peste.  
+    > *« Notre contrat est rempli, chien errant. Tu as assimilé nos cinq arts, tu as de quoi ouvrir la crypte de Noah et apprendre à **Sceller** la maladie de ta mère. Maintenant, prends le premier navire et **sauve-toi**. Barre-toi d'ici avant que tout ne s'effondre sur ta tête. Tous les dieux te haïssent, l'Académie te traque comme la peste.  
     > Tu as fouillé leurs ruines, tu sais ce qui va éclater : privée de ses cinq relais, l'Organisation est prête à tout pour **faire renaître le Septième** et verrouiller son empire, pendant que les insurgés dissidents veulent **faire sauter le Sceau** pour anéantir la magie au prix d'un cataclysme planétaire.  
-    > Ce n'est plus ton problème. Tu as sauvé ta mère, sauve ta peau et ne remets plus jamais les pieds sur ce continent. »*
+    > Ce n'est plus ton problème. Va sauver ta mère avec le Sceau de Noah, sauve ta peau et ne remets plus jamais les pieds sur ce continent. »*
   * **Le Monologue Fondateur du Héros** :
-    Le héros regarde la fiole de remède, puis la stèle, habité par le souvenir de tout son sang versé et de ceux qu'il a croisés sur sa route :
+    Le héros regarde sa paume marquée, puis la stèle, habité par le souvenir de tout son sang versé et de ceux qu'il a croisés sur sa route :
     > *« Je peux moi aussi être à votre niveau.  
-    > Si je rentre maintenant, je ne soignerai que ma mère. Mais d'autres attendent.  
+    > Si je rentre maintenant, je ne sauverai que ma mère. Mais d'autres attendent.  
     > Combien de compagnons j'ai perdus jusque-là ? Combien d'âmes j'ai emmenées au cimetière ? Combien de fidèles me suivent désormais ?  
     > C'est ça ce qu'il me manquait, Kaelys ?  
     > J'ai levé mon doigt vers des centaines de directions, j'ai touché l'énergie la plus pure, et je me chante des louanges... C'est tout ce qu'il me manquait.  
@@ -234,9 +236,9 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
   * **La Réaction de Kaelys (Le Respect & Le Soulagement)** :
     Kaelys éclate d'un rire franc, sans fiel, où son regard laisse transparaître pour la première fois un profond respect.  
     Il hoche la tête, presque amusé par sa propre bêtise : pendant huit siècles dans les Limbes, les Cinq se sont disputés pour savoir qui était le Sixième, cherchant un fantôme ou un dieu disparu... et le voir enfin devant lui, sous les traits de ce mortel déterminé, lui procure un immense soulagement intellectuel.
-  * **La Décision : Devenir Plus Fort & Trouver Son Sanctuaire** :
+  * **La Décision : Traverser la Mer, Poser le Sceau & Trouver Son Sanctuaire** :
     * Les cinq corps sont morts, mais pour faire face à la puissance armée de l'Organisation retranchée au Sceau Primordial et empêcher la fausse renaissance du Septième, le héros sait qu'il n'est pas encore de taille.
-    * Il doit être plus fort : il doit traverser la mer vers sa terre natale, sauver sa mère avec le remède, et **trouver son propre sanctuaire** (la crypte de Noah sous sa ville) pour y assimiler le savoir antique avant de mener l'assaut final contre l'Organisation.
+    * Il doit d'abord traverser la mer vers sa terre natale, trouver la crypte de Noah sous sa ville pour y apprendre la 7ᵉ Voie (*Sceller*), sauver sa mère, et rassembler ses fidèles ralliés avant de revenir affronter la Secte.
 
 ---
 
@@ -252,11 +254,25 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
   * **Le Sanctuaire du Guide & Les Fidèles Ralliés** : En découvrant la vaste nef oubliée sous la ville, le héros y installe son propre sanctuaire secret hors du Continent. Des fidèles persécutés, des transfuges des écoles et des gens du peuple commencent à s'y rassembler, trouvant refuge sous sa protection : ils l'invoquent comme leur Guide vivant. Le joueur peut interagir avec eux (dialogues, requêtes, écoute de leurs espoirs).
   * **Le Legs de Noah (La 7ᵉ Voie : SCELLER)** : Dans la crypte obscure (dépourvue de toute brèche magique), il trouve le Vieux Journal de Noah, ses remerciements pour l'amour filial qui l'a inspiré, et le tracé des 7 mouvements de la **7ᵉ Voie (*Sceller*)**.
   * **Le Dojo du Sceau** : Dans le silence sacré de la crypte, le héros s'entraîne physiquement au sabre pour maîtriser la danse du Sceau avant de repartir.
-* **Le Face-à-Face avec la Mère Alitée** :
+* **Le Face-à-Face avec la Mère Alitée & La Règle du Sceau Unique** :
   * Une trappe de mineur permet au héros d'émerger directement dans la chambre de sa mère mourante.
-  * **Le Choix Déchirant** :
-    * *Voie Altruiste (Le Devoir Universel)* : Le héros accomplit un rituel qui éteint les atroces douleurs de sa mère et lui offre un sommeil paisible, acceptant de repartir sauver l'humanité au prix de son sacrifice.
-    * *Voie Égoïste (L'Amour d'un Fils)* : Il utilise le flux concentré de ses arts pour guérir sa mère sur place, acceptant de condamner l'équilibre mondial pour la garder en vie.
+  * **La Règle Métaphysique du Sceau Unique** :
+    * La 7ᵉ Voie (*SCELLER*) n'est pas un sortilège éphémère : c'est un verrouillage absolu de la réalité qui **engage la totalité de la connexion énergétique de son utilisateur**.
+    * Poser un Sceau revient à lier sa propre âme pour maintenir l'ancrage. Un être vivant n'ayant qu'une seule âme, **on ne peut sceller qu'une seule fois**.
+  * **L'Application du Sceau sur la Mère** :
+    * Voyant sa mère au bord du gouffre, le héros dégaine son sabre, trace les 7 glyphes dans l'air et appose sa paume marquée sur sa poitrine.
+    * Le Sceau s'illumine puis disparaît dans sa peau : la corruption d'éther est figée net, la douleur s'évapore, sa respiration redevient calme et régulière. Elle est sauvée de l'agonie.
+  * **La Séquence Interactive au Chevet : Rester ou Se Lever ?** :
+    * Le héros s'assoit sur une chaise au chevet de sa mère, tenant sa main endormie. La caméra se pose, fixe. Le joueur a les commandes.
+    * **Choix 1 : Rester assis (La Fin Précoce du Silence)** :
+      * Le joueur ne touche à aucune touche. Les minutes s'écoulent dans un silence pesant.
+      * La lumière du jour décline doucement, plongeant la modeste chambre ouvrière dans la pénombre.
+      * Soudain, par sa résonance de Guide, le son lointain du monde s'infiltre dans la pièce : le grondement sourd des tempêtes d'éther qui ravagent le Continent, et surtout... **les voix déchirantes de ses fidèles ralliés**.
+      * Des cris étouffés, des sanglots, des prières désespérées traversent la mer : *« Ô Guide... où es-tu ? »*, *« Pitié, tu avais promis de nous guider... le ciel brûle ! »*.
+      * Le héros serre plus fort la main de sa mère. Il baisse la tête. Ses yeux brillent dans l'obscurité, mais **il ne bouge pas**. Il a fait son choix : il préfère laisser l'univers s'effondrer que de risquer de briser le Sceau qui garde sa mère vivante. L'écran s'éteint au noir sur les prières qui se meurent (Fin précoce tragique).
+    * **Choix 2 : Se lever et repartir vers le Continent** :
+      * Le joueur pousse le joystick / appuie sur la touche. Le héros lâche lentement la main de sa mère, replace son sabre au fourreau et s'arrache à la pièce.
+      * **Le Terrible Enjeu Métaphysique** : S'il retourne affronter l'Organisation et la Faille à l'Épicentre, il devra inévitablement déchaîner l'Art de Sceller. Mais comme un mortel ne peut sceller qu'une seule chose, réinvoquer le Sceau à l'Épicentre risque de briser ou de disputer l'ancrage vital posé sur sa mère... **sa survie finale dépendra désormais intégralement de la Fin qu'il choisira d'exécuter à l'Épicentre !**
 
 ---
 
