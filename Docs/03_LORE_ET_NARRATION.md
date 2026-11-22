@@ -91,20 +91,17 @@ Pour stabiliser le continent :
   * **Le Tuyau du Rival & L'Infiltration** : Monté en grade, le Rival retrouve le héros en secret : il reste dans l'Académie mais donne à son ami les plans pour s'infiltrer et voler **l'exemplaire complet et non censuré de sa Voie**.
   * **La Révélation du Document Secret** : En volant son grimoire martial (sabre, sorts et passifs), le héros découvre un ordre interne au vocabulaire hypocrite : l'Académie mandate une équipe d'inquisiteurs pour conduire un groupe de fidèles pèlerins au Sanctuaire Originel afin de « renouveler et stabiliser le Corps Saint ». Sans comprendre encore que ce "Corps" est le dieu qu'il priait, le héros s'évade pour traquer ce convoi.
 
-### B. Acte II : La Cavale sous Nom d'Emprunt, La Filature du Convoi & Le Premier Sanctuaire
+### B. Acte II : La Cavale, Le Premier Sanctuaire & Le Pacte avec Kaelys
 * **Le Mercenaire au Nom d'Emprunt** : Banni, le héros prend un faux nom (choisi par le joueur) et loue ses services de mercenaire. Il s'entraîne avec le grimoire volé, combinant coups de sabre, sorts actifs et passifs magiques.
 * **La Filature du Convoi** : Il repère l'escorte des pèlerins et la suit discrètement à travers les terres sauvages jusqu'à l'entrée scellée du Premier Sanctuaire Caché.
-* **Le Rituel & Le Choc Théologique** : Infiltré dans la crypte, il voit les fidèles chanter des cantiques avant que des racines d'éther ne les siphonnent vivants pour nourrir une masse titanesque difforme et pourrissante : le **Corps Maudit**. Il découvre avec effroi que ce monstre agonisant perfusé de sang est la « divinité » de l'École.
-* **Les 4 Règles & La 6ᵉ Voie** : Sur les mégalithes antiques, il découvre la formule originelle de création des Voies. Refusant de prier ce cadavre face à la fosse de flux brut, il récite son véritable nom mortel, crée sa propre Voie et abat le Corps Maudit, éteignant la magie de la première région.
+* **Le Rituel & Le Choc Théologique** : Infiltré dans la crypte, il voit les fidèles chanter des cantiques avant que des racines d'éther ne les siphonnent vivants pour nourrir une masse titanesque difforme et pourrissante : le **Corps Maudit**. Il découvre avec effroi que ce monstre agonisant perfusé de sang est la « divinité » de l'École. Il l'abat au combat.
+* **Le Pacte avec Kaelys (Le Duo Mortel)** : Devant le Sceau libéré, la silhouette spectrale de Kaelys apparaît dans les Limbes. Kaelys méprise les fidèles morts et propose un pacte faustien : il offre au héros une étincelle de flux pur pour stabiliser temporairement sa mère et maintient sa ligne de sorts ouverte, en échange de quoi le héros doit traquer et détruire les corps des 4 autres dieux rivaux. Le duo s'installe sur les routes.
 
-### C. Acte III : La Chute des 5 Sanctuaires & Le Grand Tour
-Les Écoles (villes/académies) sont séparées des **Sanctuaires** (complexes souterrains secrets tenus par la Secte aux 5 branches périphériques du Sceau) :
-1. **Palier 1 : Le Corps Maudit (Monde Physique)** : Il détruit l'abomination charnelle du Précurseur qui servait de filtre d'énergie. L'École de magie correspondante perd ses pouvoirs dans toute la province.
-2. **Le Choix Moral d'Autel (Modulable par Sanctuaire)** :
-   * *Option Usurpation* : Le héros grave son propre nom sur l'autel. Les mages et la population l'invoquent à la place du dieu. Il dévie la foi vers lui et gagne une puissance martiale décuplée.
-   * *Option Voie Pure (Sans Culte)* : Il refuse de devenir une idole et brise l'autel sans inscrire son nom. La région réapprend à vivre sans béquille magique. Le héros compense par une dextérité martiale pure (100% parade au sabre).
-3. **Palier 2 : Le Duel de Forme Prime (Sekiro-like Martial)** : Privée de son corps-relais et affamée de prières, la divinité descend des Limbes dans son avatar d'escrime originel. En la battant, le héros assimile la Voie dans son carnet.
-4. **Le Déclic Autonome** : Ayant vaincu les 5 arts, il comprend qu'il doit envoyer son carnet à Noah en -2000 en lui ordonnant de cacher son legs loin des rois du Continent : il déduit immédiatement que la cache se trouve sous sa propre ville natale dans les Terres Extérieures.
+### C. Acte III : La Traque des Quatre Sanctuaires (En Duo) & La 6ᵉ Voie
+* **Kaelys en Copilote** : Pendant tout l'Acte III, Kaelys conseille et critique le héros avec cynisme, lui livrant les faiblesses intimes de ses 4 rivaux (Gorath, Vaelen, Lyra, Malakor).
+* **La Chute des Sanctuaires** : Pour chaque province, le héros traverse le biome, détruit le Corps Maudit sous les encouragements de Kaelys, et affronte la Forme Prime au sabre pour assimiler l'art.
+* **L'Émancipation & La 6ᵉ Voie (*Guider*)** : Une fois les 5 corps anéantis, Kaelys tente de manipuler le héros pour s'emparer du Sceau Primordial. Le héros refuse d'être le pion d'un tyran : il fait la synthèse de son propre vécu de protecteur et **forge la 6ᵉ Voie : GUIDER**, brisant l'emprise de Kaelys.
+* **Le Déclic Autonome** : Comprenant qu'il devra envoyer son carnet à Noah en -2000, il déduit que la cache de Noah repose sous sa propre ville natale dans les Terres Extérieures.
 
 ---
 

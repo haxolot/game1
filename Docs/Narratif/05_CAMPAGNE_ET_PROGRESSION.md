@@ -11,13 +11,15 @@
   │
 [Acte I] L'Apprenti de l'Académie ──> Fraternité avec le Rival ──> Le Crime de Guerre ──> Trahison & Infiltration Secrète
   │
-[Acte II] Le Mercenaire Solitaire (La Cavale) ──> Contrats sur les Routes ──> Épreuve du Seuil ──> ÉVEIL DE LA 6ᵉ VOIE (GUIDER)
+[Acte II] La Cavale sous Nom d'Emprunt ──> Filature du Convoi ──> Chute du Corps de Kaelys ──> LE PACTE AVEC LE DIEU
+  ├── Naissance du Duo : Le Dieu spectral hautain & Le chevalier ouvrier insolent
+  └── Contrats de Mercenaire & Installation du Duo sur les Routes
   │
-[Acte III] La Chute des 5 Sanctuaires Périphériques (Séparés de l'Académie) :
-  ├── Traque des Équipes de Sacrifices & Élimination des Capitaines de la Secte
-  ├── Palier 1 : Découverte & Mise à mort du Corps Maudit (Le Choc du faux dieu) ──> Fin du flux
-  ├── Choix d'Autel : Usurpation (Embrigadement) vs Voie Pure (Dextérité martiale)
-  └── Palier 2 : Duel au Sabre dans les Limbes contre la Forme Prime du Précurseur
+[Acte III] La Traque des 4 Sanctuaires (Le Duo en Action) :
+  ├── Kaelys en copilote : Révélation des faiblesses intimes de ses rivaux (Gorath, Vaelen, Lyra, Malakor)
+  ├── Pénétration des 4 biomes régionaux & Destruction des 4 Corps Maudits
+  ├── Duels au Sabre contre les Formes Primes dans les Limbes & Maîtrise des 5 Voies
+  └── Climax de l'Acte III : ÉMANCIPATION DE KAELYS & FORGE DE LA 6ᵉ VOIE (GUIDER)
   │
 [Acte IV] Le Retour d'Outre-Mer (Terres Extérieures) :
   ├── Traversée des Limbes & QTE « GUIDER LA TEMPÊTE » sur la chaloupe du passé
@@ -96,36 +98,96 @@
   * Des racines d'éther s'abattent sur les pèlerins pour siphonner leur force vitale et leur sang, les desséchant vivants pour apaiser la carcasse.
 * **L'Intervention & Le Choc Théologique (La Naissance de la Haine)** :
   * Écœuré par cette abjection, le héros bondit sabre au clair et déchaîne ses sorts pour massacrer l'équipe d'inquisiteurs et sauver les derniers survivants.
-  * En contemplant les bannières sacrées, les runes d'or et les autels autour de la fosse, la vérité lui éclate aux yeux : **cette monstruosité nourrie de sang humain EST la divinité qu'il priait à l'Académie**.
-  * Les dieux ne sont pas des esprits célestes bienveillants : ce sont des cadavres sous perfusion de sang qui pourrissent pour maintenir le monopole magique de l'institution.
-* **Les 4 Règles & La Naissance de la 6ᵉ Voie** :
-  * Sur les parois mégalithiques antiques qui emprisonnent le corps, il découvre les gravures originelles oubliées détaillant les 4 conditions pour créer une Voie.
-  * Acculé face au réveil violent de la fosse saturée de flux brut non filtré, refusant d'invoquer ce cadavre, le héros murmure **son véritable nom mortel**.
-  * **L'Éveil** : Il force le flux et crée sa propre Voie. Il terrasse le Corps Maudit, éteignant d'un coup le premier filtre et la magie divine de toute la province.
+  
+  Le héros vient d'abattre la monstruosité de chair au sabre et aux sorts. Haletant, couvert de sueur et de sang, il s'approche de la stèle du Sceau et pose la main dessus.
+
+  Le voile des Limbes s'illumine. De l'autre côté de la roche translucide, une silhouette se matérialise : une forme spectrale noble, humaine, d'une prestance écrasante. Pour le héros à cet instant, il n'y a aucun doute : c'est Kaelys en personne.
+
+  La divinité baisse les yeux vers la carcasse fumante au sol, puis reporte son regard sur le héros.
+
+  >« Impressionnant... Je dois reconnaître ta force, mortel. Peu d'hommes de ta condition auraient pu terrasser une telle masse. Mais j'avoue que cette situation m'embête prodigieusement. »
+
+  Le héros, encore habité par la culpabilité de son passé et son besoin désespéré de sauver des innocents, serre les dents et rétorque :
+
+  Le Héros :
+  >« Il le fallait. Je devais abattre cette chose pour protéger les fidèles restants. »
+
+  Un silence lourd s'installe. De l'autre côté du miroir, la divinité esquisse un sourire désabusé, presque compatissant pour la naïveté du héros.
+
+  La Divinité :
+  > « Protéger ? je n'entend que ton souffle dans cette crypte.
+  Leurs corps étaient totalement incompatibles avec l'énergie de ce monde. Dès l'instant où ils ont franchi le seuil de ce sanctuaire, leurs organes ont brûlé sous les radiations. Ils étaient condamnés avant même que tu ne dégainas ta lame. Leur unique utilité, leur dernier salut... c'était de servir pour nourrir et calmer cette abomination. »
+
+  Le héros se fige. Il regarde les corps des pèlerins au sol, desséchés, les yeux vitreux. Tout s'effondre dans sa tête. Il relève les yeux vers le spectre :
+
+  Le Héros :
+  > « Mais alors... pourquoi ? Pourquoi infliger une telle horreur au monde ? Quel intérêt y a-t-il à maintenir un monstre pareil en vie dans le noir ? »
+
+  Le regard de la divinité se trouble d'une amertume millénaire. Elle pose sa main spectrale sur le verre de la stèle, juste à coté de l'endroit où repose la main du héros.
+
+  La Divinité :
+  > « Parce qu'il s'agit de mon corps.
+  Cela fait des siècles que je vis de l'autre côté de cette stèle. Moi, et les quatre autres. Nous sommes coincés dans ce vide intemporel pendant que nos carcasses de chair croupissent dans la boue.
+  C'est leur lâcheté... et notre avidité qui nous ont conduits ici. »
+
+  Cette révélation sureprena le héro qui pris de doutes s'interrogea avant que la divinité lui demande une requete
+
+  >J'ai besoin de toi, ça ne me fais pas plaisir de te dire ça et de te le demander. Mais tu m'a rendu plus faible que les 4 autres, cherche donc leur sanctuaire et détruit leur corps. Je te récompenserai
+
+  Il n'en fallait pas plus pour convaincre le héro mais des questions restaient en suspens, pourquoi une divinité ne pouvait pas s'en charger elle même, pourquoi avoir un corps de chair, mais surtout pourquoi me dire tout ça et se rendre si vulnérable.
+  >  Tu quémende mon aide ? Toutes ces statues, tous ces chants pour quelqu'un incapable de se débarasser de 4 petits chiens ?
+
+  L'insolence du mortel amuse la divinité qui esquisse un sourire supérieur.
+  > Prends garde à tes paroles, je ne vois qu'un seul chien halétant de son premier combat de coq. Tu ne semble pas comprendre que je suis bloqué ici.
+
+  S'approchant du visage du héro, les yeux de la divinité s'aligne a ceux du héros.
+  > Ne te méprend pas, cette carcasse n'est qu'une entrée. Ne joue pas avec plus fort que toi. Je te solicite car tu es un chien errant sans maitre, ta mère va mourir, ton pays te délaisse, ton école te traque mais tu semble tout de même avoir la force de me servir. En 800 ans c'est bien la première fois que les choses bougent et deviennent intéressante, je te propose de te fournir de quoi soigner ta mère en échange de tes services.
+
+  D'abord provoqué, le héros se calme et esquisse un sourire approbateur des piques de la divinité :
+  > « Si tu mens... Je te jure que tu verras ma lame te transpercer de bout en bout. Quel est ton gage, Kaelys ? »
+
+  Kaelys lève deux doigts spectraux. L'air se comprime contre le verre de la stèle, et une étincelle de flux pur traverse la matière pour venir s'imprimer comme une brûlure au creux de la paume du héros.
+  > « Une fraction de flux pur non filtré. Fais-la parvenir à ta mère ou garde-la pour son chevet : cela stabilisera ses poumons et ralentira son agonie de plusieurs semaines. Tu as ton sursis, chien errant. De plus, tant que tu me sers, je maintiens notre ligne ouverte : tu seras le seul mortel sur Terre à pouvoir déchaîner mon art sans que l'Académie ne puisse rien y faire.  
+  > Maintenant, écoute bien : dans les montagnes du Sud, sous le Bastion Tellurique, dort **Gorath**. Sa carcasse est plus lourde et plus épaisse que la mienne. Va lui rendre visite. Brise son corps. Et reviens me parler à la prochaine stèle. »
+
+* **La Fin d'Acte II : L'Alliance Vacharde sur les Routes** :
+  * Le héros s'échappe de la crypte avant son effondrement.
+  * Il n'est plus seul : la marque de Kaelys palpite dans sa paume. La divinité commente son périple depuis les Limbes avec sarcasme, jugeant ses coups de sabre, tandis que le héros l'envoie paître avec son insolence ouvrière.
+  * **La Crise à l'Académie** : Privée du Corps de Kaelys, l'Académie masque la mort de son dieu derrière le mythe d'un « Grand Sommeil Purificateur » et tourne sur ses batteries d'arcanite d'urgence, cherchant en secret un nouveau corps compatible... ce qui met le Rival en péril mortel.
+  * Le héros, armé de sa Voie d'Altération maxée et guidé par la voix venimeuse de Kaelys, prend la route vers le Sud.
+
+
+
+
+
 
 ---
 
-### Acte III : La Chute des Cinq Sanctuaires & Le Grand Tour
-Fort de son propre art martial, le héros réalise que la misère du monde et la maladie de sa mère sont le fruit du verrouillage des Cinq Précurseurs et de la Secte. Il entreprend de faire tomber les cinq piliers du pouvoir continental.
+### Acte III : La Traque des Quatre Sanctuaires (Le Duo en Action) & L'Éveil de la 6ᵉ Voie
+Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **duo forcé avec Kaelys**.
 
-Chaque province propose une boucle de gameplay complète (3 à 5 heures par région) :
-1. **La Pénétration Régionale** : Traversée d'un biome oppressant marqué par l'influence du dieu (le pergélisol de Givreciel, la fournaise de la Fonderie, les marais toxiques du Bastion, les ravins orageux de Lyra, la cité fortifiée de Malakor).
-2. **L'Infiltration du Sanctuaire Souterrain** :
-   * Les Sanctuaires sont des complexes distincts des Écoles, enfouis dans les profondeurs et lourdement barricadés par la Secte.
-   * Combat contre le **Commandeur de la Secte** gardant l'accès des cryptes.
-3. **Palier 1 : Le Corps Maudit (Boss Charnel)** :
-   * Descente au fond de la crypte de confinement.
-   * Affrontement contre l'abomination charnelle hypertrophiée du Précurseur qui servait de filtre d'urgence depuis des siècles.
-   * À la mort de la bête, le filtre s'effondre : l'École de la province perd immédiatement sa magie divine.
-4. **Le Choix Moral d'Autel** :
-   * *Branche A : L'Usurpation* : Le héros inscrit son propre nom sur l'autel. Les mages du cru apprennent à l'invoquer LUI dans les Limbes. L'énergie afflue vers son carnet, lui conférant une puissance brute dévastatrice.
-   * *Branche B : La Voie Pure (Sans Culte)* : Il pulvérise l'autel sans rien y graver. La province réapprend à vivre sans magie. Le héros compense par une dextérité martiale absolue (100% parade au sabre).
-5. **Palier 2 : Le Duel de Forme Prime dans les Limbes (Boss Sekiro Majeur)** :
-   * Privé de son ancre physique terrestre et affamé de flux, l'esprit du Précurseur descend des Limbes dans sa splendeur d'escrime d'origine.
-   * Duel d'anthologie au sabre dans l'arène spirituelle des Limbes. En le terrassant, le héros consigne les secrets de la Voie dans son carnet.
-6. **Le Déclic Temporel Autonome** :
-   * Ayant vaincu les cinq arts sans corrompre son âme, le héros contemple son carnet saturé de notes, de croquis de son village et de lettres pour sa mère.
-   * Comprenant qu'il devra envoyer ce livre dans le passé à Noah en -2000, et sachant qu'il lui ordonnera de mettre son legs à l'abri des rois du Continent, **il déduit sans aucune hésitation l'emplacement du trésor de Noah** : Noah l'a forcément enfoui sous sa propre ville natale dans les Terres Extérieures !
+* **La Dynamique Kaelys / Héros en Jeu** :
+  * Kaelys agit comme un copilote cynique : il connaît intimement la psychologie, les lâchetés et les failles de ses quatre anciens rivaux.
+  * Il livre au joueur des indices cruciaux pour les combats :
+    * *Sur Gorath (Le Bastion - Voie 3 : Condenser)* : « Une brute sans imagination qui compense son manque d'élégance par la masse tellurique. Frappe entre deux respirations. »
+    * *Sur Vaelen (Givreciel - Voie 1 : Aspirer)* : « Sa terreur maladive du manque le rend prévisible. Draine son élan avant qu'il ne s'abreuve de ta posture. »
+    * *Sur Lyra (Flèche d'Azur - Voie 4 : Accélérer)* : « Elle fuit en avant parce qu'elle a peur de son ombre. Bloque sa trajectoire de fuite. »
+    * *Sur Malakor (Trône d'Obsidienne - Voie 5 : Projeter)* : « Un lâche qui refuse le contact au corps-à-corps. Brise la distance sans ciller. »
+
+* **La Boucle de chaque Province** :
+  1. Traversée du biome sous les piques et commentaires de Kaelys.
+  2. Infiltration du sanctuaire souterrain de la Secte.
+  3. **Palier 1 : Destruction du Corps Maudit** (abattre la carcasse charnelle sous les encouragements sardoniques de Kaelys qui savoure la déchéance de ses pairs).
+  4. **Palier 2 : Le Duel de Forme Prime dans les Limbes** : Privé de son ancre, l'esprit du Précurseur descend dans son avatar d'escrime originel. En le terrassant au sabre, le héros assimile les secrets authentiques de la Voie.
+
+* **Le Climax de l'Acte III : L'Émancipation & L'Éveil de la 6ᵉ Voie (*Guider*)** :
+  * Après la chute du cinquième et dernier Corps Maudit, le Continent est libéré des filtres : la panique théocratique est totale.
+  * Le héros a assimilé les 5 arts dans son corps.
+  * **La Faille de Kaelys** : Voyant tous ses rivaux à terre, l'arrogance de Kaelys refait surface. Il tente de manipuler le héros pour qu'il lui livre le Sceau Primordial au centre du Continent afin de régner seul sur les Limbes.
+  * **La Révolte du Héros** : Le héros refuse d'être le pion d'un tyran. Il a compris la vérité implicite : les 5 Voies ne sont que les reflets égoïstes de 5 hommes avides. Aucune ne lui ressemble.
+  * **La Naissance Historique de la 6ᵉ Voie : GUIDER** :  
+    En synthétisant son propre vécu de protecteur des faibles, son refus des maîtres et son amour filial, le héros accomplit l'exploit : **il forge sa propre Voie ex nihilo**. Son sabre acquiert la capacité unique de canaliser, réaligner et dévier les flux des Limbes. Il brise l'emprise de Kaelys et s'affirme comme son égal absolu.
+  * **Le Déclic Temporel Autonome** : En contemplant son carnet désormais complet, le héros comprend qu'il devra l'envoyer dans le passé à Noah en -2000. Sachant qu'il ordonnera à Noah de cacher son legs loin des rois du Continent, **il déduit sans hésiter que la cache de Noah repose sous sa propre ville natale dans les Terres Extérieures** !
 
 ---
 

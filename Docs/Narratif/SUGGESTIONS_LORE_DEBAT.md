@@ -136,4 +136,21 @@ Nous avons deux visions contrastées pour l'ouverture du jeu, chacune apportant 
 
 ---
 
-> **Note de Suivi** : Ces points résument les échanges vocaux du 21/11/2026. Ils restent isolés dans ce fichier de débat et ne seront intégrés aux documents officiels (02, 03, 05, etc.) qu'après validation explicite.
+## 7. Piste Alternative : Éveil Précoce de la 6ᵉ Voie Sans Rompre le Duo avec Kaelys (Option 2)
+
+> **Statut** : Piste conservée en réserve dans le document de débat pour mémoire (non appliquée au canon actuel, qui privilégie le mix Options 1 & 3 où la Voie 6 éclot en fin d'Acte III).
+
+### Le Concept :
+Au lieu d'attendre la fin de l'Acte III pour forger la 6ᵉ Voie (*Guider*), le héros l'éveille dès la fin de l'Acte II. Cependant, **cela ne met pas fin à sa collaboration avec Kaelys** :
+
+1. **La Spécialisation des Voies (Complémentarité)** :
+   * La 6ᵉ Voie (*Guider*) n'est pas une magie offensive totale : c'est un art de **déviation, de boussole spirituelle et de redirection des flux**.
+   * Pour infliger des dégâts tranchants, fendre la roche ou exécuter de lourdes attaques magiques, le héros **continue d'utiliser la magie de Kaelys (*Altérer*)**.
+2. **La Dynamique Psychologique Renforcée** :
+   * Kaelys reste lié au héros à travers sa marque, présent comme une voix dans sa tête / dans les Limbes.
+   * La relation devient encore plus piquante : Kaelys est à la fois furieux et jaloux qu'un simple mortel ait réussi à créer sa propre technique de déviation... mais il est contraint de continuer à lui fournir sa magie d'attaque pour que le héros puisse abattre les 4 autres Précurseurs.
+   * Kaelys commente avec fiel : *« Tu as trouvé une béquille pour esquiver, gamin. Mais sans ma lame pour trancher, tu restes un moucheron. »*
+
+---
+
+> **Note de Suivi** : Ces points résument les échanges et restent disponibles si l'on souhaite avancer l'éveil de la 6ᵉ Voie plus tôt dans le gameplay.
