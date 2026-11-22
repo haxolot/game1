@@ -166,13 +166,21 @@ Au cœur des cyclones d'éther, pour refermer la faille avant l'anéantissement 
 ### E. Le Climax Ultime : Le Duel des Rivaux — KAELYS PRIME VS LE GUIDE
 Le véritable rival du héros n'a jamais été un apprenti d'école : **son vrai rival a toujours été Kaelys**.
 * C'est le dieu qu'il priait, le monstre qu'il a saigné, l'esprit arrogant qui l'a accompagné, provoqué, guidé et respecté.
-* Après la chute des quatre autres dieux, **Kaelys Prime s'avance seul au centre de l'ouragan**, sabre au clair :  
-  > *« Tu as terrassé mes quatre frères, chien errant. Mais tu as appris à trancher sous mon nom, tu as marché avec mon sang dans ta paume, et tu as forgé ton insolence contre la mienne. Montre-moi si l'élève peut briser le maître. Montre-moi si le Sixième est digne de guider ce monde ! »*
-* **Le Duel Final de Légende** : Le combat au sabre le plus intense, rapide et viscéral du jeu. Vaincu au fer, Kaelys s'incline avec un dernier sourire fier devant celui qui l'a surpassé avant de se dissoudre.
+* Après la chute des quatre autres dieux, **Kaelys Prime s'avance seul au centre de l'ouragan**, sabre au clair.
+* **Système de Scoring Kaelys (Digne Rival vs Ennemi Détesté)** : Selon l'attitude du joueur tout au long de l'aventure (insolence lucide, refus de fuir, monologue du Guide, courage de se poignarder à Gorath vs lâcheté ou opportunisme), le dialogue et la tonalité de Kaelys changent radicalement :
+  * *Digne Rival* : Respect mutuel au sommet, Kaelys célèbre son élève devenu égal (*« Montre-moi si l'élève peut briser le maître ! »*).
+  * *Ennemi Détesté* : Dégoût et mépris pur, Kaelys affronte un usurpateur qu'il maudit (*« Tu n'es qu'un parasite opportuniste qui a souillé notre sang ! »*).
+* **Le Duel Final de Légende** : Le combat au sabre le plus intense, rapide et viscéral du jeu (*Sekiro-like* 2D pur).
 
-### F. Le Rôle du Pote de l'Académie & La Fermeture de la Boucle
+### F. Le Rôle du Pote de l'Académie & Les 5 Fins Multiples
 * **Le Pote de l'Académie (L'Ancre Humaine)** : Resté à l'Académie, le camarade du héros a utilisé son grade pour saboter la Secte de l'intérieur et protéger les civils. Il rejoint le héros à l'épicentre avec des survivants pour repousser les derniers fanatiques, prouvant la force de leur amitié.
-* **La Fermeture de la Boucle** : Le héros utilise la 7ᵉ Voie (*Sceller*) pour refermer la faille du Sceau, puis projette son carnet neuf à travers les Limbes vers Noah en -2000 avec la 6ᵉ Voie (*Guider*), assurant l'éternité du monde.
+* **La Matrice des 5 Fins Multiples** : L'utilisation de la 7ᵉ Voie (*SCELLER*) et le destin de la mère débloquent 5 fins distinctes, chacune colorée par le jugement final de Kaelys (Digne Rival vs Ennemi) :
+  1. *Le Cycle Parfait (Canonique)* : Renvoi du carnet vers Noah en -2000, pérennité de l'histoire.
+  2. *Le Sceau Absolu (Ère Humaine)* : Extinction totale de la magie, société laïque et scientifique.
+  3. *Le Sacrifice du Guide (L'Âme Sentinelle)* : Le héros prend la place du Sceau dans les Limbes pour épargner le monde.
+  4. *Le Règne du Sixième (Le Sanctuaire Outre-Mer)* : Amour filial absolu, protection de la mère et des fidèles dans un monde chaotique.
+  5. *L'Effacement (Le Silence des Limbes)* : Oubli total et amnésie collective des dieux et des Voies.
+*(Voir le détail complet dans [06_FINS_RIVAL_ET_LE_ONE_TRY.md](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/06_FINS_RIVAL_ET_LE_ONE_TRY.md))*
 
 ---
 

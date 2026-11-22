@@ -39,6 +39,7 @@
   * C'est le dieu que le héros priait à l'Académie, et le premier corps que le héros a abattu au sabre en Acte II.
   * Coincé dans les Limbes, Kaelys devient son mentor malgré lui, son copilote cynique et son pire provocateur à chaque stèle.
   * C'est face à l'arrogance de Kaelys que le héros se poignarde à Gorath et forge la philosophie du Guide.
+* **Le Système de Respect (Scoring)** : Les choix de dialogues et l'audace du héros déterminent si Kaelys le considère au final comme un **Digne Rival** (salut fraternel au sabre, respect éternel) ou comme un **Ennemi Détesté** (mépris d'un usurpateur, malédiction finale).
 * **Le Climax Ultime (Acte V)** : Quand la faille s'ouvre et libère les dieux à leur Prime, Kaelys est le tout dernier rempart au sabre : le duel maître contre élève, dieu contre Guide, pour décider qui est digne d'ordonner le monde.
 
 ---

@@ -302,14 +302,16 @@ Au cœur de l'ouragan d'éther, pour refermer la faille avant la destruction tot
 #### 5. Le Climax Ultime : Le Duel des Rivaux — KAELYS PRIME VS LE GUIDE
 Le vrai rival du héros n'a jamais été un apprenti de l'Académie : **son véritable rival a toujours été Kaelys**.
 * Le dieu dont il a prié les statues, dont il a découpé la carcasse pourrissante, avec qui il a partagé la route, les sarcasmes, les doutes et le sang.
-* Alors que les quatre autres s'effondrent, **Kaelys Prime s'avance seul au centre de la tempête**, sabre au clair :
-  > *« Tu as terrassé mes quatre frères, chien errant. Mais tu as appris à trancher sous mon nom, tu as marché avec mon sang dans ta paume, et tu as forgé ton insolence contre la mienne.  
-  > Montre-moi si l'élève peut briser le maître. Montre-moi si le Sixième est digne de guider ce monde ! »*
-* **Le Combat Final de Légende** : Le duel au sabre le plus intense, rapide, technique et intime du jeu. Deux philosophies d'escrime qui s'affrontent au bord du néant, sous les éclairs d'éther.
-* **La Défaite Honorable de Kaelys** : Terrassé par le sabre du Guide, Kaelys esquisse un dernier sourire fier et soulagé, s'inclinant devant celui qui l'a surpassé avant de se dissoudre dans les Limbes.
+* Alors que les quatre autres s'effondrent, **Kaelys Prime s'avance seul au centre de la tempête**, sabre au clair.
+* **L'Impact du Score de Respect Kaelys (Digne Rival vs Ennemi Détesté)** :
+  * Si le joueur a accumulé du respect (audace martiale, refus de fuir, monologue du Guide, sacrifice du flanc à Gorath) : Kaelys l'accueille avec la fierté d'un maître défiant son digne égal (*« Montre-moi si l'élève peut briser le maître ! »*).
+  * Si le joueur s'est montré veule, fuyard ou opportuniste : Kaelys le défie avec un mépris venimeux (*« Tu n'es qu'un boucher parasite qui a souillé notre sang ! »*).
+* **Le Combat Final de Légende** : Le duel au sabre le plus intense, rapide, technique et intime du jeu (*Sekiro-like* pur au millimètre). Deux volontés d'acier au bord du néant, sous les éclairs d'éther.
+* **L'Issue du Combat** : Vaincu au fer, Kaelys offre son ultime réplique (salut fraternel de rival ou malédiction de haine éternelle selon le score) avant de s'effacer.
 
-#### 6. Le Rôle du Pote de l'Académie & La Fermeture de la Boucle
+#### 6. Le Rôle du Pote de l'Académie & Les Fins Multiples
 * **Le Pote de l'Académie (L'Ancre Humaine)** :
   * Resté à l'Académie, le pote a utilisé son grade pour saboter la Secte de l'intérieur et guider les civils vers des abris.
   * À l'épicentre, il arrive avec des survivants pour couvrir les arrières du héros contre les derniers inquisiteurs fanatiques, prouvant que leur fraternité humaine était réelle.
-* **La Fermeture Éternelle de la Boucle** : Le héros utilise la 7ᵉ Voie (*Sceller*) pour sceller définitivement la faille, puis utilise la 6ᵉ Voie (*Guider*) pour projeter son carnet de notes neuf à travers les Limbes vers l'an -2000, guidant Noah dans le cyclone primitif et assurant à jamais l'existence du monde et des hommes.
+* **L'Application de la 7ᵉ Voie (SCELLER) & La Matrice des 5 Fins** :
+  * Selon les choix faits par le joueur (le sort de sa mère en Acte IV, l'usage de *SCELLER*, le sacrifice de son âme ou la projection du carnet vers -2000), le joueur débloque l'une des **5 grandes fins** (*Le Cycle Parfait, Le Sceau Absolu, Le Sacrifice du Guide, Le Règne du Sixième, L'Effacement*), chacune modulée par le regard final de Kaelys (Digne Rival vs Ennemi Détesté) — *voir détails complets dans [06_FINS_RIVAL_ET_LE_ONE_TRY.md](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/06_FINS_RIVAL_ET_LE_ONE_TRY.md)*.

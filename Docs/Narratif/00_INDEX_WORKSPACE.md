@@ -13,7 +13,7 @@ Bienvenue dans le **Workspace Narratif Officiel** d'Haxolot. Ce dossier décompo
 | **[03. Les Voies & Le Paradoxe Temporel](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/03_LES_VOIES_ET_LE_PARADOXE_TEMPOREL.md)** | Le cœur causal de l'intrigue | Les 7 Voies canoniques, le rôle de la Voie du Guide, le Paradoxe des Deux Journaux (lettres à la mère vs annotations de Noah). |
 | **[04. Personnages & Précurseurs](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/04_PERSONNAGES_ET_PRECURSEURS.md)** | Le casting et le panthéon | Fiche du Héros (homme ordinaire au sabre), Noah (le pionnier mort dans les Limbes), les 5 Précurseurs (moteurs, styles Sekiro, provinces). |
 | **[05. Campagne & Progression](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/05_CAMPAGNE_ET_PROGRESSION.md)** | Déroulé du jeu manette en main | Prologue (naufrage, fontaine captive), Acte I (cellule, auto-invocation), Actes II & III (marche des 5 stations, choix d'autel), Climax. |
-| **[06. Fins & Le Duel Final contre Kaelys](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/06_FINS_RIVAL_ET_LE_ONE_TRY.md)** | Le dénouement et le duel final | Run Altruiste vs Run Égoïste, Kaelys comme vrai Rival, le duel d'escrime au sabre à l'épicentre, le rôle du Pote de l'Académie, matrice des fins. |
+| **[06. Fins Multiples & Relation avec Kaelys](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/06_FINS_RIVAL_ET_LE_ONE_TRY.md)** | Le dénouement, le scoring et les 5 fins | Système de scoring Kaelys (Digne Rival vs Ennemi Détesté), duel d'escrime au sabre à l'épicentre, le Pote loyal, matrice complète des 5 fins narratives. |
 
 ---
 
