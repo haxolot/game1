@@ -97,15 +97,21 @@ Pour stabiliser le continent :
 * **Le Rituel & La Vérité Organique** : Infiltré dans la crypte souterraine, il voit les fidèles chanter des cantiques avant que des racines d'éther ne les siphonnent vivants pour nourrir une masse titanesque difforme et pourrissante : le **Corps Maudit**, que l'Académie nomme en interne son « condensateur ». Le héros l'abat au sabre et aux sorts pour abréger l'horreur.
 * **Le Pacte avec Kaelys (Le Duo Mortel)** : Devant la stèle du Sceau, la silhouette spectrale de Kaelys apparaît dans les Limbes. Kaelys révèle avec cynisme que les pèlerins étaient déjà condamnés par les radiations et que ce monstre agonisant était sa propre enveloppe charnelle — le relais biologique caché sous le sanctuaire permettant aux prières et sorts de franchir le voile. Kaelys propose un pacte faustien : il imprime une marque de flux pur dans la paume du héros pour stabiliser temporairement sa mère et maintenir sa ligne de sorts active. En échange, le héros doit détruire les 4 autres corps rivaux. Pour contacter Kaelys, pas de voix permanente dans la tête : le héros doit poser sa paume marquée sur un **accès au Sceau** (n'importe quelle stèle sacrée) pour l'appeler à travers le voile.
 
-### C. Acte III : La Traque des Quatre Sanctuaires & La 6ᵉ Voie
+### C. Acte III : La Traque des Quatre Sanctuaires, Le Sang dans le Sceau & La 6ᵉ Voie
 * **La Liaison aux Stèles du Sceau** : Pendant tout l'Acte III, le héros contacte Kaelys à chaque stèle de sanctuaire en y appliquant sa paume marquée. Kaelys agit comme un informateur cynique, lui livrant les secrets et faiblesses intimes de ses 4 rivaux (Gorath, Vaelen, Lyra, Malakor).
-* **La Chute des Sanctuaires** : Pour chaque province, le héros traverse le biome, détruit le Corps Maudit sous les yeux de Kaelys (appelé à la stèle), et affronte la Forme Prime au sabre pour assimiler l'art.
-* **L'Émancipation & La 6ᵉ Voie (*Guider*)** : Une fois les 5 corps anéantis, Kaelys tente de manipuler le héros pour s'emparer du Sceau Primordial. Le héros refuse d'être le pion d'un tyran : il fait la synthèse de son propre vécu de protecteur et **forge la 6ᵉ Voie : GUIDER**, brisant l'emprise de Kaelys.
-* **Le Déclic Autonome** : Comprenant qu'il devra envoyer son carnet à Noah en -2000, il déduit que la cache de Noah repose sous sa propre ville natale dans les Terres Extérieures.
+* **Le Choc de Gorath (Le Sang dans le Sceau & L'Appel aux Fidèles)** :
+  * Après avoir détruit le Corps Maudit de Gorath, le héros s'inquiète du chaos pour la province. Kaelys lui crache par pur sarcasme d'offrir son propre corps.
+  * Sous les yeux horrifiés de Kaelys, le héros se poignarde au flanc et plante sa lame ensanglantée dans la faille du Sceau pour réactiver le flux avec son propre sang.
+  * Il remonte en nef supérieure, prouve sa force et ordonne aux fidèles d'invoquer son propre nom. Un schisme éclate entre conservateurs outrés et fidèles désespérés ralliés. Le héros savoure avec une fierté sombre cette revanche de paria, tout en gardant son lien avec Kaelys strictement privé.
+* **La 6ᵉ Voie (GUIDER) : Zéro Art Martial Actif, Des Passifs & De la Haute Guidance** :
+  * En cavale permanente pour sauver sa mère, le héros n'a pas le temps d'inventer un nouvel art martial offensif.
+  * **En Jeu** : La 6ᵉ Voie s'exprime par un arbre de **passifs majeurs** (harmonisation permettant de manier plusieurs écoles sans contrecoup, déviation d'éther au sabre, résistance aux Limbes).
+  * **En Lore** : Elle lui permet de dévier les tempêtes côtières, d'expédier son carnet à Noah en -2000, et d'amasser en fin de jeu des fidèles dans son sanctuaire natal hors du Continent.
+* **L'Émancipation & Le Déclic Autonome** : Kaelys tente de manipuler le héros pour s'emparer du Sceau Primordial. Le héros s'émancipe définitivement : fort de sa Voie de *GUIDER*, il refuse d'être le pion d'une idole et déduit que la cache de Noah repose sous sa propre ville natale dans les Terres Extérieures.
 
 ---
 
-## 4. L'Acte IV : La Cache Souterraine sous la Ville Natale & La Mère
+## 4. L'Acte IV : La Cache Souterraine sous la Ville Natale, Les Fidèles & La Mère
 
 Le héros reprend clandestinement la mer en sens inverse vers les Terres Extérieures :
 1. **La Traversée Retour & La QTE « Guider la Tempête »** :
@@ -113,6 +119,14 @@ Le héros reprend clandestinement la mer en sens inverse vers les Terres Extéri
    * Il reconnaît l'équipage terrifié du prologue qui le pointe du doigt en hurlant à la malédiction, et son jeune lui au fond de la cale.
    * **Le héros comprend qu'il a toujours été ce capitaine maudit**. Pour que son épopée ait lieu et que sa mère ait une chance d'être sauvée, il n'a pas le choix : il doit provoquer son propre naufrage.
    * **QTE Narrative** : Le joueur active la Voie 6 via l'invite **`[GUIDER LA TEMPÊTE]`**. D'un geste de la main, il canalise les vents et précipite l'ouragan sur la chaloupe, orchestrant son propre passé.
+2. **Le Sanctuaire Souterrain sous la Ville Natale & Les Fidèles Ralliés** :
+   * Le héros résout la **Serrure Martiale de Noah** grâce aux 6 Voies combinées au sabre.
+   * Il établit son propre sanctuaire secret dans la nef oubliée sous la ville : des fidèles des Terres Extérieures commencent à s'y rassembler pour l'invoquer et trouver refuge, et le joueur peut directement interagir avec eux.
+   * Il découvre le Vieux Journal de Noah (annoté de la 7ᵉ Voie *Sceller*) et s'entraîne dans le Dojo du Sceau.
+3. **Le Choix au Chevet de la Mère Alitée** :
+   * Une trappe de mineur permet au héros d'émerger directement dans la chambre de sa mère mourante.
+   * *Choix Altruiste* : Sommeil paisible offert à la mère, sacrifice consenti pour sauver le monde.
+   * *Choix Égoïste* : Guérison totale de la mère par le flux pur, quitte à risquer l'effondrement du Continent.
 2. **La Cache Scellée sous la Ville Natale** : Sous les pavés et les taudis de sa ville d'enfance, il pénètre dans la crypte obscure (dépourvue de toute brèche magique).
    * **La Serrure Martiale** : Un mécanisme mécanique vieux de 2000 ans ne s'ouvrant qu'en frappant au sabre avec les différentes Voies maîtrisées.
    * **Le Vieux Journal de Noah** : Posé au centre, le carnet usé contient ses remerciements intimes et la clé manquante : **la 7ème Voie (*Sceller*)**, qu'il s'entraîne à répéter physiquement au sabre (*Dojo du Sceau*).

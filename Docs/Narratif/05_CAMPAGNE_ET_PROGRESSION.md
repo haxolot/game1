@@ -162,7 +162,7 @@
 
 ---
 
-### Acte III : La Traque des Quatre Sanctuaires (Le Duo aux Stèles) & L'Éveil de la 6ᵉ Voie
+### Acte III : La Traque des Quatre Sanctuaires, Le Sang dans le Sceau & L'Éveil de la 6ᵉ Voie
 Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **collaboration tactique avec Kaelys**.
 
 * **La Mécanique de Contact par la Marque & Les Stèles** :
@@ -174,20 +174,32 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
     * *Sur Lyra (Flèche d'Azur - Voie 4 : Accélérer)* : « Elle fuit en avant parce qu'elle a peur de son ombre. Bloque sa trajectoire de fuite. »
     * *Sur Malakor (Trône d'Obsidienne - Voie 5 : Projeter)* : « Un lâche qui refuse le contact au corps-à-corps. Brise la distance sans ciller. »
 
-* **La Boucle de chaque Province** :
-  1. Traversée du biome sous les piques et commentaires de Kaelys.
-  2. Infiltration du sanctuaire souterrain de la Secte.
-  3. **Palier 1 : Destruction du Corps Maudit** (abattre la carcasse charnelle sous les encouragements sardoniques de Kaelys qui savoure la déchéance de ses pairs).
-  4. **Palier 2 : Le Duel de Forme Prime dans les Limbes** : Privé de son ancre, l'esprit du Précurseur descend dans son avatar d'escrime originel. En le terrassant au sabre, le héros assimile les secrets authentiques de la Voie.
+* **Le Premier Sanctuaire Rival (Gorath) : Le Sang dans le Sceau & Le Schisme des Fidèles** :
+  * Le héros infiltre le Bastion Tellurique et abat le Corps Maudit de Gorath dans la fosse.
+  * À la stèle, le héros s'inquiète de l'effondrement géopolitique de la province qui perd sa magie. Kaelys lui crache par pur sarcasme : *« Si leur sort t'émeut tant, offre ton propre corps à cette école et rejoins-moi de l'autre côté ! »*
+  * **L'Automutilation Rituelle sous les yeux de Kaelys** :
+    * Le héros comprend la règle : il faut une ancre biologique de chair et de sang sur le fragment de Sceau.
+    * Devant un Kaelys pétrifié d'effroi, **le héros se poignarde le flanc au sabre et plante sa lame ensanglantée directement dans la fracture du Sceau**.
+    * Le Sceau boit son sang vivant : le circuit de Condensation est reconfiguré sur son âme.
+  * **La Montée en Nef Supérieure & L'Appel aux Fidèles** :
+    * Le héros remonte blessé dans la grande nef où les fidèles paniquent face à l'extinction de leur magie.
+    * Il s'avance : *« Gorath est mort. Vos prières ne valent plus rien. Invoquez mon nom. »*
+    * Il fait la démonstration martiale d'un sort de Condensation avec son propre nom : la terre tremble. Des disciples l'imitent : le sort fonctionne !
+    * **Le Schisme** : Les fanatiques hurlent au blasphème et à l'abomination ; mais les artisans, mineurs et fidèles désespérés tombent à genoux devant ce dieu vivant.
+    * **La Psychologie du Héros** : Tandis qu'il garde jalousement pour lui seul son lien secret avec Kaelys, **il savoure avec une fierté sombre cette armée d'âmes prêtes à se dévouer à lui** — une éclatante revanche sociale pour le paria banni.
 
-* **Le Climax de l'Acte III : L'Émancipation & L'Éveil de la 6ᵉ Voie (*Guider*)** :
-  * Après la chute du cinquième et dernier Corps Maudit, le Continent est libéré des filtres : la panique théocratique est totale.
-  * Le héros a assimilé les 5 arts dans son corps.
-  * **La Faille de Kaelys** : Voyant tous ses rivaux à terre, l'arrogance de Kaelys refait surface. Il tente de manipuler le héros pour qu'il lui livre le Sceau Primordial au centre du Continent afin de régner seul sur les Limbes.
-  * **La Révolte du Héros** : Le héros refuse d'être le pion d'un tyran. Il a compris la vérité implicite : les 5 Voies ne sont que les reflets égoïstes de 5 hommes avides. Aucune ne lui ressemble.
-  * **La Naissance Historique de la 6ᵉ Voie : GUIDER** :  
-    En synthétisant son propre vécu de protecteur des faibles, son refus des maîtres et son amour filial, le héros accomplit l'exploit : **il forge sa propre Voie ex nihilo**. Son sabre acquiert la capacité unique de canaliser, réaligner et dévier les flux des Limbes. Il brise l'emprise de Kaelys et s'affirme comme son égal absolu.
-  * **Le Déclic Temporel Autonome** : En contemplant son carnet désormais complet, le héros comprend qu'il devra l'envoyer dans le passé à Noah en -2000. Sachant qu'il ordonnera à Noah de cacher son legs loin des rois du Continent, **il déduit sans hésiter que la cache de Noah repose sous sa propre ville natale dans les Terres Extérieures** !
+* **La Nature de la 6ᵉ Voie (GUIDER) : Zéro Art Martial de Combat, Des Passifs & De la Haute Guidance** :
+  * En cavale permanente pour sauver sa mère, **le héros n'a matériellement pas le temps d'inventer un nouvel art martial de combat offensif complet** (ses attaques restent l'escrime et les sorts volés aux Cinq).
+  * **En Gameplay (L'Arbre des Passifs du Guide)** : La 6ᵉ Voie s'exprime par des **passifs d'élite** (harmonisation des flux permettant d'équiper plusieurs écoles sans contrecoup, déviation d'éther au sabre pour recharger la posture, résistance aux Limbes).
+  * **En Lore (La Haute Guidance)** :
+    * Elle lui permet de dévier les tempêtes d'éther à grande échelle autour du continent.
+    * Elle lui permet de projeter son carnet de notes à travers la faille intemporelle des Limbes pour qu'il parvienne à Noah en -2000.
+    * **Late Game (Le Sanctuaire Natal)** : Elle lui permet d'amasser des fidèles dans son propre sanctuaire secret sous sa ville natale, hors du Continent. Ces disciples l'invoquent pour être protégés, et le joueur peut directement interagir avec eux.
+
+* **Le Climax de l'Acte III : L'Émancipation & Le Déclic Autonome** :
+  * Après la chute du dernier sanctuaire, Kaelys tente de manipuler le héros pour régner seul sur le Sceau Primordial.
+  * Le héros s'émancipe définitivement : fort de sa Voie de *GUIDER*, il refuse d'être le pion d'une idole et s'affirme comme le Sixième souverain du monde.
+  * Comprenant qu'il devra envoyer son carnet dans le passé à Noah en lui ordonnant de cacher son legs loin des rois, **il déduit que la cache de Noah repose sous sa propre ville natale dans les Terres Extérieures** !
 
 ---
 
@@ -197,9 +209,10 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
   * Au cœur du brouillard marin où les Limbes reflètent le temps, le héros aperçoit au loin une fragile chaloupe qui fonce vers les récifs du Continent : c'est son propre bateau du prologue, avec son jeune lui terrorisé à bord.
   * Réalisant qu'il est le capitaine mystérieux de la légende, il sait que le naufrage doit avoir lieu pour que son aventure commence.
   * **QTE Interactive** : L'invite apparaît : **`[GUIDER LA TEMPÊTE]`**. Le joueur lève son sabre, canalise les flux avec la Voie 6 et abat l'ouragan sur la chaloupe du passé.
-* **La Cache Souterraine sous la Ville Natale** :
+* **La Cache Souterraine sous la Ville Natale & Le Rassemblement des Fidèles** :
   * Arrivé de nuit dans sa ville ouvrière misérable, le héros s'infiltre dans les galeries minières abandonnées sous la roche.
   * **La Serrure Martiale de Noah** : La porte de la crypte est verrouillée par un système mécanique antique vieux de 2000 ans qui ne réagit qu'aux 6 Voies combinées au sabre. Le joueur résout cette énigme martiale, prouvant son identité de Guide.
+  * **Le Sanctuaire du Guide & Les Fidèles Ralliés** : En découvrant la vaste nef oubliée sous la ville, le héros y installe son propre sanctuaire secret hors du Continent. Des fidèles persécutés, des transfuges des écoles et des gens du peuple commencent à s'y rassembler, trouvant refuge sous sa protection : ils l'invoquent comme leur Guide vivant. Le joueur peut interagir avec eux (dialogues, requêtes, écoute de leurs espoirs).
   * **Le Legs de Noah (La 7ᵉ Voie : SCELLER)** : Dans la crypte obscure (dépourvue de toute brèche magique), il trouve le Vieux Journal de Noah, ses remerciements pour l'amour filial qui l'a inspiré, et le tracé des 7 mouvements de la **7ᵉ Voie (*Sceller*)**.
   * **Le Dojo du Sceau** : Dans le silence sacré de la crypte, le héros s'entraîne physiquement au sabre pour maîtriser la danse du Sceau avant de repartir.
 * **Le Face-à-Face avec la Mère Alitée** :
