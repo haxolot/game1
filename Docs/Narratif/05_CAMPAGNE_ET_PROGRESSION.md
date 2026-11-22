@@ -151,26 +151,23 @@
 
   Kaelys lève deux doigts spectraux. L'air se comprime contre le verre de la stèle, et une étincelle de flux pur traverse la matière pour venir s'imprimer comme une brûlure au creux de la paume du héros.
   > « Une fraction de flux pur non filtré. Fais-la parvenir à ta mère, cela stabilisera ses poumons et ralentira son agonie de plusieurs semaines. Tu as ton sursis, chien errant. De plus, tant que tu me sers, je maintiens notre ligne ouverte : tu seras le seul mortel sur Terre à pouvoir déchaîner mon art sans que l'Académie ne puisse rien y faire.  
-  > Maintenant, écoute bien : dans les montagnes du Sud, sous le Bastion Tellurique, dort **Gorath**. Sa carcasse est plus lourde et plus épaisse que la mienne. Va lui rendre visite. Brise son corps. Et reviens me parler à la prochaine stèle. »
+  > Mais ne t'attends pas à ce que je babille dans ton crâne à chaque foulée sur la route. De l'autre côté du voile, nous sommes tous prisonniers du même Sceau. Cette marque gravée dans ta chair est ta clé : dès que tu te trouves devant un accès au Sceau — n'importe quelle stèle sacrée —, plaque ta paume contre la pierre et appelle-moi. C'est le seul moyen d'établir le contact entre nos deux mondes.  
+  > Maintenant, écoute bien : dans les montagnes du Sud, sous le Bastion Tellurique, dort **Gorath**. Sa carcasse est plus lourde et plus épaisse que la mienne. Va lui rendre visite. Brise son corps. Puis pose ta marque sur sa stèle et appelle-moi : je viendrai savourer le spectacle et te donner ta prochaine part. »
 
-* **La Fin d'Acte II : L'Alliance Vacharde sur les Routes** :
-  * Le héros s'échappe de la crypte avant son effondrement.
-  * Il n'est plus seul : la marque de Kaelys palpite dans sa paume. La divinité commente son périple depuis les Limbes avec sarcasme, jugeant ses coups de sabre, tandis que le héros l'envoie paître avec son insolence ouvrière.
-  * **La Crise à l'Académie** : Privée du Corps de Kaelys, l'Académie masque la mort de son dieu derrière le mythe d'un « Grand Sommeil Purificateur » et tourne sur ses batteries d'arcanite d'urgence, cherchant en secret un nouveau corps compatible... ce qui met le Rival en péril mortel.
-  * Le héros, armé de sa Voie d'Altération maxée et guidé par la voix venimeuse de Kaelys, prend la route vers le Sud.
-
-
-
-
-
+* **La Fin d'Acte II : L'Alliance Vacharde & Le Voyage vers le Sud** :
+  * Le héros s'échappe de la crypte avant l'arrivée des renforts de l'Académie.
+  * Il n'a pas une voix permanente dans la tête : la marque dans sa paume est froide et silencieuse, mais pulse d'une puissance brute. Le contact avec Kaelys nécessite un **accès au Sceau** (les stèles disséminées ou les sanctuaires).
+  * **La Crise à l'Académie** : Privée du Corps de Kaelys, l'Académie masque la mort de son dieu derrière le mythe d'un « Grand Sommeil Purificateur » et tourne sur ses réserves d'arcanite d'urgence, cherchant en secret un nouveau corps compatible... ce qui met le Rival en péril mortel.
+  * Le héros, armé de sa Voie de Kaelys et de son sabre, prend la route vers le Bastion Tellurique de Gorath au Sud.
 
 ---
 
-### Acte III : La Traque des Quatre Sanctuaires (Le Duo en Action) & L'Éveil de la 6ᵉ Voie
-Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **duo forcé avec Kaelys**.
+### Acte III : La Traque des Quatre Sanctuaires (Le Duo aux Stèles) & L'Éveil de la 6ᵉ Voie
+Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **collaboration tactique avec Kaelys**.
 
-* **La Dynamique Kaelys / Héros en Jeu** :
-  * Kaelys agit comme un copilote cynique : il connaît intimement la psychologie, les lâchetés et les failles de ses quatre anciens rivaux.
+* **La Mécanique de Contact par la Marque & Les Stèles** :
+  * Kaelys n'intervient pas en permanence dans la tête du joueur : il se manifeste chaque fois que le héros utilise sa marque sur un accès au Sceau (stèles intermédiaires d'anciens sanctuaires ou stèles majeures dans les cryptes des boss).
+  * Lors de ces rendez-vous au miroir du Sceau, Kaelys agit comme un informateur cynique : il connaît intimement la psychologie, les lâchetés et les failles de ses quatre anciens rivaux.
   * Il livre au joueur des indices cruciaux pour les combats :
     * *Sur Gorath (Le Bastion - Voie 3 : Condenser)* : « Une brute sans imagination qui compense son manque d'élégance par la masse tellurique. Frappe entre deux respirations. »
     * *Sur Vaelen (Givreciel - Voie 1 : Aspirer)* : « Sa terreur maladive du manque le rend prévisible. Draine son élan avant qu'il ne s'abreuve de ta posture. »
