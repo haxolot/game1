@@ -258,21 +258,23 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
   * Une trappe de mineur permet au héros d'émerger directement dans la chambre de sa mère mourante.
   * **La Règle Métaphysique du Sceau Unique** :
     * La 7ᵉ Voie (*SCELLER*) n'est pas un sortilège éphémère : c'est un verrouillage absolu de la réalité qui **engage la totalité de la connexion énergétique de son utilisateur**.
-    * Poser un Sceau revient à lier sa propre âme pour maintenir l'ancrage. Un être vivant n'ayant qu'une seule âme, **on ne peut sceller qu'une seule fois**.
-  * **L'Application du Sceau sur la Mère** :
-    * Voyant sa mère au bord du gouffre, le héros dégaine son sabre, trace les 7 glyphes dans l'air et appose sa paume marquée sur sa poitrine.
-    * Le Sceau s'illumine puis disparaît dans sa peau : la corruption d'éther est figée net, la douleur s'évapore, sa respiration redevient calme et régulière. Elle est sauvée de l'agonie.
-  * **La Séquence Interactive au Chevet : Rester ou Se Lever ?** :
-    * Le héros s'assoit sur une chaise au chevet de sa mère, tenant sa main endormie. La caméra se pose, fixe. Le joueur a les commandes.
-    * **Choix 1 : Rester assis (La Fin Précoce du Silence)** :
-      * Le joueur ne touche à aucune touche. Les minutes s'écoulent dans un silence pesant.
-      * La lumière du jour décline doucement, plongeant la modeste chambre ouvrière dans la pénombre.
-      * Soudain, par sa résonance de Guide, le son lointain du monde s'infiltre dans la pièce : le grondement sourd des tempêtes d'éther qui ravagent le Continent, et surtout... **les voix déchirantes de ses fidèles ralliés**.
-      * Des cris étouffés, des sanglots, des prières désespérées traversent la mer : *« Ô Guide... où es-tu ? »*, *« Pitié, tu avais promis de nous guider... le ciel brûle ! »*.
-      * Le héros serre plus fort la main de sa mère. Il baisse la tête. Ses yeux brillent dans l'obscurité, mais **il ne bouge pas**. Il a fait son choix : il préfère laisser l'univers s'effondrer que de risquer de briser le Sceau qui garde sa mère vivante. L'écran s'éteint au noir sur les prières qui se meurent (Fin précoce tragique).
-    * **Choix 2 : Se lever et repartir vers le Continent** :
-      * Le joueur pousse le joystick / appuie sur la touche. Le héros lâche lentement la main de sa mère, replace son sabre au fourreau et s'arrache à la pièce.
-      * **Le Terrible Enjeu Métaphysique** : S'il retourne affronter l'Organisation et la Faille à l'Épicentre, il devra inévitablement déchaîner l'Art de Sceller. Mais comme un mortel ne peut sceller qu'une seule chose, réinvoquer le Sceau à l'Épicentre risque de briser ou de disputer l'ancrage vital posé sur sa mère... **sa survie finale dépendra désormais intégralement de la Fin qu'il choisira d'exécuter à l'Épicentre !**
+    * Poser un Sceau revient à lier sa propre âme pour maintenir l'ancrage. Un être vivant n'ayant qu'une seule âme, **on ne peut sceller qu'une seule fois dans son existence**.
+  * **La Décision Interactive au Chevet (Le Sceau n'est pas encore posé)** :
+    * En arrivant au chevet de sa mère, le héros n'a pas encore posé le Sceau. Elle respire péniblement, maintenue en vie uniquement par le sursis temporaire de l'étincelle de flux pur accordée par Kaelys.
+    * Le héros s'assoit à ses côtés et prend sa main fragile. La caméra se pose, fixe. L'interface propose deux choix au joueur :
+    * **Choix 1 : `[POSER LE SCEAU SUR SA MÈRE]` (Fin Précoce — Le Silence du Fils)** :
+      * Le héros craque devant la souffrance de sa mère. Il dégaine son sabre, trace les 7 glyphes dans l'air et appose sa paume sur sa poitrine. Le Sceau d'or pâle s'imprime dans sa chair : la gangrène d'éther est figée net, ses douleurs disparaissent, sa respiration devient douce et régulière. Sa mère est sauvée de l'agonie.
+      * Mais le héros a consommé son unique Sceau. Sa connexion à l'énergie est désormais irrévocablement verrouillée sur elle.
+      * **L'Ellipse Temporelle Cinématographique** : La caméra cadre la modeste fenêtre de la chambre. On voit le temps s'accélérer : le cycle des soleils, la lune, les saisons qui changent... **un mois ou deux s'écoulent**.
+      * Le héros a vaqué à ses tâches quotidiennes d'ouvrier ou de veilleur, mais chaque soir, **il revient inlassablement s'asseoir dans la même position à ce même chevet**, tenant la main de sa mère endormie.
+      * Soudain, au bout de deux mois, l'horizon marin visible par la fenêtre s'embrase d'un rouge pourpre apocalyptique : de l'autre côté de l'océan, sans personne pour contenir la crise, la Faille du Continent a sauté.
+      * Par sa résonance de Guide, le silence de la chambre est brisé par les voix spectrales déchirantes de ses fidèles ralliés qui souffrent et meurent sous les cataclysmes : *« Ô Guide ! Où es-tu ? »*, *« Tu avais promis de nous guider... le ciel brûle ! Pitié ! »*.
+      * Le héros serre plus fort la main de sa mère. Il baisse la tête. Il ne bouge pas. Il a fait son choix d'enfant : il a sauvé sa mère et laissé le monde périr. Fondu au noir sur les prières qui s'éteignent dans le sang (Fin Précoce tragique).
+    * **Choix 2 : `[S'EN ALLER / RÉSERVER LE SCEAU]` (Continuer vers l'Acte V)** :
+      * Le héros résiste à l'envie immédiate de sceller sa mère. Il sait que consommer son Sceau ici abandonnerait ses disciples et condamnerait la planète entière sous peu.
+      * Sa mère reste sous la protection temporaire de la marque de Kaelys (un sursis dont le sablier s'écoule rapidement).
+      * Il lui promet doucement de trouver une issue pour sauver le monde sans la condamner, lâche sa main, replace son sabre au fourreau et s'arrache à la pièce pour reprendre la mer.
+      * **Le Terrible Enjeu de l'Acte V** : Le héros conserve son unique Sceau en réserve pour l'affrontement final à l'Épicentre... mais sa mère pourrait mourir en fonction de la Fin qu'il choisira d'exécuter là-bas !
 
 ---
 

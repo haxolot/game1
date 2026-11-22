@@ -131,11 +131,11 @@ Le héros reprend clandestinement la mer en sens inverse vers les Terres Extéri
    * Il établit son propre sanctuaire secret dans la nef oubliée sous la ville : des fidèles des Terres Extérieures commencent à s'y rassembler pour l'invoquer et trouver refuge, et le joueur peut directement interagir avec eux.
    * Il découvre le Vieux Journal de Noah (annoté de la 7ᵉ Voie *Sceller*) et s'entraîne dans le Dojo du Sceau.
 3. **Le Face-à-Face au Chevet de la Mère & La Règle du Sceau Unique** :
-   * Une trappe de mineur permet au héros d'émerger dans la chambre de sa mère mourante. Il pose son Sceau sur elle : la maladie est figée net, ses douleurs s'éteignent.
-   * **La Règle Métaphysique** : Un individu ne peut sceller qu'une seule fois dans sa vie (lier son âme/sa connexion énergétique).
-   * **Séquence Interactive** : Le joueur est assis au chevet.
-     * *Rester assis (Fin Précoce — Le Silence du Fils)* : Le héros ne bouge pas. La chambre s'assombrit. Au loin, les voix de ses fidèles souffrent et l'appellent à l'aide en vain. Il choisit sa mère et laisse le monde brûler.
-     * *Se lever et repartir* : Le héros part affronter la Faille à l'Épicentre. Comme il devra y réinvoquer le Sceau pour sauver le monde, le Sceau posé sur sa mère sera disputé : sa survie finale dépendra de la Fin choisie là-bas !
+   * Une trappe de mineur permet au héros d'émerger dans la chambre de sa mère mourante. **Le Sceau n'a pas encore été posé**. Elle survit sur le sursis temporaire accordé par l'étincelle de Kaelys.
+   * **La Règle Métaphysique** : Un individu ne peut sceller qu'une seule fois dans son existence (lier l'intégralité de sa connexion énergétique).
+   * **La Décision Interactive au Chevet** :
+     * *Option 1 : `[POSER LE SCEAU SUR SA MÈRE]` (Fin Précoce — Le Silence du Fils)* : Le héros craque et appose son unique Sceau sur sa mère, figeant la gangrène d'éther. S'ensuit une ellipse de 1 à 2 mois visible par la fenêtre. Le héros revient chaque soir s'asseoir à son chevet dans la même position. Deux mois plus tard, la Faille du Continent explose : les voix désespérées des fidèles qui meurent traversent l'océan. Le héros ne bouge pas, choisissant sa mère au détriment du monde.
+     * *Option 2 : `[S'EN ALLER / RÉSERVER LE SCEAU]`* : Le héros résiste à l'envie de sceller immédiatement sa mère pour préserver son unique Sceau afin de sauver le monde. Il part vers l'Épicentre : la survie finale de sa mère dépendra de l'issue choisie à l'Épicentre !
 ---
 
 ## 5. L'Acte V (Climax) : Le Sanctuaire Caché, L'Apocalypse de l'Épicentre & Le Panthéon Prime

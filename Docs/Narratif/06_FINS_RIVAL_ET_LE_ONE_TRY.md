@@ -37,37 +37,47 @@ Le score de Respect évolue de -10 à +10 au gré des interactions narratives et
 
 ---
 
-## 3. La Règle du Sceau Unique & Le Choix au Chevet (Acte IV)
+## 3. La Règle du Sceau Unique & La Décision au Chevet (Acte IV)
 
 ### A. La Règle Métaphysique : Pourquoi ne peut-on sceller qu'une seule fois ?
 La 7ᵉ Voie (*SCELLER*) n'est pas un sortilège classique : c'est un ancrage irréversible dans la trame de la réalité.
 * **L'Ancrage d'Âme** : Pour poser un Sceau, le maître doit consacrer **la totalité de sa connexion énergétique** (son âme et son écho métaphysique).
 * **L'Unicité** : Un être vivant ne possède qu'une seule âme. Par conséquent, **un individu ne peut maintenir qu'un seul Sceau actif dans l'univers**.
-* En arrivant dans la chambre de sa mère en Acte IV, le héros pose son Sceau sur la poitrine de sa mère. La corruption d'éther est figée net, ses douleurs s'éteignent et sa respiration redevient paisible. Sa vie est sauve, mais le héros est désormais **l'ancre vivante** de ce Sceau.
+* Quand le héros arrive au chevet de sa mère, **il n'a pas encore posé le Sceau**. Sa mère est maintenue en vie par le sursis temporaire de l'étincelle de Kaelys, dont le temps est compté.
 
-### B. La Séquence Interactive au Chevet : Rester ou Se Lever ?
-Le héros est assis sur la chaise à côté du lit, tenant la main de sa mère endormie. La caméra se fige.
+### B. La Décision Interactive au Chevet : Poser le Sceau ou S'en Aller ?
+Le héros est assis à son chevet et tient sa main fragile. Deux choix s'offrent au joueur :
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │                    CHOIX INTERACTIF AU CHEVET DE LA MÈRE                     │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│ OPTION A : RESTER ASSIS (Fin Précoce — Le Silence du Fils)                  │
-│ Le joueur ne touche à rien. Les minutes s'écoulent. La pièce s'assombrit.    │
-│ Par sa sensibilité de Guide, le héros perçoit les échos du Continent :      │
-│ le grondement de la Faille qui s'ouvre, les explosions, et les VOIX DÉCHI-   │
-│ RANTES DES FIDÈLES qui souffrent et périssent en l'appelant au secours :     │
+│ OPTION 1 : [POSER LE SCEAU SUR SA MÈRE] (Fin Précoce — Le Silence du Fils)  │
+│ Le héros craque et appose son unique Sceau sur sa mère : la gangrène est     │
+│ figée net, elle respire calmement, sauvée de l'agonie.                       │
+│                                                                              │
+│ ELLIPSE TEMPORELLE (1 à 2 MOIS) :                                            │
+│ À travers la fenêtre, le temps s'accélère (soleils, saisons qui passent).    │
+│ Le héros a vécu ses journées d'ouvrier ou de veilleur, mais revient chaque   │
+│ soir s'asseoir DANS LA MÊME POSITION à ce chevet, veillant sur elle.         │
+│                                                                              │
+│ Puis, au bout de deux mois, l'horizon marin devient pourpre. La Faille du    │
+│ Continent a explosé sans personne pour la contenir. Par sa sensibilité de    │
+│ Guide, les VOIX DÉCHIRANTES DES FIDÈLES résonnent dans la pièce :            │
 │   « Guide ! Où es-tu ? Tu avais promis de nous guider ! Pitié ! »           │
 │ Le héros serre plus fort la main de sa mère, baisse la tête et NE BOUGE PAS. │
-│ Il a fait son choix : que le monde brûle, sa mère vivra sous son Sceau.     │
+│ Il a fait son choix d'enfant : sauver sa mère et laisser le monde périr.     │
 │ Fondu au noir sur les prières qui s'éteignent dans le sang.                  │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│ OPTION B : SE LEVER ET REPARTIR (Continuer vers l'Acte V)                   │
-│ Le joueur pousse le joystick. Le héros lâche la main de sa mère et part.     │
-│ Le dilemme tragique : à l'Épicentre, il devra utiliser SCELLER pour sauver   │
-│ le monde. Or, un homme ne peut sceller qu'une seule chose : réinvoquer son   │
-│ Sceau à l'Épicentre disputera ou brisera le Sceau posé sur sa mère.          │
-│ SA SURVIE FINALE DÉPENDRA DONC DE LA FIN CHOISIE À L'ÉPICENTRE !            │
+│ OPTION 2 : [S'EN ALLER / RÉSERVER LE SCEAU] (Continuer vers l'Acte V)        │
+│ Le héros résiste à l'envie immédiate de la sceller ici. Il sait que consommer│
+│ son Sceau maintenant condamnerait ses fidèles et l'humanité entière.        │
+│ Sa mère reste sous la protection temporaire de la marque (temps limité).     │
+│                                                                              │
+│ Le héros promet de trouver une issue pour sauver le monde sans la condamner, │
+│ lâche sa main et repart pour affronter la Secte et la Faille à l'Épicentre.  │
+│ SA SURVIE FINALE DÉPENDRA DE LA FAÇON DONT IL UTILISERA SON UNIQUE SCEAU     │
+│ LORS DE LA CONCLUSION À L'ÉPICENTRE !                                        │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
