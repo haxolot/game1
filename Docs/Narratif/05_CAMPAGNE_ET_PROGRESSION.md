@@ -75,11 +75,11 @@
   * Le héros mène une mission d'infiltration nocturne dans le cœur des archives de l'Académie.
   * Il met la main sur le grimoire complet de sa Voie (débloquant l'arbre avancé combinant sabre, sorts actifs et passifs).
   * **Le Coup de Théâtre (Ce que même le Rival ignorait)** : Dans un coffre scellé, le héros découvre un ordre de mission interne classé secret d'État :
-    * **Le Mythe Public du « Condensateur »** : L'Académie et les citoyens connaissent tous l'existence des *Condensateurs d'Éther* : la doctrine officielle les présente comme d'anciennes infrastructures géologiques sacrées, des machines de pierre et de métal érigées pour stabiliser le flux et alimenter les cités en magie.
-    * **La Réalité de la Lettre** : Le document mandate une escorte d'inquisiteurs pour convoyer un groupe de fidèles dévots vers la chambre souterraine du *« Condensateur de Kaelys »* afin de « communier avec l'Idole et apaiser les spasmes du Noyau ».
-    * Le document use d'un vernis pieux et technique, mais la présence d'une escorte lourdement armée et la mention de spasmes physiques rendent l'infrastructure suspecte.
-    * À ce stade, le héros croit simplement qu'il s'agit d'une machinerie en panne ou d'un secret d'ingénierie occulte. Il ignore totalement que le « Condensateur » abrite un être vivant, et encore moins qu'il s'agit du corps physique du dieu qu'il priait.
-  * Le héros s'évade définitivement des murailles, déterminé à traquer ce convoi pour percer le secret de ce condensateur et trouver une issue pour sa mère.
+    * **La Croyance Officielle des Sanctuaires** : Pour la population et les disciples de l'Académie, les Sanctuaires sont de purs lieux sacrés de dévotion. La doctrine enseigne que les sanctuaires reçoivent les prières et les incantations des hommes pour les élever vers les divinités, qui accordent en retour leur grâce et leur force martiale aux adeptes.
+    * **La Réalité de la Lettre & Le « Condensateur » Secret** : Le document confidentiel mandate une escorte d'inquisiteurs pour convoyer un groupe de fidèles dévots jusque dans **les sous-sols interdits** du Sanctuaire de Kaelys. Les ordres stipulent de « procéder à la communion pour alimenter et apaiser les spasmes du Condensateur ».
+    * Pour le héros, le terme de « condensateur » sonne comme un jargon ésotérique ou une relique occulte enfouie sous le sanctuaire. Mais la présence d'une escorte lourdement armée et la mention de convulsions physiques rendent ce pèlerinage profondément suspect.
+    * Il ignore totalement ce qui grouille réellement sous les dalles sacrées, et encore moins qu'un corps vivant y est séquestré.
+  * Le héros s'évade définitivement des murailles, déterminé à traquer ce convoi pour percer le mystère de ce sous-sol et trouver une issue pour sa mère.
 
 ---
 
@@ -91,16 +91,16 @@
 * **La Filature du Convoi de « Pèlerins »** :
   * Grâce à des informateurs du milieu criminel et des contrebandiers, le héros localise l'équipe d'inquisiteurs escortant les fidèles choisis.
   * **Infiltration & Pistage** : Au lieu d'une attaque frontale suicidaire, le héros prend discrètement le convoi en filature à travers les défilés rocheux et les terres sauvages.
-  * Sans le savoir, l'escorte le mène directement à l'emplacement le mieux gardé de la région : **la porte scellée du Premier Sanctuaire Caché**, dissimulée dans les entrailles de la terre.
-* **L'Infiltration du Sanctuaire & La Vérité sur le « Condensateur »** :
-  * Le héros s'infiltre dans la nef souterraine dans le sillage du convoi, s'attendant à trouver une merveille d'ingénierie sacrée.
-  * **La Scène du Rituel** : Les fidèles sont sincères, en larmes, agenouillés et chantant des cantiques, persuadés de communier avec l'Idole pour alimenter la sainte machine.
-  * Les inquisiteurs ouvrent les vannes : la fosse centrale s'illumine. Le héros découvre l'horreur organique : le « Condensateur » n'est pas une machine de cristal ou de fer. Au fond du gouffre, branché sur des conduites de flux qui suintent, repose une masse de chair titanesque, difforme et en décomposition — **le Corps Maudit** — qui s'agite dans des râles d'agonie.
-  * Des racines d'éther s'abattent sur les pèlerins pour siphonner leur force vitale et leur sang, les desséchant vivants pour apaiser la carcasse et empêcher le système d'exploser.
+  * L'escorte traverse le sanctuaire de surface et s'enfonce dans un passage dérobé menant **aux entrailles souterraines secrètes**, sous les fondations sacrées.
+* **L'Infiltration des Sous-Sols & La Vérité Organique** :
+  * Le héros s'infiltre dans la crypte obscure dans le sillage du convoi.
+  * **La Scène du Rituel** : Les fidèles sont sincères, en larmes, agenouillés et chantant des cantiques, persuadés de vivre une bénédiction divine suprême.
+  * Les inquisiteurs ouvrent les grilles d'une fosse monumentale : au fond du gouffre repose l'horreur absolue que l'Académie nomme son « condensateur ». Loin de toute sainteté, c'est une masse de chair titanesque, difforme et en décomposition — **le Corps Maudit** — qui gémit et s'agite dans des râles d'agonie.
+  * Des racines d'éther s'abattent sur les pèlerins pour siphonner leur sang et leur force vitale, les desséchant vivants pour nourrir et calmer la créature afin de maintenir le flux actif.
 * **L'Intervention & La Révélation du Relais Biologique** :
   * Écœuré par cette abjection, le héros bondit sabre au clair et déchaîne ses sorts pour massacrer l'équipe d'inquisiteurs et abattre l'abomination charnelle.
-  * En tuant la carcasse et en posant la main sur la stèle du Sceau au fond de la fosse, le voile s'illumine : la silhouette de Kaelys apparaît dans les Limbes.
-  * **Le Choc Absolu** : Le héros comprend que ce « Condensateur » de chair vivante n'était pas juste un générateur... **c'était le corps physique de Kaelys lui-même**, le relais biologique indispensable qui permettait aux disciples du Continent d'accéder à l'esprit du dieu dans les Limbes ! En détruisant le corps, le pont est rompu pour toute la province.
+  * En tuant la carcasse et en posant la main sur la stèle du Sceau au fond de la crypte, le voile s'illumine : la silhouette spectrale de Kaelys apparaît dans les Limbes.
+  * **Le Choc Absolu** : Le héros comprend que ce monstre agonisant n'était pas une créature parasite... **c'était le corps physique de Kaelys lui-même**, le relais biologique caché sous le sanctuaire qui permettait aux prières et aux incantations d'atteindre l'esprit du dieu de l'autre côté ! En massacrant la chair, le pont magique s'effondre pour toute l'Académie.
   
   Le héros vient d'abattre la monstruosité de chair au sabre et aux sorts. Haletant, couvert de sueur et de sang, il s'approche de la stèle du Sceau et pose la main dessus.
 
