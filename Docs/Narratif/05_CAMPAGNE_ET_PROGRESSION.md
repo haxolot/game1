@@ -336,5 +336,6 @@ Le vrai rival du héros n'a jamais été un apprenti de l'Académie : **son vér
 * **Le Pote de l'Académie (L'Ancre Humaine)** :
   * Resté à l'Académie, le pote a utilisé son grade pour saboter la Secte de l'intérieur et guider les civils vers des abris.
   * À l'épicentre, il arrive avec des survivants pour couvrir les arrières du héros contre les derniers inquisiteurs fanatiques, prouvant que leur fraternité humaine était réelle.
-* **L'Application de la 7ᵉ Voie (SCELLER) & La Matrice des 5 Fins** :
-  * Selon les choix faits par le joueur (le sort de sa mère en Acte IV, l'usage de *SCELLER*, le sacrifice de son âme ou la projection du carnet vers -2000), le joueur débloque l'une des **5 grandes fins** (*Le Cycle Parfait, Le Sceau Absolu, Le Sacrifice du Guide, Le Règne du Sixième, L'Effacement*), chacune modulée par le regard final de Kaelys (Digne Rival vs Ennemi Détesté) — *voir détails complets dans [06_FINS_RIVAL_ET_LE_ONE_TRY.md](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/06_FINS_RIVAL_ET_LE_ONE_TRY.md)*.
+* **L'Application de la 7ᵉ Voie (SCELLER) & La Loi d'Airain des Fins** :
+  * Pour que le monde et le temps survivent, l'un des deux doit être sacrifié : **SOIT LA MÈRE MEURT (le héros survit sur Terre), SOIT LE HÉROS MEURT / EST ENFERMÉ (la mère survit sur Terre)**.
+  * Le joueur débloque l'une des **fins d'Épicentre** (*Le Cycle Parfait, L'Âme Sentinelle, Le Sceau Purificateur, L'Effacement*), chacune modulée par le regard final de Kaelys (Digne Rival vs Ennemi Détesté) — *voir détails complets dans [06_FINS_RIVAL_ET_LE_ONE_TRY.md](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/06_FINS_RIVAL_ET_LE_ONE_TRY.md)*.
