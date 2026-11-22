@@ -12,10 +12,17 @@ Dans un monde où la magie est un monopole religieux jalousement gardé par cinq
 
 Armé d'un marteau de mineur et d'un journal de bord intime où il lui écrit chaque jour, il découvre une vérité vertigineuse :
 * Les dieux ne sont que des hommes ayant trahi leur chair.
-* Les formules magiques ne sont que des adresses de résonance vers un plan spirituel intemporel : **les Limbes**.
+* Les formules magiques ne sont que l'écho d'anciens serments martiaux liés à un plan spirituel intemporel : **les Limbes**.
 * Et l'Histoire entière du monde repose sur **une boucle temporelle dont il est lui-même l'auteur**.
 
 Le jeu propose une aventure d'escrime au sabre exigeante et nerveuse (esprit *Sekiro* / *Nine Sols*), où chaque boss abattu libère une province et confronte le joueur à un dilemme déchirant : **sauver l'humanité en acceptant la fatalité, ou condamner le monde par amour pour sa mère.**
+
+### Doctrine Narrative : Zéro Exposé Magistral, Priorité à l'Émotion et au Sabre
+> [!IMPORTANT]
+> **Règle des Trois Cercles (Voir [07_TRI_EDITORIAL_ET_LORE_DIEGETIQUE.md](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/07_TRI_EDITORIAL_ET_LORE_DIEGETIQUE.md))** :  
+> * **Au Premier Plan (Cinématiques & Dialogues)** : L'émotion brute, les lettres à la mère, la camaraderie avec le pote d'académie, la rivalité cinglante avec Kaelys, et les duels viscéraux au sabre. Aucun personnage ne récite de cours magistral sur la magie.
+> * **En Arrière-Plan Diégétique (Items & Mémoires)** : Les théories complexes (les 4 Piliers, le Dédoublement, l'histoire coloniale d'il y a 1000 ans, la psychologie des dieux déchus) sont reléguées aux **descriptions d'objets, traités secrets et reliques de boss** à la *FromSoftware*.
+> * **Banni** : Tout jargon quasi-technique ("adresses", "réseau", débats ontologiques abstraits). Le mystère et la poésie restent préservés.
 
 ---
 
@@ -169,9 +176,10 @@ Au cœur des cyclones d'éther, pour refermer la faille avant l'anéantissement 
 Le véritable rival du héros n'a jamais été un apprenti d'école : **son vrai rival a toujours été Kaelys**.
 * C'est le dieu qu'il priait, le monstre qu'il a saigné, l'esprit arrogant qui l'a accompagné, provoqué, guidé et respecté.
 * Après la chute des quatre autres dieux, **Kaelys Prime s'avance seul au centre de l'ouragan**, sabre au clair.
-* **Système de Scoring Kaelys (Digne Rival vs Ennemi Détesté)** : Selon l'attitude du joueur tout au long de l'aventure (insolence lucide, refus de fuir, monologue du Guide, courage de se poignarder à Gorath vs lâcheté ou opportunisme), le dialogue et la tonalité de Kaelys changent radicalement :
-  * *Digne Rival* : Respect mutuel au sommet, Kaelys célèbre son élève devenu égal (*« Montre-moi si l'élève peut briser le maître ! »*).
-  * *Ennemi Détesté* : Dégoût et mépris pur, Kaelys affronte un usurpateur qu'il maudit (*« Tu n'es qu'un parasite opportuniste qui a souillé notre sang ! »*).
+* **Une Relation 100% Construite par les Choix du Joueur** :
+  Tout au long de l'aventure, les choix de réponses aux stèles construisent l'une des deux dynamiques :
+  * *Option 1 : L'Insolence & le Respect Mutuel (Deux fortes têtes qui se chambrent)* : Deux escrimeurs fiers et arrogants qui refusent de baisser les yeux, se balançant des piques sur la technique et la posture, mais liés par une reconnaissance martiale viscérale. Le duel final est une fête d'escrime féroce entre deux égaux.
+  * *Option 2 : La Détestation & la Haine Viscérale (Deux hommes qui se haïssent)* : Zéro vanne, zéro complicité. Le héros méprise le monstre responsable des charniers ; Kaelys vomit le parasite roturier qui a pillé l'art divin. Le duel final est une exécution sans merci.
 * **Le Duel Final de Légende** : Le combat au sabre le plus intense, rapide et viscéral du jeu (*Sekiro-like* 2D pur).
 
 ### F. Le Rôle du Pote de l'Académie & Les Fins Multiples

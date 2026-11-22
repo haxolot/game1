@@ -14,13 +14,15 @@ Bienvenue dans le **Workspace Narratif Officiel** d'Haxolot. Ce dossier décompo
 | **[04. Personnages & Précurseurs](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/04_PERSONNAGES_ET_PRECURSEURS.md)** | Le casting et le panthéon | Fiche du Héros (homme ordinaire au sabre), Noah (le pionnier mort dans les Limbes), les 5 Précurseurs (moteurs, styles Sekiro, provinces). |
 | **[05. Campagne & Progression](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/05_CAMPAGNE_ET_PROGRESSION.md)** | Déroulé du jeu manette en main | Prologue (naufrage, fontaine captive), Acte I (cellule, auto-invocation), Actes II & III (marche des 5 stations, choix d'autel), Climax. |
 | **[06. Fins Multiples & Relation avec Kaelys](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/06_FINS_RIVAL_ET_LE_ONE_TRY.md)** | Le dénouement, le scoring et les 5 fins | Système de scoring Kaelys (Digne Rival vs Ennemi Détesté), duel d'escrime au sabre à l'épicentre, le Pote loyal, matrice complète des 5 fins narratives. |
+| **[07. Tri Éditorial & Lore Diégétique](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/07_TRI_EDITORIAL_ET_LORE_DIEGETIQUE.md)** | Règle des Trois Cercles & Bestiaire d'Items | Ce qui est Crucial (dialogues, cinématiques) vs Diégétique (descriptions d'objets style FromSoft, souvenirs de boss), dépoussiérage du jargon. |
 
 ---
 
-## ⚡ Les 5 Règles d'Or Narratives à Retenir
+## ⚡ Les 6 Règles d'Or Narratives à Retenir
 
 1. **Le Héros est un Homme Ordinaire** : Zéro prophétie, zéro sang divin. Tout ce qu'il accomplit découle de son esprit déductif, de sa virtuosité au sabre et de son amour pour sa mère.
 2. **Le Double est Métaphysique, pas un familier de combat** : En jeu, le héros se bat **100% seul au sabre**. Son Double dans les Limbes est son ancre spirituelle, son écho temporel, mais n'apparaît jamais pour faire des combos.
 3. **La Fuite du Sceau était Voulue** : Noah a sciemment laissé le Sceau fuiter pour que la magie naisse et rende possible son propre sauvetage. Cette fuite est la cause directe de la maladie de la mère.
 4. **Les Cinq ont un Vrai Mérite** : Ils ont réellement inventé les Voies 1 à 5. Leurs corps sont devenus les réceptacles du Sceau lors de la Guerre d'Un An.
 5. **Kaelys est le Vrai Rival** : Le camarade de l'Académie est notre pote loyal dans l'ombre. La vraie rivalité de sang, d'ego et de philosophie se joue avec Kaelys, culminant dans l'ultime duel au sabre au cœur de la tempête.
+6. **Zéro Exposé Magistral (La Règle Diégétique)** : Aucun dialogue ne doit faire un cours théorique sur la magie. Le cœur émotionnel (la mère, le pote, Kaelys, les corps maudits) est à l'écran ; la métaphysique complexe (les 4 Piliers, l'histoire coloniale) est reléguée aux descriptions d'objets et mémoires de boss.

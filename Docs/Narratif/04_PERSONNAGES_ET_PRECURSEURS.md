@@ -37,10 +37,12 @@
 * **Statut** : Précurseur de la Voie de l'Altération (Voie 2). Le vrai rival du héros depuis le premier jour.
 * **La Relation Miroir** :
   * C'est le dieu que le héros priait à l'Académie, et le premier corps que le héros a abattu au sabre en Acte II.
-  * Coincé dans les Limbes, Kaelys devient son mentor malgré lui, son copilote cynique et son pire provocateur à chaque stèle.
+  * Coincé dans les Limbes, Kaelys devient son mentor forcé, son copilote cynique et son pire provocateur à chaque stèle.
   * C'est face à l'arrogance de Kaelys que le héros se poignarde à Gorath et forge la philosophie du Guide.
-* **Le Système de Respect (Scoring)** : Les choix de dialogues et l'audace du héros déterminent si Kaelys le considère au final comme un **Digne Rival** (salut fraternel au sabre, respect éternel) ou comme un **Ennemi Détesté** (mépris d'un usurpateur, malédiction finale).
-* **Le Climax Ultime (Acte V)** : Quand la faille s'ouvre et libère les dieux à leur Prime, Kaelys est le tout dernier rempart au sabre : le duel maître contre élève, dieu contre Guide, pour décider qui est digne d'ordonner le monde.
+* **Une Dynamique 100% Dialoguée (Deux Chemins Viscéraux)** :
+  * **Option A : Respect & Insolence Mutuelle (Deux hommes qui se chambrent)** : Deux fortes têtes, deux escrimeurs arrogants qui refusent de baisser les yeux. Ils se balancent des piques sur la garde, la posture et les origines, tout en se reconnaissant comme des égaux d'acier. Au Climax, le duel est une confrontation sauvage entre deux fiers escrimeurs.
+  * **Option B : Détestation & Haine Pure (Deux hommes qui se haïssent)** : Zéro vanne, zéro complicité. Le héros méprise le monstre lâche responsable des charniers souterrains ; Kaelys vomit le roturier qui souille l'art divin. Au Climax, le combat est une mise à mort venimeuse et sanguinaire.
+* **Le Climax Ultime (Acte V)** : Quand la faille s'ouvre et libère les dieux à leur Prime, Kaelys est le tout dernier rempart au sabre : le duel maître contre élève, dieu contre Guide, pour trancher leur querelle d'ego et de sang.
 
 ---
 

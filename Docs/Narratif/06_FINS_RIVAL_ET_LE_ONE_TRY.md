@@ -1,39 +1,54 @@
-# 06 - Fins Multiples & Relation avec Kaelys (Digne Rival vs Ennemi)
+# 06 - Fins Multiples & Relation avec Kaelys (Insolence & Respect vs Haine Pure)
 
-> **Thématique** : Le système de scoring de relation avec Kaelys, la Loi d'Airain du Sceau, la scène muette au chevet en Acte IV, et la matrice complète des 5 fins narratives.
-
----
-
-## 1. Philosophie du Système de Relation avec Kaelys
-
-Dans *Haxolot*, Kaelys n'est ni un mentor bienveillant traditionnel ni un boss manichéen. C'est l'ancien dieu tutélaire de l'Altération, un maître d'escrime cynique, hautain et désabusé, emprisonné dans les Limbes depuis 800 ans.
-
-Le jeu intègre un **Système de Respect & d'Affinité Martiale (Score Kaelys)** invisible pour le joueur, mais déterminant pour l'issue philosophique de l'aventure :
-* **Ce que Kaelys méprise** : La servilité craintive, l'hésitation au combat, la morale larmoyante, l'ingratitude mesquine et l'illusion d'une sainteté immaculée.
-* **Ce que Kaelys respecte** : L'insolence lucide, la détermination d'acier, la précision du geste au sabre, le courage d'assumer le sang versé, et la volonté de guider sans se prosterner devant quiconque.
-
-> [!IMPORTANT]
-> **Règle d'or de conception** : Le score de relation avec Kaelys **ne modifie pas les conditions de victoire ou la difficulté brute du boss**. Il transforme **exclusivement la tonalité émotionnelle, les dialogues de combat, les derniers mots de Kaelys mourant et la scène finale**.
+> **Thématique** : La dynamique dialoguée avec Kaelys (chambrage insolent vs détestation viscérale), la Loi d'Airain du Sceau, la scène muette au chevet en Acte IV, et la matrice complète des 5 fins narratives.
 
 ---
 
-## 2. Le Scoring de Relation : Les Choix Clés à Travers les Actes
+## 1. Philosophie de la Relation avec Kaelys : L'Intention Narrative
 
-Le score de Respect évolue de -10 à +10 au gré des interactions narratives et des choix du joueur :
+Kaelys n'est ni un mentor conventionnel ni une jauge statistique : c'est un ancien dieu déchu de l'Altération, coincé dans les Limbes depuis 800 ans, qui a trouvé dans le héros soit son plus grand rival d'escrime, soit son pire ennemi.
 
-| Moment Clé | Choix / Action du Joueur | Impact Respect | Tonalité Kaelys |
-| :--- | :--- | :---: | :--- |
-| **Acte II : Exécution de la Carcasse** | Porte le coup fatal sans trembler, le regard droit dans les yeux de la bête | **+2** | *« Enfin quelqu'un qui ne détourne pas les yeux en tuant son dieu. »* |
-| | Hésite, formule des excuses pieuses ou détourne le regard | **-2** | *« Un boucher pleurnichard... Pathétique. »* |
-| **Acte II : Le Pacte du Sceau** | Accepte le marché avec insolence et sang-froid face à la vérité (pas de remède, il faut apprendre à Sceller) | **+1** | *« Garde ce venin pour tes ennemis, gamin. »* |
-| | Se soumet avec peur ou supplie Kaelys en pleurant | **-2** | *« Tu demandes l'aumône comme un mendiant. »* |
-| **Acte III : Dialogue aux Sanctuaires** | Analyse les faiblesses des styles d'escrime des dieux avec lucidité technique | **+1** | *« Tiens, tu as des yeux sous ce crâne finalement. »* |
-| | Insulte aveuglément les Précurseurs comme de simples monstres sans comprendre leur art | **-1** | *« Tu ne comprends rien à ce que nous étions. »* |
-| **Acte III : Le Choix de Gorath** | Se poignarde le flanc et plante son sabre pour devenir le relais des orphelins de foi | **+3** | *« Tu es complètement fou... Mais quelle folie magnifique. »* |
-| | Fuit lâchement le sanctuaire sans assumer les conséquences du meurtre | **-3** | *« Tu laisses des orphelins crier dans le vide. Tu n'es qu'un voleur de chair. »* |
-| **Acte III : Sanctuaire de Malakor** | Refuse l'injonction de Kaelys de fuir égoïstement et prononce le serment : *« Je dois les guider »* | **+3** | Rire sonore de Kaelys : *« Alors voilà ce que tu es... Le Sixième. »* |
-| | Accepte de fuir comme un rat en pensant uniquement à sa peau | **-3** | *« Je t'ai offert une porte, et tu rampes comme un chien. Va-t'en. »* |
-| **Acte IV : Parade de la Tempête** | Exécute `[GUIDER LA TEMPÊTE]` avec assurance et timing parfait | **+1** | *« Ta lame apprend vite. Très vite. »* |
+La dynamique s'articule autour de deux polarités que le joueur construit à travers ses choix d'attitude :
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│                   LES DEUX DYNAMIQUES RELATIONNELLES                   │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. RESPECT & INSOLENCE MUTUELLE (Deux Fortes Têtes)                    │
+│    • Deux hommes fiers, vifs et arrogants qui refusent de plier.       │
+│    • Dynamique : Chambrage réciproque, piques sur le style martial,    │
+│      insolence d'égal à égal.                                          │
+│    • Le héros refuse la déférence ; Kaelys refuse la condescendance    │
+│      facile et apprécie le répondant.                                  │
+│    • Fond : Un respect instinctif et muet d'escrimeurs face à la lame. │
+├────────────────────────────────────────────────────────────────────────┤
+│ 2. DÉTESTATION VISCÉRALE (La Haine Pure)                              │
+│    • Mépris, dégoût et rancœur mutuelle. Zéro complicité.             │
+│    • Le héros voit en Kaelys un monstre lâche engraissé sur des morts. │
+│    • Kaelys voit dans le héros un pilleur sans noblesse qui ose        │
+│      souiller l'art divin.                                             │
+│    • Fond : Une alliance forcée toxique jusqu'à la mise à mort finale. │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 2. Les Temps Forts de la Relation (Beats Narratifs)
+
+Les choix offerts au joueur permettent d'incarner l'une des deux postures à chaque étape clé :
+
+* **Le Pacte (Acte II)** :
+  * *Option Insolence* : Traiter l'entité avec détachement et sans peur, négocier d'égal à égal en pointant sa situation misérable dans les Limbes.
+  * *Option Hostilité* : Cracher sur sa condition, exprimer son dégoût pour les charniers souterrains et lui faire comprendre que ce pacte n'est qu'une obligation temporaire.
+* **Les Débriefs aux Stèles (Acte III)** :
+  * *Option Insolence* : Se chambrer sur la technique martiale, contester ses remarques avec morgue, débattre des failles des dieux sans jamais courber la tête.
+  * *Option Hostilité* : Refuser tout échange au-delà des informations vitales, afficher un mépris froid pour sa clique de divinités déchues.
+* **Le Geste à Gorath (Acte III)** :
+  * *Option Insolence* : Assumer le sang versé comme un choix d'homme debout, rembarrer Kaelys quand il s'étonne de l'audace.
+  * *Option Hostilité* : Mépriser le fait que Kaelys n'ait jamais rien compris au sacrifice humain ni à la souffrance des civils.
+* **L'Éveil du Guide (Fin Acte III)** :
+  * *Option Insolence* : Refuser de fuir par pure fierté, clouer le bec de Kaelys en revendiquant la charge de guider les hommes.
+  * *Option Hostilité* : Promettre à Kaelys qu'après l'Organisation, il sera le prochain sur la liste des comptes à régler.
 
 ---
 
@@ -88,44 +103,33 @@ Aucun mot n'est échangé. Leurs regards se croisent dans un silence absolu : la
 
 ---
 
-## 4. Les Deux Statuts de Kaelys au Climax de l'Acte V
+## 4. Les Deux Confrontations Finales au Climax (Acte V)
 
-À la fin de l'Acte V, lorsque la faille explose à l'Épicentre et que Kaelys Prime s'avance après la défaite des quatre autres dieux, le score de Respect détermine son attitude :
+À l'Épicentre, lorsque la faille explose et que Kaelys Prime s'avance sabre au clair après la chute des quatre autres dieux, **la mise en scène et la tonalité du duel s'alignent sur la relation construite** :
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│                    STATUT 1 : DIGNE RIVAL (Score ≥ +3)                       │
+│        POSTURE 1 : RESPECT & INSOLENCE MUTUELLE (Le Duel des Égaux)          │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│ Kaelys voit en vous son digne héritier, son égal, l'élève qui a dépassé     │
-│ le maître. Le combat est une célébration martiale au sommet de leur art.     │
-│                                                                              │
-│ Phrase d'intro :                                                             │
-│ « Tu as forgé ton insolence contre la mienne, chien errant. Tu as pris mon   │
-│ sang, brisé mes frères, et refusé de plier. Montre-moi si l'élève est digne  │
-│ de trancher le ciel ! »                                                      │
-│                                                                              │
-│ Dernier souffle de Kaelys :                                                  │
-│ Kaelys tombe à genoux, pose son sabre à plat et lève un regard fier :        │
-│ « Bien frappé... C'est donc ça, la force d'un mortel qui guide les siens... │
-│ Ne baisse jamais les yeux, Sixième. Ce monde est à toi. »                    │
+│ • Ambiance : Deux monstres d'escrime qui savourent l'affrontement.           │
+│ • Ton d'intro : Provocations légères, chambrage sur la garde ou les défauts  │
+│   techniques, l'assurance de deux hommes qui n'ont peur de rien.             │
+│ • En combat : Échanges de répliques sèches entre deux parades parfaites.     │
+│ • Dénouement : Kaelys tombe les armes à la main avec la fierté d'un maître   │
+│   qui reconnaît que l'élève l'a surpassé sans jamais baisser les yeux.      │
 └──────────────────────────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│                   STATUT 2 : ENNEMI DÉTESTÉ (Score < +3)                     │
+│        POSTURE 2 : DÉTESTATION & HAINE VISCÉRALE (La Mise à Mort)            │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│ Kaelys ne voit en vous qu'un usurpateur, un chien opportuniste qui a volé   │
-│ les Voies sans comprendre la noblesse du sabre. Le combat est une haine pure.│
-│                                                                              │
-│ Phrase d'intro :                                                             │
-│ « Tu as pillé nos corps et sali nos noms, parasite. Tu te pavanes avec un    │
-│ pouvoir qui te dépasse. Je vais reprendre chaque goutte de sang que je t'ai  │
-│ prêtée et briser ton pauvre sabre d'apprenti ! »                             │
-│                                                                              │
-│ Dernier souffle de Kaelys :                                                  │
-│ Kaelys crache son sang sur le sol, le regard injecté de mépris :             │
-│ « Tu n'es qu'un boucher chanceux... Un voleur sans gloire. Tu crois avoir    │
-│ gagné ? Scelle ce monde et meurs avec lui, vermine ! »                       │
+│ • Ambiance : Une exécution haineuse, sans grâce ni courtoisie martiale.      │
+│ • Ton d'intro : Fureur brute, insultes venimeuses, refus total de légitimité │
+│   réciproque (le boucher déchu face au paria rancunier).                     │
+│ • En combat : Silence pesant ou crachats de rage à chaque coup de lame.      │
+│ • Dénouement : Kaelys s'effondre dans la poussière en crachant sa haine et   │
+│   en maudissant le vainqueur jusqu'à son dernier souffle.                    │
 └──────────────────────────────────────────────────────────────────────────────┘
+```
 ```
 
 ---
@@ -206,10 +210,10 @@ Aucun mot n'est échangé. Leurs regards se croisent dans un silence absolu : la
 
 ## 6. Synthèse Matricielle Complète des Fins
 
-| Fin | Loi d'Airain (Mère vs Héros) | Condition Clé de Déblocage | Sort du Héros | Sort de la Mère | Sort du Continent | Sort de la Magie | Pérennité de la Boucle (Passé vs Futur) | Posture Finale de Kaelys |
+| Fin | Action Finale du Joueur | Condition Clé de Déblocage | Sort du Héros | Sort de la Mère | Sort du Continent | Sort de la Magie | Pérennité de la Boucle (Passé vs Futur) | Posture Finale de Kaelys |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **0. Le Silence du Fils** *(Précoce au Chevet)* | **Refus du Sacrifice**<br>(Les deux survivent) | Pose le Sceau au chevet (Acte IV) | **Vivant mais cloîtré.** Reste un ouvrier hanté par la culpabilité. | **Sauvée et protégée** sous le Sceau intact. | **Dévasté à 100%.** Les cyclones d'éther massacrent la population. | **Chaos primitif incontrôlable** sur tout le Continent. | **Condamne le Passé et le Futur.** Le carnet n'est pas envoyé ; effondrement de la ligne temporelle. | **Non affronté.** Kaelys se libère dans le cataclysme en méprisant les mortels. |
-| **1. Le Cycle Parfait** *(Canonique)* | **MÈRE MEURT**<br>**HÉROS SURVIT** | A détruit les écoles sans graver son nom (Acte III) | **Vivant parmi les hommes.** Dépose son sabre, refuse le trône, rebâtit avec le Pote. | **S'éteint paisiblement** dans son lit (Sceau transféré à la Faille). | **Pacifié et libéré** de la tyrannie de la Secte et des faux dieux. | **Active & directe (sans condensateurs).** Puisage direct au Sceau ; répétition des mêmes erreurs dans 1000 ans. | **Passé et Futur préservés à 100%.** Boucle parfaite, causalité close et cycle humain éternel. | **Rival** : Fierté fraternelle (*« Dors en paix, mon meilleur élève »*)<br>**Ennemi** : Rage d'impuissance face au cycle. |
-| **2. Le Roi du Sceau** *(Ascension Royale)* | **MÈRE MEURT**<br>**HÉROS SURVIT** | A gravé son nom dans le sang sur les 5 autels (Acte III) | **Vivant (Roi Suprême).** Règne sur Terre avec ses fidèles et son Pote général. | **Meurt seule outre-mer** au moment exact du couronnement. | **Unifié sous un Empire martial.** Les 5 provinces sont soumises à son trône. | **Contrôlée par les Dieux Vassaux.** Les 5 dieux obéissent aux décrets de son sabre. | **Passé et Futur préservés.** Ordre martial stable garanti par la force du Roi. | **Rival** : Salut cynique (*« Tu es devenu pire et plus grand que nous tous »*)<br>**Ennemi** : Haine envers le tyran. |
-| **3. L'Étoile du Sceau** *(Ère Sans Magie)* | **MÈRE MEURT**<br>**HÉROS SURVIT** | Choix à l'Épicentre : expulser l'éther au ciel | **Vivant mais infirme.** Dépourvu de tout flux, redevient un homme brisé. | **Meurt dans ses bras.** L'éther s'éteignant vers le ciel, son souffle disparaît. | **Protégé des monstres**, mais subit l'hiver arcanique et le rude labeur. | **Scellée dans le ciel (Création d'une Étoile).** Toute la magie est expulsée au firmament. | **Passé préservé, Futur émancipé.** Noah a reçu le livre, mais l'humanité n'a plus de magie sur Terre. | **Rival** : Salut d'honneur (*« Notre tombeau est la plus belle des étoiles »*)<br>**Ennemi** : Malédiction amère. |
-| **4. L'Âme Sentinelle** *(Sacrifice du Guide)* | **MÈRE SURVIT**<br>**HÉROS ENFERMÉ** | Choix à l'Épicentre : plonger dans les Limbes | **Mort physique.** Incarcéré à vie comme Sentinelle éternelle dans les Limbes. | **Sauvée à distance.** Protégée par le flux pur du héros depuis l'au-delà. | **Sanctuaire mondial purifié.** Fin définitive des sacrifices de sang et des mutations. | **Purifiée et stabilisée.** L'éther circule sans toxicité sous la garde du Guide. | **Passé et Futur préservés.** La sentinelle éternelle maintient l'ancrage hors du temps. | **Rival** : Fraternité éternelle dans les Limbes<br>**Ennemi** : Haine éternelle partagée dans le vide. |
+| **0. Le Silence du Fils** *(Précoce au Chevet)* | Appose le Sceau sur sa mère, s'assoit à son chevet et refuse de repartir. | Pose le Sceau au chevet (Acte IV) | **Vivant mais cloîtré.** Reste un ouvrier hanté par la culpabilité. | **Sauvée et protégée** sous le Sceau intact. | **Dévasté à 100%.** Les cyclones d'éther massacrent la population. | **Chaos primitif incontrôlable** sur tout le Continent. | **Condamne le Passé et le Futur.** Le carnet n'est pas envoyé ; effondrement de la ligne temporelle. | **Non affronté.** Kaelys se libère dans le cataclysme en méprisant les mortels. |
+| **1. Le Cycle Parfait** *(Canonique)* | Projette son carnet vers -2000 avec *GUIDER*, puis scelle la Faille avec le filet originel. | A détruit les écoles sans graver son nom (Acte III) | **Vivant parmi les hommes.** Dépose son sabre, refuse le trône, rebâtit avec le Pote. | **S'éteint paisiblement** dans son lit (Sceau transféré à la Faille). | **Pacifié et libéré** de la tyrannie de la Secte et des faux dieux. | **Active & directe (sans condensateurs).** Puisage direct au Sceau ; répétition des mêmes erreurs dans 1000 ans. | **Passé et Futur préservés à 100%.** Boucle parfaite, causalité close et cycle humain éternel. | **Rival** : Fierté fraternelle (*« Dors en paix, mon meilleur élève »*)<br>**Ennemi** : Rage d'impuissance face au cycle. |
+| **2. Le Roi du Sceau** *(Ascension Royale)* | Scelle la Faille, prend le trône impérial et asservit les 5 dieux battus comme vassaux. | A gravé son nom dans le sang sur les 5 autels (Acte III) | **Vivant (Roi Suprême).** Règne sur Terre avec ses fidèles et son Pote général. | **Meurt seule outre-mer** au moment exact du couronnement. | **Unifié sous un Empire martial.** Les 5 provinces sont soumises à son trône. | **Contrôlée par les Dieux Vassaux.** Les 5 dieux obéissent aux décrets de son sabre. | **Passé et Futur préservés.** Ordre martial stable garanti par la force du Roi. | **Rival** : Salut cynique (*« Tu es devenu pire et plus grand que nous tous »*)<br>**Ennemi** : Haine envers le tyran. |
+| **3. L'Étoile du Sceau** *(Ère Sans Magie)* | Expulse tout l'éther résiduel au firmament pour allumer une nouvelle étoile. | Choix à l'Épicentre : expulser l'éther au ciel | **Vivant mais infirme.** Dépourvu de tout flux, redevient un homme brisé. | **Meurt dans ses bras.** L'éther s'éteignant vers le ciel, son souffle disparaît. | **Protégé des monstres**, mais subit l'hiver arcanique et le rude labeur. | **Scellée dans le ciel (Création d'une Étoile).** Toute la magie est expulsée au firmament. | **Passé préservé, Futur émancipé.** Noah a reçu le livre, mais l'humanité n'a plus de magie sur Terre. | **Rival** : Salut d'honneur (*« Notre tombeau est la plus belle des étoiles »*)<br>**Ennemi** : Malédiction amère. |
+| **4. L'Âme Sentinelle** *(Sacrifice du Guide)* | Appose le Sceau sur sa propre âme et plonge dans les Limbes pour remplacer la barrière. | Choix à l'Épicentre : plonger dans les Limbes | **Mort physique.** Incarcéré à vie comme Sentinelle éternelle dans les Limbes. | **Sauvée à distance.** Protégée par le flux pur du héros depuis l'au-delà. | **Sanctuaire mondial purifié.** Fin définitive des sacrifices de sang et des mutations. | **Purifiée et stabilisée.** L'éther circule sans toxicité sous la garde du Guide. | **Passé et Futur préservés.** La sentinelle éternelle maintient l'ancrage hors du temps. | **Rival** : Fraternité éternelle dans les Limbes<br>**Ennemi** : Haine éternelle partagée dans le vide. |
