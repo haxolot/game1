@@ -269,7 +269,10 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
       * Le héros a vaqué à ses tâches quotidiennes d'ouvrier ou de veilleur, mais chaque soir, **il revient inlassablement s'asseoir dans la même position à ce même chevet**, tenant la main de sa mère endormie.
       * Soudain, au bout de deux mois, l'horizon marin visible par la fenêtre s'embrase d'un rouge pourpre apocalyptique : de l'autre côté de l'océan, sans personne pour contenir la crise, la Faille du Continent a sauté.
       * Par sa résonance de Guide, le silence de la chambre est brisé par les voix spectrales déchirantes de ses fidèles ralliés qui souffrent et meurent sous les cataclysmes : *« Ô Guide ! Où es-tu ? »*, *« Tu avais promis de nous guider... le ciel brûle ! Pitié ! »*.
-      * Le héros serre plus fort la main de sa mère. Il baisse la tête. Il ne bouge pas. Il a fait son choix d'enfant : il a sauvé sa mère et laissé le monde périr. Fondu au noir sur les prières qui s'éteignent dans le sang (Fin Précoce tragique).
+      * Le héros serre plus fort la main de sa mère. Il baisse la tête. Il ne bouge pas. Il a fait son choix d'enfant : il a sauvé sa mère et laissé le monde périr. Fondu au noir sur les prières qui s'éteignent dans le sang.
+      * **Le Dernier Souffle dans le Noir** : Alors que l'écran est totalement noir et que le vacarme du monde anéanti s'est éteint dans le silence, on entend une faible pression sur ses doigts. Sa mère entrouvre les yeux dans la pénombre et murmure d'une voix fatiguée mais vivante et délivrée du mal :  
+        > *« Tu es resté... ? Tu es là, mon fils... »*  
+        Preuve déchirante qu'elle est bel et bien en vie et sauvée, seule avec lui au milieu d'un univers en cendres.
     * **Choix 2 : `[S'EN ALLER / RÉSERVER LE SCEAU]` (Continuer vers l'Acte V)** :
       * Le héros résiste à l'envie immédiate de sceller sa mère. Il sait que consommer son Sceau ici abandonnerait ses disciples et condamnerait la planète entière sous peu.
       * Sa mère reste sous la protection temporaire de la marque de Kaelys (un sursis dont le sablier s'écoule rapidement).

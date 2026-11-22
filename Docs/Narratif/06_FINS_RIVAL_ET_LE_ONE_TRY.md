@@ -68,6 +68,12 @@ Le héros est assis à son chevet et tient sa main fragile. Deux choix s'offrent
 │ Le héros serre plus fort la main de sa mère, baisse la tête et NE BOUGE PAS. │
 │ Il a fait son choix d'enfant : sauver sa mère et laisser le monde périr.     │
 │ Fondu au noir sur les prières qui s'éteignent dans le sang.                  │
+│                                                                              │
+│ CLIMAX VOCAL DANS LE NOIR :                                                  │
+│ Une fois le fondu terminé, dans le silence de l'écran noir, une main faible  │
+│ resserre les doigts du héros. Sa mère murmure d'une voix fatiguée mais       │
+│ vivante et délivrée : « Tu es resté... ? Tu es là, mon fils... »             │
+│ Preuve déchirante qu'elle est sauve, seule avec lui dans un monde mort.      │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │ OPTION 2 : [S'EN ALLER / RÉSERVER LE SCEAU] (Continuer vers l'Acte V)        │
 │ Le héros résiste à l'envie immédiate de la sceller ici. Il sait que consommer│
