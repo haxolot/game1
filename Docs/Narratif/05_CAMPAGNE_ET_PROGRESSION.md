@@ -188,6 +188,13 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
     * **Le Schisme** : Les fanatiques hurlent au blasphème et à l'abomination ; mais les artisans, mineurs et fidèles désespérés tombent à genoux devant ce dieu vivant.
     * **La Psychologie du Héros** : Tandis qu'il garde jalousement pour lui seul son lien secret avec Kaelys, **il savoure avec une fierté sombre cette armée d'âmes prêtes à se dévouer à lui** — une éclatante revanche sociale pour le paria banni.
 
+* **L'Enquête Archéologique dans les Ruines & La Psychologie des Cinq** :
+  * Le héros ne bavarde pas systématiquement avec les autres dieux dans les Limbes.
+  * À travers les sanctuaires, il fouille les archives oubliées, les ruines et les registres intimes relatant le voyage originel des Cinq vers le Sceau 800 ans plus tôt.
+  * Il décortique leur histoire, leurs obsessions et leurs failles :
+    * Il fait de lui-même le lien entre les **5 verbes fondateurs** et le comportement humain des fondateurs (la vanité d'*Altérer* chez Kaelys, l'angoisse de l'effritement chez Gorath avec *Condenser*, la terreur du manque chez Vaelen avec *Aspirer*, la fuite en avant de Lyra avec *Accélérer*, et le mépris distant de Malakor avec *Projeter*).
+    * Leurs carnets de route contiennent déjà toutes les clés techniques : le héros fait le pont tout seul, ne consultant Kaelys qu'à de rares occasions pour lui arracher des aveux amers.
+
 * **La Nature de la 6ᵉ Voie (GUIDER) : Zéro Art Martial de Combat, Des Passifs & De la Haute Guidance** :
   * En cavale permanente pour sauver sa mère, **le héros n'a matériellement pas le temps d'inventer un nouvel art martial de combat offensif complet** (ses attaques restent l'escrime et les sorts volés aux Cinq).
   * **En Gameplay (L'Arbre des Passifs du Guide)** : La 6ᵉ Voie s'exprime par des **passifs d'élite** (harmonisation des flux permettant d'équiper plusieurs écoles sans contrecoup, déviation d'éther au sabre pour recharger la posture, résistance aux Limbes).
@@ -196,10 +203,24 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
     * Elle lui permet de projeter son carnet de notes à travers la faille intemporelle des Limbes pour qu'il parvienne à Noah en -2000.
     * **Late Game (Le Sanctuaire Natal)** : Elle lui permet d'amasser des fidèles dans son propre sanctuaire secret sous sa ville natale, hors du Continent. Ces disciples l'invoquent pour être protégés, et le joueur peut directement interagir avec eux.
 
-* **Le Climax de l'Acte III : L'Émancipation & Le Déclic Autonome** :
-  * Après la chute du dernier sanctuaire, Kaelys tente de manipuler le héros pour régner seul sur le Sceau Primordial.
-  * Le héros s'émancipe définitivement : fort de sa Voie de *GUIDER*, il refuse d'être le pion d'une idole et s'affirme comme le Sixième souverain du monde.
-  * Comprenant qu'il devra envoyer son carnet dans le passé à Noah en lui ordonnant de cacher son legs loin des rois, **il déduit que la cache de Noah repose sous sa propre ville natale dans les Terres Extérieures** !
+* **Le Climax de l'Acte III : L'Offre de Sortie de Kaelys & La Naissance du Guide** :
+  * Les 4 corps rivaux (Gorath, Vaelen, Lyra, Malakor) sont anéantis. Le Continent est privé de ses relais théocratiques.
+  * À la stèle, Kaelys tient parole et remet au héros le **remède complet** capable de guérir définitivement sa mère.
+  * **Le Conseil Pressant de Kaelys (L'Offre de Fuite)** :
+    > *« Prends ce remède et barre-toi. Rentre chez ta mère et missionne un tueur à gages pour la suite si tu veux, mais ne remets plus jamais les pieds ici. Tous les dieux te haïssent, l'Académie est à tes trousses.  
+    > Tu as fouillé leurs ruines, tu sais ce qui se prépare : l'Organisation cherche désespérément à **faire renaître le Septième** pour restaurer leur empire absolu, pendant que les insurgés dissidents veulent **faire sauter le Sceau** pour anéantir la magie et les dieux, quitte à raser la planète.  
+    > Ce n'est pas ton conflit. Ta mère t'attend, prends son salut et disparais. »*
+  * **Le Grand Déclic & Le Monologue du Héros** :
+    Le héros regarde la fiole de remède, puis la stèle, habité par le souvenir de tout son sang versé et de ceux qu'il a croisés sur sa route :
+    > *« Je peux moi aussi être à votre niveau.  
+    > Si je rentre maintenant, je ne soignerai que ma mère. Mais d'autres attendent.  
+    > Combien de compagnons j'ai perdus jusque-là ? Combien d'âmes j'ai emmenées au cimetière ? Combien de fidèles me suivent désormais ?  
+    > C'est ça ce qu'il me manquait, Kaelys ?  
+    > J'ai levé mon doigt vers des centaines de directions, j'ai touché l'énergie la plus pure, et je me chante des louanges... C'est tout ce qu'il me manquait.  
+    > Je dois les guider. Car sinon, combien s'égareront après nos affrontements ? »*
+  * **La Naissance Historique de la 6ᵉ Voie : GUIDER** :  
+    En assumant ce devoir immense envers les survivants et les égarés, le héros assemble les 4 Piliers universels et forge la 6ᵉ Voie : **GUIDER**.
+  * **La Déduction de la Cache de Noah** : Comprenant qu'il devra envoyer son carnet dans le passé à Noah en -2000 en lui ordonnant de cacher son legs loin de la convoitise des rois du Continent, **le héros déduit avec certitude que la cache de Noah repose sous sa propre ville natale dans les Terres Extérieures** !
 
 ---
 

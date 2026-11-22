@@ -103,11 +103,16 @@ Pour stabiliser le continent :
   * Après avoir détruit le Corps Maudit de Gorath, le héros s'inquiète du chaos pour la province. Kaelys lui crache par pur sarcasme d'offrir son propre corps.
   * Sous les yeux horrifiés de Kaelys, le héros se poignarde au flanc et plante sa lame ensanglantée dans la faille du Sceau pour réactiver le flux avec son propre sang.
   * Il remonte en nef supérieure, prouve sa force et ordonne aux fidèles d'invoquer son propre nom. Un schisme éclate entre conservateurs outrés et fidèles désespérés ralliés. Le héros savoure avec une fierté sombre cette revanche de paria, tout en gardant son lien avec Kaelys strictement privé.
+* **L'Enquête dans les Ruines & La Psychologie des Cinq** : Le héros ne discute pas systématiquement avec les autres dieux dans les Limbes. Il étudie les inscriptions et les registres intimes relatant le voyage originel des Cinq vers le Sceau, décodant par lui-même le lien entre les 5 verbes et leurs névroses humaines (l'orgueil d'*Altérer*, la peur de l'effritement pour *Condenser*, la terreur du manque pour *Aspirer*, la panique du temps pour *Accélérer*, la fuite du contact pour *Projeter*).
 * **La 6ᵉ Voie (GUIDER) : Zéro Art Martial Actif, Des Passifs & De la Haute Guidance** :
   * En cavale permanente pour sauver sa mère, le héros n'a pas le temps d'inventer un nouvel art martial offensif.
   * **En Jeu** : La 6ᵉ Voie s'exprime par un arbre de **passifs majeurs** (harmonisation permettant de manier plusieurs écoles sans contrecoup, déviation d'éther au sabre, résistance aux Limbes).
   * **En Lore** : Elle lui permet de dévier les tempêtes côtières, d'expédier son carnet à Noah en -2000, et d'amasser en fin de jeu des fidèles dans son sanctuaire natal hors du Continent.
-* **L'Émancipation & Le Déclic Autonome** : Kaelys tente de manipuler le héros pour s'emparer du Sceau Primordial. Le héros s'émancipe définitivement : fort de sa Voie de *GUIDER*, il refuse d'être le pion d'une idole et déduit que la cache de Noah repose sous sa propre ville natale dans les Terres Extérieures.
+* **Le Climax de l'Acte III : L'Offre de Kaelys & La Naissance du Guide** :
+  * Les 4 corps rivaux abattus, Kaelys offre au héros le remède complet pour sa mère et lui conseille vivement de fuir : l'Organisation complote pour ressusciter le Septième afin de restaurer leur domination, tandis que les dissidents veulent faire sauter le Sceau pour anéantir la magie au prix d'un cataclysme mondial.
+  * **Le Monologue du Héros** : Face au remède et au souvenir de ses morts, le héros refuse la fuite égoïste :  
+    > *« Je peux moi aussi être à votre niveau. Si je rentre maintenant, je ne soignerai que ma mère. Mais d'autres attendent. Combien de compagnons j'ai perdus jusque-là ? Combien d'âmes j'ai emmenées au cimetière ? Combien de fidèles me suivent ? C'est ça ce qu'il me manquait, Kaelys ? J'ai levé mon doigt vers des centaines de directions, j'ai touché l'énergie la plus pure, et je me chante des louanges... C'est tout ce qu'il me manquait. Je dois les guider. Car sinon, combien s'égareront après nos affrontements ? »*
+  * Il forge ainsi la **6ᵉ Voie : GUIDER**. Comprenant qu'il devra envoyer son carnet à Noah en -2000, il déduit que la cache de Noah repose sous sa propre ville natale dans les Terres Extérieures.
 
 ---
 
