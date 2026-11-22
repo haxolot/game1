@@ -108,11 +108,13 @@ Pour stabiliser le continent :
   * En cavale permanente pour sauver sa mère, le héros n'a pas le temps d'inventer un nouvel art martial offensif.
   * **En Jeu** : La 6ᵉ Voie s'exprime par un arbre de **passifs majeurs** (harmonisation permettant de manier plusieurs écoles sans contrecoup, déviation d'éther au sabre, résistance aux Limbes).
   * **En Lore** : Elle lui permet de dévier les tempêtes côtières, d'expédier son carnet à Noah en -2000, et d'amasser en fin de jeu des fidèles dans son sanctuaire natal hors du Continent.
-* **Le Climax de l'Acte III : L'Offre de Kaelys & La Naissance du Guide** :
-  * Les 4 corps rivaux abattus, Kaelys offre au héros le remède complet pour sa mère et lui conseille vivement de fuir : l'Organisation complote pour ressusciter le Septième afin de restaurer leur domination, tandis que les dissidents veulent faire sauter le Sceau pour anéantir la magie au prix d'un cataclysme mondial.
+* **Le Climax de l'Acte III : L'Offre de Kaelys, Le Monologue & Le Soulagement du Dieu** :
+  * 4 corps au total ont été abattus (Kaelys en Acte II, puis Gorath, Vaelen et Lyra). Il ne reste plus qu'**un dernier corps à exécuter** (Malakor) avant de pouvoir s'attaquer à l'Organisation.
+  * Kaelys offre le remède complet pour la mère et incite le héros à fuir : l'Organisation complote pour ressusciter le Septième afin de restaurer son empire, tandis que les dissidents veulent faire sauter le Sceau quitte à anéantir le monde.
   * **Le Monologue du Héros** : Face au remède et au souvenir de ses morts, le héros refuse la fuite égoïste :  
     > *« Je peux moi aussi être à votre niveau. Si je rentre maintenant, je ne soignerai que ma mère. Mais d'autres attendent. Combien de compagnons j'ai perdus jusque-là ? Combien d'âmes j'ai emmenées au cimetière ? Combien de fidèles me suivent ? C'est ça ce qu'il me manquait, Kaelys ? J'ai levé mon doigt vers des centaines de directions, j'ai touché l'énergie la plus pure, et je me chante des louanges... C'est tout ce qu'il me manquait. Je dois les guider. Car sinon, combien s'égareront après nos affrontements ? »*
-  * Il forge ainsi la **6ᵉ Voie : GUIDER**. Comprenant qu'il devra envoyer son carnet à Noah en -2000, il déduit que la cache de Noah repose sous sa propre ville natale dans les Terres Extérieures.
+  * **La Réaction de Kaelys** : Kaelys rit, acquiesce et relève de son regard un profond respect pour le héros. Il se sent bête d'avoir cherché le Sixième pendant huit siècles dans les Limbes, et l'avoir enfin trouvé devant lui le soulage d'un poids immense.
+  * **La Décision** : Il reste un dernier corps à abattre avant l'Organisation, mais pour faire face à la puissance de l'Organisation et son complot, le héros doit être plus fort : il doit trouver **son sanctuaire** (la cache sous sa ville natale laissée par Noah) pour assimiler le savoir antique avant l'assaut final.
 
 ---
 
