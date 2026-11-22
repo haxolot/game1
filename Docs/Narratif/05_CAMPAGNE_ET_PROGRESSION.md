@@ -198,6 +198,15 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
     * Il fait de lui-même le lien entre les **5 verbes fondateurs** et le comportement humain des fondateurs (la vanité d'*Altérer* chez Kaelys, l'angoisse de l'effritement chez Gorath avec *Condenser*, la terreur du manque chez Vaelen avec *Aspirer*, la fuite en avant de Lyra avec *Accélérer*, et le mépris distant de Malakor avec *Projeter*).
     * Leurs carnets de route contiennent déjà toutes les clés techniques : le héros fait le pont tout seul, ne consultant Kaelys qu'à de rares occasions pour lui arracher des aveux amers.
 
+* **L'Évolution du Monde & La Terreur Théologique (L'Ironie Dramatique)** :
+  * Au fur et à mesure que le héros abat les corps des dieux, le Continent s'enfonce dans le chaos :
+    * **Le Point de Vue du Peuple** : Ignorant tout des carcasses pourrissantes dans les cryptes, la population voit ses prières tomber dans le vide et ses feux sacrés s'éteindre. La doctrine prêche que **les Dieux ont abandonné l'humanité en colère**.
+    * **Les 3 Réactions des Sorciers Déchus** :
+      1. *Le ralliement au Héros* : Des adeptes et des persécutés voient sa force vivante et choisissent de le suivre comme leur Guide.
+      2. *L'automutilation et les sacrifices macabres* : Des inquisiteurs comprennent que la chair conduit l'éther et se tranchent des membres ou sacrifient des captifs pour forcer une connexion temporaire, atrocement douloureuse et peu efficace.
+      3. *Le retour sauvage à la Faille* : Des désespérés cessent d'appeler les dieux et tentent de puiser directement l'éther brut aux fissures du Sceau (comme la 1ʳᵉ vague d'il y a 2000 ans), finissant consumés, fous ou mutés.
+    * **Notre Point de Vue** : Tandis que le monde crie à l'apocalypse et à l'abandon divin, le joueur sait la vérité crue : il n'y a jamais eu de dieux bienveillants, on a simplement crevé leurs abcès biologiques dans le noir.
+
 * **La Nature de la 6ᵉ Voie (GUIDER) : Zéro Art Martial de Combat, Des Passifs & De la Haute Guidance** :
   * En cavale permanente pour sauver sa mère, **le héros n'a matériellement pas le temps d'inventer un nouvel art martial de combat offensif complet** (ses attaques restent l'escrime et les sorts volés aux Cinq).
   * **En Gameplay (L'Arbre des Passifs du Guide)** : La 6ᵉ Voie s'exprime par des **passifs d'élite** (harmonisation des flux permettant d'équiper plusieurs écoles sans contrecoup, déviation d'éther au sabre pour recharger la posture, résistance aux Limbes).
@@ -250,11 +259,50 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
 
 ---
 
-### Acte V (Climax) : Le Sanctuaire du Sceau Primordial & L'Ultime Épreuve
-* **L'Épicentre du Monde** : Le héros reprend la mer et pénètre au cœur absolu du Continent Scellé : **Le Sanctuaire du Sceau Primordial**, situé au centre géométrique des cinq branches. C'est le cratère béant de la faille où repose, scellé dans le monolithe, **le corps vivant mais sans esprit de Noah**.
+### Acte V (Climax) : Le Sanctuaire Caché, L'Apocalypse de l'Épicentre & Le Panthéon Prime
+
+#### 1. La Carte Géographique Réelle
+* **Le Sceau** : Une immense grille métaphysique scellée dans la roche qui tapisse tout le continent.
+* **Les 5 Sanctuaires de Province** : Répartis aux quatre coins du continent, ils abritaient les 5 corps physiques des Précurseurs (désormais anéantis).
+* **Le Sanctuaire Caché (Le Tombeau du 7ᵉ)** : Dissimulé à l'écart, non loin de l'épicentre. C'est là que repose depuis 2000 ans **le corps physique de Noah (le Septième)** en stase.
+* **L'Épicentre (Le Point Zéro)** : Le cratère originel de la faille des Limbes, cœur névralgique de toute la barrière du monde.
+
+#### 2. Le Sanctuaire Caché : Le Complot de la Secte & L'Assimilation du 7ᵉ Art
+* **Le Plan de l'Organisation / La Secte** :
+  * Privée de ses cinq relais divins, la Secte a localisé le sanctuaire caché où repose le corps de Noah.
+  * **Leur Objectif** : S'emparer du corps du Septième pour monopoliser la **7ᵉ Voie (SCELLER)**. Avec ce pouvoir suprême, la Secte pourrait décider qui a le droit d'utiliser la magie et qui en est privé, instaurant une dictature magique éternelle sur la planète.
+* **L'Intervention du Héros** :
+  * Sachant que la Secte ne fera que perpétuer une tyrannie atroce, le héros prend d'assaut le sanctuaire caché.
+  * Il massacre l'élite des inquisiteurs et **détruit le corps physique de Noah** pour empêcher l'usurpation.
+* **L'Héritage du Septième** :
+  * De la même manière qu'avec les autres stèles, **le héros s'accapare le lien et la connexion directe avec l'art du Septième**.
+  * Ayant déjà en sa possession **le Vieux Journal de Noah** (récupéré dans l'Acte IV sous sa ville natale) avec tous les croquis, les 7 mouvements et la théorie martiale... **il possède désormais TOUT pour déchaîner la Voie : SCELLER** !
+
+#### 3. L'Épicentre : Le Chaos des Dissidents & La Libération du Panthéon
+Le héros fonce vers l'Épicentre tout proche pour verrouiller définitivement le monde avec son nouvel art... mais il arrive au pire moment possible :
+* **La Bataille Totale entre Fanatiques** :
+  * Les **Dissidents anti-magie** ont lancé leur assaut désespéré contre les derniers bastions de la **Secte**.
+  * Les dissidents font sauter leurs explosifs d'éther pour tenter d'abattre le système.
+* **La Catastrophe** :
+  * L'explosion combinée à la panique de la Secte brise les verrous physiques du cratère.
+  * **LE SCEAU S'OUVRE EN GRAND !**
+  * Le ciel se déchire, la barrière entre les deux mondes vole en éclats à l'épicentre. Une quantité démentielle d'énergie brute jaillit, déclenchant des cyclones d'éther dévastateurs et des tempêtes de foudre arcanique comme à l'époque de Noah.
+* **La Libération des Cinq Dieux à leur PRIME** :
+  * Privés de prison, les esprits des Cinq Précurseurs jaillissent des Limbes et se matérialisent dans le monde réel !
+  * Ils ne sont plus des spectres derrière une vitre, ni des masses de viande pourrie : **ce sont les 5 plus grands maîtres d'escrime de l'histoire, dans leur corps originel glorieux d'il y a 800 ans !**
+
+#### 4. L'Ultime Épreuve : Le Boss Rush du Panthéon au Sabre
+Au cœur de l'ouragan d'éther, pour refermer la faille avant la destruction totale de la planète, le héros — armé de ses passifs de Guide et de la 7ᵉ Voie (*Sceller*) — affronte le Panthéon au sabre l'un après l'autre :
+1. **Gorath Prime (Condenser)** : Colosse tellurique, marteau/lame lourde exigeant des déviations parfaites.
+2. **Vaelen Prime (Aspirer)** : Duelliste glacial drainant la posture et punissant toute hésitation.
+3. **Lyra Prime (Accélérer)** : Danseuse supersonique testant les réflexes purs du joueur à la milliseconde.
+4. **Malakor Prime (Projeter)** : Maître des ondes de choc tranchantes à distance.
+5. **Kaelys Prime (Altérer)** : Le duel d'escrime suprême au sabre entre l'élève et son dieu, saluant son successeur devenu l'égal du ciel.
+
+#### 5. Le Dénouement Final : Le Rival & La Boucle Éternelle
 * **L'Ascension du Rival & La Voie « ROMPRE »** :
-  * Pendant que le héros était parti outre-mer, le Rival s'est infiltré seul au cœur du Sceau. Devant la menace du cataclysme et le vide laissé par la chute des Cinq, le Rival a défié le flux brut et a forgé sa propre Voie inédite hors de la boucle : **ROMPRE**.
+  * Pendant que le héros était outre-mer, le Rival s'est infiltré au cœur du Sceau. Devant le vide laissé par la chute des Cinq, le Rival a forgé sa propre Voie inédite hors de la boucle : **ROMPRE**.
 * **L'Affrontement Décisif en ONE TRY** :
   * Si le héros a choisi la **Route Égoïste** : Le Rival se dresse en rempart pour sauver la planète contre un héros devenu dieu destructeur. Un duel d'escrime grandiose, tragique et impitoyable en **ONE TRY (sans Game Over)**.
-  * Si le héros a choisi la **Route Altruiste** : Le Rival combat à ses côtés pour abattre les derniers inquisiteurs et le Grand Inquisiteur de la Secte, permettant au héros d'accomplir la danse du Sceau.
+  * Si le héros a choisi la **Route Altruiste** : Le Rival combat à ses côtés pour abattre les derniers inquisiteurs, permettant au héros d'accomplir la danse du Sceau.
 * **La Fermeture Éternelle de la Boucle** : Le héros utilise la Voie du Guide pour projeter son propre carnet de notes neuf à travers les Limbes vers l'an -2000, guidant Noah dans le cyclone primitif et assurant à jamais l'existence du monde et des hommes.

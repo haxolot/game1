@@ -137,18 +137,36 @@ Le héros reprend clandestinement la mer en sens inverse vers les Terres Extéri
    * Une trappe de mineur permet au héros d'émerger directement dans la chambre de sa mère mourante.
    * *Choix Altruiste* : Sommeil paisible offert à la mère, sacrifice consenti pour sauver le monde.
    * *Choix Égoïste* : Guérison totale de la mère par le flux pur, quitte à risquer l'effondrement du Continent.
-2. **La Cache Scellée sous la Ville Natale** : Sous les pavés et les taudis de sa ville d'enfance, il pénètre dans la crypte obscure (dépourvue de toute brèche magique).
-   * **La Serrure Martiale** : Un mécanisme mécanique vieux de 2000 ans ne s'ouvrant qu'en frappant au sabre avec les différentes Voies maîtrisées.
-   * **Le Vieux Journal de Noah** : Posé au centre, le carnet usé contient ses remerciements intimes et la clé manquante : **la 7ème Voie (*Sceller*)**, qu'il s'entraîne à répéter physiquement au sabre (*Dojo du Sceau*).
-3. **Le Moment Intime avec la Mère** :
-   * Avant de sceller son avenir, le héros remonte à la surface et revoit sa mère alitée :
-     * *Scénario du Devoir / Sceller la Faille* : Le héros accomplit un rituel qui apaise définitivement ses atroces souffrances, lui offrant un sommeil paisible avant de partir se sacrifier pour sauver le monde.
-     * *Scénario Égoïste / Sauver sa Mère* : Le héros utilise l'énergie concentrée pour la soigner et la guérir sur place, acceptant de condamner l'ordre mondial pour préserver sa vie.
-4. **La Reprise de la Mer** : Armé de la 7ème Voie (*Le Sceau*), le héros reprend la mer vers le Continent Scellé pour l'ultime confrontation. Il utilise la Voie du Guide pour projeter son journal neuf dans les Limbes vers l'an -2000, refermant éternellement la boucle temporelle.
-
 ---
 
-## 5. Le Dénouement : La Dualité des Routes & Le Duel en « One-Try »
+## 5. L'Acte V (Climax) : Le Sanctuaire Caché, L'Apocalypse de l'Épicentre & Le Panthéon Prime
+
+### A. La Carte Géographique Réelle
+* **Le Sceau** : Une immense grille métaphysique scellée dans la roche qui tapisse tout le continent.
+* **Les 5 Sanctuaires de Province** : Répartis aux quatre coins du continent, ils abritaient les 5 corps physiques des Précurseurs (anéantis par le héros).
+* **Le Sanctuaire Caché (Le Tombeau du 7ᵉ)** : Dissimulé à l'écart, non loin de l'épicentre. C'est là que repose depuis 2000 ans **le corps physique de Noah (le Septième)** en stase.
+* **L'Épicentre (Le Point Zéro)** : Le cratère originel de la faille des Limbes, cœur névralgique de toute la barrière du monde.
+
+### B. Le Sanctuaire Caché : Le Complot de la Secte & L'Assimilation du 7ᵉ Art
+* **Le Plan de l'Organisation / La Secte** : Privée de ses cinq relais divins, la Secte a localisé le corps de Noah pour s'emparer de la **7ᵉ Voie (SCELLER)** et instaurer une dictature magique éternelle en contrôlant qui a accès au flux.
+* **L'Intervention du Héros** : Sachant que la Secte ne fera que perpétuer une tyrannie atroce, le héros prend d'assaut le sanctuaire caché, massacre l'élite de la Secte et **détruit le corps physique de Noah** pour empêcher l'usurpation.
+* **L'Héritage du Septième** : De la même manière qu'avec les autres stèles, le héros s'accapare le lien direct avec l'art du Septième. Possédant déjà le **Vieux Journal de Noah** (Acte IV), il a désormais tout pour déchaîner la Voie : **SCELLER** !
+
+### C. L'Épicentre : Le Chaos des Dissidents & La Libération du Panthéon
+Le héros fonce vers l'Épicentre pour verrouiller le monde avec son nouvel art, mais arrive au pire moment :
+* **La Bataille Totale entre Fanatiques** : Les **Dissidents anti-magie** attaquent les derniers bastions de la **Secte** et font sauter leurs explosifs d'éther.
+* **La Catastrophe** : L'explosion brise les verrous physiques du cratère : **LE SCEAU S'OUVRE EN GRAND !** Des cyclones d'éther brut déchirent les cieux et la terre comme à l'époque primitive de Noah.
+* **La Libération des Cinq Dieux à leur PRIME** : Privés de prison, les esprits des Cinq Précurseurs jaillissent des Limbes et se matérialisent dans le monde réel sous leur **corps glorieux d'escrimeurs d'il y a 800 ans** !
+
+### D. L'Ultime Épreuve : Le Boss Rush du Panthéon au Sabre
+Au cœur des cyclones d'éther, pour refermer la faille avant l'anéantissement de la planète, le héros affronte les 5 Dieux à leur Prime l'un après l'autre :
+1. **Gorath Prime (Condenser)** : Colosse tellurique exigeant des déviations parfaites.
+2. **Vaelen Prime (Aspirer)** : Duelliste glacial drainant la posture.
+3. **Lyra Prime (Accélérer)** : Danseuse supersonique testant les réflexes purs.
+4. **Malakor Prime (Projeter)** : Maître des lames d'éther à distance.
+5. **Kaelys Prime (Altérer)** : Le duel d'escrime suprême au sabre entre l'élève et son dieu.
+
+### E. Le Dénouement Final : Le Rival & La Dualité des Routes
 
 Possédant désormais la 7ème Voie (*Sceller*), le joueur fait face au cœur de la faille :
 
