@@ -23,17 +23,27 @@
 
 ---
 
-## 3. Le Rival (Frère d'Armes & Sauveur Inattendu)
+## 3. Le Pote de l'Académie (Frère d'Armes & Ancre Humaine)
 
-* **Statut** : Compagnon de route du héros, embarqué sur la même traversée clandestine depuis les Terres Extérieures. Épéiste brillant et loyal.
-* **Évolution** : Soutient le héros dans sa lutte contre l'oppression théocratique des Cinq Écoles et l'aide à briser les autels corrompus.
-* **Point de Rupture** : Lorsque le héros refuse de refermer le Sceau pour sauver sa mère (Run Égoïste), le Rival réalise avec horreur que son ami condamne toute l'humanité.
-* **L'Exploit Martial** : Acculé face à un héros devenu quasi-divin, le Rival forge sa propre Voie inédite hors de la boucle temporelle : **ROMPRE**.
-* **Le Duel One-Try** : Affronte le héros au sabre dans un combat unique sans retour. S'il l'emporte, il scelle la faille en pleurant son ami et sauve le monde dans l'anonymat.
+* **Statut** : Camarade de chambrée et frère d'armes du héros à la Grande Académie des Cinq Voies. Épéiste pragmatique et loyal.
+* **Évolution** : Après le crime de guerre et la trahison de l'Académie, il refuse de fuir comme un paria : il choisit de rester dans l'institution pour monter en grade et la réformer de l'intérieur.
+* **Le Soutien dans l'Ombre** : C'est lui qui fournit au héros les plans d'accès pour voler le grimoire originel non censuré de sa Voie.
+* **Le Rôle en Acte V** : Pendant que le héros parcourt le monde, le pote sabote l'Organisation de l'intérieur et évacue les civils. À l'Épicentre, il arrive avec des survivants pour repousser les fanatiques et couvrir les arrières du héros. C'est l'ancre humaine et lumineuse qui rappelle au héros d'où il vient.
 
 ---
 
-## 4. Les Cinq Précurseurs (Les Faux Dieux)
+## 4. Kaelys (Le Véritable Rival & Le Maître Cynique)
+
+* **Statut** : Précurseur de la Voie de l'Altération (Voie 2). Le vrai rival du héros depuis le premier jour.
+* **La Relation Miroir** :
+  * C'est le dieu que le héros priait à l'Académie, et le premier corps que le héros a abattu au sabre en Acte II.
+  * Coincé dans les Limbes, Kaelys devient son mentor malgré lui, son copilote cynique et son pire provocateur à chaque stèle.
+  * C'est face à l'arrogance de Kaelys que le héros se poignarde à Gorath et forge la philosophie du Guide.
+* **Le Climax Ultime (Acte V)** : Quand la faille s'ouvre et libère les dieux à leur Prime, Kaelys est le tout dernier rempart au sabre : le duel maître contre élève, dieu contre Guide, pour décider qui est digne d'ordonner le monde.
+
+---
+
+## 5. Les Cinq Précurseurs (Les Faux Dieux)
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────┐

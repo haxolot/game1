@@ -63,23 +63,22 @@ Pour stabiliser le continent :
   │
 [Acte I] L'Apprenti de l'Ordre ──> Fraternité avec le Rival ──> Missions de Fief ──> Refus des Soins & Fuite au Sabre
   │
-[Acte II] Le Mercenaire Solitaire (La Cavale) ──> Contrats sur les Routes ──> Épreuve du Seuil ──> ÉVEIL DE LA 6ᵉ VOIE (GUIDER)
+[Acte I] L'Apprenti de l'Académie ──> Amitié avec son camarade (Le Pote) ──> Le Crime de Guerre ──> Infiltration Secrète
   │
-[Acte III] La Chute des 5 Sanctuaires Périphériques (Séparés des Écoles) :
-  ├── Exploration Régionale & Élimination des Capitaines de la Secte
-  ├── Palier 1 : Abattre le Corps Maudit en crypte ──> Fin du monopole magique
-  ├── Choix d'Autel : Usurpation (Embrigadement) vs Voie Pure (Dextérité martiale)
-  └── Palier 2 : Duel au Sabre dans les Limbes contre la Forme Prime du Précurseur
+[Acte II] La Cavale sous Nom d'Emprunt ──> Chute du Corps de Kaelys ──> LE PACTE & LA VRAIE RIVALITÉ AVEC LE DIEU
+  │
+[Acte III] La Traque des 4 Sanctuaires (Duo avec Kaelys) ──> Meurtre des 4 Corps ──> ÉVEIL DU GUIDE (Passifs & Vision)
   │
 [Acte IV] Le Retour d'Outre-Mer (Terres Extérieures) :
   ├── Traversée des Limbes & QTE « GUIDER LA TEMPÊTE » sur la chaloupe du passé
-  ├── La Cache Scellée sous la Ville Natale : Serrure Martiale des 6 Voies & Récupération de la 7ᵉ Voie (SCELLER)
-  ├── Le Dojo du Sceau : Entraînement physique aux 7 mouvements de Noah
+  ├── La Cache Scellée sous la Ville Natale : Serrure Martiale & Récupération de la 7ᵉ Voie (SCELLER)
   └── Scène Clé : Retrouvailles au chevet de la Mère (Apaisement altruiste OU Guérison égoïste)
   │
-[Acte V - Climax] L'Épicentre du Continent (Le Sanctuaire du Sceau Primordial) :
-  ├── Découverte de la Dépouille en stase de Noah au point zéro
-  └── Confrontation Décisive : Duel au Sabre en ONE TRY contre le Rival (Voie ROMPRE)
+[Acte V - Climax] Le Sanctuaire Caché & L'Apocalypse de l'Épicentre :
+  ├── Destruction du corps de Noah au Sanctuaire Caché & Assimilation de SCELLER
+  ├── Faille béante à l'Épicentre & Libération des Cinq Dieux à leur PRIME
+  ├── Boss Rush du Panthéon : Gorath, Vaelen, Lyra, Malakor
+  └── LE CLIMAX ULTIME : DUEL AU SABRE CONTRE LE VRAI RIVAL — KAELYS PRIME
 ```
 
 > [!NOTE] Trame Principale & Trames Secondaires
@@ -166,36 +165,16 @@ Au cœur des cyclones d'éther, pour refermer la faille avant l'anéantissement 
 4. **Malakor Prime (Projeter)** : Maître des lames d'éther à distance.
 5. **Kaelys Prime (Altérer)** : Le duel d'escrime suprême au sabre entre l'élève et son dieu.
 
-### E. Le Dénouement Final : Le Rival & La Dualité des Routes
+### E. Le Climax Ultime : Le Duel des Rivaux — KAELYS PRIME VS LE GUIDE
+Le véritable rival du héros n'a jamais été un apprenti d'école : **son vrai rival a toujours été Kaelys**.
+* C'est le dieu qu'il priait, le monstre qu'il a saigné, l'esprit arrogant qui l'a accompagné, provoqué, guidé et respecté.
+* Après la chute des quatre autres dieux, **Kaelys Prime s'avance seul au centre de l'ouragan**, sabre au clair :  
+  > *« Tu as terrassé mes quatre frères, chien errant. Mais tu as appris à trancher sous mon nom, tu as marché avec mon sang dans ta paume, et tu as forgé ton insolence contre la mienne. Montre-moi si l'élève peut briser le maître. Montre-moi si le Sixième est digne de guider ce monde ! »*
+* **Le Duel Final de Légende** : Le combat au sabre le plus intense, rapide et viscéral du jeu. Vaincu au fer, Kaelys s'incline avec un dernier sourire fier devant celui qui l'a surpassé avant de se dissoudre.
 
-Possédant désormais la 7ème Voie (*Sceller*), le joueur fait face au cœur de la faille :
-
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│                      LES DEUX GRANDES ROUTES FINALES                   │
-├────────────────────────────────────────────────────────────────────────┤
-│ 1. LA ROUTE ALTRUISTE (Le Devoir & L'Apaisement) :                     │
-│    Le héros a apaisé les douleurs de sa mère et accepte le sacrifice.  │
-│    Il utilise le Sceau pour refermer la faille ou s'y sceller lui-même.│
-│    Le monde est sauvé, le Rival est son allié qui honore sa mémoire.   │
-│                                                                        │
-│ 2. LA ROUTE ÉGOÏSTE (L'Amour d'un Fils contre l'Humanité) :            │
-│    Le héros a guéri sa mère ou refuse d'activer le Sceau qui détruirait│
-│    le flux vital la maintenant en vie. Prêt à laisser le monde périr   │
-│    pour sa mère, le héros devient la menace divine. Le Rival s'inter-  │
-│    pose sur le Continent pour sauver l'humanité.                       │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-### Le Rival et la Voie Hérétique : « ROMPRE »
-Dans la **Route Égoïste**, le Rival refuse de laisser son ami sacrifier la planète pour une seule femme. Mais face au héros qui a tué 5 dieux et détient le Sceau, la magie classique est impuissante.  
-Poussé par la terreur sacrée de sauver le monde, le Rival réunit les 4 conditions de création d'une Voie (carburant brut, absolu intérieur, geste instinctif, ancrage) et **arrache au néant une Voie imprévue par le destin : ROMPRE**.
-
-### Le Combat Final en « ONE TRY » (Sans Game Over)
-Ce duel au sabre de 5 à 7 minutes ne recharge aucune sauvegarde : **la défaite fait partie de l'Histoire**.
-* **Le Mind-Game de ROMPRE** : Les sorts du joueur fonctionnent, mais le rival possède des charges d'annulation actives (salves de 1, 2 ou 3 contres violents) forçant le joueur à feinter avant de placer ses grosses attaques.
-* **Issue A (Le Joueur Meurt — Fin Tragique du Rival)** : Le rival terrasse le héros en larmes, ramasse le Sceau et sauve l'humanité. Dans les Terres Extérieures, la mère s'éteint doucement sans savoir que son fils a tout sacrifié pour elle.
-* **Issue B (Le Joueur Triomphe — Fin Sombre du Héros)** : Le héros abat son ami au sabre, refuse le Sceau et repart vers l'océan avec le remède pour sa mère, laissant un monde brisé derrière lui.
+### F. Le Rôle du Pote de l'Académie & La Fermeture de la Boucle
+* **Le Pote de l'Académie (L'Ancre Humaine)** : Resté à l'Académie, le camarade du héros a utilisé son grade pour saboter la Secte de l'intérieur et protéger les civils. Il rejoint le héros à l'épicentre avec des survivants pour repousser les derniers fanatiques, prouvant la force de leur amitié.
+* **La Fermeture de la Boucle** : Le héros utilise la 7ᵉ Voie (*Sceller*) pour refermer la faille du Sceau, puis projette son carnet neuf à travers les Limbes vers Noah en -2000 avec la 6ᵉ Voie (*Guider*), assurant l'éternité du monde.
 
 ---
 

@@ -153,4 +153,14 @@ Au lieu d'attendre la fin de l'Acte III pour forger la 6ᵉ Voie (*Guider*), le 
 
 ---
 
-> **Note de Suivi** : Ces points résument les échanges et restent disponibles si l'on souhaite avancer l'éveil de la 6ᵉ Voie plus tôt dans le gameplay.
+## 8. Ancienne Piste Abandonnée : Le Rival de l'Académie et la Voie « ROMPRE »
+
+> **Statut** : Piste réfutée et archivée pour mémoire. L'utilisateur a confirmé que le camarade de l'Académie reste notre **pote loyal** (l'ancre humaine du héros). Le véritable Rival de l'histoire, c'est **Kaelys**.
+
+### Résumé de l'Ancienne Version :
+Dans une ébauche antérieure, le camarade de l'Académie montait en grade et s'interposait à l'Épicentre en Acte V sous la bannière d'une 8ᵉ Voie inédite (*ROMPRE*), affrontant le héros dans un combat en ONE TRY si le joueur choisissait la route égoïste.
+
+### Pourquoi elle a été écartée :
+1. **Artificielle** : Le camarade d'enfance n'a pas le poids émotionnel ni l'envergure théologique pour servir de boss final face à un héros qui vient de terrasser 5 divinités millénaires.
+2. **Kaelys est le vrai Rival** : Kaelys est le dieu que le héros priait, dont il a découpé le corps, qui l'a accompagné et défié pendant toute l'aventure. C'est l'affrontement maître contre élève face à **Kaelys Prime** qui constitue le véritable sommet émotionnel et martial du jeu.
+3. **Le Pote reste notre bro** : Le camarade de l'Académie fonctionne 100 fois mieux comme allié pragmatique dans l'ombre, qui sabote la Secte et protège les civils à l'épicentre.

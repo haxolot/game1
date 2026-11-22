@@ -9,27 +9,28 @@
 ```text
 [Prologue] Débarquement Clandestin ──> Tuto Sabre Solo (Brigands) ──> Entrée à la Grande Académie des Cinq Voies
   │
-[Acte I] L'Apprenti de l'Académie ──> Fraternité avec le Rival ──> Le Crime de Guerre ──> Trahison & Infiltration Secrète
+[Acte I] L'Apprenti de l'Académie ──> Amitié avec son camarade (Le Pote) ──> Le Crime de Guerre ──> Trahison & Infiltration Secrète
   │
 [Acte II] La Cavale sous Nom d'Emprunt ──> Filature du Convoi ──> Chute du Corps de Kaelys ──> LE PACTE AVEC LE DIEU
-  ├── Naissance du Duo : Le Dieu spectral hautain & Le chevalier ouvrier insolent
+  ├── Naissance de la vraie Rivalité : Kaelys (le Dieu cynique) & Le héros (le chevalier ouvrier insolent)
   └── Contrats de Mercenaire & Installation du Duo sur les Routes
   │
 [Acte III] La Traque des 4 Sanctuaires (Le Duo en Action) :
   ├── Kaelys en copilote : Révélation des faiblesses intimes de ses rivaux (Gorath, Vaelen, Lyra, Malakor)
   ├── Pénétration des 4 biomes régionaux & Destruction des 4 Corps Maudits
-  ├── Duels au Sabre contre les Formes Primes dans les Limbes & Maîtrise des 5 Voies
-  └── Climax de l'Acte III : ÉMANCIPATION DE KAELYS & FORGE DE LA 6ᵉ VOIE (GUIDER)
+  └── Climax de l'Acte III : Le 5ᵉ Corps abattu, l'injonction de fuite & Éveil du Guide
   │
 [Acte IV] Le Retour d'Outre-Mer (Terres Extérieures) :
   ├── Traversée des Limbes & QTE « GUIDER LA TEMPÊTE » sur la chaloupe du passé
-  ├── La Cache Scellée sous la Ville Natale : Serrure Martiale des 6 Voies & Récupération de la 7ᵉ Voie (SCELLER)
-  ├── Le Dojo du Sceau : Entraînement physique aux 7 mouvements de Noah
+  ├── La Cache Scellée sous la Ville Natale : Serrure Martiale & Récupération de la 7ᵉ Voie (SCELLER)
+  ├── Le Sanctuaire Natal : Rassemblement des fidèles ralliés
   └── Scène Clé : Retrouvailles au chevet de la Mère (Apaisement altruiste OU Guérison égoïste)
   │
-[Acte V - Climax] L'Épicentre du Continent (Le Sanctuaire du Sceau Primordial) :
-  ├── Découverte de la Dépouille en stase de Noah au point zéro
-  └── Confrontation Décisive : Duel au Sabre en ONE TRY contre le Rival (Voie ROMPRE)
+[Acte V - Climax] Le Sanctuaire Caché & L'Apocalypse de l'Épicentre :
+  ├── Assaut du Sanctuaire Caché : Destruction du corps de Noah & Assimilation de SCELLER
+  ├── Faille béante à l'Épicentre : Libération des 5 Dieux à leur PRIME
+  ├── Boss Rush du Panthéon : Gorath, Vaelen, Lyra, Malakor
+  └── LE CLIMAX ULTIME : DUEL AU SABRE CONTRE LE VRAI RIVAL — KAELYS PRIME
 ```
 
 ---
@@ -292,17 +293,23 @@ Le héros fonce vers l'Épicentre tout proche pour verrouiller définitivement l
   * Ils ne sont plus des spectres derrière une vitre, ni des masses de viande pourrie : **ce sont les 5 plus grands maîtres d'escrime de l'histoire, dans leur corps originel glorieux d'il y a 800 ans !**
 
 #### 4. L'Ultime Épreuve : Le Boss Rush du Panthéon au Sabre
-Au cœur de l'ouragan d'éther, pour refermer la faille avant la destruction totale de la planète, le héros — armé de ses passifs de Guide et de la 7ᵉ Voie (*Sceller*) — affronte le Panthéon au sabre l'un après l'autre :
+Au cœur de l'ouragan d'éther, pour refermer la faille avant la destruction totale de la planète, le héros — armé de ses passifs de Guide et de la 7ᵉ Voie (*Sceller*) — affronte le Panthéon au sabre :
 1. **Gorath Prime (Condenser)** : Colosse tellurique, marteau/lame lourde exigeant des déviations parfaites.
 2. **Vaelen Prime (Aspirer)** : Duelliste glacial drainant la posture et punissant toute hésitation.
 3. **Lyra Prime (Accélérer)** : Danseuse supersonique testant les réflexes purs du joueur à la milliseconde.
 4. **Malakor Prime (Projeter)** : Maître des ondes de choc tranchantes à distance.
-5. **Kaelys Prime (Altérer)** : Le duel d'escrime suprême au sabre entre l'élève et son dieu, saluant son successeur devenu l'égal du ciel.
 
-#### 5. Le Dénouement Final : Le Rival & La Boucle Éternelle
-* **L'Ascension du Rival & La Voie « ROMPRE »** :
-  * Pendant que le héros était outre-mer, le Rival s'est infiltré au cœur du Sceau. Devant le vide laissé par la chute des Cinq, le Rival a forgé sa propre Voie inédite hors de la boucle : **ROMPRE**.
-* **L'Affrontement Décisif en ONE TRY** :
-  * Si le héros a choisi la **Route Égoïste** : Le Rival se dresse en rempart pour sauver la planète contre un héros devenu dieu destructeur. Un duel d'escrime grandiose, tragique et impitoyable en **ONE TRY (sans Game Over)**.
-  * Si le héros a choisi la **Route Altruiste** : Le Rival combat à ses côtés pour abattre les derniers inquisiteurs, permettant au héros d'accomplir la danse du Sceau.
-* **La Fermeture Éternelle de la Boucle** : Le héros utilise la Voie du Guide pour projeter son propre carnet de notes neuf à travers les Limbes vers l'an -2000, guidant Noah dans le cyclone primitif et assurant à jamais l'existence du monde et des hommes.
+#### 5. Le Climax Ultime : Le Duel des Rivaux — KAELYS PRIME VS LE GUIDE
+Le vrai rival du héros n'a jamais été un apprenti de l'Académie : **son véritable rival a toujours été Kaelys**.
+* Le dieu dont il a prié les statues, dont il a découpé la carcasse pourrissante, avec qui il a partagé la route, les sarcasmes, les doutes et le sang.
+* Alors que les quatre autres s'effondrent, **Kaelys Prime s'avance seul au centre de la tempête**, sabre au clair :
+  > *« Tu as terrassé mes quatre frères, chien errant. Mais tu as appris à trancher sous mon nom, tu as marché avec mon sang dans ta paume, et tu as forgé ton insolence contre la mienne.  
+  > Montre-moi si l'élève peut briser le maître. Montre-moi si le Sixième est digne de guider ce monde ! »*
+* **Le Combat Final de Légende** : Le duel au sabre le plus intense, rapide, technique et intime du jeu. Deux philosophies d'escrime qui s'affrontent au bord du néant, sous les éclairs d'éther.
+* **La Défaite Honorable de Kaelys** : Terrassé par le sabre du Guide, Kaelys esquisse un dernier sourire fier et soulagé, s'inclinant devant celui qui l'a surpassé avant de se dissoudre dans les Limbes.
+
+#### 6. Le Rôle du Pote de l'Académie & La Fermeture de la Boucle
+* **Le Pote de l'Académie (L'Ancre Humaine)** :
+  * Resté à l'Académie, le pote a utilisé son grade pour saboter la Secte de l'intérieur et guider les civils vers des abris.
+  * À l'épicentre, il arrive avec des survivants pour couvrir les arrières du héros contre les derniers inquisiteurs fanatiques, prouvant que leur fraternité humaine était réelle.
+* **La Fermeture Éternelle de la Boucle** : Le héros utilise la 7ᵉ Voie (*Sceller*) pour sceller définitivement la faille, puis utilise la 6ᵉ Voie (*Guider*) pour projeter son carnet de notes neuf à travers les Limbes vers l'an -2000, guidant Noah dans le cyclone primitif et assurant à jamais l'existence du monde et des hommes.

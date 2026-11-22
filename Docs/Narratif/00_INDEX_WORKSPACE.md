@@ -13,7 +13,7 @@ Bienvenue dans le **Workspace Narratif Officiel** d'Haxolot. Ce dossier décompo
 | **[03. Les Voies & Le Paradoxe Temporel](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/03_LES_VOIES_ET_LE_PARADOXE_TEMPOREL.md)** | Le cœur causal de l'intrigue | Les 7 Voies canoniques, le rôle de la Voie du Guide, le Paradoxe des Deux Journaux (lettres à la mère vs annotations de Noah). |
 | **[04. Personnages & Précurseurs](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/04_PERSONNAGES_ET_PRECURSEURS.md)** | Le casting et le panthéon | Fiche du Héros (homme ordinaire au sabre), Noah (le pionnier mort dans les Limbes), les 5 Précurseurs (moteurs, styles Sekiro, provinces). |
 | **[05. Campagne & Progression](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/05_CAMPAGNE_ET_PROGRESSION.md)** | Déroulé du jeu manette en main | Prologue (naufrage, fontaine captive), Acte I (cellule, auto-invocation), Actes II & III (marche des 5 stations, choix d'autel), Climax. |
-| **[06. Fins, Rival & Le One-Try](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/06_FINS_RIVAL_ET_LE_ONE_TRY.md)** | Le dénouement et le duel final | Run Altruiste vs Run Égoïste, le Rival et sa Voie « ROMPRE », mécanique du duel en ONE TRY (Issues A et B), matrice des fins. |
+| **[06. Fins & Le Duel Final contre Kaelys](file:///c:/Users/haite/Documents/gamedev/haxolot/Docs/Narratif/06_FINS_RIVAL_ET_LE_ONE_TRY.md)** | Le dénouement et le duel final | Run Altruiste vs Run Égoïste, Kaelys comme vrai Rival, le duel d'escrime au sabre à l'épicentre, le rôle du Pote de l'Académie, matrice des fins. |
 
 ---
 
@@ -23,4 +23,4 @@ Bienvenue dans le **Workspace Narratif Officiel** d'Haxolot. Ce dossier décompo
 2. **Le Double est Métaphysique, pas un familier de combat** : En jeu, le héros se bat **100% seul au sabre**. Son Double dans les Limbes est son ancre spirituelle, son écho temporel, mais n'apparaît jamais pour faire des combos.
 3. **La Fuite du Sceau était Voulue** : Noah a sciemment laissé le Sceau fuiter pour que la magie naisse et rende possible son propre sauvetage. Cette fuite est la cause directe de la maladie de la mère.
 4. **Les Cinq ont un Vrai Mérite** : Ils ont réellement inventé les Voies 1 à 5. Leurs corps sont devenus les réceptacles du Sceau lors de la Guerre d'Un An.
-5. **Le Rival est le Sauveur dans la Run Égoïste** : Si le joueur refuse de sceller le monde pour sauver sa mère, le rival crée sa propre Voie (*ROMPRE*) pour tenter de sauver l'humanité dans un duel **ONE TRY** sans Game Over.
+5. **Kaelys est le Vrai Rival** : Le camarade de l'Académie est notre pote loyal dans l'ombre. La vraie rivalité de sang, d'ego et de philosophie se joue avec Kaelys, culminant dans l'ultime duel au sabre au cœur de la tempête.

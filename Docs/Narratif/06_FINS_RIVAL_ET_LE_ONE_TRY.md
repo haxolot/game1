@@ -1,78 +1,64 @@
-# 06 - Fins, Rival & Le One-Try
+# 06 - Fins & Le Duel des Rivaux (Kaelys Prime)
 
-> **Thématique** : Le choix philosophique final, la rupture entre les deux amis et le duel unique en One-Try.
+> **Thématique** : Le choix philosophique final, l'ultime duel au sabre contre Kaelys Prime (le vrai rival) et la résolution de la boucle.
 
 ---
 
-## 1. La Dualité des Deux Grandes Routes Finales
+## 1. La Vraie Rivalité : Kaelys Prime comme Boss Final Ultime
 
-Après avoir découvert le Sixième Sanctuaire caché sous sa ville natale et récupéré le Vieux Journal de Noah (Voie 7 : *Le Sceau*), le héros revoit sa mère alitée avant de reprendre la mer vers le Continent Scellé :
+Le camarade de l'Académie n'est pas un ennemi : **c'est notre pote loyal**, l'ancre humaine qui a saboté la Secte de l'intérieur et protégé les civils.
+
+Le véritable rival du héros depuis le premier jour a toujours été **Kaelys** :
+* C'est le dieu tutélaire que le héros vénérait à l'Académie.
+* C'est la carcasse monstrueuse que le héros a abattue en Acte II dans le sang.
+* C'est le mentor cynique et arrogant qui a partagé sa route aux stèles, lui donnant sa marque de flux pur, le provoquant, jugeant ses coups de sabre et assistant à sa métamorphose en Guide.
+* Au Climax de l'Acte V, lorsque la faille béante libère les Cinq Dieux des Limbes à leur Prime, **Kaelys est le point d'orgue absolu du Boss Rush du Panthéon** : le duel maître contre élève, le choc de deux volontés au bord du Sceau béant.
+
+---
+
+## 2. Le Duel de Légende au Sabre : Kaelys Prime vs Le Guide
+
+Ce combat final au sabre est le sommet de la tension martiale *Sekiro-like* :
+
+* **L'Arène Apocalyptique** : Au cœur de l'ouragan d'éther et des cyclones déchirant l'Épicentre, après avoir vaincu Gorath, Vaelen, Lyra et Malakor.
+* **Le Dialogue au Fil des Lames** :
+  > *« Tu as terrassé mes quatre frères, chien errant. Mais tu as appris à trancher sous mon nom, tu as marché avec mon sang dans ta paume, et tu as forgé ton insolence contre la mienne.  
+  > Montre-moi si l'élève peut briser le maître. Montre-moi si le Sixième est digne de guider ce monde ! »*
+* **Chorégraphie Martiale Pure** : Kaelys Prime utilise la Voie de l'Altération absolue : des tranchants brise-ciel d'une vélocité et d'une précision diaboliques, exigeant des déviations au millimètre.
+* **L'Issue Honorable** : Vaincu au fer, Kaelys s'incline devant celui qu'il a accompagné. Il reconnaît sa défaite avec fierté et s'efface dans les Limbes, laissant le Guide sceller le destin du monde.
+
+---
+
+## 3. La Dualité des Routes & Le Destin de la Mère
+
+Le choix du héros au chevet de sa mère (Acte IV) influence la conclusion de la bataille :
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
 │                      LES DEUX GRANDES ROUTES FINALES                   │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 1. LA RUN ALTRUISTE (Le Devoir & L'Apaisement) :                       │
-│    Avant de reprendre la mer, le héros accomplit un rituel qui apaise  │
-│    définitivement les atroces douleurs de sa mère alitée. Conscient du │
-│    poids de son destin, il repart vers le Continent pour sceller le    │
-│    Sceau et sauver la Terre. Le Rival est son allié jusqu'au bout.     │
+│ 1. LA RUN ALTRUISTE (Le Devoir & Le Sacrifice) :                       │
+│    Le héros a apaisé les douleurs de sa mère par un sommeil paisible.  │
+│    Après avoir terrassé Kaelys, il utilise la 7ᵉ Voie (*Sceller*) pour │
+│    refermer hermétiquement la faille. Le monde est sauvé, le pote      │
+│    honore sa mémoire et l'humanité renaît libre des faux dieux.        │
 │                                                                        │
-│ 2. LA RUN ÉGOÏSTE (L'Amour d'un Fils contre le Monde) :                │
-│    Le héros refuse de voir sa mère condamnée. Il utilise l'énergie pour│
-│    la soigner sur place, ou refuse d'activer le Sceau qui anéantirait  │
-│    le flux qui la maintient en vie. Prêt à laisser le monde s'effondrer│
-│    pour préserver sa mère, le héros devient la menace divine.          │
-│    Le Rival s'interpose sur le Continent pour sauver l'humanité.       │
+│ 2. LA RUN ÉGOÏSTE (L'Amour d'un Fils contre l'Ordre Cosmique) :        │
+│    Le héros a utilisé le flux pour guérir sa mère sur place.           │
+│    Après avoir vaincu Kaelys, il refuse d'activer un Sceau total qui   │
+│    couperait le flux vital qui maintient sa mère en vie. Il laisse     │
+│    un monde instable mais libre, repartant la retrouver outre-mer.    │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 2. Le Rival & La Création de la Voie « ROMPRE »
-
-Dans la **Run Égoïste**, le Rival assiste avec effroi au basculement de son ami. Le héros est devenu un demi-dieu ayant terrassé 5 divinités : aucun mortel avec la magie classique ne peut lui résister.
-
-Acculé devant la faille, le Rival réunit les **4 Piliers Fondateurs** :
-1. *Carburant* : Énergie brute de la faille ouverte au Climax.
-2. *Absolu* : Devoir sacré de sauver l'humanité de son propre ami.
-3. *Geste* : Style martial instinctif brisant toute forme académique.
-4. *Ancrage* : Éveil de son Double dans les Limbes.
-
-Il arrache au néant une Voie inédite, imprévue par le Journal de Noah et hors de la boucle temporelle : **ROMPRE** (dont l'essence est de *Consumer* le flux adverse).
-
----
-
-## 3. Le Boss Fight du Rival : Un Duel en « ONE TRY »
-
-Ce combat final ne possède **aucun écran de Game Over ni de recharge de sauvegarde** :
-
-* **Un Long Duel d'Escrime (5 à 7 min)** : Équilibré pour être « plus stylé qu'impossible » (chorégraphie de sabre pure, fenêtres de parade généreuses, tension viscérale, dialogues au fil des lames).
-* **Le Mind-Game de ROMPRE** :
-  * Les sorts du joueur fonctionnent normalement.
-  * Le Rival gère une jauge active de charges de rupture : il peut claquer 1, 2 ou 3 annulations d'affilée en mode furie pour briser les attaques du héros.
-  * Quand ses charges sont vides, il entre en récupération : c'est la fenêtre pour le joueur de le feinter et lui placer ses grosses Voies chargées.
-
-### Les Deux Issues Cinématiques Directes :
-
-#### Issue A : Le Joueur Meurt (Victoire du Rival — Fin Tragique)
-* Le Rival porte le coup fatal au héros en larmes.
-* Il pleure son frère d'armes, ramasse le Sceau et scelle la faille pour sauver la Terre.
-* Dans les Terres Extérieures, la mère du héros s'éteint doucement sans jamais savoir que son fils s'est sacrifié pour elle. Le Rival devient le protecteur anonyme de l'Histoire.
-
-#### Issue B : Le Joueur Triomphe (Victoire du Héros — Fin Sombre)
-* Le héros terrasse son meilleur ami dans un dernier éclat d'acier.
-* Il refuse d'activer le Sceau. Il tourne le dos à la faille et repart vers l'océan avec le remède pour sa mère.
-* Le monde est abandonné à la dérive et à la corruption, tandis que le héros vit avec le fardeau d'avoir condamné l'humanité par amour filial.
-
----
-
-## 4. Matrice des Fins Alternatives (Selon le Choix de Sceau)
+## 4. Matrice des Fins Alternatives (Selon la Clôture du Sceau)
 
 | Fin | Action du Joueur | Sort de la Mère | Conséquence sur le Monde |
 | :--- | :--- | :--- | :--- |
-| **1. Le Cycle (Canonique)** | Renvoie son journal sans rien modifier | Reste malade | Le statu quo temporel est maintenu, le monde survit |
-| **2. Se Sceller** | Devient lui-même l'ancre spirituelle | Perdue à jamais | Sceau purifié sans sacrifice de malades ; héros hors du temps |
-| **3. Sceller la Faille** | Ferme hermétiquement la brèche à 100% | Guérie | Fin définitive de toute magie sur Terre |
-| **4. S'Effacer** | Scelle son propre nom dans les Limbes | Oublié | Destruction de tout culte d'énergie ; humanité libre |
-| **5. Régner** | Refuse le Sceau et garde le culte pour lui | Sauvée par la tyrannie | Devient le Dieu Suprême adoré par le Continent |
+| **1. Le Cycle (Canonique)** | Scelle la faille et renvoie son carnet neuf vers -2000 | Sommeil éternel / Apaisée | La causalité est scellée, Noah reçoit le livre, l'humanité survit |
+| **2. Se Sceller** | Le héros devient lui-même l'ancre spirituelle vivante | Perdue à jamais | Sceau purifié sans sacrifice de malades ; le héros veille hors du temps |
+| **3. Sceller la Faille** | Ferme hermétiquement la brèche à 100% | Guérie au remède | Fin définitive de toute magie sur Terre, ère industrielle humaine |
+| **4. S'Effacer** | Scelle son propre nom dans les Limbes | Oublié | Destruction de tout culte d'énergie ; humanité totalement laïque |
+| **5. Régner** | Refuse le Sceau et s'établit avec ses fidèles ralliés | Sauvée par la puissance | Devient le Protecteur souverain incarné adoré par son sanctuaire |
