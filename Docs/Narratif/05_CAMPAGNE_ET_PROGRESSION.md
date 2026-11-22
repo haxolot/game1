@@ -203,13 +203,13 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
     * Elle lui permet de projeter son carnet de notes à travers la faille intemporelle des Limbes pour qu'il parvienne à Noah en -2000.
     * **Late Game (Le Sanctuaire Natal)** : Elle lui permet d'amasser des fidèles dans son propre sanctuaire secret sous sa ville natale, hors du Continent. Ces disciples l'invoquent pour être protégés, et le joueur peut directement interagir avec eux.
 
-* **Le Climax de l'Acte III : L'Offre de Kaelys, Le Monologue & Le Soulagement du Dieu** :
-  * 4 corps au total ont été abattus (Kaelys en Acte II, puis Gorath, Vaelen et Lyra). Il ne reste plus qu'**un seul et dernier corps à exécuter** (Malakor) avant de pouvoir s'attaquer au cœur du problème : **l'Organisation**.
-  * À la stèle, Kaelys tient parole et remet au héros le **remède complet** capable de guérir définitivement sa mère.
-  * **Le Conseil Pressant de Kaelys (L'Offre de Fuite)** :
-    > *« Prends ce remède et barre-toi. Rentre chez ta mère et missionne un tueur à gages pour la suite si tu veux, mais ne remets plus jamais les pieds ici. Tous les dieux te haïssent, l'Académie est à tes trousses.  
-    > Tu as fouillé leurs ruines, tu sais ce qui se prépare : l'Organisation cherche désespérément à **faire renaître le Septième** pour restaurer leur empire absolu, pendant que les insurgés dissidents veulent **faire sauter le Sceau** pour anéantir la magie et les dieux, quitte à raser la planète.  
-    > Ce n'est pas ton conflit. Ta mère t'attend, prends son salut et disparais. »*
+* **Le Climax de l'Acte III : Le 5ᵉ Corps Abattu, L'Offre de Kaelys & La Naissance du Guide** :
+  * Le héros vient d'abattre le cinquième et **dernier corps physique des Précurseurs** (Malakor). Les cinq relais biologiques millénaires sont désormais anéantis : le réseau théocratique du Continent est à genoux.
+  * À la stèle, Kaelys tient intégralement parole et remet au héros le **remède complet** capable de guérir définitivement sa mère.
+  * **L'Injonction Pressante de Kaelys (« T'as fini, maintenant sauve-toi »)** :
+    > *« Notre contrat est rempli, chien errant. Tu as fait ta part, voici ton remède. Maintenant, prends-le et **sauve-toi**. Barre-toi d'ici avant que tout ne s'effondre sur ta tête. Tous les dieux te haïssent, l'Académie te traque comme la peste.  
+    > Tu as fouillé leurs ruines, tu sais ce qui va éclater : privée de ses cinq relais, l'Organisation est prête à tout pour **faire renaître le Septième** et verrouiller son empire, pendant que les insurgés dissidents veulent **faire sauter le Sceau** pour anéantir la magie au prix d'un cataclysme planétaire.  
+    > Ce n'est plus ton problème. Tu as sauvé ta mère, sauve ta peau et ne remets plus jamais les pieds sur ce continent. »*
   * **Le Monologue Fondateur du Héros** :
     Le héros regarde la fiole de remède, puis la stèle, habité par le souvenir de tout son sang versé et de ceux qu'il a croisés sur sa route :
     > *« Je peux moi aussi être à votre niveau.  
@@ -222,8 +222,8 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
     Kaelys éclate d'un rire franc, sans fiel, où son regard laisse transparaître pour la première fois un profond respect.  
     Il hoche la tête, presque amusé par sa propre bêtise : pendant huit siècles dans les Limbes, les Cinq se sont disputés pour savoir qui était le Sixième, cherchant un fantôme ou un dieu disparu... et le voir enfin devant lui, sous les traits de ce mortel déterminé, lui procure un immense soulagement intellectuel.
   * **La Décision : Devenir Plus Fort & Trouver Son Sanctuaire** :
-    * Il reste un dernier corps à abattre, mais pour anéantir l'Organisation retranchée au Sceau Primordial, le héros sait qu'il n'est pas encore de taille.
-    * Pour affronter l'empire de l'Académie et le complot du Septième, il doit devenir plus fort : il doit traverser la mer et **trouver son sanctuaire** (la cache oubliée sous sa ville natale, laissée par Noah) pour y assimiler le savoir antique, avant de revenir porter le coup fatal.
+    * Les cinq corps sont morts, mais pour faire face à la puissance armée de l'Organisation retranchée au Sceau Primordial et empêcher la fausse renaissance du Septième, le héros sait qu'il n'est pas encore de taille.
+    * Il doit être plus fort : il doit traverser la mer vers sa terre natale, sauver sa mère avec le remède, et **trouver son propre sanctuaire** (la crypte de Noah sous sa ville) pour y assimiler le savoir antique avant de mener l'assaut final contre l'Organisation.
 
 ---
 
