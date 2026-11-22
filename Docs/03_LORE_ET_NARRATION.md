@@ -82,6 +82,9 @@ Pour stabiliser le continent :
   └── Confrontation Décisive : Duel au Sabre en ONE TRY contre le Rival (Voie ROMPRE)
 ```
 
+> [!NOTE] Trame Principale & Trames Secondaires
+> Le déroulé ci-dessous synthétise la **trame principale**. En jeu, les contrats de mercenaire, les boss régionaux et les rencontres avec les factions (dissidents anti-magie, transfuges, contrebandiers) permettent au héros de découvrir concrètement l'Organisation et son complot. Ces trames secondaires seront détaillées ultérieurement.
+
 ### A. Prologue & Acte I : L'Académie des Cinq Voies, Le Crime de Guerre & L'Infiltration
 * **Prologue (Tuto 100% Escrime Solo)** : Le héros débarque clandestinement sur le Continent avec un sabre ordinaire et son carnet vierge dédié à sa mère. Premiers combats au sabre contre brigands et bêtes sauvages (apprentissage des déviations et postures). Il rejoint **la Grande Académie des Cinq Voies**, l'institution suprême unifiée qui rassemble les cinq branches martiales sous le même toit.
 * **Acte I (L'Académie & Le Crime de Guerre)** :

@@ -36,6 +36,9 @@
 
 ## 2. Déroulé Détaillé par Acte
 
+> [!NOTE] Trame Principale & Trames Secondaires
+> Ce document retrace **la trame principale (le chemin critique)**. En jeu, le monde est jalonné de contrats de mercenaire, de boss régionaux, de factions locales (dissidents anti-magie, transfuges, contrebandiers) et de rencontres annexes. C'est à travers ces missions secondaires que le joueur découvre concrètement l'existence de l'Organisation et son complot pour le Septième. Ces trames secondaires et quêtes régionales seront définies en détail plus tard.
+
 ### Prologue : L'Arrivée Clandestine & Les Premiers Pas au Sabre
 * **Le Convoi de Fortune** : Fuyant l'indifférence économique des Terres Extérieures pour tenter de sauver sa mère mourante, le héros traverse l'océan sur une barque de contrebande. Il ne possède qu'un sabre ordinaire et son carnet de notes vierge dédié à sa mère.
 * **Tutoriel Organique (100% Escrime Solo)** :
