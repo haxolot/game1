@@ -1,6 +1,6 @@
 # 06 - Fins Multiples & Relation avec Kaelys (Digne Rival vs Ennemi)
 
-> **Thématique** : Le système de scoring de relation avec Kaelys, la Loi d'Airain du Sceau, la scène muette au chevet en Acte IV, et la matrice complète des fins du jeu.
+> **Thématique** : Le système de scoring de relation avec Kaelys, la Loi d'Airain du Sceau, la scène muette au chevet en Acte IV, et la matrice complète des 5 fins narratives.
 
 ---
 
@@ -148,23 +148,52 @@ Aucun mot n'est échangé. Leurs regards se croisent dans un silence absolu : la
 ---
 
 ### Fin 1 : Le Devoir du Guide (Fin Canonique — Le Cycle Parfait)
-* **Loi du Sacrifice** : **LA MÈRE MEURT** | **LE HÉROS SURVIT**.
+* **Loi du Sacrifice** : **LA MÈRE MEURT** | **LE HÉROS SURVIT (MORTEL ORDINAIRE)**.
+* **Condition de Déblocage en Jeu** : Le héros a **détruit les écoles et brisé les autels sans écrire son nom** dans les 5 sanctuaires provinciaux (Acte III).
 * **Action du Joueur** : Le héros transfère son Sceau suprême sur la Faille pour sauver l'humanité et projette son carnet neuf annoté vers Noah en -2000 avec *GUIDER*.
 * **Sort de la Mère** : En transférant son Sceau sur la Faille, l'ancrage sur sa mère s'éteint. Délivrée de la douleur, elle s'éteint paisiblement dans son lit, fière de son fils.
-* **Sort du Héros** : **Il survit dans le monde réel comme simple mortel.** Il dépose son sabre, porte le deuil de sa mère, et consacre sa vie d'adulte à rebâtir la civilisation aux côtés du Pote de l'Académie.
+* **Sort du Héros** : **Il survit dans le monde réel comme simple mortel.** Il refuse le trône, dépose son sabre, porte le deuil de sa mère, et rebâtit la civilisation libre aux côtés du Pote de l'Académie.
 * **La Nouvelle Ère de la Magie (Sans Condensateurs)** :
-  * Les cinq corps maudits sont détruits et les dieux dissous. **Plus personne ne récite d'incantations serviles** (*« Par la grâce de Kaelys... »*). Les autels sont brûlés.
+  * Les cinq corps maudits sont détruits et les dieux dissous. **Plus personne ne récite d'incantations serviles**. Les autels sont brûlés.
   * La magie devient une discipline d'escrime laïque : les sorciers puisent désormais **directement dans les fuites résiduelles du Sceau** à travers les lignes telluriques du continent.
 * **La Tragédie du Cycle : Répéter les Mêmes Erreurs** :
-  * Mais puiser directement dans le Sceau sans condensateurs biologiques réintroduit la brutalité primitive : le flux brut brûle les méridiens et fait cracher du sang aux pratiquants imprudents.
-  * Au fil des siècles, le souvenir du Guide s'effacera en légende. Des hommes ambitieux chercheront à nouveau des raccourcis pour "stabiliser" le flux : ils sacrifieront de nouveaux captifs, bâtiront de nouvelles cryptes, élèveront de nouveaux faux dieux et réenclencheront la même tyrannie théocratique.
-  * **C'est le sens ultime du « Cycle Parfait »** : le héros a bouclé la causalité temporelle et offert une ère de paix aux siens, mais la nature humaine est condamnée à rejouer sa propre déchéance, encore et encore.
+  * Sans corps filtres dans les cryptes pour diluer l'énergie, ce flux direct est sauvage : il brûle les méridiens et use les corps.
+  * Au fil des siècles, le souvenir du Guide s'effacera en légende. Des hommes ambitieux chercheront à nouveau des raccourcis pour "stabiliser" ce flux douloureux : **ils sacrifieront de nouveaux captifs, creuseront de nouvelles cryptes, élèveront de nouveaux faux dieux, et recréeront la même tyrannie théocratique.**
+  * C'est le sens ultime du « Cycle Parfait » : le héros a sauvé le monde, mais la nature humaine est condamnée à répéter ses erreurs dans 1000 ans.
 * **Variante Digne Rival** : Kaelys regarde le carnet franchir la faille et sourit avec admiration et mélancolie : *« Un paradoxe d'escrimeur... Tu as réussi l'impossible. Mais tu sais aussi bien que moi ce que les hommes feront de cette liberté. Dors en paix, mon meilleur élève. »*
 * **Variante Ennemi Détesté** : Kaelys hurle dans le néant en voyant le livre disparaître : *« Une boucle pourrie pour un monde de mendiants ! Tu n'as fait que préparer le trône des prochains bouchers ! »*
 
 ---
 
-### Fin 2 : L'Âme Sentinelle (Le Sacrifice du Guide — Enfermé dans les Limbes)
+### Fin 2 : Le Roi du Sceau (L'Ascension Royale — Les Dieux Vassaux)
+* **Loi du Sacrifice** : **LA MÈRE MEURT** | **LE HÉROS SURVIT (ROI SUPRÊME INCARNÉ)**.
+* **Condition de Déblocage en Jeu** : Le héros a **gravé son nom dans le sang sur les autels des 5 sanctuaires** en Acte III.
+* **Action du Joueur** : À l'Épicentre, le héros scelle la Faille, mais refuse de renoncer au pouvoir. Il s'assoit sur le trône du Continent, s'entoure de ses milliers de fidèles ralliés et **asservit les esprits des 5 Dieux battus comme ses vassaux métaphysiques** :
+  * Kaelys, Gorath, Vaelen, Lyra et Malakor sont enchaînés dans les Limbes, contraints d'obéir aux décrets de son sabre pour stabiliser les provinces sous son autorité.
+  * Son pote loyal de l'Académie devient son Grand Général.
+* **Sort de la Mère** : **Elle meurt.** En consacrant son Sceau unique à la domination absolue du Continent et au contrôle des dieux, son ancrage vital sur sa mère s'éteint. Elle s'éteint seule dans sa chambre outre-mer au moment exact où son fils est couronné.
+* **Sort du Héros** : **Le Roi Solitaire.** Il règne sur les hommes et commande aux dieux. Mais chaque soir dans son palais, il contemple le sabre avec lequel il a conquis le monde sans pouvoir sauver la seule femme qui comptait pour lui.
+* **Variante Digne Rival** : Kaelys, lié par le serment de vassal, s'incline devant le trône avec un respect sombre et cynique :  
+  > *« Tu as laissé mourir la seule femme pour qui tu t'es battu, juste pour t'asseoir sur un trône de fer... Tu es devenu pire et plus grand que nous tous. Un vrai roi. Commande, Sire. »*
+* **Variante Ennemi Détesté** : Kaelys grince des dents sous ses chaînes spirituelles :  
+  > *« Tyran sans cœur ! Tu as sacrifié le sang de ta mère pour une couronne d'orgueil ! Tu es le pire des monstres ! »*
+
+---
+
+### Fin 3 : L'Étoile du Sceau (L'Ère Humaine — Le Monument Céleste)
+* **Loi du Sacrifice** : **LA MÈRE MEURT** | **LE HÉROS SURVIT (INFIRME)**.
+* **Action du Joueur (Créer une Étoile)** :
+  * Le héros envoie son carnet vers -2000 (validant le passé de Noah).
+  * Pour purger définitivement la Terre sans laisser l'éther corrompre d'autres hommes, il combine la 5ᵉ Voie (*Projeter*) et la 7ᵉ (*Sceller*) : **il aspire l'intégralité de l'éther résiduel du monde, le condense et l'expulse au-delà de l'atmosphère, scellant cette énergie colossale dans une nouvelle étoile silencieuse qui s'allume au firmament.**
+* **Sort de la Mère** : **Elle meurt.** La gangrène d'éther ayant fusionné avec ses organes vitaux, l'expulsion de toute la magie vers le ciel éteint aussi le souffle qui la maintenait. Elle s'éteint dans les bras du héros au moment précis où l'astre s'illumine dans la nuit.
+* **Sort du Héros** : **Il survit, infirme et brisé.** Dépourvu de tout flux arcanique, son sabre inerte et fendu, il redevient un homme ordinaire qui vieillit en paix, veillant sur la tombe de sa mère sous la lueur protectrice de cette étoile.
+* **Le Monde & La Magie** : **Scellée dans le ciel, hors d'atteinte.** Plus aucune magie n'existe sur Terre. L'humanité entre dans une ère laïque et rude sans monstres ni miracles, veillée chaque nuit par ce monument céleste que personne ne pourra plus jamais piller.
+* **Variante Digne Rival** : Kaelys contemple la nouvelle étoile scintiller dans le ciel nocturne : *« Accrocher nos arts et notre sang au firmament pour que les hommes marchent en paix... Tu as fait de notre tombeau la plus belle des étoiles. Chapeau, l'artiste. »*
+* **Variante Ennemi Détesté** : Kaelys maudit le héros avec rage : *« Tu as jeté notre gloire aux étoiles pour des vers de terre ! Regarde-les ramper dans la poussière sous ta pauvre lumière ! »*
+
+---
+
+### Fin 4 : L'Âme Sentinelle (Le Sacrifice du Guide — Enfermé dans les Limbes)
 * **Loi du Sacrifice** : **LA MÈRE SURVIT** | **LE HÉROS EST ENFERMÉ DANS LES LIMBES**.
 * **Action du Joueur** : Le héros refuse de laisser mourir sa mère. Pour ne pas briser la barrière du monde, **il utilise le Sceau sur sa propre âme et franchit la Faille pour s'y emprisonner éternellement**.
 * **Sort de la Mère** : **Elle survit.** Devenu la barrière vivante et consciente dans les Limbes, le héros maintient depuis l'au-delà une veille protectrice sur elle jusqu'à la fin de ses jours.
@@ -175,36 +204,12 @@ Aucun mot n'est échangé. Leurs regards se croisent dans un silence absolu : la
 
 ---
 
-### Fin 3 : L'Étoile du Sceau (L'Ère Humaine — Le Monument Céleste)
-* **Loi du Sacrifice** : **LA MÈRE MEURT** | **LE HÉROS SURVIT (INFIRME)**.
-* **Action du Joueur (Créer une Étoile)** :
-  * Le héros envoie son carnet vers -2000 (validant le passé).
-  * Pour purger définitivement la Terre sans laisser l'éther corrompre d'autres hommes, le héros utilise la 5ᵉ Voie (*Projeter*) combinée à la 7ᵉ (*Sceller*) : il canalise l'intégralité de l'éther résiduel du monde, le condense et **l'expulse au-delà de l'atmosphère, scellant cette énergie dans une nouvelle étoile silencieuse qui s'allume au firmament**.
-* **Sort de la Mère** : **Elle meurt.** La gangrène d'éther ayant fusionné avec ses organes vitaux, l'expulsion de toute la magie vers le ciel éteint aussi le souffle qui la maintenait. Elle s'éteint dans les bras du héros au moment précis où l'astre s'illumine dans la nuit.
-* **Sort du Héros** : **Il survit, infirme et brisé.** Dépourvu de tout flux arcanique, son sabre inerte et fendu, il redevient un homme ordinaire qui vieillit en paix, veillant sur la tombe de sa mère sous la lueur protectrice de cette étoile.
-* **Le Monde & La Magie** : **Scellée dans le ciel, hors d'atteinte.** Plus aucune magie n'existe sur Terre. L'humanité entre dans une ère laïque et rude sans monstres ni miracles, veillée chaque nuit par ce monument céleste que personne ne pourra plus jamais piller.
-* **Variante Digne Rival** : Kaelys contemple la nouvelle étoile scintiller dans le ciel nocturne : *« Accrocher nos arts et notre sang au firmament pour que les hommes marchent en paix... Tu as fait de notre tombeau la plus belle des étoiles. Chapeau, l'artiste. »*
-* **Variante Ennemi Détesté** : Kaelys maudit le héros avec rage : *« Tu as jeté notre gloire aux étoiles pour des vers de terre ! Regarde-les ramper dans la poussière sous ta pauvre lumière ! »*
-
----
-
-### Fin 4 : L'Effacement (Le Silence des Limbes — Le Néant Rédempteur)
-* **Loi du Sacrifice** : **LA MÈRE SURVIT (AMNÉSIQUE)** | **LE HÉROS EST EFFACÉ DU MONDE**.
-* **Action du Joueur** : Dégoûté par la corruption des hommes et la folie des dieux, le héros retourne *SCELLER* contre la trame mémorielle de l'univers : il scelle les Voies, les Dieux, et efface son propre nom et son existence des Limbes.
-* **Sort de la Mère** : **Elle survit en paix, mais a totalement oublié son fils.** Elle contemple la mer avec le sentiment apaisé que quelqu'un l'aimait, sans pouvoir mettre un visage ou un nom sur son sauveur.
-* **Sort du Héros** : **Dissous dans le néant.** Son corps, ses actes et son identité sont rayés de l'histoire humaine et du temps.
-* **Le Monde & La Magie** : Amnésie collective totale. L'éther redevient une matière inerte, les ruines deviennent des pierres muettes sans culte. L'humanité recommence à zéro.
-* **Variante Digne Rival** : Kaelys ferme les yeux paisiblement : *« Oublier même nos noms... C'est la plus propre de toutes les esquives. Adieu, mon seul égal. »*
-* **Variante Ennemi Détesté** : Kaelys disparaît en hurlant à l'injustice : *« Tu effaces mon nom ?! Tu n'étais personne et tu nous condamnes au silence ?! Chien... chien maudit... »*
-
----
-
 ## 6. Synthèse Matricielle Complète des Fins
 
-| Fin | Loi d'Airain (Mère vs Héros) | Sort du Héros | Sort de la Mère | Sort du Continent | Sort de la Magie | Pérennité de la Boucle (Passé vs Futur) | Posture Finale de Kaelys |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **0. Le Silence du Fils** *(Précoce au Chevet)* | **Refus du Sacrifice**<br>(Les deux survivent) | **Vivant mais cloîtré.** Reste un ouvrier hanté par la culpabilité. | **Sauvée et protégée** sous le Sceau intact. | **Dévasté à 100%.** Les cyclones d'éther massacrent la population et les disciples. | **Chaos primitif incontrôlable** sur tout le Continent. | **Condamne le Passé et le Futur.** Le carnet n'est pas envoyé ; effondrement total de la ligne temporelle. | **Non affronté.** Kaelys se libère dans le cataclysme en méprisant les mortels. |
-| **1. Le Cycle Parfait** *(Canonique)* | **MÈRE MEURT**<br>**HÉROS SURVIT** | **Vivant parmi les hommes.** Dépose son sabre, porte le deuil et rebâtit avec le Pote. | **S'éteint paisiblement** dans son lit (Sceau transféré à la Faille). | **Pacifié et libéré** de la tyrannie de la Secte et des faux dieux. | **Active & directe (sans condensateurs).** Puisage direct au Sceau ; répétition inéluctable des mêmes erreurs dans 1000 ans. | **Passé et Futur préservés à 100%.** Boucle parfaite, causalité close et cycle humain éternel. | **Rival** : Fierté fraternelle (*« Dors en paix, mon meilleur élève »*)<br>**Ennemi** : Rage d'impuissance face au cycle. |
-| **2. L'Âme Sentinelle** *(Le Sacrifice du Guide)* | **MÈRE SURVIT**<br>**HÉROS ENFERMÉ** | **Mort physique.** Incarcéré à vie comme Sentinelle éternelle dans les Limbes. | **Sauvée à distance.** Protégée par le flux pur du héros depuis l'au-delà. | **Sanctuaire mondial purifié.** Fin définitive des sacrifices de sang et des mutations. | **Purifiée et stabilisée.** L'éther circule sans toxicité sous la garde du Guide. | **Passé et Futur préservés.** La sentinelle éternelle maintient l'ancrage hors du temps. | **Rival** : Fraternité éternelle dans les Limbes<br>**Ennemi** : Haine éternelle partagée dans le vide. |
-| **3. L'Étoile du Sceau** *(Ère Sans Magie)* | **MÈRE MEURT**<br>**HÉROS SURVIT** | **Vivant mais infirme.** Dépourvu de tout flux, redevient un homme brisé. | **Meurt dans ses bras.** L'éther s'éteignant vers le ciel, son souffle disparaît. | **Protégé des monstres**, mais subit l'hiver arcanique, la famine et le rude labeur. | **Scellée dans le ciel (Création d'une Étoile).** Toute la magie est expulsée au firmament. | **Passé préservé, Futur émancipé.** Noah a reçu le livre, mais l'humanité n'a plus de magie sur Terre. | **Rival** : Salut d'honneur (*« Notre tombeau est la plus belle des étoiles »*)<br>**Ennemi** : Malédiction amère. |
-| **4. L'Effacement** *(Le Néant Rédempteur)* | **MÈRE SURVIT**<br>**HÉROS EFFACÉ** | **Dissous dans le néant.** Son corps, ses actes et son identité sont rayés de l'histoire. | **Sauvée mais amnésique.** Vit en paix mais a tout oublié, jusqu'au nom de son fils. | **Réinitialisé.** Pierres et ruines redeviennent muettes, amnésie collective totale. | **Inerte et oubliée.** L'éther redevient passif, plus personne ne sait incanter. | **Passé et Futur purgés.** La boucle est gommée de l'histoire ; l'humanité repart de zéro. | **Rival** : Paix du guerrier (*« La plus propre des esquives »*)<br>**Ennemi** : Cris d'effroi d'être condamné au silence. |
+| Fin | Loi d'Airain (Mère vs Héros) | Condition Clé de Déblocage | Sort du Héros | Sort de la Mère | Sort du Continent | Sort de la Magie | Pérennité de la Boucle (Passé vs Futur) | Posture Finale de Kaelys |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **0. Le Silence du Fils** *(Précoce au Chevet)* | **Refus du Sacrifice**<br>(Les deux survivent) | Pose le Sceau au chevet (Acte IV) | **Vivant mais cloîtré.** Reste un ouvrier hanté par la culpabilité. | **Sauvée et protégée** sous le Sceau intact. | **Dévasté à 100%.** Les cyclones d'éther massacrent la population. | **Chaos primitif incontrôlable** sur tout le Continent. | **Condamne le Passé et le Futur.** Le carnet n'est pas envoyé ; effondrement de la ligne temporelle. | **Non affronté.** Kaelys se libère dans le cataclysme en méprisant les mortels. |
+| **1. Le Cycle Parfait** *(Canonique)* | **MÈRE MEURT**<br>**HÉROS SURVIT** | A détruit les écoles sans graver son nom (Acte III) | **Vivant parmi les hommes.** Dépose son sabre, refuse le trône, rebâtit avec le Pote. | **S'éteint paisiblement** dans son lit (Sceau transféré à la Faille). | **Pacifié et libéré** de la tyrannie de la Secte et des faux dieux. | **Active & directe (sans condensateurs).** Puisage direct au Sceau ; répétition des mêmes erreurs dans 1000 ans. | **Passé et Futur préservés à 100%.** Boucle parfaite, causalité close et cycle humain éternel. | **Rival** : Fierté fraternelle (*« Dors en paix, mon meilleur élève »*)<br>**Ennemi** : Rage d'impuissance face au cycle. |
+| **2. Le Roi du Sceau** *(Ascension Royale)* | **MÈRE MEURT**<br>**HÉROS SURVIT** | A gravé son nom dans le sang sur les 5 autels (Acte III) | **Vivant (Roi Suprême).** Règne sur Terre avec ses fidèles et son Pote général. | **Meurt seule outre-mer** au moment exact du couronnement. | **Unifié sous un Empire martial.** Les 5 provinces sont soumises à son trône. | **Contrôlée par les Dieux Vassaux.** Les 5 dieux obéissent aux décrets de son sabre. | **Passé et Futur préservés.** Ordre martial stable garanti par la force du Roi. | **Rival** : Salut cynique (*« Tu es devenu pire et plus grand que nous tous »*)<br>**Ennemi** : Haine envers le tyran. |
+| **3. L'Étoile du Sceau** *(Ère Sans Magie)* | **MÈRE MEURT**<br>**HÉROS SURVIT** | Choix à l'Épicentre : expulser l'éther au ciel | **Vivant mais infirme.** Dépourvu de tout flux, redevient un homme brisé. | **Meurt dans ses bras.** L'éther s'éteignant vers le ciel, son souffle disparaît. | **Protégé des monstres**, mais subit l'hiver arcanique et le rude labeur. | **Scellée dans le ciel (Création d'une Étoile).** Toute la magie est expulsée au firmament. | **Passé préservé, Futur émancipé.** Noah a reçu le livre, mais l'humanité n'a plus de magie sur Terre. | **Rival** : Salut d'honneur (*« Notre tombeau est la plus belle des étoiles »*)<br>**Ennemi** : Malédiction amère. |
+| **4. L'Âme Sentinelle** *(Sacrifice du Guide)* | **MÈRE SURVIT**<br>**HÉROS ENFERMÉ** | Choix à l'Épicentre : plonger dans les Limbes | **Mort physique.** Incarcéré à vie comme Sentinelle éternelle dans les Limbes. | **Sauvée à distance.** Protégée par le flux pur du héros depuis l'au-delà. | **Sanctuaire mondial purifié.** Fin définitive des sacrifices de sang et des mutations. | **Purifiée et stabilisée.** L'éther circule sans toxicité sous la garde du Guide. | **Passé et Futur préservés.** La sentinelle éternelle maintient l'ancrage hors du temps. | **Rival** : Fraternité éternelle dans les Limbes<br>**Ennemi** : Haine éternelle partagée dans le vide. |

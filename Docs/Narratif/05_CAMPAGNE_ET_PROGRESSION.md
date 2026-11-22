@@ -194,6 +194,16 @@ Pendant tout l'Acte III, le héros traque les 4 autres cryptes secrètes en **co
     * **Le Schisme** : Les fanatiques hurlent au blasphème et à l'abomination ; mais les artisans, mineurs et fidèles désespérés tombent à genoux devant ce dieu vivant.
     * **La Psychologie du Héros** : Tandis qu'il garde jalousement pour lui seul son lien secret avec Kaelys, **il savoure avec une fierté sombre cette armée d'âmes prêtes à se dévouer à lui** — une éclatante revanche sociale pour le paria banni.
 
+* **Le Choix Systémique des 5 Sanctuaires : Graver son Nom (Voie Royale) OU Détruire l'École (Voie Laïque)** :
+  À chaque sanctuaire provincial libéré, le joueur fait face à un choix géopolitique majeur qui déterminera la fin du jeu :
+  * **Option A : `[GRAVER SON NOM DANS LE SANG SUR L'AUTEL]` (Condition de la Fin Royale)** :
+    * Le héros se blesse et marque l'autel de son propre sang, réorientant le flux provincial vers sa personne et ordonnant aux fidèles de l'invoquer.
+    * S'il grave son nom sur **les 5 sanctuaires**, il unifie le continent entier sous son culte et débloque à l'Épicentre la **Fin 2 (Le Roi du Sceau)** : il monte sur le trône et asservit les 5 Dieux comme ses vassaux.
+  * **Option B : `[DÉTRUIRE L'ÉCOLE ET L'AUTEL SANS ÉCRIRE SON NOM]` (Condition du Cycle Parfait)** :
+    * Le héros refuse de remplacer un tyran par un autre. Il brise l'autel, détruit l'institution de l'Académie et refuse d'être adoré.
+    * Privés de dieux et de condensateurs, les sorciers sont forcés de **puiser directement dans les fuites du Sceau**.
+    * Cela débloque à l'Épicentre la **Fin 1 (Le Cycle Parfait)** : le héros refuse le trône, la magie devient laïque et directe, et la boucle temporelle est fermée.
+
 * **L'Enquête Archéologique dans les Ruines & La Psychologie des Cinq** :
   * Le héros ne bavarde pas systématiquement avec les autres dieux dans les Limbes.
   * À travers les sanctuaires, il fouille les archives oubliées, les ruines et les registres intimes relatant le voyage originel des Cinq vers le Sceau 800 ans plus tôt.
